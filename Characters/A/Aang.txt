@@ -12,4 +12,5 @@ Protagonist
 Male
 5|Katara,Sokka,Toph Beifong,Zuko,Suki
 Romantic Subplot,Katara|Frozen in Ice,Gaang,TV Shows
+Modified Human
 High

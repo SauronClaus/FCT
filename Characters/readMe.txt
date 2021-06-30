@@ -22,4 +22,5 @@ Alright so other important notes:
 - If adding someone, no commas, line breaks, or "|" in their names. 
 - Be fair when ranking someone- having a niche character nobody's ever heard of multiple days in a row is no fun for anyone.
 - Submit merge requests and I'll try to figure out how that works? We'll see. Never collabed with people over GitHub before. 
+- Big note: everything is seperated with "|", except for tags, which are seperated with ",". If the tag has an extra character attached, the tag name and character name is seperated with a "|".
 - That's it! Thanks so much for your help with this project!
