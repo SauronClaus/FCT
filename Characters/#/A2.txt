@@ -10,6 +10,6 @@ Robot
 Good
 Protagonist
 Female
-2|2B,9S
+1|2B
 Soldier,Reality Loop,Video Games
 Medium
