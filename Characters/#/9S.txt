@@ -12,4 +12,5 @@ Protagonist
 Male
 2|2B,A2
 Soldier,Reality Loop,Video Games
+Modified Human
 Medium

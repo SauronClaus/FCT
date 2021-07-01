@@ -1,0 +1,18 @@
+Super Smash Bros;Metal Gear,Fatal Fury,Luigi's Mansion,Metroid,Pikmin,Kid Icarus,Pac-Man,Mega Man,Animal Crossing,Xenoblade Chronicles,Ice Climbers,Game & Watch,Street Fighter,Bayonetta,Earthbound,Punch-Out!!,Final Fantasy VII,Castlevania,Sonic,Banjo & Kazooie,Mario,F-Zero,Donkey Kong,Star Fox,Kirby, The Legend of Zelda
+Fire Emblem;Fire Emblem,Fire Emblem:Three Houses
+Comics;Marvel Comics,DC Comics,Suicide Squad,MCU,Bone,Nimona,Maus
+Cartoons;Sofia the First,Avatar: The Last Airbender,She-Ra and the Princesses of Power,My Little Pony: Friendship is Magic,The Legend of Korra,The Backyardigans,Phineas & Ferb,Carmen Sandeigo,The Peanuts Movie,Carebears
+Video Games;Terraria,Overcooked,Halo,Don't Starve,Devil May Cry,At Dead of Night,Ghost of Tsushima,Oblivion,Green Hell Game,The Henry Stickmin Collection,Hollow Knight,Dead Space,Arms,Hades,Stardew Valley,Horizon Zero Dawn,Borderlands,League of Legends,Metro franchise,Until Dawn,Mass Effect,God of War,Overwatch,Kerbal Space Program,Paper Mario,Valorant,The Witcher,Detroit Become Human,Dishonored,Dark Souls,Assassins Creed,Doom Franchise,Mortal Kombat,GTA V,The Last of Us,Persona,Alan Wake
+Valve;Half-Life,Team Fortress 2
+Classic Literature;Journey to the West,Dracula,A Clockwork Orange,Lord of the Rings,To Kill a Mockingbird,Hatchet,Moby Dick,Twenty Thousand Leagues Under the Seas,Frankenstein,Odyssey,Nineteen Eighty-Four
+TV Shows;Person of Interest,Monk,Minority Report,Eureka,Game of Thrones,Twin Peaks,Stargate,Red vs Blue,Stranger Things
+Star Wars;Star Wars,Fallen Order,The Mandalorian
+Modern Books;The Road,Ready Player One,39 Clues,Eragon,Ender's Game,Kindred,The Hunger Games,Mistborn
+Rick Riordan;Magnus Chase,Kane Chronicles,Percy Jackson
+D&D;Band of Fools,Band of Fools Reboot,Curse of Strahd,The Balance,Unbroken
+Classic Movies;Da Vinci Code,The Matrix,Predator,Tron,A Nightmare on Elm Street,Saving Private Ryan,Rambo,Jurassic Park,Alien,Mission Impossible,Indiana Jones,Avatar,James Bond,Blade Runner
+Webcomics;Fans!,Shortpacked,Omniscient Reader's Viewpoint,It's Walky
+Disney;Frozen,Atlantis: The Lost Empire,Raya and the Last Dragon,Lilo and Stitch,The Incredibles,Moana
+Anime/Manga;Pokemon,RWBY,One Piece,JoJo's Bizarre Adventure
+Star Trek;Star Trek
+Harry Potter;Harry Potter,Fantastic Beasts and Where to Find Them

@@ -12,4 +12,5 @@ Protagonist
 Female
 1|2B
 Soldier,Reality Loop,Video Games
+Modified Human
 Medium

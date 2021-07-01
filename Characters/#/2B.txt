@@ -10,6 +10,7 @@ Android
 Good
 Protagonist
 Female
-2|9S,A2,Pascal
+3|9S,A2,Pascal
 Soldier,Reality Loop,Video Games
+Modified Human
 Medium

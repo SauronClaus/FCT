@@ -11,6 +11,6 @@ Good
 Supporting Protagonist
 Male
 3|Wade Owen Watts,Helen Harris,Samantha Cook
-VR,Japenese,Books,Movies
+Books,Movies,VR (Augumented Reality),Japanese
 Baseline
 Low

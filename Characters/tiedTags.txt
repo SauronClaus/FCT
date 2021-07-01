@@ -1,6 +1,6 @@
-Media;Video Games,Books,Movies,TV Shows,Comic Books,Superhero Comics,VR,CGI,D&D,Webcomics,Webtoon,Musical,Anime,Cartoon,Graphic Novels,Manga
+Media;Video Games,Books,Movies,TV Shows,Comic Books,Superhero Comics,CGI,D&D,Webcomics,Webtoon,Musical,Anime,Cartoon,Graphic Novels,Manga
 Avatar;Bender,Gaang,Team Avatar (Korra),Earth Bender
-Marvel;Guardians of the Galaxy,Symbiote,Avengers,Dhampir,Hulk,Champions (Team),Ultimates (Team),Young Avengers,X-Men,X-Men First Class,Young X-Men,Alpha Flight,Hydra,Fantastic Four,Future Foundation,Exiles (Team),Captain America,Super-Soldier Serum,New Mutants,Mutants,Captain Britain
+Marvel;Guardians of the Galaxy,Symbiote,Avengers,Dhampir,Hulk,Champions (Team),Ultimates (Team),Young Avengers,X-Men,X-Men First Class,Young X-Men,Alpha Flight,Hydra,Fantastic Four,Future Foundation,Exiles (Team),Captain America,Super-Soldier Serum,New Mutants,Mutants,Captain Britain,USAvengers
 Star Wars;Jedi Knight
 Classes;Archer,Wizard,Swordsman,Rogue,Barbarian,Ranger,Witch,Knight,Artificer,Sorcerer,Magic User
 Race;Elf,Half-Elf,Hobbit,Dwarf,Gnome

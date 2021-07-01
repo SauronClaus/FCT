@@ -11,6 +11,6 @@ Good
 Supporting Protagonist
 Male
 2|Captain Marvel,Mary Marvel
-Shazam Family,Movies,Superhero Comics
+Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Transforming
 Country
 Low
