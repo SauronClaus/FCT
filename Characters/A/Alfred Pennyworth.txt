@@ -11,6 +11,6 @@ Good
 Supporting Protagonist
 Male
 5|Batman,Dick Grayson,Jason Todd,Tim Drake,Damian Wayne
-Green Beret,Special Forces,Servant,Bat Family,Superhero Comics
+Green Beret,Special Forces,Servant,Bat-Family,Superhero Comics
 Baseline
 High

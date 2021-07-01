@@ -11,6 +11,6 @@ Good
 Protagonist
 Male
 2|Captain Marvel Jr., Mary Marvel
-Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Paragon
+Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Paragon,Transforming
 World
 High

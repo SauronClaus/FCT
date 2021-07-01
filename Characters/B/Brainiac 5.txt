@@ -11,6 +11,6 @@ Good
 Protagonist
 Male
 5|Kara Zor-El,Lightning Lad,Cosmic Boy,Saturn Girl,Superman
-Genius,Superhero Comics,Tech,Future Tech,Legion of Superheroes,Green Team
+Genius,Superhero Comics,Tech,Future Tech,Legion of Superheroes,Green
 Modified Human
 Low

@@ -11,6 +11,6 @@ Good
 Protagonist
 Male
 1|Spider-Man
-Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Superhero Comics
+Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Superhero Comics,Reformed Villain
 City
 Low

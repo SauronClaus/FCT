@@ -11,6 +11,6 @@ Neutral
 Protagonist
 Male
 
-Assassin,Video Game,Edgy
+Assassin,Video Games,Edgy
 City
 Low

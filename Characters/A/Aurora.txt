@@ -11,6 +11,6 @@ Good
 Protagonist
 Female
 1|Northstar
-Twins|Northstar,Superhero,Split Personality,Speedster,Superhero Comics,Alpha Flight,X-Men
+Twins|Northstar,Superhero,Split Personality,Speedsters,Superhero Comics,Alpha Flight,X-Men
 City
 Low

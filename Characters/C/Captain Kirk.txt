@@ -11,6 +11,6 @@ Good
 Protagonist
 Male
 2|Spock,Leonard McCoy
-Astral Captain,Space,Explorer,Captain,Star Trek,Star Trek: The Original Series,Star Trek Captains
+Astral Captain,Space,Explorer,Captain,Star Trek: The Original Series,Star Trek Captains
 Baseline
 High

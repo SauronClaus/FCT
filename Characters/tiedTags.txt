@@ -1,0 +1,23 @@
+Media;Video Games,Books,Movies,TV Shows,Comic Books,Superhero Comics,VR,CGI,D&D,Webcomics,Webtoon,Musical,Anime,Cartoon,Graphic Novels,Manga
+Avatar;Bender,Gaang,Team Avatar (Korra),Earth Bender
+Marvel;Guardians of the Galaxy,Symbiote,Avengers,Dhampir,Hulk,Champions (Team),Ultimates (Team),Young Avengers,X-Men,X-Men First Class,Young X-Men,Alpha Flight,Hydra,Fantastic Four,Future Foundation,Exiles (Team),Captain America,Super-Soldier Serum,New Mutants,Mutants,Captain Britain
+Star Wars;Jedi Knight
+Classes;Archer,Wizard,Swordsman,Rogue,Barbarian,Ranger,Witch,Knight,Artificer,Sorcerer,Magic User
+Race;Elf,Half-Elf,Hobbit,Dwarf,Gnome
+DC Comics;Green Lantern,Justice Society of America,Earth-3,Bat-Family,Suicide Squad,Young Justice,Justice League Dark,Birds of Prey,Justice League,Teen Titans,Outsiders,Trinity,Justice League International,Legion of Superheroes,Shazam Family
+Harry Potter;Order of the Pheonix I,Order of the Pheonix II
+Rick Riordan;Demigod
+Mythology Tied;Norse,Einharjar
+Fire Emblem Three Houses;Knights of Seiros,Blue Lions (Fire Emblem),Black Eagles (Fire Emblem),Relic
+Borderlands;Vault Hunter
+Walkyverse;Shortpacked! Store
+Muppets;Electric Mayhem
+Persona;Phantom Thieves of Hearts
+LOTR;Fellowship of the Ring,Ring-Bearer,Thorin and Company
+Nobility;Nobility,King,Royalty,Queen
+Band of Fools;Band of Fools Redux,Original Three (Band of Fools),Band of Fools
+Deity;Goddess,God
+Pokemon;Pokemon,Kanto,Gym Leader,Champion,Pokemon Trainer
+One Piece;Straw Hat Pirates,Devil Fruit
+Star Trek;Star Trek: The Original Series,Star Trek Captains
+Muppets;Muppet,Sesame Street
