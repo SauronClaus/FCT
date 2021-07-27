@@ -1,5 +1,7 @@
 Bilbo Baggins
 Lord of the Rings
+
+
 Bilbo
 Baggins
 Bilbo Baggins
@@ -10,7 +12,6 @@ Hobbit
 Good
 Protagonist
 Male
-2|Gandalf,Frodo Baggins
 Ring-Bearer,Hobbit,Reluctant Hero,Books,Movies,Thorin and Company
 Baseline
 High

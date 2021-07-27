@@ -1,5 +1,7 @@
 Alex DeLarge
 A Clockwork Orange
+
+
 Alex
 DeLarge
 Alex DeLarge
@@ -10,7 +12,6 @@ Human
 Evil
 Protagonist
 Male
-
 Problem Child,Sociopath,Movies
 Baseline
 Low

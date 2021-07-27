@@ -1,5 +1,7 @@
 Black Lightning
 DC Comics
+
+
 Jefferson
 Pierce
 Black Lightning|Jefferson Pierce
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-
 Superhero Comics,TV Shows,African American,Lightning Manipulation,Outsiders,Justice League
 Modified Human
 Medium

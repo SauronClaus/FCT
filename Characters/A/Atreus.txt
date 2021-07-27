@@ -1,5 +1,7 @@
 Atreus
 God of War
+
+
 Atreus
 
 Atreus|Loki|Boy
@@ -10,7 +12,6 @@ Demigod
 Good
 Supporting Protagonist
 Male
-1|Kratos
 Demigod,Norse,Archer,Video Games
 Modified Human
 High

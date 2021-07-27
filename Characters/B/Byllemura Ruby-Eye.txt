@@ -1,5 +1,7 @@
 Byllemura Ruby-Eye
 Band of Fools
+
+
 Byllemura
 Ruby-Eye
 Byllemura Ruby-Eye
@@ -10,7 +12,6 @@ Gnome
 Good
 Protagonist
 Male
-Glynnric Manassnass,Kalathos Sunstrider,Kareem Par-Al,Arthail Consumer of Food,Ruby Rider,Akkar,Nahara
 D&D,Band of Fools,Band of Fools Redux,Artificer,Gnome
 Modified Human
 Low

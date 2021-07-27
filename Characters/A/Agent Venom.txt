@@ -1,5 +1,7 @@
 Agent Venom
 Marvel Comics
+
+
 Eugene
 Thompson
 Flash Thompson|Agent Venom
@@ -10,7 +12,6 @@ Human,Klyntar
 Good
 Protagonist
 Male
-1|Spider-Man
 Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Superhero Comics,Reformed Villain
 City
 Low

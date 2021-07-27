@@ -1,9 +1,16 @@
+# Alright, so basically this file allows you to check the franchises associated with a person.
+# So it prints out, and prints into franchisesAll.txt, a list of every franchise with the associated 
+# number of people under the number of valid people. 
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-franchisesFull = {}
-franchisesAllNoFill = {}
-completedCharacters = []
+oldCompletedCharacters = {}
+newCompletedCharacters = {}
+allCharacters = {}
+completedCharactersOld = []
+completedCharactersNew = []
 import os
 
+print("Start!")
 # List all files in a directory using os.listdir
 for letter in alphabet:
     basepath = 'Characters/' + letter
@@ -11,53 +18,70 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read()
-            if len(characterInfo.split("\n")) > 3:
+            #print(characterInfo.split("\n")[0])
+            if len(characterInfo.split("\n")) == 17:
                 #print(entry[0:len(entry)-4:])
                 franchise = characterInfo.split("\n")[1]
-                #print(characterTags)
+                #print(franchise)
                 characterName = entry[0:len(entry)-4:]
-                completedCharacters.append(characterName)
+                completedCharactersOld.append(characterName)
                 print(characterName)
                 try:
-                    franchisesFull[franchise].append(entry[0:len(entry)-4:])
+                    oldCompletedCharacters[franchise].append(entry[0:len(entry)-4:])
                 except:
-                    franchisesFull[franchise] = []
-                    franchisesFull[franchise].append(entry[0:len(entry)-4:])
+                    oldCompletedCharacters[franchise] = []
+                    oldCompletedCharacters[franchise].append(entry[0:len(entry)-4:])
             #print(entry[0:len(entry)-4:])
+            if len(characterInfo.split("\n")) == 22:
+                #print(entry[0:len(entry)-4:])
+                franchise = characterInfo.split("\n")[1]
+                #print(franchise)
+                characterName = entry[0:len(entry)-4:]
+                completedCharactersNew.append(characterName)
+                print(characterName)
+                try:
+                    newCompletedCharacters[franchise].append(entry[0:len(entry)-4:])
+                except:
+                    newCompletedCharacters[franchise] = []
+                    newCompletedCharacters[franchise].append(entry[0:len(entry)-4:])
             try:
                 franchise = characterInfo.split("\n")[1]
             except:
                 print(characterInfo.split("\n")[0])
-            #print(characterTags)
+                #print(franchise)
             try:
-                franchisesAllNoFill[franchise].append(entry[0:len(entry)-4:])
+                allCharacters[franchise].append(entry[0:len(entry)-4:])
             except:
-                franchisesAllNoFill[franchise] = []
-                franchisesAllNoFill[franchise].append(entry[0:len(entry)-4:])
+                allCharacters[franchise] = []
+                allCharacters[franchise].append(entry[0:len(entry)-4:])
 
 
-for franchise in franchisesAllNoFill:
+for franchise in allCharacters:
     filledOut = 0
     try:
-        bob = str(len(franchisesFull[franchise]))
+        bob = str(len(oldCompletedCharacters[franchise]))
     except: 
-        franchisesFull[franchise] = []
-    franchiseInfo = franchise + " (" + str(len(franchisesFull[franchise])) + "/" + str(len(franchisesAllNoFill[franchise])) + ")"
+        oldCompletedCharacters[franchise] = []
+    try:
+        joe = str(len(newCompletedCharacters[franchise]))
+    except: 
+        newCompletedCharacters[franchise] = []
+    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + ")"
     print(franchiseInfo)
 writeFile1 = open("Characters\\franchises.txt", "w", encoding="utf8")
 writeFile2 = open("Characters\\franchisesAll.txt", "w", encoding="utf8")
 
 allFranchises = {}
-for franchise in franchisesAllNoFill.keys():
-    allFranchises[franchise] = franchisesAllNoFill[franchise]
+for franchise in allCharacters.keys():
+    allFranchises[franchise] = allCharacters[franchise]
 
 franchiseAllCollections = []
 
-for franchise in franchisesFull:
-    franchiseInfo = franchise + " (" + str(len(franchisesFull[franchise])) + ")"
+for franchise in oldCompletedCharacters:
+    franchiseInfo = franchise + " (" + str(len(oldCompletedCharacters[franchise])) + ")"
     writeFile1.write(franchiseInfo + "\n")
-for franchise in franchisesAllNoFill:
-    franchiseInfo = franchise + " (" + str(len(franchisesFull[franchise])) + "/" + str(len(franchisesAllNoFill[franchise])) + ")"
+for franchise in allCharacters:
+    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + ")"
     writeFile2.write(franchiseInfo + "\n")
 
 writeFile1.close()
@@ -75,8 +99,11 @@ while exitTest != "End":
         if exitTest != "End":
             people = str(exitTest) + ": "
             for person in allFranchises[exitTest]:
-                if person in completedCharacters:
+                if person in completedCharactersNew:
                     people = people + person + ", "
                 else:
-                    people = people + person + "(!), "
+                    if person in completedCharactersOld:
+                        people = people + person + "(*), "
+                    else:
+                        people = people + person + "(!), "
             print(people[0:len(people)-2:])

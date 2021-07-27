@@ -1,5 +1,7 @@
 Banshee
 Marvel Comics
+
+
 Sean
 Cassidy
 Banshee|Sean Cassidy
@@ -10,7 +12,6 @@ Mutant
 Good
 Protagonist
 Male
-7|Nightcrawler,Storm,Colossus,Cyclops,Warpath,Sunfire,Wolverine
 X-Men,Superhero Comics,Supersonic,Flight
 Baseline
 Low

@@ -1,5 +1,7 @@
 Black Canary
 DC Comics
+
+
 Dinah
 Lance
 Dinah Laurel Lance|Black Canary
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-1|Green Arrow
 Superhero Comics,Superhero,Justice League,Romantic Subplot|Green Arrow,Birds of Prey
 Baseline
 Medium

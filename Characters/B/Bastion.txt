@@ -1,5 +1,7 @@
 Bastion
 Overwatch
+
+
 Bastion
 
 SST Laboratories Siege Automaton E54|Bastion
@@ -10,7 +12,6 @@ Robot
 Neutral
 Protagonist
 Male
-
 Video Games,Robot,Against Programming,Turret,Machine Gun
 Modified Human
 Medium

@@ -1,5 +1,7 @@
 Bucky Barnes
 Marvel Comics
+
+
 James
 Barnes
 Bucky Barnes|Bucky|The Winter Soldier|James Buchanan "Bucky" Barnes Jr.
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-2|Steve Rogers,Sam Wilson
 Captain America,Sidekick,Assassin,Brainwashed,Prosthetic Limb,Non-Powered,Super-Soldier Serum
 Modified Human
 High

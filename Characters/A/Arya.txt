@@ -1,5 +1,7 @@
 Arya Dröttning
 Eragon
+
+
 Arya
 Dröttning
 Arya Dröttning
@@ -10,7 +12,6 @@ Elf
 Good
 Side Character
 Female
-1|Eragon
 Queen,Royalty,Nobility
 Baseline
 Low

@@ -1,5 +1,7 @@
 Baljeet Tjinder
 Phineas & Ferb
+
+
 Baljeet
 Tjinder
 Baljeet Tjinder
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-5|Phineas Flynn,Ferb Fletcher,Buford Van Stomm,Isabella Garcia-Shapiro
 TV Shows,Nerd,Genius,Frenemy|Buford Van Stomm,Cartoon
 Baseline
 Medium

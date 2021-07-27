@@ -1,5 +1,7 @@
 Barret Wallace
 Final Fantasy VII
+
+
 Barret
 Wallace
 Barret Wallace
@@ -10,7 +12,6 @@ Human
 Good
 Party Member
 Male
-6|Cloud Strife,Aerith Gainsborough,Yuffie Kisaragi,Cid Highwind,Vincent Valentine,Tifa Lockhart
 African-American,Gun-Arm,Prosthetic,Rebel,Leader,Video Games
 Modified Human
 Low

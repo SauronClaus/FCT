@@ -1,5 +1,7 @@
 Anna
 Frozen
+
+
 Anna
 
 Queen Anna of Arendelle|Anna
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-4|Else,Olaf,Sven,Kristoff
 Royalty,Cheerful,Musical,Disney Princess,CGI
 Baseline
 High

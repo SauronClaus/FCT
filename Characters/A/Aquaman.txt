@@ -1,5 +1,7 @@
 Aquaman
 DC Comics
+
+
 Arthur
 Curry
 Arthur Curry|Aquaman|King of Atlantis
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-2|Mera,Tempest
 Sea Powers,Water,Ocean,Royalty,King,Superhero Comics
 Country
 High

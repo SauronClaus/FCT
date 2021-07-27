@@ -1,5 +1,7 @@
 Beast
 Marvel Comics
+
+
 Hank
 McCoy
 Beast|Hank McCoy|Dr. Henry Philip McCoy
@@ -10,7 +12,6 @@ Mutant
 Good
 Protagonist
 Male
-4|Cyclops,Iceman,Jean Gray,Angel
 X-Men,X-Men First Class,Superhero,Beast,Genius,Mutation,Superhero Comics
 Modified Human
 Medium

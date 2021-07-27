@@ -1,5 +1,7 @@
 Annie Montrose
 The Martian
+
+
 Annie
 Montrose
 Annie Montrose
@@ -10,7 +12,6 @@ Human
 Good
 Side Character
 Female
-2|Teddy Sanders,Bruce Ng
 PR Person,Books
 Baseline
 Low

@@ -1,5 +1,7 @@
 Batman
 DC Comics
+
+
 Bruce
 Wayne
 Batman|Bruce Wayne
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-7|Dick Grayson,Jason Todd,Damian Wayne,Tim Drake,Barbara Gordon,Jim Gordon,Alfred Pennyworth,Superman,Wonder Woman
 Superhero Comics,Bat-Family,Justice League,Trinity,Outsiders,Tech,Genius,Detective
 City
 High

@@ -1,5 +1,7 @@
 Bow
 She-Ra and the Princesses of Power
+
+
 Bow
 
 Bow
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-2|Glimmer,She-Ra
 Archer,Genius,TV Shows,Best Friends Squad (She-Ra),Rebellion,Rebel Leader,Romantic Subplot|Glimmer
 Modified Human
 Low

@@ -1,5 +1,7 @@
 Captain Kirk
 Star Trek
+
+
 James
 Kirk
 Captain James T. Kirk
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-2|Spock,Leonard McCoy
 Astral Captain,Space,Explorer,Captain,Star Trek: The Original Series,Star Trek Captains
 Baseline
 High

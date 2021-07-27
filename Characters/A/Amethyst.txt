@@ -1,5 +1,7 @@
 Amethyst
 DC Comics
+
+
 Amy
 Winston
 Amethyst|Princess of Gemworld|Amy Winston
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-
 Royalty,Young Justice,Crystal Powers,Magic,Justice League Dark,Superhero Comics
 City
 Low

@@ -1,5 +1,7 @@
 Asami Sato
 The Legend of Korra
+
+
 Asami
 Sato
 Asami Sato
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Female
-3|Korra,Mako,Bolin
 Heiress,Genius,TV Shows,LGBTQ+
 Baseline
 Low

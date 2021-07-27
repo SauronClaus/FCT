@@ -1,5 +1,7 @@
 Aang
 Avatar: The Last Airbender
+
+
 Aang
 
 The Avatar|The Last Airbender|Airbender|Bonzu Pippinpaddleopsicopolis the Third
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-5|Katara,Sokka,Toph Beifong,Zuko,Suki
 Romantic Subplot|Katara,Frozen in Ice,Gaang,TV Shows,Bender
 Modified Human
 High

@@ -1,5 +1,7 @@
 Ash Ketchum
 Pokemon
+
+
 Ash
 Ketchum
 Ash Ketchum
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-3|Misty,Brock,Pikachu
 Cheerful,Naive,TV Shows,Anime,Pokemon
 Modified Human
 High

@@ -1,5 +1,7 @@
 Arwen Undómiel
 Lord of the Rings
+
+
 Arwen
 Undómiel
 Arwen Undómiel|Evenstar
@@ -10,7 +12,6 @@ Half-Elf
 Good
 Love Interest
 Female
-1|Aragorn
 Queen,Royalty,Nobility,Half-Elf,Books,Movies,Romantic Subplot|Aragorn
 Baseline
 Low

@@ -1,5 +1,7 @@
 Amanda Waller
 Suicide Squad
+
+
 Amanda
 Waller
 Amanda Blake Waller
@@ -10,7 +12,6 @@ Human
 Neutral
 Antagonist
 Female
-
 Manipulator,Antihero,Government Agent,Suicide Squad,Superhero Comics
 Baseline
 Low

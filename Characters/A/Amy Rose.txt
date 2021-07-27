@@ -1,5 +1,7 @@
 Amy Rose
 Sonic
+
+
 Amy
 Rose
 Amy Rose
@@ -10,7 +12,6 @@ Hedgehog
 Good
 Supporting Protagonist
 Female
-4|Knuckles the Echidna,Tails Prower,Sonic the Hedgehog,Cream the Rabbit
 Rebel,Romantic Subplot|Sonic the Hedgehog,Pink,CGI,Video Games
 Modified Human
 Medium

@@ -1,5 +1,7 @@
 Armor
 Marvel Comics
+
+
 Hisako
 Ichiki
 Hisako Ichiki|Armor
@@ -10,7 +12,6 @@ Mutant
 Good
 Protagonist
 Female
-4|Rockslide,,Glob Herman,Anole,Pixie
 Power Armor,Powerhouse,X-Men,Young X-Men,Superhero Comics
 Modified Human
 Medium

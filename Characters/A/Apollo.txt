@@ -1,5 +1,7 @@
 Apollo (Lester Papadopoulos)
 Percy Jackson
+
+
 Apollo
 
 Apollo|Lester Papadopoulos
@@ -10,7 +12,6 @@ God
 Good
 Protagonist
 Male
-1|Meg McCaffrey
 God,Books,Sun,Poetry,Archer
 Modified Human
 Medium

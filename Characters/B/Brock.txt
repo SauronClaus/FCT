@@ -1,5 +1,7 @@
 Brock
 Pokemon
+
+
 Brock
 
 Brock
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-3|Ash Ketchum,Misty,Pikachu
 Pokemon Trainer,Kanto,Video Games,Gym Leader,Anime
 Baseline
 High

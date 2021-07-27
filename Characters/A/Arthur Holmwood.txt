@@ -1,5 +1,7 @@
 Arthur Holmwood
 Dracula
+
+
 Arthur
 Holmwood
 Arthur Holmwood
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-• Friends! (size|friends with commas separating them)- Based upon the franchise. 
 Vampire Hunter,Books,Billionare,Nobility
 Baseline
 Low

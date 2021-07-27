@@ -1,5 +1,7 @@
 Alice Johnson
 A Nightmare on Elm Street
+
+
 Alice
 Johnson
 Alice Johson
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-
 Dream Powers,Horror Movie Protagonist,Movies
 Baseline
 Popularity (Low, Medium, High)

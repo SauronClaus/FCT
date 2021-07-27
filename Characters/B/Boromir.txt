@@ -1,5 +1,7 @@
 Boromir
 Lord of the Rings
+
+
 Boromir
 
 
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-9|Gandalf,Frodo Baggins,Samwise Gamgee,Aragorn,Legolas,Gimli,Pippin Took,Merry Brandybuck,Aragorn
 Fellowship of the Ring,Nobility,Outcast,Swordsman,Books,Movies
 Baseline
 Medium

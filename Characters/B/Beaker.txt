@@ -1,5 +1,7 @@
 Beaker
 The Muppets
+
+
 Beaker
 
 Beaker
@@ -10,7 +12,6 @@ Muppet
 Good
 Supporting Protagonist
 Male
-1|Dr. Bunsen Honeydew
 Almost Invulnerable,Hapless Assistant,Duo|Dr. Bunsen Honeydew
 Baseline
 Medium

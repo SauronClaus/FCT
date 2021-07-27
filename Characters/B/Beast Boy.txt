@@ -1,5 +1,7 @@
 Beast Boy
 DC Comics
+
+
 Garfield
 Logan
 Garfield Logan|Beast Boy|Changeling
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-3|Cyborg,Starfire,Raven
 Superhero Comics,TV Shows,Teen Titans,Shapeshifter,Prankster,Green
 City
 High

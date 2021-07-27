@@ -1,5 +1,7 @@
 Adam Warlock
 Marvel Comics
+
+
 Adam
 
 Adam Warlock|Him
@@ -10,7 +12,6 @@ Modified Human
 Good
 Protagonist
 Male
-2|Gamora,Pip the Troll
 Schemer,Lab Experiment,Guardians of the Galaxy,Superhero Comics
 Cosmic
 Low

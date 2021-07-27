@@ -1,5 +1,7 @@
 Aurora
 Marvel Comics
+
+
 Jeanne-Marie
 Beaubier
 Jeanne-Marie Beaubier|Aurora
@@ -10,7 +12,6 @@ Mutant
 Good
 Protagonist
 Female
-1|Northstar
 Twins|Northstar,Superhero,Split Personality,Speedsters,Superhero Comics,Alpha Flight,X-Men
 City
 Low

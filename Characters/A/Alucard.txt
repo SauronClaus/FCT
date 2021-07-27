@@ -1,5 +1,7 @@
 Alucard
 Castlevania
+
+
 Alucard
 Tepes
 Adrian Fahrenheit Tepes
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-1|Trevor Belmont
 Dhampir,Monster Hunter,Vampire Hunter,Video Games
 Modified Human
 Medium

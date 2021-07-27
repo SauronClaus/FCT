@@ -1,5 +1,7 @@
 Arthail, Consumer of Food
 Band of Fools
+
+
 Arthail
 
 Arthail|Arthail, Consumer of Food
@@ -10,7 +12,6 @@ Dragonborn
 Neutral
 Protagonist
 Male
-Glynnric Manassnass,Kalathos Sunstrider,Akkar,Kareem Par-Al,Ruby Rider,Byllemura Ruby-Eye,Nahara
 Original Three (Band of Fools),Barbarian,Band of Fools,Band of Fools Redux,D&D
 Modified Human
 Low

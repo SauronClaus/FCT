@@ -1,5 +1,7 @@
 Blink
 Marvel Comics
+
+
 Clarice
 Ferguson
 Clarice Ferguson
@@ -10,7 +12,6 @@ Mutant
 Good
 Protagonist
 Female
-
 Interdimensional,Reality Hopping,Multiversal Origin,Exiles (Team),X-Men,Superhero Comics,Teleporter,Earth-295
 Modified Human
 Low

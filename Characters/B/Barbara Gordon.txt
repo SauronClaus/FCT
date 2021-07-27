@@ -1,5 +1,7 @@
 Barbara Gordon
 DC Comics
+
+
 Barbara
 Gordon
 Barbara Gordon|Oracle|Batgirl
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-3|Dick Grayson,Batman,Jim Gordon
 Hacker,Genius,Weelchair,Parent Child Duo|Jim Gordon,Superhero,Bat-Family,Superhero Comics,Non-Powered,Birds of Prey
 Baseline
 High

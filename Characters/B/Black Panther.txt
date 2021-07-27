@@ -1,5 +1,7 @@
 Black Panther
 Marvel Comics
+
+
 T'Challa
 
 T'Challa|King T'Challa|Black Panther
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-3|Shuri,Captain America,Storm
 Superhero Comics,Movies,Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
 Modified Human
 High

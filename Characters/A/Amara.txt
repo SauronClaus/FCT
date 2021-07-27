@@ -1,5 +1,7 @@
 Amara
 Borderlands
+
+
 Amara
 
 Amara
@@ -10,7 +12,6 @@ Siren
 Good
 Protagonist
 Female
-3|FL4K,Moze,Zane
 Video Games,Astral Force,Vault Hunter
 Modified Human
 Low

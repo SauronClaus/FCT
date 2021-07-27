@@ -1,5 +1,7 @@
 Bard the Bowman
 Lord of the Rings
+
+
 Bard
 
 Bard the Bowman|Bard the Dragonslayer
@@ -10,7 +12,6 @@ Human
 Good
 Minor Side Character
 Male
-
 Dragonslayer|Smaug,Archer,Chosen One,Royalty,Nobility,Town Guard,Peasant,Books
 Baseline
 Low

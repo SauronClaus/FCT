@@ -1,5 +1,7 @@
 Captain Boomerang
 Suicide Squad
+
+
 Digger
 Harkness
 George "Digger" Harkness|Captain Boomerang
@@ -10,7 +12,6 @@ Human
 Evil
 Antagonist
 Male
-6|Deadshot,Harley Quinn,Col. Rick Flag,El Diablo,Killer Croc,Enchantress
 Suicide Squad,Boomerang,Boomerang Bros|Sokka,Superhero Comics,Movies,Australian
 Baseline
 Low

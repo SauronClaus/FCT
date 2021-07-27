@@ -1,5 +1,7 @@
 Baron Zemo
 MCU
+
+
 Helmut
 Zemo
 Theo Broussard|Baron Zemo|Helmut Zemo
@@ -10,7 +12,6 @@ Human
 Evil
 Antagonist
 Male
-
 Unlikely Trio|Sam Wilson;Bucky Barnes,Supervillain,Manipulator,Hydra,TV Shows,Movies
 Baseline
 Medium

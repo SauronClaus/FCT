@@ -1,5 +1,7 @@
 Bill Weasley
 Harry Potter
+
+
 Bill
 Weasley
 Bill Weasley|William Arthur Bill Weasley
@@ -10,7 +12,6 @@ Human
 Good
 Minor Side Character
 Male
-
 Books,Weasely,Order of the Pheonix II,Wizard,Movies,Married|Fleur Delacour
 Modified Human
 Low

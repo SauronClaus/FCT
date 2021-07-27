@@ -1,5 +1,7 @@
 Big the Cat
 Sonic
+
+
 Big
 
 Big the Cat
@@ -10,7 +12,6 @@ Cat
 Good
 Supporting Protagonist
 Male
-2|Amy Rose,Cream the Rabbit
 Fisherman,TV Shows,Video Games,Big
 Modified Human
 Low

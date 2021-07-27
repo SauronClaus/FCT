@@ -1,5 +1,7 @@
 Cal Kestis
 Fallen Order
+
+
 Cal
 Kestis
 Cal Kestis
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-4|Prauf,Cere Junda,Greez Dritus,Merrin
 Jedi Knight,Soldier,Video Games,Apprentice,Player Character
 Modified Human
 Medium

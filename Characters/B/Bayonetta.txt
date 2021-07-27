@@ -1,5 +1,7 @@
 Bayonetta
 Bayonetta
+
+
 Cereza
 
 Cereza|Bayonetta
@@ -10,7 +12,6 @@ Umbra Witch
 Good
 Protagonist
 Female
-
 Video Games,Witch,Super Smash Bros,Magic Gunslinger,Demon Hunter
 City
 Medium

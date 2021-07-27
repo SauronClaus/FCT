@@ -1,5 +1,7 @@
 Alfred Pennyworth
 DC Comics
+
+
 Alfred
 Pennyworth
 Alfred Thaddeus Crane Pennyworth
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-5|Batman,Dick Grayson,Jason Todd,Tim Drake,Damian Wayne
 Green Beret,Special Forces,Servant,Bat-Family,Superhero Comics
 Baseline
 High

@@ -1,5 +1,7 @@
 Captain George Pollard Jr.
 In the Heart of the Sea
+
+
 George
 Pollard
 Captain George Pollard Jr.
@@ -10,7 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-2|Owen Chase,Thomas Nickerson
 Naval Captain,Inspiration|Captain Ahab
 Baseline
 Low

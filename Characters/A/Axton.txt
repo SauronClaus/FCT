@@ -1,5 +1,7 @@
 Axton
 Borderlands
+
+
 Axton
 
 Axton
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-3|Maya,Salvador,Zer0
 Video Games,Vault Hunter
 Modified Human
 Low

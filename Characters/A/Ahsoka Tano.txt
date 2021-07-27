@@ -1,5 +1,7 @@
 Ahsoka Tano
 Star Wars
+
+
 Ahsoka
 Tano
 Ahsoka Tano
@@ -10,7 +12,6 @@ Togruta
 Good
 Protagonist
 Female
-3|Anakin Skywalker,Obi-Wan Kenobi,R2D2
 Jedi Knight,Soldier,CGI,TV Shows
 City
 High

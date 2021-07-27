@@ -1,5 +1,7 @@
 Aloy
 Horizon Zero Dawn
+
+
 Aloy
 
 Aloy
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-
 Machine Hunter,Nature,Tribal,Clone,Chosen One,Video Games
 Modified Human
 Medium

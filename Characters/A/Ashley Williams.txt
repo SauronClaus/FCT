@@ -1,5 +1,7 @@
 Ashley Williams
 Mass Effect
+
+
 Ashley
 Williams
 Ashley Madeline Williams
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Female
-1|Commander Shepard
 Soldier,Video Games
 Baseline
 Low

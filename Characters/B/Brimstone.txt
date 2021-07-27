@@ -1,5 +1,7 @@
 Brimstone
 Valorant
+
+
 Brimstone
 
 Brimstone|Sarge
@@ -10,7 +12,6 @@ Human
 Good
 Playable Character
 Male
-
 Video Games,Commander,Strong Man
 Baseline
 Low

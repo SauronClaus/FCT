@@ -1,5 +1,7 @@
 Arthas Menethil
 Band of Fools Reboot
+
+
 Arthas
 Menethil
 Arthas Menethil
@@ -10,7 +12,6 @@ Skeleton
 Evil
 Antagonist
 Male
-
 Death Knight,Fallen Paladin,War Hammer,D&D
 City
 Low

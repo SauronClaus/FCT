@@ -1,5 +1,7 @@
 Catherine Rubens Charon
 Fire Emblem: Three Houses
+
+
 Catherine
 Charon
 Catherine Charon|Thunder Catherine|Thunderstrike Cassandra
@@ -10,7 +12,6 @@ Human
 Good
 Party Member
 Female
-2|Alois,Shamir
 Sword,Loud,Relic,Knights of Seiros,Video Games,Yin & Yang|Shamir
 Baselien
 Low

@@ -1,5 +1,7 @@
 Captain Britain
 Marvel Comics
+
+
 Brian
 Braddock
 Brian Braddock|Captain Britain
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-
 Superhero Comics,Siblings|Betsy Braddock,Country-Themed,Patriotism,Britain-Themed,Captain Britain
 Country
 Low

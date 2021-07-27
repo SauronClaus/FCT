@@ -1,5 +1,7 @@
 Boun
 Raya and the Last Dragon
+
+
 Boun
 
 Boun
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-6|Raya,Sisu,Namaari,Tong,Little Noi,Ongis
 Movies,Orphan,Chef,Nimble,Sailor,Suave,Young
 Baseline
 Medium

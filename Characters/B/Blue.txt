@@ -1,5 +1,7 @@
 Blue
 Pokemon
+
+
 Blue
 Oak
 Blue Oak
@@ -10,7 +12,6 @@ Human
 Good
 Rival
 Male
-1|Red
 Pokemon Trainer,Champion,Kanto,Duo|Red,Video Games,Gym Leader
 Baseline
 High

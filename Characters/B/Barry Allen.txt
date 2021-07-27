@@ -1,5 +1,7 @@
 Barry Allen
 DC Comics
+
+
 Barry
 Allen
 Barry Allen,The Flash
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-5|Wally West,Bart Allen,Max Mercury,Jesse Quick,Jay Garrick
 Superheroes,Speedsters,Justice League,Superhero Comics,Police,Legacy|Jay Garrick,Love Interest|Iris West
 City
 High

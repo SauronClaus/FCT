@@ -1,5 +1,7 @@
 Bobby
 Paper Mario
+
+
 Bobby
 
 Bobby
@@ -10,7 +12,6 @@ Bob-omb
 Good
 Supporting Protagonist
 Male
-1|Paper Mario
 Video Games,Bomb,Amnesiac
 Modified Human
 Low

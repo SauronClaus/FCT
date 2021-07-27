@@ -1,5 +1,7 @@
 Brainiac 5
 DC Comics
+
+
 Querl
 Dox
 Braniac 5
@@ -10,7 +12,6 @@ Coluan
 Good
 Protagonist
 Male
-5|Kara Zor-El,Lightning Lad,Cosmic Boy,Saturn Girl,Superman
 Genius,Superhero Comics,Tech,Future Tech,Legion of Superheroes,Green
 Modified Human
 Low

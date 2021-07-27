@@ -1,5 +1,7 @@
 Athena
 God of War
+
+
 Athena
 
 Athena
@@ -10,7 +12,6 @@ God
 Evil
 Antagonist
 Female
-
 Goddess,Omnipotent
 Omnipotent
 Low

@@ -1,5 +1,7 @@
 Bean
 Ender's Game
+
+
 Julian
 Delphiki
 Bean|Julian Delphiki II
@@ -10,7 +12,6 @@ Humans
 Good
 Protagonist
 Male
-
 Books,Movies,Strategist
 Baseline
 Low

@@ -1,5 +1,7 @@
 Animal
 The Muppets
+
+
 Animal
 
 Animal
@@ -10,7 +12,6 @@ Muppet
 Neutral
 Supporting Protagonist
 Male
-4|Janice,Floyd Pepper,Zoot,Dr. Teeth
 Musician,Muppet,Electric Mayhem
 Baseline
 High

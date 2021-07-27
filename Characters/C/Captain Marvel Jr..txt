@@ -1,5 +1,7 @@
 Captain Marvel Jr.
 DC Comics
+
+
 Frederick
 Freeman
 Frederick "Freddy" Freeman|CM3|Captain Marvel Jr.
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-2|Captain Marvel,Mary Marvel
 Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Transforming
 Country
 Low

@@ -1,5 +1,7 @@
 Alois Rangeld
 Fire Emblem: Three Houses
+
+
 Alois
 Rangeld
 Alois Rangeld
@@ -10,7 +12,6 @@ Human
 Good
 Party Member
 Male
-2|Catherine,Shamir
 Axe,Heavily Armored,Bad Jokes,Father Figure,Cheerful,Loud,Knights of Seiros,Video Games
 Baseline
 Low

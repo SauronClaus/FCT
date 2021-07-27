@@ -1,5 +1,7 @@
 Captain Ahab
 Moby Dick
+
+
 Ahab
 
 Captain Ahab|Old Thunder
@@ -10,7 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-
 Captain,Books,Slightly Insane,Prosthetic,Peg-Leg,Sailor
 Baseline
 High

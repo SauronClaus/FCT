@@ -1,5 +1,7 @@
 Bowser
 Mario
+
+
 Bowser
 
 Bowser 
@@ -10,7 +12,6 @@ Koopa
 Evil
 Antagonist
 Male
-1|Bowser Jr.
 Video Games,Koopa,Parent Child|Bowser Jr.,Kidnapper,Evil King,Nobility,Royalty,King
 City
 High

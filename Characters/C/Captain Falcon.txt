@@ -1,5 +1,7 @@
 Captain Falcon
 F-Zero
+
+
 Douglas
 Falcon
 Douglas Jay Falcon|Captain Falcon|Bart Lemming
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-
 Captain Falcon,Video Games,Super Smash Bros,Fire-Powers,Punching,Racer
 Modified Human
 Medium

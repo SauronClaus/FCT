@@ -1,5 +1,7 @@
 Blake Belladonna
 RWBY
+
+
 Blake
 Belladonna
 Blake Belladonna
@@ -10,7 +12,6 @@ Faunus
 Good
 Protagonist
 Female
-3|Ruby Rose,Weiss Schnee,Yang Xiao Long
 TV Shows,Chosen One,Monster Hunter,Chainsaw,Animal-Person,Cat-Themed,LGBTQ+,Romantic Subplot|Yang Xiao Long
 Baseline
 Medium

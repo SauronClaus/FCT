@@ -1,5 +1,7 @@
 Amos Kane
 Kane Chronicles
+
+
 Amos
 Kane
 Amos Kane|Chief Lector|Eye of Set
@@ -10,7 +12,6 @@ Human
 Good
 Mentor
 Male
-2|Sadie Kane,Carter Kane
 Uncle,Mentor,Most Powerful,Book
 Country
 Medium

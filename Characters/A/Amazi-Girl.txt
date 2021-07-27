@@ -1,5 +1,7 @@
 Amazi-Girl
 Shortpacked
+
+
 Amber O'Malley
 O'Malley
 Amber O'Malley|Amazi-Girl
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-5|Leslie Bean,Ultra Car,Mike Warner,Robin DeSanto,Ethan Siegal
 Superhero,Nerd,Store Clerk,Shortpacked! Store,Introvert,Webcomics
 Baseline
 Low

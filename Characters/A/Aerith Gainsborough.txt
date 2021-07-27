@@ -1,5 +1,7 @@
 Aerith Gainsborough
 Final Fantasy VII
+
+
 Aerith
 Gainsborough
 Aerith Gainsborough
@@ -10,7 +12,6 @@ Human,Half-Cetra
 Good
 Party Member
 Female
-7|Cloud Strife,Yuffie Kisaragi,Cid Highwind,Vincent Valentine,Tifa Lockhart,Barret Wallace
 Last of Kind,Video Games
 City
 Low

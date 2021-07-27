@@ -1,5 +1,7 @@
 Blaze the Cat
 Sonic
+
+
 Blaze
 
 Blaze the Cat
@@ -10,7 +12,6 @@ Cat
 Good
 Supporting Protagonist
 Female
-3|Cream the Rabbit,Sonic the Hedgehog,Silver the Hedgehog
 Guardian,Interdimensional,Multiversal Origin,Psychic Powers
 City
 Low

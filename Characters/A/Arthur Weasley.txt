@@ -1,5 +1,7 @@
 Arthur Weasley
 Harry Potter
+
+
 Arthur
 Weasley
 Arthur Weasley
@@ -10,7 +12,6 @@ Human
 Good
 Side Character
 Male
-
 Books,Weasely,Order of the Pheonix II,Wizard,Movies
 Baseline
 Medium

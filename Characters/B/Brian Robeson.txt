@@ -1,5 +1,7 @@
 Brian Robeson
 Hatchet
+
+
 Brian
 Robeson
 Brian Robeson
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-
 Books,Survivalist,Wilderness
 Baseline
 Medium

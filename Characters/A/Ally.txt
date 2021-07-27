@@ -1,5 +1,7 @@
 Ally
 Fans!
+
+
 Ally
 
 Ally
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Female
-5|Rikk,Katherine,Will,Rumy,Shanna,Tim
 Married|Rikk,Married|Rumy,Polyamory,Overly Sexualized,Webcomics
 Modified Human
 Low

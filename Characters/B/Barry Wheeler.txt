@@ -1,5 +1,7 @@
 Barry Wheeler
 Alan Wake
+
+
 Barry
 Wheeler
 Barry Wheeler
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-1|Alan Wake
 Video Games,Literary Agent,New Yorker,Allergies
 Baseline
 Low

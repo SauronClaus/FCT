@@ -1,5 +1,7 @@
 Booster Gold
 DC Comics
+
+
 Michael
 Carter
 Booster Gold|Michael Jon Carter
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-1|Ted Kord
 Superhero Comics,Time Traveler,Future Tech,Duo|Ted Kord,Justice League,Justice League International
 Modified Human
 Medium
