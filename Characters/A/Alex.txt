@@ -1,5 +1,7 @@
 Alex
 Stardew Valley
+
+
 Alex
 
 Alex
@@ -10,6 +12,6 @@ Human
 Good
 NPC
 Male
-
 Jock,Football,Video Games,LGBTQ+
+Baseline
 Low

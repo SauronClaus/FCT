@@ -1,5 +1,7 @@
 Alan Wake
 Alan Wake
+
+
 Alan
 Wake
 Alan Wake
@@ -10,7 +12,6 @@ Human
 Good
 Protagonist
 Male
-1|Barry Wheeler
 Writer,Creator,Reality Bending,Video Games
 Baseline
 Low

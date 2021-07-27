@@ -1,5 +1,7 @@
 Akuma
 Street Fighter
+
+
 Akuma
 
 Akuma
@@ -10,7 +12,6 @@ Human
 Neutral
 Antagonist
 Male
-
 Raw Power,Antagonist,Video Games
 Country
 Medium

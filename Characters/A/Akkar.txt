@@ -1,5 +1,7 @@
 Akkar
 Band of Fools
+
+
 Akkar
 
 Akkar
@@ -10,7 +12,6 @@ Elf
 Good
 Protagonist
 Male
-Glynnric Manassnass,Kalathos Sunstrider,Kareem Par-Al,Arthail Consumer of Food,Ruby Rider,Byllemura Ruby-Eye,Nahara
 Blind,Archer,Elf,Band of Fools,D&D
 Modified Human
 Low

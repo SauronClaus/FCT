@@ -1,5 +1,7 @@
 Alan Bradley
 Tron
+
+
 Alan
 Bradley
 Alan Bradley|Alan-One
@@ -10,7 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-2|Lora Baines,Kevin Flynn
 Hacker,Programmer,Movies
 Baseline
 Medium
