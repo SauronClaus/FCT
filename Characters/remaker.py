@@ -12,11 +12,11 @@ for letter in alphabet:
             if len(characterInfo) != 17 and len(characterInfo) != 22:
                 newFile = open(basepath + "/" + entry, "w", encoding='utf8')
                 if len(characterInfo) == 3 or len(characterInfo) == 5:
-                    print(characterInfo[0] + " (!)")
+                    #print(characterInfo[0] + " (!)")
                     newFile.write(characterInfo[0] + "\n" + characterInfo[1] + "\n\n\n" + characterInfo[2])
                 else:
                     if len(characterInfo) == 16:
-                        print(characterInfo[0] + " (*)")
+                        #print(characterInfo[0] + " (*)")
                         newFile.write(characterInfo[0] + "\n" + characterInfo[1] + "\n\n\n" + characterInfo[2] + "\n" + characterInfo[3] + "\n" + characterInfo[4] + "\n" + characterInfo[5] + "\n" + characterInfo[6] + "\n" + characterInfo[7] + "\n" + characterInfo[8] + "\n" + characterInfo[9] + "\n" + characterInfo[10] + "\n" + characterInfo[11] + "\n" + characterInfo[13] + "\n" + characterInfo[14] + "\n" + characterInfo[15])
                     else:
                         print(characterInfo[0] + "/" + entry + " (?)")
