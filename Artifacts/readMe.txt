@@ -8,7 +8,7 @@ There's 11 lines, in this order. Thoses lines are:
 3) Description- Describe the artifact!
 4) Image- add an image URL for the artifact.
 5) Brand- What's the overarching brand?
-6) Wielder- who classically wields the weapon? For Mjolnir, lots of characters have picked it up, but the main wielder is Thor.
+6) Wielder- who classically wields the weapon? For Mjolnir, lots of characters have picked it up, but the main wielder is Thor. List all the classic wielders here, seperated by "|"
 7) Tags- These are the important ones. Put some tags for traits the artifact might have that other artifact may share- sentient, history, wielder, etc. The important tag is Medium (like TV Shows, Video Games, etc.). Other then that, also add any groups they're associated with (such as "Jedi" or "Phantom Thieves"). 
 8) Medium- What is this classically appearing in? Seperate with ",". 
 9) Type- This ones another doozy. Put the type of artifact- weapon, vehicle, armor, etc.- and then the subtype (seperate type/subtype with "|"): Axe, Bow, Submarine, etc.

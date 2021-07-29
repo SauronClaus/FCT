@@ -1,7 +1,7 @@
 Alice Johnson
 A Nightmare on Elm Street
-
-
+Alice Johnson is a fictional character and a protagonist in the A Nightmare on Elm Street franchise, portrayed by Lisa Wilcox. She was created by William Kotzwinkle and Brian Helgeland. She appears as a main character in two of the nine A Nightmare on Elm Street films, first appearing in Renny Harlin's A Nightmare on Elm Street 4: The Dream Master (1988). In 1989, Alice returned in Stephen Hopkins' A Nightmare on Elm Street 5: The Dream Child before going on to appear in the comic book adaptions, novels, and Freddy vs. Jason (2003) through archive footage. In The Dream Master, Alice has the ability to gain the "dream powers" of Freddy Krueger's victims and takes over the protagonist role after Kristen Parker is murdered by Freddy. In The Dream Child, Freddy begins to use Alice's unborn son Jacob as a way to return.
+https://upload.wikimedia.org/wikipedia/en/f/f9/Lisa_Wilcox_as_Alice_Johnson.jpg
 Alice
 Johnson
 Alice Johson
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Female
-Dream Powers,Horror Movie Protagonist,Movies
+Dream Powers,Horror Movie Protagonist
 Baseline
 Popularity (Low, Medium, High)
+
+
+Movies,Horror Movies
+A Nightmare on Elm Street

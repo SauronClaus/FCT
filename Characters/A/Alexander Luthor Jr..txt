@@ -1,7 +1,7 @@
 Alexander Luthor Jr.
 DC Comics
-
-
+Alexander Luthor is the sole survivor of Earth-Three after it was destroyed in the Crisis on Infinite Earths.
+https://static.wikia.nocookie.net/marvel_dc/images/f/fd/Alexluthorfull.jpg/revision/latest/scale-to-width-down/422?cb=20060901182235
 Alexander
 Luthor
 Alexander Luthor Jr.
@@ -15,3 +15,7 @@ Male
 Cosmic,Supervillain,Multiversal Origin,Earth-3,Superhero Comics
 Cosmic
 Low
+Survivors of the First Crisis (DC Comics)
+
+Superhero Comics,Comics
+DC Comics

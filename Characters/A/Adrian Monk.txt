@@ -1,7 +1,7 @@
 Adrian Monk
 Monk
-
-
+Adrian Monk is a former homicide detective working for the San Francisco Police Department (SFPD). He was discharged from his position after his wife, Trudy Monk, was tragically murdered, which led Monk to suffer a mental breakdown. The loss of his wife also severely worsened his obsessive-compulsive disorder (OCD). He is currently employed as a consultant for SFPD.
+https://static.wikia.nocookie.net/monk/images/2/2d/Adrian_Monk.png/revision/latest/scale-to-width-down/651?cb=20190501180659
 Adrian
 Monk
 Adrian Monk
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Male
-Genius,Slightly Insane,TV Shows
+Genius,Slightly Insane,TV Shows,Detective,OCD
 Baseline
 Low
+SFPD (Monk)
+
+TV Shows
+Monk

@@ -1,7 +1,7 @@
 Amos Kane
 Kane Chronicles
-
-
+Amos Kane is Carter and Sadie's uncle, the younger brother of Julius Kane, and the current Chief Lector, being the most powerful magician in the world.
+https://static.wikia.nocookie.net/olympians/images/3/3d/Amos_Kane.jpg/revision/latest/scale-to-width-down/699?cb=20201023002638
 Amos
 Kane
 Amos Kane|Chief Lector|Eye of Set
@@ -12,6 +12,10 @@ Human
 Good
 Mentor
 Male
-Uncle,Mentor,Most Powerful,Book
+Uncle,Mentor,Most Powerful
 Country
 Medium
+House of Life,Twenty-First Nome
+
+Books
+Percy Jackson and the Olympians

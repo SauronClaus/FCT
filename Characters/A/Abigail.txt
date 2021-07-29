@@ -1,7 +1,7 @@
 Abigail
 Stardew Valley
-
-
+Abigail lives at the general store with her parents. She sometimes fights with her mom, who worries about Abigail’s “alternative lifestyle”. Her mom has the following to say: “I wish Abby would dress more appropriately and stop dyeing her hair blue. She has such a wonderful natural hair color, just like her grandmother did. Oh, and I wish she’d find some wholesome interests instead of this occult nonsense she’s into.” You might find Abigail alone in the graveyard, or maybe out in a rainstorm looking for frogs.
+https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png
 Abigail
 
 Abigail
@@ -12,6 +12,10 @@ Human
 Good
 NPC
 Female
-Occult Interested,Video Games,LGBTQ+
+Occult Interested,Video Games,LGBTQ+,Stardew Valley Bachelorettes,Pixelated
 Baseline
 Low
+Stardew Valley Trio,Stardew Valley Bachelorettes,Stardew Valley Residents
+A Stillness in the Rain|https://open.spotify.com/track/3oYAfl6XVyVUAb4MkwQbC1?si=83893bd72fa94fe8
+Video Games
+Stardew Valley

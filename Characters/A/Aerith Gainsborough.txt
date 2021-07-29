@@ -1,17 +1,21 @@
 Aerith Gainsborough
 Final Fantasy VII
-
-
+Aerith Gainsborough, alternately known with the first name Aeris, is a playable character in Final Fantasy VII and Final Fantasy VII Remake. Aerith is the last of the Cetra, an ancient race with powerful magical abilities, and so the Shinra Electric Power Company hunts her throughout her life, seeking to exploit her powers. She meets Cloud Strife in Midgar, and the two become close, leading her to join his quest to fight Shinra and hunt down Sephiroth. Aerith is upbeat, carefree, and joyful, being flirtatious towards Cloud and compassionate towards others.
+https://static.wikia.nocookie.net/finalfantasy/images/4/41/Aerith_Gainsborough_from_FFVII_Remake_promo_render.png/revision/latest/scale-to-width-down/202?cb=20200303194438
 Aerith
 Gainsborough
 Aerith Gainsborough
 Maaya Sakamoto|Mandy Moore|Mena Suvari|Andrea Bowen|Briana White|Capri Oliver|Chihiro Tanaka
 22|2
 Wizard
-Human,Half-Cetra
+Half-Cetra
 Good
 Party Member
 Female
-Last of Kind,Video Games
+Last of Kind,Video Games,Magic User
 City
 Low
+Final Fantasy VII Party
+
+
+Final Fantasy

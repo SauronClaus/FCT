@@ -1,7 +1,7 @@
 Abraham Van Helsing
 Dracula
-
-
+Professor Abraham Van Helsing, a fictional character from the 1897 gothic horror novel Dracula, is an aged polymath Dutch doctor with a wide range of interests and accomplishments, partly attested by the string of letters that follows his name: "MD, D.Ph., D.Litt., etc.", indicating a wealth of experience, education and expertise. The character is best known through many adaptations of the story as a vampire hunter and the archenemy of Count Dracula, and the prototypical and the archetypical parapsychologist in subsequent works of paranormal fiction.
+https://upload.wikimedia.org/wikipedia/en/3/30/Van_Helsing_1931.png
 Abraham
 Van Helsing
 Abraham Van Helsing|Doctor Van Helsing
@@ -15,3 +15,7 @@ Male
 Vampire Hunter,Old,Genius,Books
 Baseline
 Medium
+Dracula Hunters
+
+Books,Movies
+Dracula

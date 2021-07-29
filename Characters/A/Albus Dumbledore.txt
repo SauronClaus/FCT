@@ -1,7 +1,7 @@
 Albus Dumbledore
 Harry Potter
-
-
+Professor Albus Percival Wulfric Brian Dumbledore, O.M. (First Class), Grand Sorc., D. Wiz., X.J. (sorc.), S. of Mag.Q. (c. Summer 1881 – 30 June, 1997) was an English half-blood wizard. He was the Defence Against the Dark Arts Professor, later the Transfiguration Professor, and later the Headmaster of Hogwarts School of Witchcraft and Wizardry. He also served as Supreme Mugwump of the International Confederation of Wizards (?–1995) and Chief Warlock of the Wizengamot (?–1995; 1996–1997). A Muggle-supporting wizard, he was considered to have been the greatest wizard of modern times, perhaps of all time.
+https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest/scale-to-width-down/700?cb=20150822232849
 Albus
 Dumbledore
 Albus Dumbledore
@@ -12,6 +12,11 @@ Human
 Good
 Mentor
 Male
-Wizard,Old,Mentor,Order of the Pheonix I,Order of the Pheonix II,Most Powerful,Books,Movies,LGBTQ+
+Wizard,Old,Mentor,Order of the Pheonix I,Order of the Pheonix II,Most Powerful,Books,Movies,LGBTQ+,Magic Users,Gryffindor
 Country
 High
+Order of the Pheonix I,Order of the Pheonix II,Hogwarts Professors
+
+Books,Movies
+Harry Potter
+The Elder Wand

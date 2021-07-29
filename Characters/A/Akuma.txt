@@ -1,7 +1,7 @@
 Akuma
 Street Fighter
-
-
+(悪魔 Akuma?, "Devil"), known in Japan as Gouki (ゴウキ(豪鬼) Gōki?, "Fortitude", "Great Demon", "Great Devil" or "Great Ogre"), is a video game character and recurring antagonist of the Street Fighter series, first appearing in Super Street Fighter II Turbo as a hidden boss. He is an emotionless and powerful warrior fixated on mastering the Satsui no Hado, and the younger brother of Gouken.
+https://static.wikia.nocookie.net/streetfighter/images/2/2c/Akumarender.png/revision/latest/scale-to-width-down/699?cb=20170728162459
 Akuma
 
 Akuma
@@ -15,3 +15,7 @@ Male
 Raw Power,Antagonist,Video Games
 Country
 Medium
+
+
+Video Games
+Street Fighter

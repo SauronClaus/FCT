@@ -1,7 +1,7 @@
 Amadeus Cho
 Marvel Comics
-
-
+Amadeus Cho, also known as Brawn, is a fictional superhero appearing in American comic books published by Marvel Comics. Created by American writer Greg Pak and Canadian artist Takeshi Miyazawa, the character first appeared in Amazing Fantasy vol. 2 #15 (January 2005). Cho usually appears in books featuring the Avengers or individual members of that group, such as the Hulk or Hercules. A 19-year-old Korean American genius and one of the smartest people on Earth, Cho succeeded Bruce Banner as the Hulk in The Totally Awesome Hulk #1 (2015). In contrast with Banner, who found his Hulk powers to be a burden, Cho is a confident character who revels in his newfound abilities.
+https://upload.wikimedia.org/wikipedia/en/6/68/Totally_Awesome_Hulk.jpg
 Amadeus
 Cho
 Amadeus Cho|The Totally Awesome Hulk
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Male
-Hulk,Gamma,Strong,Raw Power,Green,Genius,Young,Champions (Team),Superhero Comics
+Hulk,Gamma,Strong,Raw Power,Green,Genius,Young,Champions (Team)
 City
 Medium
+Champions (Marvel) Core Members,Hulks
+
+Superhero Comics,Comics
+Marvel Comics

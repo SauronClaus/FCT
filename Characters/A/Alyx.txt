@@ -1,7 +1,7 @@
-Alyx
+Alyx Vance
 Half-Life
-
-
+Alyx Vance is the deuteragonist of Half-Life 2 and its Episodes and the titular protagonist of Half-Life: Alyx. A woman in her mid-twenties, she is a prominent figure in the Resistance campaign against the rule of the Combine.
+https://static.wikia.nocookie.net/half-life/images/7/77/YoungAlyxVance.jpg/revision/latest/scale-to-width-down/700?cb=20200323221922&path-prefix=en
 Alyx
 Vance
 Alyx Vance
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Female
-Hacker,Inventor,Soldier,Cheerful,Video Games
+Hacker,Inventor,Soldier,Cheerful,Rebel
 Modified Human
 High
+Resistance (Half-Life)
+
+Video Games,VR,CGI
+Half-Life

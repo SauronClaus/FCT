@@ -4,7 +4,8 @@ from discord.utils import get
 import random
 import time
 
-from infoCard import infoCard
+from infoCard import infoPerson
+from infoCard import infoArtifact
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
@@ -34,7 +35,10 @@ async def on_message(message):
     if message.author == client.user:
         return
     if message.content == "*test":
-        embed = infoCard("Captain Nemo")
+        embed = infoPerson("Captain Nemo")
+        await message.channel.send(embed=embed)
+
+        embed = infoArtifact("The Nautilus")
         await message.channel.send(embed=embed)
         
 

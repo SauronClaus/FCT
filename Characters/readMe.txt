@@ -22,7 +22,7 @@ There's 22 lines, in this order. Thoses lines are:
 19. Theme Song- self-explanatory. If they have multiple, use "|" to seperate them. 
 20. Medium- Originally a tag. Stuff like Cartoon, Video Games, TV Shows, etc. Seperate with ",". 
 21. Brand- Kind of the umbrella for the new franchise. The Franchise may be "Prequel Trilogy Star Wars", with the brand being "Star Wars". Or "Avengers" and "Marvel".
-22. Signature Weapon- Thor's got Mjolnir, Edelgard's got Aymr, and Thanos has his Infinity Gauntlet. Any items in here should correspond with an Artifact in artifacts. 
+22. Signature Weapon- Thor's got Mjolnir, Edelgard's got Aymr, and Thanos has his Infinity Gauntlet. Any items in here should correspond with an Artifact in artifacts. Seperate them with a "|".
 
 Alright so other important notes: 
 - If you can't find the info on somebody, no worries, just leave the line blank. I can spin around later and check it out if need be. It's very important that the line exists though- screws up the code if it doesn't.

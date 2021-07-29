@@ -1,7 +1,7 @@
 Alan Wake
 Alan Wake
-
-
+Alan Wake is a bestselling American novelist and the main protagonist of the Alan Wake series. After suffering from a two-year strain of writer's block, Alan was brought on vacation by his wife Alice to the idyllic Pacific Northwest town of Bright Falls. Events took a dark turn when Alice was kidnapped by an unseen force and Wake was forced to fight his way through possessed townsfolk all while experiencing the events of a story he didn't even remember writing.
+https://static.wikia.nocookie.net/alanwake/images/3/34/Screenshot_20200829-000451~2.jpg/revision/latest/scale-to-width-down/700?cb=20200828230608
 Alan
 Wake
 Alan Wake
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Male
-Writer,Creator,Reality Bending,Video Games
+Writer,Creator,Reality Bending,Video Games,Horror Games
 Baseline
 Low
+
+
+Video Games,Horror Games
+Alan Wake

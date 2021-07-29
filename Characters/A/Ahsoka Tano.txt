@@ -1,7 +1,7 @@
 Ahsoka Tano
-Star Wars
-
-
+The Clone Wars
+Ahsoka Tano was a Force-sensitive Togruta female former Jedi Padawan who, after the Clone Wars, helped establish a network of various rebel cells against the Galactic Empire. Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training. Following the outbreak of the Clone Wars, Jedi Grand Master Yoda assigned the young Tano to be the Padawan learner of Jedi Knight Anakin Skywalker.
+https://upload.wikimedia.org/wikipedia/en/d/d7/Ahsoka_Tano.png
 Ahsoka
 Tano
 Ahsoka Tano
@@ -12,6 +12,10 @@ Togruta
 Good
 Protagonist
 Female
-Jedi Knight,Soldier,CGI,TV Shows
+Jedi Knight,Soldier,CGI,TV Shows,Master Apprentice|Anakin Skywalker
 City
 High
+The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars)
+
+TV Shows,Cartoon,CGI
+Star Wars

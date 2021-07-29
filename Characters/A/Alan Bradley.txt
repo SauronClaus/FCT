@@ -1,7 +1,7 @@
 Alan Bradley
 Tron
-
-
+Dr. Alan T. Bradley, known as simply Alan Bradley, (known to Tron and to Ma3a as Alan-One and to Mercury as Guest) is a computer programmer who wrote the computer program Tron. He has also operated as CEO of ENCOM in Kevin Flynn's absence, and later withdrew to the role of Executive Consultant while still working on Space Paranoids Online. With the unexpected disappearance of Flynn, Alan has also taken on guardianship of Flynn's son Sam for several years, although attempts to groom the young man to rise to his father's legacy have proven unsuccessful. Nevertheless, Alan still holds out hope that one day the younger Flynn will make something of himself and continues to maintain contact with him.
+https://static.wikia.nocookie.net/tron/images/a/a8/Alan.png/revision/latest/scale-to-width-down/250?cb=20080115215522
 Alan
 Bradley
 Alan Bradley|Alan-One
@@ -15,3 +15,7 @@ Male
 Hacker,Programmer,Movies
 Baseline
 Medium
+ENCOM
+
+Movies
+Tron

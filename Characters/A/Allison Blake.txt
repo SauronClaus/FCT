@@ -4,7 +4,7 @@ Eureka
 
 Allison
 Blake
-Dr. Allison Blake
+Dr. Allison Blake|Dr. Allison Carter
 Salli Richardson-Whitfield
 37|3
 Federal Agent
@@ -12,6 +12,10 @@ Human
 Good
 Supporting Protagonist
 Female
-Scientist,Doctor,PhD,Federal Agent,TV Shows
+Scientist,Doctor,PhD,Federal Agent
 Baseline
 Low
+Eureka! Citizens
+
+TV Shows
+Eureka

@@ -1,7 +1,7 @@
 Amy Cahill
 39 Clues
-
-
+Amy Hope Cahill is a Madrigal agent and one of the main characters in The 39 Clues.
+https://static.wikia.nocookie.net/39clues/images/6/60/Amy.jpg/revision/latest/scale-to-width-down/418?cb=20120611144304
 Amy
 Cahill
 Amy Cahill
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Female
-Genius,Teenager,Introvert,Books
+Genius,Teenager,Introvert
 Baseline
 Low
+
+
+Books
+39 Clues

@@ -1,7 +1,7 @@
 Alucard
 Castlevania
-
-
+Adrian Fahrenheit Ţepeş (アドリアン・ファーレンハイツ・ツェペシュ Adorian Fārenhaitsu Tsepeshu?) (also spelled as Adrian Farenheights Tepes), better known as Alucard (アルカード Arukādo?), is the dhampir son of Dracula. Despite having debuted in Castlevania III: Dracula's Curse as a supporting character, Alucard was reintroduced as the main protagonist of Castlevania: Symphony of the Night, his most well-known appearance.
+https://static.wikia.nocookie.net/castlevania/images/e/e9/SOTN_Alucard_Main_Portrait.jpg/revision/latest/scale-to-width-down/700?cb=20190412164520
 Alucard
 Tepes
 Adrian Fahrenheit Tepes
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Male
-Dhampir,Monster Hunter,Vampire Hunter,Video Games
+Dhampir,Monster Hunter,Vampire Hunter
 Modified Human
 Medium
+
+
+Video Games
+Castlevania
