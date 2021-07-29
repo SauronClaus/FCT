@@ -12,6 +12,6 @@ Hobbit
 Good
 Protagonist
 Male
-Ring-Bearer,Hobbit,Reluctant Hero,Books,Movies,Thorin and Company
+Ring-Bearer,Hobbit,Reluctant Hero,Thorin and Company
 Baseline
 High

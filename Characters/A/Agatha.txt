@@ -12,7 +12,7 @@ Human
 Good
 Protagonist
 Female
-Future Sight,Movies
+Future Sight
 Baseline
 Low
 

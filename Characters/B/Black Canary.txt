@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Female
-Superhero Comics,Superhero,Justice League,Romantic Subplot|Green Arrow,Birds of Prey
+Superhero,Justice League,Romantic Subplot|Green Arrow,Birds of Prey
 Baseline
 Medium

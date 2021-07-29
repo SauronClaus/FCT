@@ -1,7 +1,7 @@
 Annie Montrose
 The Martian
-
-
+Annie Montrose works for NASA as PR Director.
+https://static.wikia.nocookie.net/the-martian/images/f/f0/Annie_Montrose.jpg/revision/latest/scale-to-width-down/700?cb=20151219234541
 Annie
 Montrose
 Annie Montrose
@@ -12,6 +12,10 @@ Human
 Good
 Side Character
 Female
-PR Person,Books
+PR Person,NASA
 Baseline
 Low
+NASA (The Martian)
+
+Books,Movies
+The Martian

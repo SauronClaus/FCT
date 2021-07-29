@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Video Games,Vault Hunter
+Vault Hunter
 Modified Human
 Low

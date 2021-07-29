@@ -12,6 +12,6 @@ Rat Creature
 Evil
 Antagonist
 Male
-Graphic Novels,Duo|Brown Stupid Rat Creature,Idiot,Minion
+Duo|Brown Stupid Rat Creature,Idiot,Minion
 Modified Human
 Medium

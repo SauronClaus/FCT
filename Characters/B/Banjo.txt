@@ -12,6 +12,6 @@ Honey Bear
 Good
 Protagonist
 Male
-Video Games,Non-Human,Animorphic,Duo|Kazooie,Platformer
+Non-Human,Animorphic,Duo|Kazooie,Platformer
 City
 Low

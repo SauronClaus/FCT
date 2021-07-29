@@ -12,6 +12,6 @@ Koopa
 Evil
 Antagonist
 Male
-Tech,Video Games,Prankster,Koopa,Parent Child|Bowser,Royalty,Nobility,Prince
+Tech,Prankster,Koopa,Parent Child|Bowser,Royalty,Nobility,Prince
 Modified Human
 High

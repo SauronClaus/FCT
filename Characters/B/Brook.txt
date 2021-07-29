@@ -12,6 +12,6 @@ Skeleton
 Good
 Supporting Protagonist
 Male
-Anime,Manga,Straw Hat Pirates,Musician,Swordsman,Skeleton,Undead,Fashionista,Devil Fruit
+Straw Hat Pirates,Musician,Swordsman,Skeleton,Undead,Fashionista,Devil Fruit
 Modified Human
 Medium

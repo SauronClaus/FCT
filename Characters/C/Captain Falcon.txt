@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Captain Falcon,Video Games,Super Smash Bros,Fire-Powers,Punching,Racer
+Captain Falcon,Super Smash Bros,Fire-Powers,Punching,Racer
 Modified Human
 Medium

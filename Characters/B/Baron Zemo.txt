@@ -12,6 +12,6 @@ Human
 Evil
 Antagonist
 Male
-Unlikely Trio|Sam Wilson;Bucky Barnes,Supervillain,Manipulator,Hydra,TV Shows,Movies
+Unlikely Trio|Sam Wilson;Bucky Barnes,Supervillain,Manipulator,Hydra
 Baseline
 Medium

@@ -12,6 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-Video Games,Vault Hunter,Strong Man
+Vault Hunter,Strong Man
 Modified Human
 Low

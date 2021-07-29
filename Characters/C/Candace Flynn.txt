@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Female
-Buster,Sister,TV Shows,Movies
+Buster,Sister
 Baseline
 Medium

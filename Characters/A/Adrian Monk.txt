@@ -12,7 +12,7 @@ Human
 Good
 Protagonist
 Male
-Genius,Slightly Insane,TV Shows,Detective,OCD
+Genius,Slightly Insane,Detective,OCD
 Baseline
 Low
 SFPD (Monk)

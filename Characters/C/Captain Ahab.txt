@@ -12,6 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-Captain,Books,Slightly Insane,Prosthetic,Peg-Leg,Sailor
+Captain,Slightly Insane,Prosthetic,Peg-Leg,Sailor
 Baseline
 High

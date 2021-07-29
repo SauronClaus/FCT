@@ -12,6 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-Books,Time Traveler,Soldier,WWII
+Time Traveler,Soldier,WWII
 Baseline
 Low

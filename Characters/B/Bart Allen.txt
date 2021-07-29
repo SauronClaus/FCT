@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Superheroes,Speedsters,Justice League,Teen Titans,Young Justice,Superhero Comics,Legacy|Wally West,Future Child
+Superheroes,Speedsters,Justice League,Teen Titans,Young Justice,Legacy|Wally West,Future Child
 City
 Medium

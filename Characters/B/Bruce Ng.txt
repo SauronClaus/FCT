@@ -12,6 +12,6 @@ Human
 Good
 Side Character
 Male
-Scientist,Government,Director,NASA,Books
+Scientist,Government,Director,NASA
 Baseline
 Low

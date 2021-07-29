@@ -1,7 +1,7 @@
 Animal
 The Muppets
-
-
+Animal is the wild drummer on The Muppet Show, performing with Dr. Teeth and the Electric Mayhem. A crazed percussionist with three styles of music — loud, louder, and deafening — Animal speaks in a guttural shout, often repeating a few simple phrases, such as "BEAT DRUMS! BEAT DRUMS!" or "WO-MAN!" In relatively calmer moods, he is capable of more coherent conversation, though these instances are infrequent.
+https://static.wikia.nocookie.net/muppet/images/7/78/AN_004.jpg/revision/latest/scale-to-width-down/561?cb=20111004221237
 Animal
 
 Animal
@@ -15,3 +15,7 @@ Male
 Musician,Muppet,Electric Mayhem
 Baseline
 High
+Electric Mayhem,The Muppet Show
+
+TV Shows,Muppets
+The Muppets

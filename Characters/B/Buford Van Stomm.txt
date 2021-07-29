@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Bully,Strong Man,TV Shows,Frenemy|Baljeet Tjinder,Cartoon
+Bully,Strong Man,Frenemy|Baljeet Tjinder,Cartoon
 Baseline
 Medium

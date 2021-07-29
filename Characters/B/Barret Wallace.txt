@@ -12,6 +12,6 @@ Human
 Good
 Party Member
 Male
-African-American,Gun-Arm,Prosthetic,Rebel,Leader,Video Games
+African-American,Gun-Arm,Prosthetic,Rebel,Leader
 Modified Human
 Low

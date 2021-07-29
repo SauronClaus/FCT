@@ -12,6 +12,6 @@ Cat
 Good
 Supporting Protagonist
 Male
-Fisherman,TV Shows,Video Games,Big
+Fisherman,Big
 Modified Human
 Low

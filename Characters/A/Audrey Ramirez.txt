@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Female
-Engineer,Teenager,Genius,Movies
+Engineer,Teenager,Genius
 Baseline
 Low

@@ -12,10 +12,11 @@ Robot
 Good
 Supporting Protagonist
 Male
-Movies,Droids,Protocol,Gold,Inseperable Duo|R2-D2
-Baseline
-High
 Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids
 
 Movies
 Star Wars
+
+Droids,Protocol,Gold,Inseperable Duo|R2-D2
+Baseline
+High

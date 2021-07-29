@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Paragon,Transforming
+Magic Word,Word of Power,Shazam Family,Magic,Paragon,Transforming
 World
 High

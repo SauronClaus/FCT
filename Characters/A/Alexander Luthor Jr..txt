@@ -12,7 +12,7 @@ Human
 Evil
 Antagonist
 Male
-Cosmic,Supervillain,Multiversal Origin,Earth-3,Superhero Comics
+Cosmic,Supervillain,Multiversal Origin,Earth-3
 Cosmic
 Low
 Survivors of the First Crisis (DC Comics)

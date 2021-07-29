@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Superheroes,Speedsters,Justice League,Superhero Comics,Police,Legacy|Jay Garrick,Love Interest|Iris West
+Superheroes,Speedsters,Justice League,Police,Legacy|Jay Garrick,Love Interest|Iris West
 City
 High

@@ -12,6 +12,6 @@ Faunus
 Good
 Protagonist
 Female
-TV Shows,Chosen One,Monster Hunter,Chainsaw,Animal-Person,Cat-Themed,LGBTQ+,Romantic Subplot|Yang Xiao Long
+Chosen One,Monster Hunter,Chainsaw,Animal-Person,Cat-Themed,LGBTQ+,Romantic Subplot|Yang Xiao Long
 Baseline
 Medium

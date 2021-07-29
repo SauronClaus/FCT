@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Female
-Horror Game Protagonist,Video Games
+Horror Game Protagonist
 Baseline
 Low

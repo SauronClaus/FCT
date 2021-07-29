@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Magic Word,Comic Books,Superhero Comics,Word of Power,Shazam Family,Magic,Transforming
+Magic Word,Word of Power,Shazam Family,Magic,Transforming
 Country
 Low

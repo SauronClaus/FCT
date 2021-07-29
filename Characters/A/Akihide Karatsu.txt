@@ -12,7 +12,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Books,Movies,VR (Augumented Reality),Japanese,Inseperable Duo|Toshiro Yoshiaki
+Movies,VR (Augumented Reality),Japanese,Inseperable Duo|Toshiro Yoshiaki
 Baseline
 Low
 High Five (Ready Player One)

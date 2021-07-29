@@ -12,6 +12,6 @@ Human
 Good
 Rival
 Male
-Pokemon Trainer,Champion,Kanto,Duo|Red,Video Games,Gym Leader
+Pokemon Trainer,Champion,Kanto,Duo|Red,Gym Leader
 Baseline
 High

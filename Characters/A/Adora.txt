@@ -12,7 +12,7 @@ Human
 Good
 Protagonist
 Female
-Transforming,Paragon,Chosen One,TV Shows,LGBTQ+,Best Friends Squad,Rebel,The Princess Alliance,Romantic Subplot|Catra
+Transforming,Paragon,Chosen One,LGBTQ+,Best Friends Squad,Rebel,The Princess Alliance,Romantic Subplot|Catra
 Country
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance

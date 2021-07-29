@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Female
-Soldier,Video Games
+Soldier
 Baseline
 Low

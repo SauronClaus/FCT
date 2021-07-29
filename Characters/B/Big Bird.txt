@@ -12,6 +12,6 @@ Muppet
 Good
 Protagonist
 Male
-Muppet,Child,Bird,Large Bird,TV Shows
+Muppet,Child,Bird,Large Bird
 Baseline
 Medium

@@ -12,10 +12,10 @@ Demigod
 Good
 Supporting Protagonist
 Genderfluid
-Genderfluid,Shape Shifter,Chaotic,Demigod,Norse,Einharjar,Books,LGBTQ+,Romantic Subplot|Magnus Chase,Floor 19
+Genderfluid,Shape Shifter,Chaotic,Demigod,Norse,Einharjar,LGBTQ+,Romantic Subplot|Magnus Chase,Floor 19
 Modified Human
 Medium
-Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Demigods (Rick Riordan)
+Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)
 
 Books
 Percy Jackson and the Olympians

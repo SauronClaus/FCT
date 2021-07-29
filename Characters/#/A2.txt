@@ -12,6 +12,6 @@ Robot
 Good
 Protagonist
 Female
-Soldier,Reality Loop,Video Games
+Soldier,Reality Loop
 Modified Human
 Medium

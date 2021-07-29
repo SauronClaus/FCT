@@ -12,6 +12,6 @@ Robot
 Good
 Protagonist
 Male
-Soldier,Reality Loop,Video Games
+Soldier,Reality Loop
 Modified Human
 Medium

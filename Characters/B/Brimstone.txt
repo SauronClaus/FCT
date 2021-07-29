@@ -12,6 +12,6 @@ Human
 Good
 Playable Character
 Male
-Video Games,Commander,Strong Man
+Commander,Strong Man
 Baseline
 Low

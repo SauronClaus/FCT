@@ -12,6 +12,6 @@ Human
 Good
 Side Character
 Female
-Youngest,Books,Movies,Astronaut,Love Interest|Dr. Chris Beck,Tech Genius
+Youngest,Astronaut,Love Interest|Dr. Chris Beck,Tech Genius
 Baseline
 Low

@@ -12,6 +12,6 @@ Human
 Evil
 Antagonist
 Male
-Suicide Squad,Boomerang,Boomerang Bros|Sokka,Superhero Comics,Movies,Australian
+Suicide Squad,Boomerang,Boomerang Bros|Sokka,Australian
 Baseline
 Low

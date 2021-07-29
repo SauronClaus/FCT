@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Powerhouse,Ultimates (Team),Superhero Comics,Genius,Forgotten Hero
+Powerhouse,Ultimates (Team),Genius,Forgotten Hero
 Country
 Popularity (Low, Medium, High)

@@ -12,7 +12,7 @@ Human
 Evil
 Protagonist
 Male
-Problem Child,Sociopath,Movies
+Problem Child,Sociopath
 Baseline
 Low
 

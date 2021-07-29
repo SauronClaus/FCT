@@ -12,6 +12,6 @@ Mutant
 Good
 Protagonist
 Male
-X-Men,Superhero Comics,Supersonic,Flight
+X-Men,Supersonic,Flight
 Baseline
 Low

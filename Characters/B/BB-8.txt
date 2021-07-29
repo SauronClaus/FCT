@@ -12,6 +12,6 @@ Robot
 Good
 Supporting Protagonist
 Male
-Movies,Droids,Astromech,Cute,Orange
+Droids,Astromech,Cute,Orange
 Baseline
 High

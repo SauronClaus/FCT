@@ -1,7 +1,7 @@
 Annette Fantine Dominic
 Fire Emblem: Three Houses
-
-
+Annette is a playable character that appears in Fire Emblem: Three Houses. Annette is a student at the Officers Academy who hails from the Holy Kingdom of Faerghus and a member of the Blue Lions. She possesses a minor Crest of Dominic. She is 16 years old at the start of the game.
+https://static.wikia.nocookie.net/fireemblem/images/3/30/Annette_Heroes.png/revision/latest/scale-to-width-down/700?cb=20200305143102
 Annette
 Dominic
 Annette Fantine Dominic
@@ -12,6 +12,11 @@ Human
 Good
 Party Member
 Female
-Mage,Overachiever,Nobility,Video Games,Blue Lions (Fire Emblem)
+Mage,Overachiever,Nobility,Blue Lions (Fire Emblem),Crest
 Baseline
 Low
+Blue Lions (Fire Emblem)
+
+Video Games
+Fire Emblem
+Crusher (Fire Emblem)

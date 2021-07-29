@@ -12,6 +12,6 @@ Bob-omb
 Good
 Supporting Protagonist
 Male
-Video Games,Bomb,Amnesiac
+Bomb,Amnesiac
 Modified Human
 Low

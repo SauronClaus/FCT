@@ -12,7 +12,7 @@ Human
 Neutral
 Antagonist
 Male
-Raw Power,Antagonist,Video Games
+Raw Power,Antagonist
 Country
 Medium
 

@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-TV Shows,Nerd,Genius,Frenemy|Buford Van Stomm,Cartoon
+Nerd,Genius,Frenemy|Buford Van Stomm,Cartoon
 Baseline
 Medium

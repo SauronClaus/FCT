@@ -12,6 +12,6 @@ Svartalf
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Dwarf,Books,Crafter,Tailor
+Demigod,Norse,Dwarf,Crafter,Tailor
 Modified Human
 Medium

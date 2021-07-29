@@ -12,7 +12,7 @@ Human
 Good
 NPC
 Female
-Occult Interested,Video Games,LGBTQ+,Stardew Valley Bachelorettes,Pixelated
+Occult Interested,LGBTQ+,Stardew Valley Bachelorettes,Pixelated
 Baseline
 Low
 Stardew Valley Trio,Stardew Valley Bachelorettes,Stardew Valley Residents

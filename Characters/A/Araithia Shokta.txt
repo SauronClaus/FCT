@@ -1,7 +1,7 @@
 Araithia Shokta
 Magic: The Gathering
-
-
+Araithia Shokta, nicknamed "Rat", is a petite guildless girl from Ravnica who is torn between joining the Selesnyan, Gruul, and Rakdos guilds. However, she also has a second personality as the Dimir assassin Atkos Tarr.
+https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/bb/Araithia_Shokta.png/revision/latest/scale-to-width-down/250?cb=20190727053059
 Araithia
 Shokta
 Araithia Shokta|Atkos Tarr|Rat
@@ -15,3 +15,7 @@ Female
 Rogue,Outcast,Orphan,Small,Assassin,Planeswalker
 Modified Human
 Low
+
+
+Card Game,Books
+Magic: The Gathering

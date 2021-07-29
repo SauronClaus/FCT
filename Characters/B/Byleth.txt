@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Depends
-Protagonist,Player Character,Chosen One,Crest,Video Games
+Protagonist,Player Character,Chosen One,Crest
 City
 High

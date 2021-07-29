@@ -1,7 +1,7 @@
 Apollo (Lester Papadopoulos)
 Percy Jackson
-
-
+Apollo, known as Lester Papadopoulos in his most recent human form and the Trials of Apollo, is the Greek god of the sun, light, healing, disease, plague, music, art, poetry, archery, reason, knowledge, truth, and prophecy. He is the twin brother of the goddess Artemis, and they are together known as the "twin archers". He is the main protagonist and narrator of The Trials of Apollo series and one of the supporting characters in the Percy Jackson and the Olympians and The Heroes of Olympus series.
+https://static.wikia.nocookie.net/olympians/images/6/68/Lester_Viria.jpg/revision/latest/scale-to-width-down/596?cb=20180409181128
 Apollo
 
 Apollo|Lester Papadopoulos
@@ -12,6 +12,11 @@ God
 Good
 Protagonist
 Male
-God,Books,Sun,Poetry,Archer
+God,Sun,Poetry,Archer
 Modified Human
 Medium
+Camp Half-Blood,Trials of Apollo Crew
+
+Books
+Percy Jackson and the Olympians
+Arrow of Dodona

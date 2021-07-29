@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Movies,Orphan,Chef,Nimble,Sailor,Suave,Young
+Orphan,Chef,Nimble,Sailor,Suave,Young
 Baseline
 Medium

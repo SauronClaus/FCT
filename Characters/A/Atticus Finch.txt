@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Lawyer,Books
+Lawyer
 Baseline
 Medium

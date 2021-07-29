@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Superhero Comics,Bat-Family,Justice League,Trinity,Outsiders,Tech,Genius,Detective
+Bat-Family,Justice League,Trinity,Outsiders,Tech,Genius,Detective
 City
 High

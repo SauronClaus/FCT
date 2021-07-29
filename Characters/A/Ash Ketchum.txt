@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Cheerful,Naive,TV Shows,Anime,Pokemon
+Cheerful,Naive,Pokemon
 Modified Human
 High

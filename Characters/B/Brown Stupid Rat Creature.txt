@@ -12,6 +12,6 @@ Rat Creature
 Evil
 Antagonist
 Male
-Graphic Novels,Duo|Blue Stupid Rat Creature,Idiot,Minion
+Duo|Blue Stupid Rat Creature,Idiot,Minion
 Modified Human
 Medium

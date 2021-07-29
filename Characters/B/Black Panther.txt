@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Superhero Comics,Movies,Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
+Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
 Modified Human
 High

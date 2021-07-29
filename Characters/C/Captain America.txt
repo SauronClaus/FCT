@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Captain America,Superhero Comics,Movies,Paragon,Super-Soldier Serum,Patriotism,Leader,Avengers,WWII,Rival|Tony Stark,Shields,Country-Themed
+Captain America,Paragon,Super-Soldier Serum,Patriotism,Leader,Avengers,WWII,Rival|Tony Stark,Shields,Country-Themed
 Modified Human
 High

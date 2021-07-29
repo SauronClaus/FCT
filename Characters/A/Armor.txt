@@ -1,7 +1,7 @@
 Armor
 Marvel Comics
-
-
+Armor (Hisako Ichiki (市来 久子, Ichiki Hisako)) is a fictional superhero appearing in American comic books published by Marvel Comics. She is a Japanese mutant who enrolled at the Xavier Institute as a teenager and who retained her powers after the events of Decimation.
+https://upload.wikimedia.org/wikipedia/en/d/d3/ArmorX-Men.png
 Hisako
 Ichiki
 Hisako Ichiki|Armor
@@ -12,6 +12,10 @@ Mutant
 Good
 Protagonist
 Female
-Power Armor,Powerhouse,X-Men,Young X-Men,Superhero Comics
+Power Armor,Powerhouse,X-Men,Young X-Men
 Modified Human
 Medium
+X-Men (Extended),Young X-Men
+
+Superhero Comics,Comics
+Marvel Comics

@@ -12,6 +12,6 @@ Human
 Good
 Side Character
 Male
-Books,Weasely,Order of the Pheonix II,Wizard,Movies
+Weasely,Order of the Pheonix II,Wizard
 Baseline
 Medium

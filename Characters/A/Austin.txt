@@ -12,6 +12,6 @@ Kangaroo
 Good
 Protagonist
 Male
-Imaginative,Child,TV Shows,CGI
+Imaginative,Child
 Baseline
 Low

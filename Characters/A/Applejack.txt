@@ -1,7 +1,7 @@
 Applejack
 My Little Pony: Friendship is Magic
-
-
+Applejack is a female Earth pony and one of the main characters of My Little Pony Friendship is Magic. She lives and works at Sweet Apple Acres with her grandmother Granny Smith, her older brother Big McIntosh, her younger sister Apple Bloom, and her dog Winona. She represents the element of honesty.
+https://static.wikia.nocookie.net/mlp/images/d/d8/Applejack_S01E13_cropped.png/revision/latest/scale-to-width-down/225?cb=20130419182236
 Applejack
 
 Applejack
@@ -12,6 +12,11 @@ Pony
 Good
 Protagonist
 Female
-Farmer,Apples,TV Shows,Diligent,Southern Accent,Cowboy
+Farmer,Apples,Diligent,Southern Accent,Cowboy
 City
 Low
+Friendship Ship Group (My Little Pony)
+
+TV Shows,Cartoon
+My Little Pony
+Element of Honesty (My Little Pony)

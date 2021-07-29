@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Vampire Hunter,Books,Billionare,Nobility
+Vampire Hunter,Billionare,Nobility
 Baseline
 Low

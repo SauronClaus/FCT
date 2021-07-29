@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Jedi Knight,Soldier,Video Games,Apprentice,Player Character
+Jedi Knight,Soldier,Apprentice,Player Character
 Modified Human
 Medium

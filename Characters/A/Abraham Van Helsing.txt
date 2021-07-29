@@ -12,10 +12,10 @@ Human
 Good
 Protagonist
 Male
-Vampire Hunter,Old,Genius,Books
+Vampire Hunter,Old,Genius
 Baseline
 Medium
-Dracula Hunters
+Genius,Vampire Hunters
 
 Books,Movies
-Dracula
+Dracula Hunters

@@ -12,6 +12,6 @@ Human
 Good
 Minor Side Character
 Male
-Books,Weasely,Order of the Pheonix II,Wizard,Movies,Married|Fleur Delacour
+Weasely,Order of the Pheonix II,Wizard,Married|Fleur Delacour
 Modified Human
 Low

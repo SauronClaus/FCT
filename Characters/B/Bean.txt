@@ -12,6 +12,6 @@ Humans
 Good
 Protagonist
 Male
-Books,Movies,Strategist
+Strategist
 Baseline
 Low

@@ -1,7 +1,7 @@
 Anole
 Marvel Comics
-
-
+Anole (Victor Borkowski) is a fictional mutant superhero appearing in American comic books published by Marvel Comics. He was created by Christina Weir and Nunzio DeFilippis and first appeared in issue #2 of New Mutants vol. 2 (August 2003). A student at the Xavier Institute and junior member of the X-Men, Anole is also openly gay. His reptilian mutation grants him superhuman abilities including wallcrawling, a prehensile tongue, and adaptive camouflage.
+https://upload.wikimedia.org/wikipedia/en/5/56/Anole23.jpg
 Victor
 Borkowski
 Anole|Victor Borkowski
@@ -12,6 +12,10 @@ Mutant
 Good
 Protagonist
 Male
-Young X-Men,LGBTQ+,Green,Superhero Comics
+Young X-Men,LGBTQ+,Green
 Modified Human
 Low
+Young X-Men,X-Men (Extended)
+
+Superhero Comics,Comics
+Marvel Comics

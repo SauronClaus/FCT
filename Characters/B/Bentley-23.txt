@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Clone,Genius,Superhero Comics,Fantastic Four,Future Foundation,Genius,Non-Powered
+Clone,Genius,Fantastic Four,Future Foundation,Genius,Non-Powered
 Baseline
 Low

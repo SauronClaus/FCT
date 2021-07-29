@@ -12,6 +12,6 @@ Robot
 Neutral
 Protagonist
 Male
-Video Games,Robot,Against Programming,Turret,Machine Gun
+Robot,Against Programming,Turret,Machine Gun
 Modified Human
 Medium

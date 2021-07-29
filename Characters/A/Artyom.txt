@@ -12,6 +12,6 @@ Human
 Neutral
 Protagonist
 Male
-Ranger,Video Games,Post-Apocalypse
+Ranger,Post-Apocalypse
 Baseline
 Low

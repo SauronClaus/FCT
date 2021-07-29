@@ -15,7 +15,7 @@ Female
 Superhero,Nerd,Store Clerk,Shortpacked! Store,Introvert
 Baseline
 Low
-Shortpacked! Store,Dumbing of Age Main Cast,
+Shortpacked! Store,Dumbing of Age Main Cast
 
 Webcomics,Comics
 Walkyverse

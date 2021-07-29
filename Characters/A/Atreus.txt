@@ -12,6 +12,6 @@ Demigod
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Archer,Video Games
+Demigod,Norse,Archer
 Modified Human
 High

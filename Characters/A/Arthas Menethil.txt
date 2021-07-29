@@ -1,7 +1,7 @@
 Arthas Menethil
 Band of Fools Reboot
-
-
+Arthas Menethil was a paladin of Torm associated with Aelar Galanodel's party, before later dying and returning as a Death Knight to fight the Band of Fools.
+https://cdnb.artstation.com/p/assets/images/images/008/530/719/large/dmitry-burmak-bmb-bomber-01.jpg?1513347126
 Arthas
 Menethil
 Arthas Menethil
@@ -15,3 +15,7 @@ Male
 Death Knight,Fallen Paladin,War Hammer,D&D
 City
 Low
+
+
+Dungeons & Dragons
+Band of Fools

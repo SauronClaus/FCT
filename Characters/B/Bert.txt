@@ -12,6 +12,6 @@ Muppet
 Good
 Protagonist
 Male
-Straight Man,TV Shows,Muppet,Sesame Street,Duo|Ernie
+Straight Man,Muppet,Sesame Street,Duo|Ernie
 Baseline
 Medium

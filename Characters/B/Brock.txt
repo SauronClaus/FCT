@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Pokemon Trainer,Kanto,Video Games,Gym Leader,Anime
+Pokemon Trainer,Kanto,Gym Leader
 Baseline
 High

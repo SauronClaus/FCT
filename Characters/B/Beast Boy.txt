@@ -12,6 +12,6 @@ Human
 Good
 Protagonist
 Male
-Superhero Comics,TV Shows,Teen Titans,Shapeshifter,Prankster,Green
+Teen Titans,Shapeshifter,Prankster,Green
 City
 High

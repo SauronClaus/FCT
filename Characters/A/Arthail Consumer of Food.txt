@@ -1,7 +1,7 @@
 Arthail, Consumer of Food
 Band of Fools
 
-
+https://www.dndbeyond.com/avatars/10/67/636339379597405748.png?width=150&height=150&fit=crop&quality=95&auto=webp
 Arthail
 
 Arthail|Arthail, Consumer of Food
@@ -15,3 +15,7 @@ Male
 Original Three (Band of Fools),Barbarian,Band of Fools,Band of Fools Redux,D&D
 Modified Human
 Low
+Band of Fools (Original),Original Three (Band of Fools),Band of Fools (Redux)
+
+Dungeons & Dragons
+Band of Fools

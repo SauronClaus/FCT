@@ -12,6 +12,6 @@ Human
 Good
 Party Member
 Female
-Sword,Loud,Relic,Knights of Seiros,Video Games,Yin & Yang|Shamir
-Baselien
+Sword,Loud,Relic,Knights of Seiros,Yin & Yang|Shamir
+Baseline
 Low

@@ -12,7 +12,7 @@ Human,Klyntar
 Good
 Protagonist
 Male
-Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Superhero Comics,Reformed Villain
+Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Reformed Villain
 City
 Low
 Guardians of the Galaxy Extended,Avengers Extended,Symbiote Squad

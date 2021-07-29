@@ -12,6 +12,6 @@ Kerbal
 Good
 Protagonist
 Male
-Video Games,Scientist,Original Four,Astronaut
+Scientist,Original Four,Astronaut
 Modified Human
 Medium

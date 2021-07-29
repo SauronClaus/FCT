@@ -12,7 +12,7 @@ Human
 Good
 NPC
 Male
-Jock,Football,Video Games,LGBTQ+,Pixelated,Stardew Valley Bachelors
+Jock,Football,LGBTQ+,Pixelated,Stardew Valley Bachelors
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents

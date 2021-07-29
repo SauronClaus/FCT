@@ -1,7 +1,7 @@
 Ann Takamaki
-Persona
-
-
+Persona 5
+Ann Takamaki is a playable character from Persona 5. She is a student at Shujin Academy who lives a double life as a Phantom Thief.
+https://static.wikia.nocookie.net/megamitensei/images/b/be/An_takamaki.png/revision/latest/scale-to-width-down/366?cb=20170426203909
 Ann
 Takamaki
 Ann Takamaki|Panther
@@ -12,6 +12,10 @@ Human
 Good
 Supporting Protagonist
 Female
-Phantom Thieves of Hearts,Strong Will,Moral Compass,Video Games
+Phantom Thieves of Hearts,Strong Will,Moral Compass
 Modified Human
 Low
+Phantom Thieves of Hearts
+
+Video Games
+Persona

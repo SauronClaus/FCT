@@ -12,6 +12,6 @@ Coluan
 Good
 Protagonist
 Male
-Genius,Superhero Comics,Tech,Future Tech,Legion of Superheroes,Green
+Genius,Tech,Future Tech,Legion of Superheroes,Green
 Modified Human
 Low

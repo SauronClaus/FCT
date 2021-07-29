@@ -1,7 +1,7 @@
 Anna
 Frozen
-
-
+Queen Anna of Arendelle (pronounced "AH-na") is the protagonist of Disney's 2013 animated feature film Frozen and the deuteragonist of its 2019 sequel. She is the second-born daughter of King Agnarr and Queen Iduna, the younger sister of Elsa the Snow Queen, and the contemporary ruler of Arendelle. During their childhood, an accident involving Elsa's magic created a rift between the two sisters, leaving Anna devoid of love for many years. Despite this, Anna remained big-hearted and optimistic, albeit socially awkward. When their estrangement incidentally triggers an eternal winter, Anna embarks on a perilous journey to save her kingdom and mend the broken bond between herself and her sister.
+https://static.wikia.nocookie.net/disney/images/0/0f/Profile_-_Anna.jpeg/revision/latest/scale-to-width-down/1032?cb=20200319054431
 Anna
 
 Queen Anna of Arendelle|Anna
@@ -12,6 +12,10 @@ Human
 Good
 Protagonist
 Female
-Royalty,Cheerful,Musical,Disney Princess,CGI
+Royalty,Cheerful,Musical,Disney Princess,Sibling|Elsa
 Baseline
 High
+Frozen Quintent
+
+Do You Want to Build a Snowman?|https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6?si=1630c01c08864abb
+Frozen

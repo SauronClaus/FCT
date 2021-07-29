@@ -12,6 +12,6 @@ Human
 Good
 Supporting Protagonist
 Male
-Video Games,Literary Agent,New Yorker,Allergies
+Literary Agent,New Yorker,Allergies
 Baseline
 Low

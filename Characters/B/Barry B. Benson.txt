@@ -12,6 +12,6 @@ Bee
 Good
 Protagonist
 Male
-Movies,Insects
+Insects
 Baseline
 Medium

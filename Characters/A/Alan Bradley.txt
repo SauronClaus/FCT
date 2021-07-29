@@ -12,7 +12,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Hacker,Programmer,Movies
+Hacker,Programmer
 Baseline
 Medium
 ENCOM
