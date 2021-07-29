@@ -34,7 +34,8 @@ async def on_message(message):
     if message.author == client.user:
         return
     if message.content == "*test":
-        embed = infoCard("Aang")
+        embed = infoCard("Captain Nemo")
         await message.channel.send(embed=embed)
+        
 
 client.run(trueToken)

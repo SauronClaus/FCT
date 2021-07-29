@@ -12,7 +12,7 @@ Human
 Good
 Protagonist
 Male
-Romantic Subplot|Katara,Frozen in Ice,Bender
+Romantic Subplot|Katara,Frozen in Ice,Bender,Pacifist,Monk
 Modified Human
 High
 The Gaang,Avatars

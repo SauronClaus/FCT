@@ -25,7 +25,7 @@ There's 22 lines, in this order. Thoses lines are:
 22. Signature Weapon- Thor's got Mjolnir, Edelgard's got Aymr, and Thanos has his Infinity Gauntlet. Any items in here should correspond with an Artifact in artifacts. 
 
 Alright so other important notes: 
-- If you can't find the info on somebody, no worries, just leave the line blank. I can spin around later and check it out if need be.
+- If you can't find the info on somebody, no worries, just leave the line blank. I can spin around later and check it out if need be. It's very important that the line exists though- screws up the code if it doesn't.
 - If adding someone, no commas, line breaks, or "|" in their names. 
 - Be fair when ranking someone- having a niche character nobody's ever heard of multiple days in a row is no fun for anyone.
 - Submit merge requests and I'll try to figure out how that works? We'll see. Never collabed with people over GitHub before. 

@@ -12,7 +12,7 @@ Human
 Neutral
 Protagonist
 Male
-Ruthless,Scientific,Ocean,Submarine,Captain,Science Fiction
+Ruthless,Scientific,Ocean,Submarine,Captain,Science Fiction,Royalty,Nobility
 Modified Human
 Medium
 
