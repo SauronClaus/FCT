@@ -1,4 +1,22 @@
 Captain Nemo
-Twenty Thousand Leagues Under the Seas
+Twenty Thousand Leagues Under the Sea
+Captain Nemo is a mysterious figure. Though originally of unknown nationality, he is later described as the son of an East Indian raja. A scientific visionary, he roams the depths of the seas in his submarine, the Nautilus, which was assembled from parts manufactured in several different countries, then shipped to a cover address and assembled in secrecy. The captain is consumed by a hunger for vengeance and hatred of imperialism; the British Empire is ultimately revealed as his main antagonist. 
+https://en.wikipedia.org/wiki/File:%27Twenty_Thousand_Leagues_Under_the_Sea%27_by_Neuville_and_Riou_027.jpg
+
+Dakkar
+Captain Nemo|Prince Dakkar
+Ben Cross|James Mason
+45|4
+Explorer
+Human
+Neutral
+Protagonist
+Male
+Ruthless,Scientific,Ocean,Submarine,Captain,Science Fiction
+Modified Human
+Medium
 
 
+Book,Movie
+
+The Nautilus
