@@ -1,7 +1,7 @@
 Artyom Alekseyevich Chyornyj
-Metro franchise
-
-
+Metro
+Artyom is the main character of the novels Metro 2033 and Metro 2035. He is also the playable protagonist of the video games; Metro 2033, Metro Last Light, and Metro Exodus. He does not appear in Metro 2034, which features a different man with the same first name; Artyom Popov.
+https://static.wikia.nocookie.net/p__/images/c/cb/MetroArtyomFace.png/revision/latest/scale-to-width-down/452?cb=20210412023225&path-prefix=protagonist
 Artyom
 Chyornyj
 Artyom Alekseyevich Chyornyj
@@ -15,3 +15,7 @@ Male
 Ranger,Post-Apocalypse
 Baseline
 Low
+
+
+Video Games,Books
+Metro

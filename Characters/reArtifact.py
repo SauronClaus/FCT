@@ -13,10 +13,11 @@ for letter in alphabet:
                 #print(entry + ": " + str(len(characterInfo)))
                 characterWeapon = characterInfo[21]
                 if characterWeapon != "":
-                    print(entry[0:len(entry)-4:] + ": " + characterWeapon)
-                    try:
-                        weaponFile = open("Artifacts\\" + characterWeapon + ".txt", "r")
-                    except:
-                        weaponFile = open("Artifacts\\" + characterWeapon + ".txt", "w")
-                        weaponFile.write(characterWeapon + "\n")
+                    for weapon in characterWeapon.split("|"):
+                        print(entry[0:len(entry)-4:] + ": " + weapon)
+                        try:
+                            weaponFile = open("Artifacts\\" + weapon + ".txt", "r")
+                        except:
+                            weaponFile = open("Artifacts\\" + weapon + ".txt", "w")
+                            weaponFile.write(weapon + "\n")
 

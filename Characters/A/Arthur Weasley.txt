@@ -1,7 +1,7 @@
 Arthur Weasley
 Harry Potter
-
-
+Arthur Weasley (b. 6 February, 1950) was an English pure-blood wizard in the employ of the Ministry of Magic, as well as a member of the second Order of the Phoenix. He was a staunch believer in the equality of all magical and Muggle folk and was the head of the Weasley family.
+https://static.wikia.nocookie.net/harrypotter/images/0/02/Arthur_Weasley_profile.jpg/revision/latest/scale-to-width-down/700?cb=20150828155118
 Arthur
 Weasley
 Arthur Weasley
@@ -15,3 +15,7 @@ Male
 Weasely,Order of the Pheonix II,Wizard
 Baseline
 Medium
+Order of the Pheonix II,Weasley Family
+
+Books,Movies
+Harry Potter

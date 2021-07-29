@@ -1,7 +1,7 @@
 Arthur Holmwood
 Dracula
-
-
+Arthur "Art" Holmwood (later Lord Godalming) is a fictional character in Bram Stoker's 1897 novel Dracula. Holmwood is engaged to Lucy Westenra, and is best friends with the other two men who proposed to her on the very same day— Quincey Morris and Doctor John Seward. Holmwood is the one who drives a wooden stake into Lucy after she becomes a vampire and helps hunt Count Dracula. He is the only son of Lord Godalming. When his father dies about halfway through the novel, Arthur inherits his title. It is through his wealth and fortune that the team are able to be funded in their operation of vanquishing Dracula. He has been depicted aiding the other protagonists of the novel in raiding Dracula's many lairs throughout London as well as aiding in the investigation of locating Dracula's many purchased estates. It is mentioned in the note at the end of the novel, written seven years after Dracula's death, that Holmwood is now married happily.
+https://upload.wikimedia.org/wikipedia/en/6/68/Arthur_Holmwood.jpg
 Arthur
 Holmwood
 Arthur Holmwood
@@ -15,3 +15,7 @@ Male
 Vampire Hunter,Billionare,Nobility
 Baseline
 Low
+Dracula Hunters
+
+Books,Movies
+Dracula

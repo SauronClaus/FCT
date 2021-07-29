@@ -1,7 +1,7 @@
 Aurora
 Marvel Comics
-
-
+Aurora (French: Aurore) (Jeanne-Marie Beaubier) is a fictional character, a superhero appearing in American comic books published by Marvel Comics. Created by Chris Claremont and John Byrne, the character first appeared in X-Men #120 (April 1979) as a member of the Canadian superhero team, Alpha Flight. Aurora is the twin sister of Northstar and the former lover of Sasquatch and Wild Child. The character struggled with a dissociative identity disorder for years leading to two distinctive personalities, the quiet, religious Jeanne-Marie and the outgoing, heroic, uninhibited Aurora. Aurora and Northstar worked together for years as part of Alpha Flight, including dealing with Beaubier's struggles with her personality disorders. She was briefly a member of the X-Men and also participated in the Weapon X program in an attempt to gain control of her splintered personalities.
+https://static.comicvine.com/uploads/original/0/7884/1035284-aurora.jpg
 Jeanne-Marie
 Beaubier
 Jeanne-Marie Beaubier|Aurora
@@ -15,3 +15,7 @@ Female
 Twins|Northstar,Superhero,Split Personality,Speedsters,Alpha Flight,X-Men
 City
 Low
+Alpha Flight,X-Men (Extended)
+
+Superhero Comics,Comics
+Marvel Comics

@@ -1,7 +1,7 @@
 Ashley Williams
 Mass Effect
-
-
+Ashley Madeline Williams is a human soldier who served in the Systems Alliance as a Gunnery Chief in the 2nd Frontier Division on Eden Prime, and was later assigned to Commander Shepard's squad after the geth attack on Eden Prime. She is a potential romance partner for a male Shepard.
+https://static.wikia.nocookie.net/masseffect/images/6/6e/ME_ashley_charshot.png/revision/latest/scale-to-width-down/700?cb=20210620044329
 Ashley
 Williams
 Ashley Madeline Williams
@@ -15,3 +15,7 @@ Female
 Soldier
 Baseline
 Low
+
+
+Video Games,CGI
+Mass Effect

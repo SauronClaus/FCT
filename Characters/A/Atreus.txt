@@ -1,7 +1,7 @@
 Atreus
 God of War
-
-
+Atreus (Greek: Ἀτρεύς) is the son of Kratos and Laufey and the deuteragonist of God of War (2018). To the Jötnar, he is known as Loki.
+https://static.wikia.nocookie.net/godofwar/images/9/90/Atri.jpg/revision/latest/scale-to-width-down/700?cb=20180612092429
 Atreus
 
 Atreus|Loki|Boy
@@ -12,6 +12,11 @@ Demigod
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Archer
+Demigod,Norse,Archer,Parent Child|Kratos
 Modified Human
 High
+
+
+Video Games,CGI
+God of War
+Atreus' Knife

@@ -1,7 +1,7 @@
 Athena
 God of War
-
-
+Athena was the Olympian Goddess of Wisdom and War, and serves as the overall Deuteragonist of the Greek Era of God of War Series, who mostly appeared as an ally of Kratos.
+https://static.wikia.nocookie.net/godofwar/images/0/08/AndyPark_GOW3_27.jpg/revision/latest/scale-to-width-down/700?cb=20100710202036
 Athena
 
 Athena
@@ -9,9 +9,13 @@ Carole Ruggier|Erin Torpey
 Immortal
 God
 God
-Evil
+Neutral
 Antagonist
 Female
-Goddess,Omnipotent
+Goddess,Omnipotent,Greek
 Omnipotent
 Low
+
+
+Video Games
+God of War
