@@ -12,8 +12,9 @@ There's 11 lines, in this order. Thoses lines are:
 7) Tags- These are the important ones. Put some tags for traits the artifact might have that other artifact may share- sentient, history, wielder, etc. The important tag is Medium (like TV Shows, Video Games, etc.). Other then that, also add any groups they're associated with (such as "Jedi" or "Phantom Thieves"). 
 8) Medium- What is this classically appearing in? Seperate with ",". 
 9) Type- This ones another doozy. Put the type of artifact- weapon, vehicle, armor, etc.- and then the subtype (seperate type/subtype with "|"): Axe, Bow, Submarine, etc.
-10) Power Level! (Mundane, Slightly-Magical, City, Country, World, Cosmic, Interuniversal, Omnipotent)- This one's, once again, quite subjective. What's the biggest amount of property they could destroy before someone stopped them? Just guess, and someone may fact-check you later!
-11) Popularity (Low, Medium, High)- Be fair here. "Low" is some niche weapon from a YA novel or a TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Mjolnir" or something.
+10) Sets- Add any sets this artifact belongs to, like the infinity stones. Seperate with "|".
+11) Power Level! (Mundane, Slightly-Magical, City, Country, World, Cosmic, Interuniversal, Omnipotent)- This one's, once again, quite subjective. What's the biggest amount of property they could destroy before someone stopped them? Just guess, and someone may fact-check you later!
+12) Popularity (Low, Medium, High)- Be fair here. "Low" is some niche weapon from a YA novel or a TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Mjolnir" or something.
 
 Alright so other important notes: 
 - If adding something, no commas, line breaks, or "|" in their names. 
