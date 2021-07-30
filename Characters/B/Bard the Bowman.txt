@@ -1,7 +1,7 @@
 Bard the Bowman
-Lord of the Rings
-
-
+The Hobbit
+Bard, known also as Bard the Bowman, and less chiefly Bard the First, was a man of Lake-town, the slayer of the dragon Smaug, and the founder and first king of the new Kingdom of Dale. He was succeeded as King of Dale by his son, Bain.
+https://static.wikia.nocookie.net/lotr/images/9/94/Luke_Evans_as_Bard.jpg/revision/latest/scale-to-width-down/700?cb=20181121032346
 Bard
 
 Bard the Bowman|Bard the Dragonslayer
@@ -15,3 +15,8 @@ Male
 Dragonslayer|Smaug,Archer,Chosen One,Royalty,Nobility,Town Guard,Peasant
 Baseline
 Low
+
+
+Books,Movies
+Lord of the Rings
+Black Arrow (LOTR)

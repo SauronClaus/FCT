@@ -18,5 +18,5 @@ High
 Justice League (Extended),Justice League Founder,Justice League (Film)
 
 Superhero Comics,Comics,Movies,TV Shows
-DC Comics
+DC
 Aquaman's Trident

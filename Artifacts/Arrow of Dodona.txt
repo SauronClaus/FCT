@@ -4,7 +4,7 @@ The Arrow of Dodona is an arrow that Apollo found in the Grove of Dodona. The ar
 https://static.wikia.nocookie.net/olympians/images/9/92/Arrow_of_Dodona.jpg/revision/latest/scale-to-width-down/700?cb=20201015020937
 Percy Jackson and the Olympians
 Apollo
-Sentient,Annoying,Prophetic
+Sentient,Annoying,Prophetic,Arrow
 Books
 Weapon|Arrow
 

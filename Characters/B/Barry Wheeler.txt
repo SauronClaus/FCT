@@ -1,7 +1,7 @@
 Barry Wheeler
 Alan Wake
-
-
+Barry Wheeler is Alan Wake's friend and also his literary agent. He is a very typical New Yorker, high-strung and high-powered. Barry suffers from allergies, including dust, grass, pollen, and small towns. Barry is a good friend and despite his allergies and his protests he travels to Bright Falls when he senses that Alan Wake needs him. He is the first person Alan relates the strange events to and initially Barry doesn't believe him. However, Barry soon witnesses the Darkness ripping through the forest and is attacked by Taken Birds. He survives this encounter. He also appears in the DLC's in the form of Imaginary Barry.
+https://static.wikia.nocookie.net/alanwake/images/e/e8/Barry.jpg/revision/latest/scale-to-width-down/699?cb=20100517190323
 Barry
 Wheeler
 Barry Wheeler
@@ -15,3 +15,7 @@ Male
 Literary Agent,New Yorker,Allergies
 Baseline
 Low
+
+
+Video Games,CGI
+Alan Wake

@@ -1,13 +1,13 @@
 Bastion
 Overwatch
-
-
+Bastion is an omnic wanderer formerly built to be a war combatant, who is now travelling to satisfy its curiosity about nature and leave its horrifying past behind.
+https://static.wikia.nocookie.net/overwatch/images/6/6a/Bastion_portrait.png/revision/latest/scale-to-width-down/700?cb=20160429042023
 Bastion
 
 SST Laboratories Siege Automaton E54|Bastion
 Chris Metzen
 30|3
-Sentry Robot
+Explorer
 Robot
 Neutral
 Protagonist
@@ -15,3 +15,7 @@ Male
 Robot,Against Programming,Turret,Machine Gun
 Modified Human
 Medium
+Overwatch Heroes
+
+Video Games,CGI
+Overwatch

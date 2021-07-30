@@ -1,7 +1,7 @@
 Banshee
 Marvel Comics
-
-
+Banshee (Sean Cassidy) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Roy Thomas and artist Werner Roth, the character first appeared in X-Men #28 (January 1967). An Irish mutant, Banshee possesses a "sonic scream", capable of harming enemies’ auditory systems and causing physical vibrations. He is named after the banshee, a legendary spirit from Irish mythology, said to possess a haunting cry.
+https://upload.wikimedia.org/wikipedia/en/5/58/BansheeBraithwaite.png
 Sean
 Cassidy
 Banshee|Sean Cassidy
@@ -15,3 +15,7 @@ Male
 X-Men,Supersonic,Flight
 Baseline
 Low
+X-Men (Extended),Giant Sized X-Men #1 Team
+
+Superhero Comics,Comics
+Marvel

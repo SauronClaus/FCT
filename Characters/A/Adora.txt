@@ -17,6 +17,6 @@ Country
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
 
-TV Shows
+TV Shows,Cartoon
 He-Man
 Sword of Protection

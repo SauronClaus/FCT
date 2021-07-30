@@ -1,7 +1,7 @@
 Barry B. Benson
 The Bee Movie
-
-
+Barry B. Benson is an ordinary bee who lives in a hive in Sheep Meadow, Central Park, New York City. He is the main character of the film Bee Movie. He is voiced by Jerry Seinfeld. He can surf, and he wears shoes that resemble converse shoes, and a (black - and yellow) turtleneck sweater.
+https://static.wikia.nocookie.net/beemovie/images/1/11/Barry-B-Benson.png/revision/latest/scale-to-width-down/700?cb=20190513100654
 Barry
 Benson
 Barry B. Benson
@@ -15,3 +15,7 @@ Male
 Insects
 Baseline
 Medium
+
+
+Movies,CGI
+The Bee Movie

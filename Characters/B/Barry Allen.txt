@@ -1,7 +1,7 @@
 Barry Allen
 DC Comics
-
-
+The Flash (Bartholomew Henry "Barry" Allen) is a fictional superhero appearing in a series of American comic books published by DC Comics. The character first appeared in Showcase #4 (October 1956), created by writer Robert Kanigher and penciler Carmine Infantino. Barry Allen is a reinvention of a previous character called the Flash. Because he is a speedster, his power consists mainly of superhuman speed. Various other effects are also attributed to his ability to control the slowness of molecular vibrations, including his ability to vibrate at speed to pass through objects. The Flash wears a distinct red and gold costume treated to resist friction and wind resistance, traditionally storing the costume compressed inside a ring.
+https://upload.wikimedia.org/wikipedia/en/3/3b/Flash_%28Barry_Allen_circa_2019%29.png
 Barry
 Allen
 Barry Allen,The Flash
@@ -15,3 +15,7 @@ Male
 Superheroes,Speedsters,Justice League,Police,Legacy|Jay Garrick,Love Interest|Iris West
 City
 High
+Justice League Core Members,Justice League (Extended),Flash Family,Justice League (film),Arrowverse Main Cast,Justice League Founder
+
+Superhero Comics,Comics,TV Shows,Movies
+DC

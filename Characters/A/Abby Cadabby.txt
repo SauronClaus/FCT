@@ -12,10 +12,10 @@ Fairy
 Good
 Supporting Protagonist
 Female
-Sesame Street Residents
-Baseline
 Muppet,Sesame Street Residents,Fairies,Magic Users
 Baseline
 Low
+Sesame Street Residents
+
 TV Shows,Children's TV Shows,Muppets
 Sesame Street

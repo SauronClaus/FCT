@@ -1,7 +1,7 @@
 Bart Allen
 DC Comics
-
-
+Bartholomew Henry "Bart" Allen is a fictional superhero in the DC Comics Universe. A speedster, he first appeared under the alias Impulse and later became the second Kid Flash and the fourth Flash. Created by Mark Waid and Mike Wieringo, Bart first made a cameo in The Flash #91 in 1994 before his full debut in issue #92. He has since been featured as the lead character in Impulse (1995–2002) and The Flash: The Fastest Man Alive (2006–2007). Bart also appears in the series Young Justice and Teen Titans as a member of both superhero teams. In addition to the Teen Titans and Young Justice, Bart was a core character in 10 issues of Justice League of America under the mantle of the Flash.
+https://upload.wikimedia.org/wikipedia/en/7/76/Bart_Allen_Young_Justice_Vol_3_1.png
 Bart
 Allen
 Bart Allen,The Flash,Kid Flash,Impulse
@@ -15,3 +15,7 @@ Male
 Superheroes,Speedsters,Justice League,Teen Titans,Young Justice,Legacy|Wally West,Future Child
 City
 Medium
+Young Justice,Justice League (Extended),Flash Family,Young Justice (Extended),Teen Titans (Extended)
+
+Superhero Comics,Comics,TV Shows
+DC

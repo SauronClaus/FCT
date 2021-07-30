@@ -1,9 +1,12 @@
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
-import discord 
+import discord
+import random
 
 def infoPerson(personName):
     firstChar = personName[0:1:]
+    if firstChar in numbers:
+        firstChar = "#"
     print("Opening path to " + personName + ": Characters\\" + firstChar + "\\" + personName + ".txt")
     personFile = open("Characters\\" + firstChar + "\\" + personName + ".txt", "r", encoding='utf8')
     personInfo = personFile.read().split("\n")
@@ -68,7 +71,7 @@ def infoPerson(personName):
         
     if personInfo[18] != "":
         themeSong = "Megalovania|https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL?si=a9791693d4f04223"
-        if personInfo[18].split(",") >= 2:
+        if len(personInfo[18].split("|")) >= 2:
             themeSongList = personInfo[18].split(",")
             RNG = random.randint(0,len(themeSongList)-1)
             themeSong = themeSongList[RNG]
@@ -101,7 +104,11 @@ def infoArtifact(artifactName):
         embed.add_field(name="Franchise",value=artifactInfo[4], inline=False)
 
     if artifactInfo[7] != "":
-        embed.add_field(name="Medium",value=artifactInfo[7], inline=True)
+        mediumString = ""
+        for medium in personInfo[21].split("|"):
+            mediumString = mediumString + medium + ", "
+        mediumString = mediumString[0:len(mediumString)-2:]
+        embed.add_field(name="Medium",value=mediumString, inline=True)
     if artifactInfo[8] != "":
         artifactThing = artifactInfo[8].split("|")
         embed.add_field(name="Type",value=artifactThing[0] + ": " + artifactThing[1], inline=True)
