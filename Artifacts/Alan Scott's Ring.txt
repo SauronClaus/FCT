@@ -2,6 +2,7 @@ Alan Scott's Ring
 DC Comics
 The Starheart found its way to Earth where, in 1939, in the shape of a lantern, it saved Alan from a train wreck. At the lantern's mental direction, Alan fashioned a ring from it that allowed him to tap the Starheart's great power.
 https://static.wikia.nocookie.net/marvel_dc/images/9/95/Green_Lantern_Alan_Scott_0003.jpg/revision/latest?cb=20100211183154
+https://greenlantern.fandom.com/wiki/Green_Lantern_(Alan_Scott)
 DC
 Alan Scott
 Green Lantern Ring,Ring,Construct,Lantern Corps
@@ -10,3 +11,4 @@ Accessory|Ring
 Green Lantern Rings|Guardians of the Universe Weapons
 Cosmic
 Medium
+Green

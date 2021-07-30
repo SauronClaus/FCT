@@ -2,6 +2,7 @@ Alex DeLarge
 A Clockwork Orange
 Alex is a fictional character in Anthony Burgess's novel A Clockwork Orange and Stanley Kubrick's film adaptation of the same name, in which he is played by Malcolm McDowell. In the film, his surname is DeLarge, a reference to Alex calling himself The Large in the novel. In the film, however, two newspaper articles print his name as "Alex Burgess". In addition to the book and film, Alex was portrayed by Vanessa Claire Smith in the ARK Theatre Company's multimedia adaptation of A Clockwork Orange, directed by Brad Mays.
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Malcolm_McDowell_Clockwork_Orange.png/330px-Malcolm_McDowell_Clockwork_Orange.png
+https://en.wikipedia.org/wiki/Alex_(A_Clockwork_Orange)
 Alex
 DeLarge
 Alex DeLarge|Alex Burgess
@@ -19,3 +20,5 @@ Low
 
 Books,Movies
 A Clockwork Orange
+
+Orange

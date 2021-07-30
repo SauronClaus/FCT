@@ -2,6 +2,7 @@ Darth Vader
 Star Wars (Original Trilogy)
 Darth Vader is a fictional character in the Star Wars franchise. The character is the primary antagonist in the original trilogy and, as Anakin Skywalker, is a primary protagonist in the prequel trilogy. Star Wars creator George Lucas has collectively referred to the first six episodic films of the franchise as "the tragedy of Darth Vader". Originally a slave on Tatooine, Anakin is a Jedi prophesied to bring balance to the Force. He is lured to the dark side of the Force by Palpatine and becomes a Sith lord, assuming the title Darth Vader. After a lightsaber battle with his former mentor Obi-Wan Kenobi on Mustafar, in which he is severely injured, Vader is transformed into a cyborg. He then serves the Galactic Empire as its chief enforcer. Vader ultimately redeems himself by saving his son, Luke Skywalker, and killing Palpatine, sacrificing his own life in the process. He is also the secret husband of Padmé Amidala, biological father of Princess Leia, and maternal grandfather of Kylo Ren.
 https://upload.wikimedia.org/wikipedia/en/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg
+https://en.wikipedia.org/wiki/Darth_Vader
 Anakin
 Skywalker
 Darth Vader|Anakin Skywalker
@@ -19,3 +20,5 @@ Sith Lord,Galactic Empire Commanders
 The Imperial March (Darth Vader's Theme)|https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y?si=eb8c769583cb4dba
 Movies
 Star Wars
+
+Black

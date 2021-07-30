@@ -2,6 +2,7 @@ Aang's Glider Staff
 Avatar: The Last Airbender
 An airbender staff is a wooden stave used primarily by airbenders to augment their bending. These versatile instruments were a major part of Air Nomad culture and used in the execution of several complex airbending techniques. Staffs were constructed to unfold into fan-like gliders, which enabled airbenders to fly while manipulating the air currents around them.
 https://static.wikia.nocookie.net/avatar/images/0/04/Gyatso_and_Roku_glide.png/revision/latest/scale-to-width-down/250?cb=20140625155755
+https://avatar.fandom.com/wiki/Airbender_staff
 Avatar (TV Show)
 Aang
 Flight,Weapon,Glider,Bending Augumenter
@@ -10,3 +11,4 @@ Weapon|Staff
 
 Mundane
 Medium
+Brown

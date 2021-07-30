@@ -35,7 +35,7 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user:
         return
-    if message.content == "*test":
+    if message.content == "*test all":
 
         alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -46,14 +46,20 @@ async def on_message(message):
                 if os.path.isfile(os.path.join(basepath, entry)):
                     characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                     characterInfo = characterFile.read().split("\n")
-                    if len(characterInfo) == 22:
+                    if len(characterInfo) == 24:
                         embed = infoPerson(entry[0:len(entry)-4:])
                         await message.channel.send(embed=embed)
-                        if characterInfo[21] != "":
-                            for artifact in characterInfo[21].split("|"):
+                        if characterInfo[22] != "":
+                            for artifact in characterInfo[22].split("|"):
                                 embed = infoArtifact(artifact)
                                 await message.channel.send(embed=embed)
         print("Completed!")
-        
+    if message.content == "*test artifacts":
+        basepath = 'Artifacts/'
+        for entry in os.listdir(basepath):
+            if os.path.isfile(os.path.join(basepath, entry)):
+                if entry != "readMe.txt":
+                    embed = infoArtifact(entry[0:len(entry)-4:])
+                    await message.channel.send(embed=embed)
 
 client.run(trueToken)

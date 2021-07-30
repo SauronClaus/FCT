@@ -13,12 +13,12 @@ for exitPath in deleteTags:
             if os.path.isfile(os.path.join(basepath, entry)):
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read()
-                if len(characterInfo.split("\n")) >= 16:
+                if len(characterInfo.split("\n")) >= 17:
                     characterInformation = characterInfo.split("\n")
-                    tagList = characterInformation[14].split(",")
+                    tagList = characterInformation[15].split(",")
                     characterName = characterInformation[0]
-                    characterRarity = characterInformation[16]
-                    characterPowerLevel = characterInformation[15]
+                    characterRarity = characterInformation[17]
+                    characterPowerLevel = characterInformation[16]
                     #print(characterName + " (" + str(tagList[0]) + ")")
                     if exitPath in tagList:
 
@@ -32,7 +32,7 @@ for exitPath in deleteTags:
 
                         characterInformation.remove(characterRarity)
                         characterInformation.remove(characterPowerLevel)
-                        characterInformation.remove(characterInformation[14])
+                        characterInformation.remove(characterInformation[15])
 
                         characterFile.close()
 

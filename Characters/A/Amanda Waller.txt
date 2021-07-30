@@ -2,6 +2,7 @@ Amanda Waller
 Suicide Squad
 Amanda Blake Waller is a fictional character appearing in American comic books published by DC Comics. The character first appeared in Legends #1 in 1986, and was created by John Ostrander, Len Wein, and John Byrne. Amanda Waller is an antagonist and occasional ally to the superheroes of the DC Universe. Amanda Waller is an ambivalent character in the DC Universe. She is the director for the deadly missions of the Suicide Squad and a specialist who oversees research into people with powers. Although she lacks superpowers herself, the character is a ruthless, high-ranking government official who uses guile, political connections, and sheer intimidation to achieve her goals, often in the name of national security. Waller is commonly associated with the fictional government agencies Checkmate and A.R.G.U.S.
 https://upload.wikimedia.org/wikipedia/en/8/8e/Amanda_Waller_Suicide_Squad_v5_8.png
+https://en.wikipedia.org/wiki/Amanda_Waller
 Amanda
 Waller
 Amanda Blake Waller
@@ -15,7 +16,9 @@ Female
 Manipulator,Antihero,Government Agent,Suicide Squad
 Baseline
 Low
-Suicide Squad (Core)
+Suicide Squad (Core),Suicide Squad (Extended)
 
 Superhero Comics,Comics,Movies
 DC Comics
+
+Black

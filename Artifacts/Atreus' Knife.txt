@@ -2,6 +2,7 @@ Atreus' Knife
 God of War
 After Atreus sacrificed his mother's knife to save his father, he received a new knife from his father. The new knife was one of the two knives that Kratos made the day Atreus was born. It was made of a mix of metals from Kratos' homeland and metals from the lands they were currently in. One of the pair of knives was made for Kratos himself and the other knife was made to be given to Atreus the day he was ready to wield it. Atreus, in his arrogance after discovering he was part god, notes that the knife is much better than Faye's Knife.
 https://cdna.artstation.com/p/assets/images/images/020/222/930/large/amanpreet-bajwa-knife-02.jpg?1566908895
+https://godofwar.fandom.com/wiki/Atreus#Weapons
 God of War
 Atreus
 Dagger,Heriditary
@@ -10,3 +11,4 @@ Weapon|Knife
 
 Mundane
 Low
+Silver

@@ -9,7 +9,7 @@ for letter in alphabet:
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
             characterFile.close()
-            if len(characterInfo) != 17 and len(characterInfo) != 22:
+            if len(characterInfo) != 17 and len(characterInfo) != 24:
                 newFile = open(basepath + "/" + entry, "w", encoding='utf8')
                 if len(characterInfo) == 3 or len(characterInfo) == 5:
                     #print(characterInfo[0] + " (!)")

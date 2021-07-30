@@ -2,6 +2,7 @@ Anduril
 Lord of the Rings
 Andúril, also called the Flame of the West, was the sword which was reforged from the shards of Narsil in Rivendell. It was the sword of Aragorn II Elessar, heir of Isildur.
 https://static.wikia.nocookie.net/lotr/images/1/10/Anduril2.png/revision/latest/scale-to-width-down/187?cb=20130120174607
+https://lotr.fandom.com/wiki/And%C3%BAril
 Lord of the Rings
 Aragorn
 Sword,Ghost-Slayer
@@ -10,3 +11,4 @@ Weapon|Sword
 
 Slightly-Magical
 Low
+Silver-White

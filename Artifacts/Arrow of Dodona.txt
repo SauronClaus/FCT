@@ -2,11 +2,13 @@ Arrow of Dodona
 Trials of Apollo
 The Arrow of Dodona is an arrow that Apollo found in the Grove of Dodona. The arrow has an oak shaft and green fletching. The Arrow speaks to Apollo in an Elizabethan accent and gives answers to Apollo. The answers are not prophetic, though they vary from how to make a plague arrow to giving driving directions to the Cave of Trophonius.
 https://static.wikia.nocookie.net/olympians/images/9/92/Arrow_of_Dodona.jpg/revision/latest/scale-to-width-down/700?cb=20201015020937
+https://riordan.fandom.com/wiki/Arrow_of_Dodona
 Percy Jackson and the Olympians
 Apollo
-Sentient,Annoying,Prophetic,Arrow
+Sentient,Annoying,Prophetic,Ammunition
 Books
 Weapon|Arrow
 
 Slightly-Magical
 Low
+Brown

@@ -2,6 +2,7 @@ Piko Piko Hammer
 Sonic the Hedgehog
 The Piko Piko Hammer (ピコピコハンマー PikoPiko Hanmā?), also called the Magical Hammer and Love Hammer, is an object that appears in the Sonic the Hedgehog series. It is a large yellow and red hammer and Amy Rose's signature weapon, which she uses as a melee weapon and to perform special techniques.
 https://static.wikia.nocookie.net/sonic/images/2/2a/Amypikopinku.png/revision/latest/scale-to-width-down/241?cb=20160517125750
+https://sonic.fandom.com/wiki/Piko_Piko_Hammer
 Sonic the Hedgehog
 Amy Rose
 Hammer,Hammerspace,Oversized Mallet
@@ -10,3 +11,4 @@ Weapon|Hammer
 
 Slightly-Magical
 Medium
+Red

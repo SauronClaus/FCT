@@ -2,6 +2,7 @@ Alex
 Stardew Valley
 Alex loves sports and hanging out at the beach. He is quite arrogant and brags to everyone that he is going to be a professional athlete. Is his cockiness just a facade to mask his crushing self-doubt? Is he using his sports dream to fill the void left by the disappearance of his parents? Or is he just a brazen youth trying to 'look cool?'
 https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png
+https://stardewvalleywiki.com/Alex
 Alex
 
 Alex
@@ -19,3 +20,5 @@ Stardew Valley Bachelors,Stardew Valley Residents
 A Sad Song|https://open.spotify.com/track/0I0o09YwcALmk8CEckbNAL?si=fc1141713cb34726
 Video Games
 Stardew Valley
+
+Green (Alex Stardew)

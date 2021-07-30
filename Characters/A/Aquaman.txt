@@ -2,6 +2,7 @@ Aquaman
 DC Comics
 Aquaman (Arthur Curry) is a fictional superhero appearing in American comic books published by DC Comics. Created by Paul Norris and Mort Weisinger, the character debuted in More Fun Comics #73 (Nov. 1941). Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the Silver Age, he was a founding member of the Justice League. In the 1990s Modern Age, writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of Atlantis.
 https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png
+https://en.wikipedia.org/wiki/Aquaman
 Arthur
 Curry
 Arthur Curry|Aquaman|King of Atlantis
@@ -20,3 +21,4 @@ Justice League (Extended),Justice League Founder,Justice League (Film)
 Superhero Comics,Comics,Movies,TV Shows
 DC
 Aquaman's Trident
+Orange

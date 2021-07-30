@@ -11,7 +11,7 @@ for letter in alphabet:
             characterInfo = characterFile.read()
             if len(characterInfo.split("\n")) > 3:
                 #print(entry[0:len(entry)-4:])
-                characterTags = characterInfo.split("\n")[13]
+                characterTags = characterInfo.split("\n")[15]
                 #print(characterTags)
                 tags = characterTags.split(",")
                 for tagWithInfo in tags: 

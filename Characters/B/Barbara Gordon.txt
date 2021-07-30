@@ -2,6 +2,7 @@ Barbara Gordon
 DC Comics
 Barbara Joan Gordon is a fictional superhero appearing in American comic books published by DC Comics, commonly in association with the superhero Batman. The character was created by television producer William Dozier, editor Julius Schwartz, writer Gardner Fox and artist Carmine Infantino. Dozier, the producer of the 1960s Batman television series, requested Schwartz to call for a new female counterpart to the superhero Batman that could be introduced into publication and the third season of the show simultaneously. The character subsequently made her first comic book appearance as Batgirl in Detective Comics #359, titled "The Million Dollar Debut of Batgirl!" (January 1967), by Fox and Infantino, allowing her to be introduced into the television series, portrayed by actress Yvonne Craig, in the season 3 premiere "Enter Batgirl, Exit Penguin", in September that same year.
 https://upload.wikimedia.org/wikipedia/en/2/20/Batgirl_Vol_4_35.png
+https://en.wikipedia.org/wiki/Barbara_Gordon
 Barbara
 Gordon
 Barbara Gordon|Oracle|Batgirl
@@ -19,3 +20,5 @@ Bat-Family (Core),Bat-Family (Extended),Birds of Prey
 
 Superhero Comics,Comics
 DC
+
+Batgirl Purple

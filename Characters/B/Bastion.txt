@@ -2,6 +2,7 @@ Bastion
 Overwatch
 Bastion is an omnic wanderer formerly built to be a war combatant, who is now travelling to satisfy its curiosity about nature and leave its horrifying past behind.
 https://static.wikia.nocookie.net/overwatch/images/6/6a/Bastion_portrait.png/revision/latest/scale-to-width-down/700?cb=20160429042023
+https://overwatch-archive.fandom.com/wiki/Bastion
 Bastion
 
 SST Laboratories Siege Automaton E54|Bastion
@@ -19,3 +20,5 @@ Overwatch Heroes
 
 Video Games,CGI
 Overwatch
+
+Bone White

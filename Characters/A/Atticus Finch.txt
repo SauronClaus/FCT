@@ -2,6 +2,7 @@ Atticus Finch
 To Kill a Mockingbird
 Atticus Finch is a fictional character in Harper Lee's Pulitzer Prize-winning novel of 1960, To Kill a Mockingbird. A preliminary version of the character also appears in the novel Go Set a Watchman, written in the mid-1950s but not published until 2015. Atticus is a lawyer and resident of the fictional Maycomb County, Alabama, and the father of Jeremy "Jem" Finch and Jean Louise "Scout" Finch. He represents the African-American man Tom Robinson in his trial where he is charged with rape of Mayella Ewell. Lee based the character on her own father, Amasa Coleman Lee, an Alabama lawyer, who, like Atticus, represented black defendants in a highly publicized criminal trial. Book magazine's list of The 100 Best Characters in Fiction Since 1900 names Finch as the seventh best fictional character of 20th-century literature. In 2003, the American Film Institute voted Atticus Finch, as portrayed in an Academy Award-winning performance by Gregory Peck in the 1962 film adaptation, as the greatest hero of all American cinema. In the 2018 Broadway stage play adapted by Aaron Sorkin, Finch is portrayed by various actors including Jeff Daniels, Ed Harris, Greg Kinnear, Rhys Ifans, and Richard Thomas.
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gregory_Peck_Atticus_Publicity_Photo.jpg/375px-Gregory_Peck_Atticus_Publicity_Photo.jpg
+https://en.wikipedia.org/wiki/Atticus_Finch
 Atticus
 Finch
 Atticus Finch
@@ -19,3 +20,5 @@ Finch Family
 
 Books,Movies
 To Kill a Mockingbird
+
+Beige

@@ -2,6 +2,7 @@ Alfred Pennyworth
 DC Comics
 Alfred Thaddeus Crane Pennyworth or simply Alfred is a fictional character appearing in American comic books published by DC Comics, most commonly in association with the superhero Batman. Pennyworth is depicted as Bruce Wayne's loyal and tireless butler, legal guardian, best friend, aide-de-camp, and surrogate father figure following the murders of Thomas and Martha Wayne. As a classically trained British actor and an ex-Special Operations Executive operative of honor and ethics with connections within the intelligence community, he has been called "Batman's batman". He serves as Bruce's moral anchor while providing comic relief with his sarcastic and cynical attitude.
 https://upload.wikimedia.org/wikipedia/en/5/5c/Alfred_Pennyworth_%28Alex_Ross%29.jpg
+https://en.wikipedia.org/wiki/Alfred_Pennyworth
 Alfred
 Pennyworth
 Alfred Thaddeus Crane Pennyworth
@@ -19,3 +20,5 @@ Bat-Family (Core),Bat-Family (Extended)
 
 Superhero Comics,Comics
 DC Comics
+
+Black

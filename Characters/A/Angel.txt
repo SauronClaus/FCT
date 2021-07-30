@@ -2,6 +2,7 @@ Angel
 Marvel Comics
 Warren Kenneth Worthington III, originally known as Angel and later as Archangel, is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #1 (September 1963). Angel is a member of a subspecies of humans known as mutants, who are born with superhuman abilities. The character originally possesses a pair of large feathered wings extending from his back, enabling him to fly. He is the heir of the Worthington family fortune, and this privileged background results in Warren being stereotyped as self-absorbed and unable to deal with hardships during his early years with the X-Men. This personality was ultimately replaced with a more introspective and brooding personality in the late 1980s, when the character was changed into the darker "Archangel" persona. While Angel's wings were originally feathered, his transition to Archangel resulted in metallic wings and newfound powers.
 https://upload.wikimedia.org/wikipedia/en/1/1b/X-men_angel_archangel.jpg
+https://en.wikipedia.org/wiki/Warren_Worthington_III
 Warren
 Worthington
 Warren Kenneth Worthington III|Angel|Archangel
@@ -19,3 +20,5 @@ X-Men,X-Men First Class,X-Men (Extended)
 
 Superhero Comics,Comics
 Marvel Comics
+
+White

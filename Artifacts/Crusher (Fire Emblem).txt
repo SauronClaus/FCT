@@ -2,6 +2,7 @@ Crusher (Fire Emblem)
 Fire Emblem: Three Houses
 Crusher is an Axe that debuts in Fire Emblem: Three Houses. It is one of the Heroes' Relics, passed down through the bloodline of Dominic, one of the Ten Elites. When used by someone who bears the Crest of Dominic, the Combat Art Dust may be used.
 https://static.wikia.nocookie.net/fireemblem/images/d/d9/Crusher_CG.png/revision/latest/scale-to-width-down/512?cb=20190814035652
+https://fireemblem.fandom.com/wiki/Crusher
 Fire Emblem
 Annette
 Hammer,Relic (Fire Emblem)
@@ -10,3 +11,4 @@ Weapon|Hammer
 Heroes' Relics
 City
 Low
+Bone White

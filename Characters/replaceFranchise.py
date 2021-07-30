@@ -20,7 +20,7 @@ while exitPath != "End":
                         oldFranchise = characterInformation[1]
                         characterName = characterInformation[0]
                         if oldFranchise == exitPath:
-                            if len(characterInfo.split("\n")) >= 16:
+                            if len(characterInfo.split("\n")) >= 17:
                                 charactersReplace.append(characterName)
                             else:
                                 charactersReplace.append(characterName + " (!)")

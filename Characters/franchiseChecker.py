@@ -32,7 +32,7 @@ for letter in alphabet:
                     oldCompletedCharacters[franchise] = []
                     oldCompletedCharacters[franchise].append(entry[0:len(entry)-4:])
             #print(entry[0:len(entry)-4:])
-            if len(characterInfo.split("\n")) == 22:
+            if len(characterInfo.split("\n")) == 24:
                 #print(entry[0:len(entry)-4:])
                 franchise = characterInfo.split("\n")[1]
                 #print(franchise)
