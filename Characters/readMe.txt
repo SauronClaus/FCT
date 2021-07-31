@@ -20,7 +20,7 @@ There's 24 lines, in this order. Thoses lines are:
 17. Power Level! (Baseline, Modified Human, City, Country, World, Cosmic, Interuniversal, Omnipotent)- This one's, once again, quite subjective. What's the biggest amount of property they could destroy before someone stopped them? What kind of blow can they take? Just guess, and someone may fact-check you later!
 18. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche character from a YA novel or a side character, "Medium" is someone somewhat known (maybe the name has been heard, if not the properties), and "High" is someone extremely well-known, like "Aang" from ATLA or something.
 19. Groups- What groups is this character in? Make up names if they're unofficial, but who does this character associate with?
-20. Theme Song- self-explanatory. If they have multiple, use "|" to seperate them. 
+20. Theme Song- self-explanatory. Make it "song title|Song Spotify Link". If they have multiple, use "," to seperate them. 
 21. Medium- Originally a tag. Stuff like Cartoon, Video Games, TV Shows, etc. Seperate with ",". 
 22. Brand- Kind of the umbrella for the new franchise. The Franchise may be "Prequel Trilogy Star Wars", with the brand being "Star Wars". Or "Avengers" and "Marvel".
 23. Signature Weapon- Thor's got Mjolnir, Edelgard's got Aymr, and Thanos has his Infinity Gauntlet. Any items in here should correspond with an Artifact in artifacts. Seperate them with a "|".

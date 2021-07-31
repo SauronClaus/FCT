@@ -1,7 +1,8 @@
 Bilbo Baggins
-Lord of the Rings
-
-
+The Hobbit
+Bilbo Baggins was a hobbit of the Shire, the main protagonist of The Hobbit and a secondary character in The Lord of the Rings. 
+https://static.wikia.nocookie.net/lotr/images/b/b6/The_Hobbit_wallpaper_48.jpg/revision/latest/scale-to-width-down/663?cb=20131112182330
+https://lotr.fandom.com/wiki/Bilbo_Baggins
 Bilbo
 Baggins
 Bilbo Baggins
@@ -15,3 +16,9 @@ Male
 Ring-Bearer,Hobbit,Reluctant Hero,Thorin and Company
 Baseline
 High
+Thorin and Company
+
+Books,Movies
+Lord of the Rings
+Sting|the One Ring
+Crimson

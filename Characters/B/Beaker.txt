@@ -1,7 +1,8 @@
 Beaker
 The Muppets
-
-
+Beaker is a Muppet character from The Muppet Show. He is the shy, long-suffering assistant of Dr. Bunsen Honeydew, and is also similarly named after a piece of laboratory equipment. Beaker is a magnet for disaster; he routinely experiences mishaps such as being blown up, electrocuted, eaten by large monsters, or afflicted with awkward side effects caused by Dr. Bunsen Honeydew's experiments. Beaker communicates in a nervous, high-pitched squeak that sounds like "Mee-mee-mee mee". In books and merchandise, the sound is spelled "Meep". In The Muppet Movie, he "meeps" Honeydew's line "sadly temporary". Rarely he can say normal words, such as "Bye-bye." Otherwise, his tone or expression helps to communicate his meaning.
+https://upload.wikimedia.org/wikipedia/en/5/59/Beaker_%28Muppet%29.jpg
+https://en.wikipedia.org/wiki/Beaker_(Muppet)
 Beaker
 
 Beaker
@@ -15,3 +16,9 @@ Male
 Almost Invulnerable,Hapless Assistant,Duo|Dr. Bunsen Honeydew
 Baseline
 Medium
+The Muppet Show Cast
+
+Muppets,TV Shows,Movies
+The Muppets
+
+Orange

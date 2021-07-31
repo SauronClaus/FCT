@@ -1,7 +1,8 @@
 Bayonetta
 Bayonetta
-
-
+Bayonetta (Japanese: ベヨネッタ, Hepburn: Beyonetta), real name Cereza, is the title character and protagonist of the Bayonetta video game series, developed by PlatinumGames and published by Sega and Nintendo. She was created by Hideki Kamiya, designed by Mari Shimazaki and is voiced by Hellena Taylor in English and Atsuko Tanaka in Japanese. Bayonetta is one of only two surviving Umbra Witches, being the child of a Witch and a Lumen Sage. During the first game, she goes in search of her forgotten past, heading for her old home of Vigrid and fighting the angelic forces of Paradiso on the way. She also appears as the protagonist of Bayonetta 2 and as a special guest character in other titles such as Anarchy Reigns, The Wonderful 101 and the Super Smash Bros. series.
+https://upload.wikimedia.org/wikipedia/en/d/d1/Bayonetta_Bayo2_render.png
+https://en.wikipedia.org/wiki/Bayonetta_(character)
 Cereza
 
 Cereza|Bayonetta
@@ -15,3 +16,9 @@ Female
 Witch,Super Smash Bros,Magic Gunslinger,Demon Hunter
 City
 Medium
+Super Smash Bros
+
+Video Games,CGI
+Bayonetta
+
+Black

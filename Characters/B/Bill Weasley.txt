@@ -1,7 +1,8 @@
 Bill Weasley
 Harry Potter
-
-
+William Arthur "Bill" Weasley (b. 29 November, 1970) was an English pure-blood wizard, the first child of Arthur and Molly Weasley (née Prewett) and the eldest brother of Charlie, Percy, Fred, George, Ron, and Ginny. He attended Hogwarts School of Witchcraft and Wizardry from 1982 to 1989 and was Sorted into Gryffindor House. Bill was both a Prefect and Head Boy.
+https://static.wikia.nocookie.net/harrypotter/images/6/66/BillWeasleyDH2.png/revision/latest/scale-to-width-down/666?cb=20160212193938
+https://harrypotter.fandom.com/wiki/William_Weasley
 Bill
 Weasley
 Bill Weasley|William Arthur Bill Weasley
@@ -12,6 +13,12 @@ Human
 Good
 Minor Side Character
 Male
-Weasely,Order of the Pheonix II,Wizard,Married|Fleur Delacour
+Weasely,Order of the Pheonix II,Wizard,Married|Fleur Delacour,Gryffindor,Magic Users
 Modified Human
 Low
+Order of the Pheonix II
+
+Books,Movies
+Harry Potter
+
+Weasley Orange

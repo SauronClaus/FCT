@@ -16,7 +16,7 @@ Male
 Superhero,Flight,Bird Wings,X-Men,X-Men First Class
 Modified Human
 Low
-X-Men,X-Men First Class,X-Men (Extended)
+X-Men First Class,X-Men (Extended)
 
 Superhero Comics,Comics
 Marvel Comics

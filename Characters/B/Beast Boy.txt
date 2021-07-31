@@ -1,7 +1,8 @@
 Beast Boy
 DC Comics
-
-
+Garfield Mark Logan, better known as Beast Boy, is a fictional superhero appearing in American comic books published by DC Comics. He has also gone under the alias Changeling. Created by writer Arnold Drake and artist Bob Brown, he is a shapeshifter who possesses the ability to metamorph into any animal he chooses. The character first appeared in The Doom Patrol #99 (November 1965) and is usually depicted as a member of the Doom Patrol and the Teen Titans.
+https://upload.wikimedia.org/wikipedia/en/0/09/Beast_Boy_%28DC_Rebirth_version%29.jpg
+https://en.wikipedia.org/wiki/Beast_Boy
 Garfield
 Logan
 Garfield Logan|Beast Boy|Changeling
@@ -15,3 +16,9 @@ Male
 Teen Titans,Shapeshifter,Prankster,Green
 City
 High
+Teen Titans (Core),Doom Patrol (Extended),Teen Titans Go! Cast
+
+Superhero Comics,Comics,TV Shows,Cartoon
+DC
+
+Green

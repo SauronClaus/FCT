@@ -1,7 +1,8 @@
 Beth Johanssen
 The Martian
-
-
+Beth Johanssen is an astronaut on Ares III. She was born on May 9th, 2006 in San Jose, California. Her father is the district sales manager of a napkin factory. She was selected to be an astronaut in 2032 with NASA Group 27. She was the mission sysop for Ares III and the 15th person to set foot on Mars. In the film, she was portrayed by Kate Mara.
+https://static.wikia.nocookie.net/the-martian/images/3/33/Beth_1-0.jpg/revision/latest/scale-to-width-down/698?cb=20161208040824
+https://the-martian.fandom.com/wiki/Beth_Johanssen
 Beth
 Johanssen
 Beth Johanssen
@@ -12,6 +13,12 @@ Human
 Good
 Side Character
 Female
-Youngest,Astronaut,Love Interest|Dr. Chris Beck,Tech Genius
+Youngest,Astronaut,Romantic Subplot|Dr. Chris Beck,Tech Genius
 Baseline
 Low
+Ares III Mission Crew
+
+Books,Movies
+The Martian
+
+Orange

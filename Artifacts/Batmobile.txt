@@ -1,0 +1,14 @@
+Batmobile
+DC Comics
+The Batmobile is the fictional car driven by the superhero Batman. Housed in the Batcave, which it accesses through a hidden entrance, the Batmobile is both a heavily armored tactical assault vehicle and a personalized custom-built pursuit and capture vehicle that is used by Batman in his fight against crime. Using the latest civilian performance technology, coupled with prototype military-grade hardware—most of which was developed by Wayne Enterprises—Batman creates an imposing hybrid monster to prowl the streets of Gotham City.
+https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Batmobile_%28circa_2018%29.png/330px-Batmobile_%28circa_2018%29.png
+https://en.wikipedia.org/wiki/Batmobile
+DC
+Batman
+Themed,Car,Vehicle,Armored
+Superhero Comics,Comics,TV Shows,Movies
+Vehicle|Car
+Bat-Paraphernalia
+City
+High
+Black

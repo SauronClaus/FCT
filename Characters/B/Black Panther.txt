@@ -1,7 +1,8 @@
 Black Panther
 Marvel Comics
-
-
+Black Panther is a fictional character appearing in American comic books published by Marvel Comics. The character was created by writer-editor Stan Lee and writer-artist Jack Kirby, first appearing in Fantastic Four #52 (cover-dated July 1966) in the Silver Age of Comic Books. Black Panther's real name is T'Challa, and he is depicted as the king and protector of the fictional African nation of Wakanda. Along with possessing enhanced abilities achieved through ancient Wakandan rituals of drinking the essence of the heart-shaped herb, T'Challa also relies on his proficiency in science, rigorous physical training, hand-to-hand combat skills, and access to wealth and advanced Wakandan technology to combat his enemies.
+https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png
+https://en.wikipedia.org/wiki/Black_Panther_(character)
 T'Challa
 
 T'Challa|King T'Challa|Black Panther
@@ -15,3 +16,9 @@ Male
 Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
 Modified Human
 High
+Avengers (Core),Avengers (Extended),Ultimates (Team),Fantastic Four (Extended)
+
+Superhero Comics,Comics,Movies
+Marvel
+
+Black

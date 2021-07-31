@@ -1,7 +1,8 @@
 Black Lightning
 DC Comics
-
-
+Black Lightning (Jefferson Pierce) is a superhero appearing in American comic books published by DC Comics. The character, created by writer Tony Isabella and artist Trevor Von Eeden, first appeared in Black Lightning #1 (April 1977), during the Bronze Age of Comic Books. While his origin story has been retconned several times, his current origin story states that he was born in the DC Universe as a metahuman, a human being with superhuman abilities. Black Lightning was DC's first African-American superhero with his own series.
+https://upload.wikimedia.org/wikipedia/en/c/c2/Black_Lightning_%28DC_Rebirth_version%29.png
+https://en.wikipedia.org/wiki/Black_Lightning
 Jefferson
 Pierce
 Black Lightning|Jefferson Pierce
@@ -15,3 +16,9 @@ Male
 African American,Lightning Manipulation,Outsiders,Justice League
 Modified Human
 Medium
+Outsiders,Justice League (Extended)
+
+Superhero Comics,Comics,TV Shows
+DC
+
+Black

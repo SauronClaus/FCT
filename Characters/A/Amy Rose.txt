@@ -16,7 +16,7 @@ Female
 Rebel,Romantic Subplot|Sonic the Hedgehog,Pink
 Modified Human
 Medium
-Sonic the Hedgehog Main Cast,Resistance (Sonic)
+Sonic the Hedgehog Main Cast,Resistance (Sonic),Sonic the Hedgehog (Extended Cast)
 
 Video Games
 Sonic the Hedgehog

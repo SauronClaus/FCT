@@ -43,5 +43,6 @@ colors = {
     "Army Brown": 0x905f47,
     "Bone White": 0xe4dac7,
     "Brown": 0x793200,
-    "Bronze": 0xcd7f32
+    "Bronze": 0xcd7f32,
+    "Kerbal-Green": 0xe7e37e
 }

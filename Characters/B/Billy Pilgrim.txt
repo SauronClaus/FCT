@@ -1,7 +1,8 @@
 Billy Pilgrim
 Slaughterhouse-Five
-
-
+A fatalistic optometrist ensconced in a dull, safe marriage in Ilium, New York. During World War II, he was held as a prisoner-of-war in Dresden and survived the firebombing, experiences which had a lasting effect on his post-war life. His time travel occurs at desperate times in his life; he relives past and future events and becomes fatalistic (though not a defeatist) because he claims to have seen when, how, and why he will die.
+https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-slaughterhouse-five-michael-sacks.jpg
+https://en.wikipedia.org/wiki/Slaughterhouse-Five#Characters
 Billy
 Pilgrim
 Billy Pilgrim
@@ -15,3 +16,9 @@ Male
 Time Traveler,Soldier,WWII
 Baseline
 Low
+
+
+Books
+Slaughterhouse-Five
+
+Crimson

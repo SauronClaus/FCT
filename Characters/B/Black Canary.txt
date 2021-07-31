@@ -1,7 +1,8 @@
 Black Canary
 DC Comics
-
-
+Black Canary (Dinah Laurel Lance) is a fictional superheroine appearing in American comic books published by DC Comics. Lance is one of two women under the alias Black Canary within the DC Universe; she is Dinah Drake's daughter and successor of the superhero mantle in the post-Crisis narratives. She is commonly affiliated with the Justice League of America and the archer superhero Green Arrow, professionally and romantically. She is also a common member of the Birds of Prey.
+https://upload.wikimedia.org/wikipedia/en/6/6b/Black_Canary_%28circa_2015%29.png
+https://en.wikipedia.org/wiki/Black_Canary
 Dinah
 Lance
 Dinah Laurel Lance|Black Canary
@@ -15,3 +16,9 @@ Female
 Superhero,Justice League,Romantic Subplot|Green Arrow,Birds of Prey
 Baseline
 Medium
+Justice League (Extended),Birds of Prey (Core),Birds of Prey (Extended)
+
+Superhero Comics,Comics,TV Shows,Movies
+DC
+
+Black

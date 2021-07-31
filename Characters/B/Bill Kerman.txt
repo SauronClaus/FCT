@@ -1,7 +1,8 @@
 Bill Kerman
 Kerbal Space Program
-
-
+Bill Kerman is one of the 4 default kerbals in Kerbal Space Program. His is kerbonaut #0002 and the least intelligent of the “original four”. He is an engineer, or a kerbal who repairs things on rocket ships, like wheels or parachutes.
+https://wiki.kerbalspaceprogram.com/images/e/ef/Bill_in_CommandPod.jpeg
+https://wiki.kerbalspaceprogram.com/wiki/Bill_Kerman
 Bill
 Kerman
 Bill Kerman|kerbonaut #0002
@@ -15,3 +16,9 @@ Male
 Stupid,Engineer,Original Four,Astronaut
 Modified Human
 Medium
+Original Four (KSP)
+
+Video Games,CGI
+Kerbal Space Program
+
+Kerbal-Green

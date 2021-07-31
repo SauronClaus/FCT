@@ -16,7 +16,7 @@ Male
 Non-Human,Animorphic,Duo|Kazooie,Platformer,Super Smash Bros.
 City
 Low
-Super Smash Bros.
+Super Smash Bros,Super Smash Bros DLC
 
 Video Games
 Banjo & Kazooie

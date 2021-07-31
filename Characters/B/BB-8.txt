@@ -1,7 +1,8 @@
 BB-8
-Star Wars
-
-
+Star Wars Sequel Trilogy
+BB-8, sometimes spelled and pronounced Beebee-Ate and nicknamed BB, was a BB-series astromech droid who operated approximately thirty years after the Battle of Endor. He had a dome head, similar to that of R2 series astromech droids, with the bulk of his body made up of a ball on which the droid's head rolled. BB-8 was mostly white, with some silver and orange on his body, as well as a black photoreceptor. The droid belonged to Resistance pilot Poe Dameron, whom he accompanied during his flights on his T-70 X-wing starfighter.
+https://static.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png/revision/latest/scale-to-width-down/1000?cb=20161108050455
+https://starwars.fandom.com/wiki/BB-8
 BB-8
 
 BB-8|BB
@@ -15,3 +16,9 @@ Male
 Droids,Astromech,Cute,Orange
 Baseline
 High
+Star Wars Droids,Sequel Trilogy Main Cast
+
+Movies
+Star Wars
+
+Orange

@@ -23,7 +23,7 @@ def infoPerson(personName):
     embed.color = colors[personInfo[23]]
 
     if personInfo[21] != "":    
-        embed.add_field(name="Franchise",value=personInfo[20], inline=False)
+        embed.add_field(name="Franchise",value=personInfo[21], inline=False)
     
 
     if personInfo[8] != "":
@@ -76,7 +76,7 @@ def infoPerson(personName):
         
     if personInfo[19] != "":
         themeSong = "Megalovania|https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL?si=a9791693d4f04223"
-        if len(personInfo[19].split("|")) >= 2:
+        if len(personInfo[19].split(",")) >= 2:
             themeSongList = personInfo[19].split(",")
             RNG = random.randint(0,len(themeSongList)-1)
             themeSong = themeSongList[RNG]

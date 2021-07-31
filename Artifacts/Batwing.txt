@@ -1,0 +1,14 @@
+Batwing
+DC Comics
+The Batplane, Batwing, Batjet or Batgyro is the fictional aircraft for the DC Comics superhero Batman. The vehicle was introduced in "Batman Versus The Vampire, I", published in Detective Comics #31 in 1939, a story which saw Batman travel to continental Europe. In this issue it was referred to as the "Batgyro", and according to Les Daniels was "apparently inspired by Igor Sikorsky's first successful helicopter flight" of the same year. Initially based upon either an autogyro or helicopter, with a rotor, the Batgyro featured a bat motif at the front. The writers gave the Batgyro the ability to be "parked" in the air by Batman, hovering in such a way as to maintain its position and allow Batman to return.
+https://upload.wikimedia.org/wikipedia/en/0/06/Batman_%26_the_Batwing_%28Batplane_-_circa_2018%29.png
+https://en.wikipedia.org/wiki/Batplane
+DC
+Batman
+Themed,Plane,Vehicle,Armored
+Superhero Comics,Comics,TV Shows,Movies
+Vehicle|Plane
+Bat-Paraphernalia
+City
+High
+Black

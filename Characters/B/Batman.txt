@@ -1,7 +1,8 @@
 Batman
 DC Comics
-
-
+Batman is a superhero who appears in American comic books published by DC Comics. Batman was created by artist Bob Kane and writer Bill Finger, and debuted in the 27th issue of the comic book Detective Comics on March 30, 1939. In the DC Universe continuity, Batman is the alias of Bruce Wayne, a wealthy American playboy, philanthropist, and industrialist who resides in Gotham City. Batman's origin story features him swearing vengeance against criminals after witnessing the murder of his parents Thomas and Martha; he trains himself physically and intellectually, crafts a bat-inspired persona, and monitors the Gotham streets at night. Kane, Finger, and other creators accompanied Batman with supporting characters, including his sidekick Robin; allies Alfred Pennyworth, James Gordon, and Catwoman; and foes such as the Penguin, the Riddler, Two-Face, and his archenemy, the Joker.
+https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg
+https://en.wikipedia.org/wiki/Batman
 Bruce
 Wayne
 Batman|Bruce Wayne
@@ -15,3 +16,9 @@ Male
 Bat-Family,Justice League,Trinity,Outsiders,Tech,Genius,Detective
 City
 High
+Justice League Core Members,Justice League (Extended),Bat-Family (Core),Bat-Family (Extended),Justice League (film),Justice League Founder,Justice League Unlimited,Outsiders
+Batman Theme|https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx?si=5cdb886371bb4624,Batman Theme|https://open.spotify.com/track/2nVHairZHuwuv1SBMokNxE?si=96e2b14f2f4f48c5
+Superhero Comics,Comics,TV Shows,Movies
+DC
+Batmobile|Batwing|Batarang
+Black

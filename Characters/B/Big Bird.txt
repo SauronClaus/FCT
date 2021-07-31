@@ -1,7 +1,8 @@
 Big Bird
 Sesame Street
-
-
+Big Bird is a Muppet character on the long-running PBS/HBO children's television show Sesame Street. An eight-foot two-inch (249 cm) tall bright yellow anthropomorphic bird, he can roller skate, ice skate, dance, swim, sing, write poetry, draw, and ride a unicycle. Despite this wide array of talents, he is prone to frequent misunderstandings, on one occasion even singing the alphabet as one long word (from the song called "ABC-DEF-GHI," pronounced /æbkədɛfgi:dʒɛkəlmɪnɒpkwɜrstu:vwɪksɪz/), pondering what it could mean. He would refer to grocer Mr. Hooper as "Mr. Looper", among other mispronunciations. He lives in a large nest behind the 123 Sesame Street brownstone and right next to Oscar the Grouch's trash can and he has a teddy bear named Radar. In Season 46, Big Bird's large nest is now sitting within a small, furnished maple tree, and is no longer hidden by used construction doors.
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Secretary_Pompeo_Welcomes_the_2019_Kennedy_Center_Honors_Awardees_to_the_State_Department_%2849188236802%29.jpg/330px-Secretary_Pompeo_Welcomes_the_2019_Kennedy_Center_Honors_Awardees_to_the_State_Department_%2849188236802%29.jpg
+https://en.wikipedia.org/wiki/Big_Bird
 
 
 Big Bird
@@ -15,3 +16,9 @@ Male
 Muppet,Child,Bird,Large Bird
 Baseline
 Medium
+Sesame Street Residents
+
+TV Shows,Children's TV Shows,Muppets
+Sesame Street
+
+Yellow

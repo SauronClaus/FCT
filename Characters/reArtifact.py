@@ -11,7 +11,7 @@ for letter in alphabet:
             characterInfo = characterFile.read().split("\n")
             if len(characterInfo) == 24:
                 #print(entry + ": " + str(len(characterInfo)))
-                characterWeapon = characterInfo[23]
+                characterWeapon = characterInfo[22]
                 if characterWeapon != "":
                     for weapon in characterWeapon.split("|"):
                         print(entry[0:len(entry)-4:] + ": " + weapon)

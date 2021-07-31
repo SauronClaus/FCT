@@ -5,7 +5,7 @@ https://static.wikia.nocookie.net/olympians/images/5/5e/CelestialBronzeKnife.png
 https://riordan.fandom.com/wiki/Annabeth%27s_Knife
 Percy Jackson and the Olympians
 Annabeth Chase
-Celestial Bronze,Cursed Blade,Prophesized Weapon,Dagger,Demigod Weapons
+Celestial Bronze,Cursed Weapon,Prophesized Weapon,Dagger,Demigod Weapons
 Books
 Weapon|Dagger
 

@@ -61,5 +61,13 @@ async def on_message(message):
                 if entry != "readMe.txt":
                     embed = infoArtifact(entry[0:len(entry)-4:])
                     await message.channel.send(embed=embed)
+    if "*info" in message.content:
+        messageParam = message.content[6::].split("-")
+        if messageParam[0] == "artifact" or messageParam[0] == "Artifact":
+            embed = infoArtifact(messageParam[1])
+            await message.channel.send(embed=embed)
+        if messageParam[0] == "person" or messageParam[0] == "Person":
+            embed = infoPerson(messageParam[1])
+            await message.channel.send(embed=embed)
 
 client.run(trueToken)

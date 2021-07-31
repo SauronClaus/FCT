@@ -1,7 +1,8 @@
 Beast
 Marvel Comics
-
-
+Beast (Dr. Henry Philip "Hank" McCoy) is a fictional superhero appearing in American comic books published by Marvel Comics and is a founding member of the X-Men. Originally called "The Beast", the character was introduced as a mutant possessing ape-like superhuman physical strength and agility, oversized hands and feet, a genius-level intellect, and otherwise normal appearance and speech. Eventually being referred to simply as "Beast", Hank McCoy underwent progressive physiological transformations, permanently gaining animalistic physical characteristics. These include blue fur, both simian and feline facial features, pointed ears, fangs, and claws. Beast's physical strength and senses increased to even greater levels.
+https://upload.wikimedia.org/wikipedia/en/0/0b/Beast_%28Hank_McCoy_-_circa_2019%29.png
+https://en.wikipedia.org/wiki/Beast_(comics)
 Hank
 McCoy
 Beast|Hank McCoy|Dr. Henry Philip McCoy
@@ -15,3 +16,9 @@ Male
 X-Men,X-Men First Class,Superhero,Beast,Genius,Mutation
 Modified Human
 Medium
+Avengers (Extended),X-Men (Core),X-Men First Class,X-Men (Extended)
+
+Superhero Comics,Comics,TV Shows,Movies
+Marvel
+
+Blue
