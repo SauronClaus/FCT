@@ -1,11 +1,12 @@
 Cal Kestis
 Fallen Order
-
-
+Cal Kestis was a Force-sensitive human male who became a Jedi Knight during the reign of the Galactic Empire. As one of the few Jedi who survived the purge that destroyed the Jedi Order, Kestis lived in seclusion for years until a confrontation with the Inquisitorius compelled him to openly resist the Empire's rule. Hunted across the galaxy by the Empire's Jedi hunters, Kestis embraced his connection to the Force once more, having decided to restore the Jedi Order.
+https://static.wikia.nocookie.net/starwars/images/1/1f/Cal-Kestis.png/revision/latest/scale-to-width-down/1000?cb=20201205032359
+https://starwars.fandom.com/wiki/Cal_Kestis
 Cal
 Kestis
 Cal Kestis
-Cameron Monaghan|
+Cameron Monaghan
 
 Jedi
 Human
@@ -15,3 +16,9 @@ Male
 Jedi Knight,Soldier,Apprentice,Player Character
 Modified Human
 Medium
+Jedi Order,Stinger Mantis Crew
+
+Video Games,CGI
+Star Wars
+
+Brown

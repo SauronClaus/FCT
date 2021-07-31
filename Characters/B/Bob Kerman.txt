@@ -1,7 +1,8 @@
 Bob Kerman
 Kerbal Space Program
-
-
+Bob Kerman is kerbonaut #0003 and the least stupid of “the Original Four”. Appropriately, he is a scientist. Bob's position near the top of the list of kerbonauts in every game means players will be far more likely to have him on missions than any of the random kerbonauts; however, being third in the list of the original four makes him less frequently used than Jeb or Bill.
+https://wiki.kerbalspaceprogram.com/images/0/0f/Bob_Kerman.gif
+https://wiki.kerbalspaceprogram.com/wiki/Bob_Kerman
 Bob
 Kerman
 Bob Kerman|kerbonaut #0003
@@ -15,3 +16,9 @@ Male
 Scientist,Original Four,Astronaut
 Modified Human
 Medium
+Original Four (KSP)
+
+Video Games,CGI
+Kerbal Space Program
+
+Kerbal-Green

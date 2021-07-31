@@ -1,10 +1,11 @@
 Boromir
 Lord of the Rings
-
-
+Boromir was a valiant warrior of Gondor for his prowess in combat and skill on the battlefield. He was the eldest son of Denethor II, who was Steward of Gondor during the War of the Ring, and his wife Finduilas. Even the people of Rohan admired him, particularly Éomer. He was the older brother of Faramir.
+https://static.wikia.nocookie.net/lotr/images/b/b4/Seanbean_boromir.jpg/revision/latest/scale-to-width-down/686?cb=20110327195115
+https://lotr.fandom.com/wiki/Boromir
 Boromir
 
-
+Steward-prince of Gondor|Captain of the White Tower|Boromir
 Sean Bean
 40|4
 Fighter
@@ -15,3 +16,9 @@ Male
 Fellowship of the Ring,Nobility,Outcast,Swordsman
 Baseline
 Medium
+Fellowship of the Ring
+
+Books,Movies
+Lord of the Rings
+
+Aarav Blue

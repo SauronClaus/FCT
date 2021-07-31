@@ -1,7 +1,8 @@
 Byleth
 Fire Emblem: Three Houses
-
-
+Byleth is the main protagonist in Fire Emblem: Three Houses. As an Avatar, their name, gender, and birthday are customizable. Byleth serves as a professor at Garreg Mach Monastery. They possess the mysterious Crest of Flames and can wield the Sword of the Creator.
+https://static.wikia.nocookie.net/fireemblem/images/b/bc/Artwork_Byleth_M.png/revision/latest/scale-to-width-down/700?cb=20201220085213
+https://fireemblem.fandom.com/wiki/Byleth
 Byleth
 
 Byleth
@@ -15,3 +16,9 @@ Depends
 Protagonist,Player Character,Chosen One,Crest
 City
 High
+Black Eagles,Blue Lions,Golden Deer,Knights of Seiros
+
+Video Games
+Fire Emblem
+Sword of the Creator
+Black

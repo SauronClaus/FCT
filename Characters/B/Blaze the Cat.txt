@@ -1,7 +1,8 @@
 Blaze the Cat
 Sonic
-
-
+Blaze the Cat (ブレイズ・ザ・キャット Bureizu za Kyatto?) is a character from the Sonic the Hedgehog series. She is an anthropomorphic cat and princess hailing from an alternate dimension, where she is both the regent of the Sol Empire and the appointed guardian of the Sol Emeralds, a role similar to that of Sonic and Knuckles combined. As her name suggests, she is gifted with the power of pyrokinesis, which lets her create and manipulate fire in any way she pleases.
+https://static.wikia.nocookie.net/sonic/images/2/29/TSR_Blaze.png/revision/latest/scale-to-width-down/546?cb=20201002035011
+https://sonic.fandom.com/wiki/Blaze_the_Cat
 Blaze
 
 Blaze the Cat
@@ -12,6 +13,12 @@ Cat
 Good
 Supporting Protagonist
 Female
-Guardian,Interdimensional,Multiversal Origin,Psychic Powers
+Guardian,Interdimensional,Multiversal Origin,Psychic Powers,Royalty,Nobility,Pyrokinesis
 City
 Low
+Sonic the Hedgehog (Extended Cast)
+
+Video Games,CGI
+Sonic the Hedgehog
+
+Pale Purple

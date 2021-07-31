@@ -1,7 +1,8 @@
 Blue
 Pokemon
-
-
+Blue Oak (Japanese: オーキド・グリーン Green Okido) is the rival of the player and the Champion in the Generation I games, as well as in Pokémon FireRed and LeafGreen, their Generation III remakes. Sometime during the three years between the plotline of the Generation I games, Pokémon FireRed and LeafGreen, and the events of the Generation II games and their remakes, Pokémon HeartGold and SoulSilver, as well as during the events of Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, Blue takes the place of Giovanni as the Viridian City Gym Leader, as Giovanni had disappeared after he disbanded Team Rocket. Blue does not specialize in a particular type of Pokémon and, like Giovanni before him, he gives anyone who defeats him an Earth Badge.
+https://static.wikia.nocookie.net/nintendo/images/1/16/Blue.png/revision/latest?cb=20111016131709&path-prefix=en
+https://bulbapedia.bulbagarden.net/wiki/Blue_(game)
 Blue
 Oak
 Blue Oak
@@ -15,3 +16,9 @@ Male
 Pokemon Trainer,Champion,Kanto,Duo|Red,Gym Leader
 Baseline
 High
+Champions (Pokemon),Kanto Gym Leaders
+
+Video Games
+Pokemon
+
+Blue

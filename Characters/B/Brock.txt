@@ -1,7 +1,8 @@
 Brock
 Pokemon
-
-
+Brock (Japanese: タケシ Takeshi) is an aspiring Pokémon Doctor from Pewter City and a former traveling partner of Ash. He used to be the Gym Leader of the Pewter Gym, handing out the Boulder Badge to Trainers who defeated him.
+https://cdn2.bulbagarden.net/upload/6/6a/Brock_SM.png
+https://bulbapedia.bulbagarden.net/wiki/Brock_(anime)
 Brock
 
 Brock
@@ -15,3 +16,9 @@ Male
 Pokemon Trainer,Kanto,Gym Leader
 Baseline
 High
+Kanto Gym Leaders,Pokemon Anime Kanto Trio
+
+Video Games
+Pokemon
+
+Brock Orange

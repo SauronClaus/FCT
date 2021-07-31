@@ -1,7 +1,8 @@
 Bowser
 Mario
-
-
+Bowser, sometimes known as King Koopa (Japanese: 大魔王クッパ, Daimaō Kuppa, which translates into "Great Demon King Koopa" or "Great Sorcerer King Koopa," the latter being used in the manual of Super Mario Bros.), is a major character and the main antagonist of the Mario franchise. He is a large, powerful, fire-breathing Koopa who leads the Koopa Troop, an antagonistic organization of turtle-like creatures, and has been the arch-nemesis of Mario since his debut in Super Mario Bros. He has repeatedly kidnapped or attempted to kidnap Princess Peach with the ultimate goal of defeating Mario and taking over the Mushroom Kingdom. Bowser's defining traits are his monstrous appearance with dragon-like elements, full-throated roar, fire-breathing abilities, cruel personality, bestial reptilian voice, never-ending conflict with Mario, and unrequited crush for Peach.
+https://mario.wiki.gallery/images/thumb/7/7d/MSOGT_Bowser.png/450px-MSOGT_Bowser.png
+https://www.mariowiki.com/Bowser
 Bowser
 
 Bowser 
@@ -12,6 +13,12 @@ Koopa
 Evil
 Antagonist
 Male
-Koopa,Parent Child|Bowser Jr.,Kidnapper,Evil King,Nobility,Royalty,King
+Koopa,Parent Child|Bowser Jr.,Kidnapper,Evil King,Nobility,Royalty,King,Super Smash Bros
 City
 High
+Super Smash Bros,Koopa Troopa
+
+Video Games,CGI
+Mario
+
+Green

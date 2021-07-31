@@ -1,7 +1,8 @@
 Bow
 She-Ra and the Princesses of Power
-
-
+Bow is a central character in She-Ra and the Princesses of Power, and a leader of the Rebellion. He is a companion in the adventures of the Princess Alliance. He uses a tracker pad and has some knowledge of technology management, and he also works as a master archer, often creating his own "trick arrows." During the final battle against Horde Prime, he entered a romantic relationship with Glimmer.
+https://static.wikia.nocookie.net/shera-and-the-princesses-of-power/images/c/c4/BowRenderHQ.png/revision/latest/scale-to-width-down/700?cb=20200525115729
+https://she-raandtheprincessesofpower.fandom.com/wiki/Bow
 Bow
 
 Bow
@@ -15,3 +16,9 @@ Male
 Archer,Genius,Best Friends Squad (She-Ra),Rebellion,Rebel Leader,Romantic Subplot|Glimmer
 Modified Human
 Low
+Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
+
+TV Shows,Cartoon
+He-Man
+
+Gold

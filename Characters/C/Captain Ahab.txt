@@ -1,7 +1,8 @@
 Captain Ahab
 Moby Dick
-
-
+Captain Ahab is a fictional character and one of the main protagonists in Herman Melville's Moby-Dick (1851). He is the monomaniacal captain of the whaling ship Pequod. On a previous voyage, the white whale Moby Dick bit off Ahab's leg, and he now wears a prosthetic leg made out of whalebone. The whaling voyage of the Pequod ends up as a hunt for revenge on the whale, as Ahab forces the crew members to support his fanatical mission. When Moby Dick is finally sighted, Ahab's hatred robs him of all caution, and the whale drags Ahab to his death beneath the sea.
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Moby_Dick_final_chase.jpg/330px-Moby_Dick_final_chase.jpg
+https://en.wikipedia.org/wiki/Captain_Ahab
 Ahab
 
 Captain Ahab|Old Thunder
@@ -15,3 +16,9 @@ Male
 Captain,Slightly Insane,Prosthetic,Peg-Leg,Sailor
 Baseline
 High
+Pequod Crew
+
+Books
+Moby Dick
+
+Black

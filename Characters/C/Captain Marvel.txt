@@ -1,7 +1,8 @@
 Captain Marvel
 DC Comics
-
-
+Captain Marvel, also known as Shazam (/ʃəˈzæm/), is a fictional superhero appearing in American comics originally published by Fawcett Comics, and currently published by DC Comics. Artist C. C. Beck and writer Bill Parker created the character in 1939. Shazam first appeared in Whiz Comics #2 (cover-dated Feb. 1940), published by Fawcett Comics. He is the alter ego of Billy Batson, a boy who, by speaking the magic word "SHAZAM!" (acronym of six "immortal elders": Solomon, Hercules, Atlas, Zeus, Achilles, and Mercury), can transform himself into a costumed adult with the powers of superhuman strength, speed, flight and other abilities. The character battles an extensive rogues' gallery, most of them working in tandem as the Monster Society of Evil, including primary archenemies Doctor Sivana, Black Adam, and Mister Mind. Billy often shares his powers with other children, primarily his sister Mary Batson and their best friend/foster brother Freddy Freeman, who also transform into superheroes and fight crime with Billy as members of the Marvel Family, also known as the Shazam Family.
+https://upload.wikimedia.org/wikipedia/en/8/82/Shazam_Captain_Marvel.png
+https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)
 Billy
 Batson
 Billy Batson|Captain Marvel|Shazam
@@ -12,6 +13,12 @@ Human
 Good
 Protagonist
 Male
-Magic Word,Word of Power,Shazam Family,Magic,Paragon,Transforming
+Magic Word,Word of Power,Shazam Family,Magic,Paragon,Transforming,Sibling|Mary Marvel,Sibling|Captain Marvel Jr.
 World
 High
+Shazam Family,Justice League (Extended)
+
+Superhero Comics,Comics,Movies
+DC
+
+Red

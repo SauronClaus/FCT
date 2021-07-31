@@ -1,7 +1,8 @@
 Bucky Barnes
 Marvel Comics
-
-
+James Buchanan "Bucky" Barnes Jr. is a fictional character appearing in American comic books published by Marvel Comics. Originally introduced as a sidekick to Captain America, the character was created by Joe Simon and Jack Kirby and first appeared in Captain America Comics #1 (cover-dated March 1941) (which was published by Marvel's predecessor, Timely Comics). Barnes' original costume (or one based on it) and the Bucky nickname has been used by other heroes in the Marvel Universe over the years. The character is brought back from supposed death as the brainwashed assassin cyborg called Winter Soldier (Russian: Зимний Солдат, translit. Zimniy Soldát). The character's memories and personality are later restored, leading him to become a dark hero in search of redemption. He temporarily assumes the role of "Captain America" when Steve Rogers was presumed to be dead. During the 2011 crossover Fear Itself, Barnes is injected with the Infinity Formula, which increases his natural vitality and physical traits in a way that is similar to (but less powerful than) the super-soldier serum used on Captain America.
+https://upload.wikimedia.org/wikipedia/en/8/8d/BuckyBarnes.jpeg
+https://en.wikipedia.org/wiki/Bucky_Barnes
 James
 Barnes
 Bucky Barnes|Bucky|The Winter Soldier|James Buchanan "Bucky" Barnes Jr.
@@ -12,6 +13,12 @@ Human
 Good
 Protagonist
 Male
-Captain America,Sidekick,Assassin,Brainwashed,Prosthetic Limb,Non-Powered,Super-Soldier Serum
+Captain America,Sidekick,Assassin,Brainwashed,Prosthetic Limb,Non-Powered,Super-Soldier Serum,Duo|Captain America
 Modified Human
 High
+Falcon & the Winter Soldier Main Trio,Captain Americas
+
+Superhero Comics,Comics,Movies,TV Shows
+Marvel
+
+Black

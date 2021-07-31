@@ -1,7 +1,8 @@
 Booster Gold
 DC Comics
-
-
+Booster Gold (Michael Jon Carter) is a fictional superhero appearing in American comic books published by DC Comics. Created by Dan Jurgens, the character first appeared in Booster Gold #1 (February 1986) and has been a member of the Justice League. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. Booster develops over the course of his publication history and through personal tragedies to become a true hero weighed down by the reputation he created for himself.
+https://upload.wikimedia.org/wikipedia/en/8/86/Booster_Gold_%28circa_1988%29.png
+https://en.wikipedia.org/wiki/Booster_Gold
 Michael
 Carter
 Booster Gold|Michael Jon Carter
@@ -15,3 +16,9 @@ Male
 Time Traveler,Future Tech,Duo|Ted Kord,Justice League,Justice League International
 Modified Human
 Medium
+Justice League (Extended),Justice League International
+
+Superhero Comics,Comics,TV Shows
+DC
+Skeets
+Yellow

@@ -1,7 +1,8 @@
 Cannonball
 Marvel Comics
-
-
+Cannonball (Samuel Zachary Guthrie) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Chris Claremont and artist Bob McLeod, Cannonball first appeared in The New Mutants (September 1982). Cannonball is a mutant who uses the ability to fly at jet speeds while encased in an impenetrable force field. Cannonball was a founding member of the X-Men's junior team, the New Mutants, and served as X-Force's second-in-command and field leader. He eventually joined the X-Men, becoming the first member of a secondary team to "graduate". The eldest of a large Kentucky coal mining family, several of his siblings, such as Husk, Aero, Icarus and Jeb, are also mutants and have joined X-Men-related teams.
+https://upload.wikimedia.org/wikipedia/en/0/06/Cannonball.jpg
+https://en.wikipedia.org/wiki/Cannonball_(Marvel_Comics)
 Sam
 Guthrie
 Sam Guthrie|Cannonball|Samuel Zachery "Sam" Guthrie
@@ -15,3 +16,9 @@ Male
 X-Men,Mutants,New Mutants,USAvengers
 City
 Medium
+X-Men (Extended),New Mutants (Core),New Mutants (Extended),USAvengers
+
+Superhero Comics,Comics,Movies
+Marvel
+
+Yellow

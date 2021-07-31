@@ -1,7 +1,8 @@
 Brom
 Eragon
-
-
+Brom Holcombsson was a male human, a former Dragon Rider, and the founder of the Varden. In the third book, it is revealed by Oromis that he is Eragon Shadeslayer (kingslayer)'s father, a secret that he and Saphira II had been keeping upon Brom's insistence.
+https://static.wikia.nocookie.net/inheritance/images/b/b8/Brom_Holcombsson.png/revision/latest/scale-to-width-down/600?cb=20110419141704
+https://inheritance.fandom.com/wiki/Brom
 Brom
 
 Brom
@@ -15,3 +16,9 @@ Male
 Mentor,Old,Father,Dragon Rider
 Baseline
 Low
+
+
+Books,Movies
+Eragon
+
+Brown

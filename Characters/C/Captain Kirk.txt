@@ -1,7 +1,8 @@
 Captain Kirk
-Star Trek
-
-
+Star Trek: The Original Series
+James Tiberius Kirk is a fictional character in the Star Trek media franchise. Originally played by actor William Shatner, Kirk first appeared in Star Trek: The Original Series serving aboard the starship USS Enterprise as captain. Kirk leads his crew as they explore new worlds, new civilizations, and "boldly go where no man has gone before". Often, the characters of Spock and Leonard McCoy act as his logical and emotional sounding boards, respectively. Captain Kirk has been portrayed in numerous films, books, comics, webisodes, and video games.
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Star_Trek_William_Shatner.JPG/330px-Star_Trek_William_Shatner.JPG
+https://en.wikipedia.org/wiki/James_T._Kirk
 James
 Kirk
 Captain James T. Kirk
@@ -15,3 +16,9 @@ Male
 Astral Captain,Space,Explorer,Captain,Star Trek: The Original Series,Star Trek Captains
 Baseline
 High
+Star Trek: The Original Series Crew
+
+Movies,TV Shows
+Star Trek
+
+Yellow

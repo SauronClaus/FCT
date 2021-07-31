@@ -1,7 +1,8 @@
 Bowser Jr.
 Mario
-
-
+Bowser Jr., sometimes simply known as "Jr." or "Junior," is a recurring antagonist in Nintendo's Mario franchise. He is, as his name implies, the son of Bowser and serves as the prince of the Koopas, heir to his throne to be the future king. Bowser Jr. made his debut in Super Mario Sunshine and has since helped his father to kidnap Princess Peach and battle Mario and Luigi in many subsequent games. Bowser Jr. has also taken on playable roles in spin-off titles such as Mario Superstar Baseball and Mario Strikers Charged. Bowser Jr. wants nothing more than to do his father's evil will, and Bowser's rarely seen emotional side is often brought out by his interactions with his son. His alter ego is Shadow Mario. Bowser Jr.'s defining traits are his striking resemblance to his father, his hyperactive and mischievous personality, his expertise in mechanics, his heavy uses of the Junior Clown Car and the Magic Paintbrush, and the bib-like bandana he wears.
+https://mario.wiki.gallery/images/thumb/6/6c/MP9_Bowser_Jr_Artwork.png/375px-MP9_Bowser_Jr_Artwork.png
+https://www.mariowiki.com/Bowser_Jr.
 Bowser
 
 Bowser Jr.
@@ -12,6 +13,12 @@ Koopa
 Evil
 Antagonist
 Male
-Tech,Prankster,Koopa,Parent Child|Bowser,Royalty,Nobility,Prince
+Tech,Prankster,Koopa,Parent Child|Bowser,Royalty,Nobility,Prince,Super Smash Bros
 Modified Human
 High
+Super Smash Bros,Koopa Troopa
+
+Video Games,CGI
+Mario
+
+Yellow

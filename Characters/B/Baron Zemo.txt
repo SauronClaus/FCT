@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Unlikely Trio|Sam Wilson;Bucky Barnes,Supervillain,Manipulator,Hydra
+Supervillain,Manipulator,Hydra
 Baseline
 Medium
 Falcon & the Winter Soldier Main Trio

@@ -1,7 +1,8 @@
 Brick
-Borderlands
-
-
+Borderlands 1
+Brick is originally from the planet Menoetius and is one of the original four Vault Hunters who sought to uncover the Vault hidden on Pandora. In addition, Brick is one of the founding members of the Crimson Raiders. However, Roland had expelled Brick from their base of Sanctuary after his brutal killing of Shep Sanders, who had disclosed New Haven's location to Hyperion, which led to its destruction by Handsome Jack's forces. Later on, Brick decided to become a bandit, after Hyperion began treating him as such. He then formed the Slab gang. With himself as the leader, Brick became known to most of Pandora as the "Slab King."
+https://static.wikia.nocookie.net/borderlands/images/0/0a/5fe0.jpg/revision/latest/scale-to-width-down/700?cb=20190916163257
+https://borderlands.fandom.com/wiki/Brick
 Brick
 
 Brick
@@ -15,3 +16,9 @@ Male
 Vault Hunter,Strong Man
 Modified Human
 Low
+Crimson Raiders,Borderlands 1 Vault Hunters,Vault Hunters
+
+Video Games
+Borderlands
+
+Military Green

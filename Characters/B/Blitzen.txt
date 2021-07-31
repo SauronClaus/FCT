@@ -1,7 +1,8 @@
 Blitzen
 Magnus Chase
-
-
+Blitzen, also known as Blitz, is a Norse demigod, son of the goddess Freya and the dwarf Bili. He is a skilled craftsmen and fashion consultant.
+https://static.wikia.nocookie.net/olympians/images/e/ec/Blitz_viria.jpg/revision/latest/scale-to-width-down/596?cb=20170917163922
+https://riordan.fandom.com/wiki/Blitzen
 Blitzen
 
 Blitzen|Blitz
@@ -12,6 +13,12 @@ Svartalf
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Dwarf,Crafter,Tailor
+Demigod,Norse,Dwarf,Crafter,Tailor,Duo|Hearth
 Modified Human
 Medium
+Norse Demigods (Rick Riordan),Magnus Chase First Quintet,Magnus Chase Ragnarok-Halting Gang
+
+Books
+Percy Jackson and the Olympians
+Expand-o-Duck
+Turquoise

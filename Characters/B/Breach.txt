@@ -1,7 +1,8 @@
 Breach
 Valorant
-
-
+Breach is an Agent in VALORANT. "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair."
+https://static.wikia.nocookie.net/valorant/images/5/5c/Breach_artwork.png/revision/latest/scale-to-width-down/652?cb=20200602020225
+https://valorant.fandom.com/wiki/Breach
 Breach
 
 Breach
@@ -15,3 +16,9 @@ Male
 Kinetic Blasts,Agents,Cyborg
 City
 Low
+Valorant Agents
+
+Video Games
+Valorant
+
+Weasley Orange

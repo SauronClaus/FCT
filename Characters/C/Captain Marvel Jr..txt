@@ -1,7 +1,8 @@
 Captain Marvel Jr.
 DC Comics
-
-
+Captain Marvel Jr., also known as Shazam Jr. (Frederick "Freddy" Freeman), is a fictional superhero originally published by Fawcett Comics and currently published by DC Comics. A member of the Marvel/Shazam Family team of superheroes associated with Captain Marvel/Shazam, he was created by Ed Herron and Mac Raboy, and first appeared in Whiz Comics #25 in December 1941. In the original Fawcett and DC continuity, Captain Marvel Jr.'s alter-ego was Freddy Freeman, a disabled newsboy saved by Captain Marvel from the villainous Captain Nazi. To save the dying boy's life, Captain Marvel shares his powers with Freddy. By saying the name "Captain Marvel", Freddy is transformed into Captain Marvel Jr., a blue costumed version of himself possessing powers of superhuman strength, speed, wisdom, and more. Junior derived his powers from Captain Marvel himself, while the other Marvels derived their powers from the wizard Shazam. Unlike Captain Marvel and the modern-era version of Mary Marvel, Junior remained a teenager in his transformed state.
+https://upload.wikimedia.org/wikipedia/en/c/cd/Captain_Marvel_Jr._%28Frederick_%27Freddy%27_Freeman%29_-_Fawcett_Comics_-_circa_1942.png
+https://en.wikipedia.org/wiki/Captain_Marvel_Jr.
 Frederick
 Freeman
 Frederick "Freddy" Freeman|CM3|Captain Marvel Jr.
@@ -15,3 +16,9 @@ Male
 Magic Word,Word of Power,Shazam Family,Magic,Transforming
 Country
 Low
+Shazam Family,Justice League (Extended),Teen Titans (Extended)
+
+Superhero Comics,Comics,Movies
+DC
+
+Blue

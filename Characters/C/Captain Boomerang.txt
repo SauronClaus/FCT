@@ -1,7 +1,8 @@
 Captain Boomerang
 Suicide Squad
-
-
+Captain Boomerang (George "Digger" Harkness) is a fictional supervillain appearing in American comic books published by DC Comics. The character is an enemy of both the Barry Allen and Wally West versions of the Flash.[1] Created by writer John Broome and artist Carmine Infantino, Captain Boomerang first appeared in The Flash #117 (December 1960). He has also been a prominent member of the Suicide Squad since its second iteration in the late 1990s. During the 2004 storyline Identity Crisis, George Harkness is killed and his son, Owen Mercer, takes over his father's role as Captain Boomerang for a period of time. However, during the 2009–2010 Blackest Night storyline, Owen is killed and Harkness returns to life, resuming his role as Captain Boomerang, and evolves as a genuine threat.
+https://upload.wikimedia.org/wikipedia/en/a/a4/Captain_Boomerang_Suicide_Squad_Vol_5_6.png
+https://en.wikipedia.org/wiki/Captain_Boomerang
 Digger
 Harkness
 George "Digger" Harkness|Captain Boomerang
@@ -15,3 +16,9 @@ Male
 Suicide Squad,Boomerang,Boomerang Bros|Sokka,Australian
 Baseline
 Low
+Suicide Squad (Core),Suicide Squad (Extended),The Rogues (Flash)
+
+Superhero Comics,Comics,Movies
+DC
+
+Blue

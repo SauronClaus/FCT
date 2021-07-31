@@ -1,7 +1,8 @@
 Captain Falcon
 F-Zero
-
-
+Captain Falcon (Japanese: キャプテン・ファルコン, Hepburn: Kyaputen Farukon), full name Douglas Jay Falcon, is a fictional character in the racing video game series F-Zero by Nintendo. He first appeared in the series' first installment, and is the main protagonist of the F-Zero video game franchise. His appearance could be possibly modeled after Judge Dredd. Within the series, he is a mysterious racer who is among the best on the circuit, as well as a renowned bounty hunter. Falcon also represents the F-Zero series in each entry of the Super Smash Bros. series.
+https://upload.wikimedia.org/wikipedia/en/4/4c/Captain_Falcon_character_portrait.png
+https://en.wikipedia.org/wiki/Captain_Falcon
 Douglas
 Falcon
 Douglas Jay Falcon|Captain Falcon|Bart Lemming
@@ -15,3 +16,9 @@ Male
 Captain Falcon,Super Smash Bros,Fire-Powers,Punching,Racer
 Modified Human
 Medium
+Super Smash Bros
+
+Video Games
+F-Zero
+
+Aarav Blue

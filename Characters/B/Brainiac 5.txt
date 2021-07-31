@@ -1,7 +1,8 @@
 Brainiac 5
 DC Comics
-
-
+Brainiac 5 (Querl Dox) is a fictional superhero character who exists in the 30th and 31st centuries of the DC Universe. He is from the planet Colu and is a long-standing member of the Legion of Super-Heroes.
+https://upload.wikimedia.org/wikipedia/en/8/8f/Brianiac_5_%28Post-Infinite_Crisis_version%29.jpg
+https://en.wikipedia.org/wiki/Brainiac_5
 Querl
 Dox
 Braniac 5
@@ -15,3 +16,9 @@ Male
 Genius,Tech,Future Tech,Legion of Superheroes,Green
 Modified Human
 Low
+Legion of Superheroes (Core),Legion of Superheroes (Extended)
+
+Superhero Comics,Comics,TV Shows
+DC
+Legion Flight Ring
+Green
