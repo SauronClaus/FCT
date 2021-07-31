@@ -16,7 +16,7 @@ Female
 Secret Agent,Spy Kids,OSS,Pilot,Martial Artist,Gymnast
 Modified Human
 High
-OSS|Cortez Family
+OSS,Cortez Family
 
 Movie
 Spy Kids

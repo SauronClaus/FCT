@@ -35,7 +35,10 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user:
         return
-    if message.content == "*test all":
+    if "*testall" in message.content:
+        name = message.content.split("-")[1]
+        print(name)
+        foundName = False
 
         alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -47,12 +50,17 @@ async def on_message(message):
                     characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                     characterInfo = characterFile.read().split("\n")
                     if len(characterInfo) == 24:
-                        embed = infoPerson(entry[0:len(entry)-4:])
-                        await message.channel.send(embed=embed)
-                        if characterInfo[22] != "":
-                            for artifact in characterInfo[22].split("|"):
-                                embed = infoArtifact(artifact)
-                                await message.channel.send(embed=embed)
+                        if foundName == True:
+                            embed = infoPerson(entry[0:len(entry)-4:])
+                            await message.channel.send(embed=embed)
+                            if characterInfo[22] != "":
+                                for artifact in characterInfo[22].split("|"):
+                                    embed = infoArtifact(artifact)
+                                    await message.channel.send(embed=embed)
+                        if entry[0:len(entry)-4:] == name:
+                            foundName = True
+                            
+                        
         print("Completed!")
     if message.content == "*test artifacts":
         basepath = 'Artifacts/'

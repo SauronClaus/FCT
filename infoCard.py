@@ -16,6 +16,7 @@ def infoPerson(personName):
     embed = discord.Embed(title="Test", description="Test :)")
 
     if personInfo[2] != "":
+        print(str(len(personInfo[2])) + ", truncated to " + str(len(personInfo[2][0:250:])))
         embed = discord.Embed(title=personInfo[0], description=personInfo[2][0:250:] + "[. . .](" + personInfo[4] + ")")
     else:
         embed = discord.Embed(title=personInfo[0])
@@ -76,7 +77,7 @@ def infoPerson(personName):
         
     if personInfo[19] != "":
         themeSong = "Megalovania|https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL?si=a9791693d4f04223"
-        if len(personInfo[19].split(",")) >= 2:
+        if len(personInfo[19].split("|")) >= 2:
             themeSongList = personInfo[19].split(",")
             RNG = random.randint(0,len(themeSongList)-1)
             themeSong = themeSongList[RNG]
@@ -111,10 +112,11 @@ def infoArtifact(artifactName):
 
     if artifactInfo[8] != "":
         mediumString = ""
-        for medium in artifactInfo[8].split("|"):
+        for medium in artifactInfo[8].split(","):
             mediumString = mediumString + medium + ", "
         mediumString = mediumString[0:len(mediumString)-2:]
         embed.add_field(name="Medium",value=mediumString, inline=True)
+
     if artifactInfo[9] != "":
         artifactThing = artifactInfo[9].split("|")
         embed.add_field(name="Type",value=artifactThing[0] + ": " + artifactThing[1], inline=True)

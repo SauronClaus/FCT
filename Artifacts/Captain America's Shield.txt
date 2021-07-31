@@ -1,8 +1,14 @@
 Captain America's Shield
 Marvel Comics
-
-
+Captain America's shield is a fictional weapon appearing in American comic books published by Marvel Comics. It is the primary defensive and offensive piece of equipment used by and emblematic of Captain America. Over the years, Captain America has used several shields of varying composition and design. His original heater shield first appeared in Captain America Comics #1 (March 1941), published by Marvel's 1940s predecessor, Timely Comics. The circular shield best associated with the character debuted in the next issue, Captain America Comics #2.
+https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/falcon-shield-1617104044.png?crop=0.822xw:1.00xh;0,0&resize=1200:*
+https://en.wikipedia.org/wiki/Captain_America's_shield
 Marvel
 Captain America
-
+Shield,Vibranium,Boomerang,Iconic
 Superhero Comics,Comics,Movies
+Armor|Shield
+Avengers Weapons,Avengers Quintent Weapons
+Slightly-Magical
+High
+Red
