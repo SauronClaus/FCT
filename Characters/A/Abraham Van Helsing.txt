@@ -16,7 +16,7 @@ Male
 Vampire Hunter,Old,Genius
 Baseline
 Medium
-Genius,Vampire Hunters
+Dracula Hunters
 
 Books,Movies
 Dracula Hunters

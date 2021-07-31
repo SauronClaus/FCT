@@ -1,0 +1,62 @@
+Justice League;Justice League (Core),Justice League (Extended),Justice League (film),Justice League Founder,Justice League Unlimited,Justice League International
+Justice Society;Justice Society of America (Core),Justice Society of America (Extended)
+Young Justice;Young Justice (Core),Young Justice (Extended)
+Teen Titans;Teen Titans (Extended),Teen Titans (Core),Teen Titans Founders,Teen Titans Go! Cast
+Birds of Prey;Birds of Prey (Core),Birds of Prey (Extended)
+Doom Patrol;Doom Patrol (Core),Doom Patrol (Extended)
+Lantern Corps;Green Lantern Corps
+Bat-Family;Bat-Family (Core),Bat-Family (Extended)
+Legion of Superheroes;Legion of Superheroes (Core),Legion of Superheroes(Extended)
+Misc. DC Teams;Survivors of the First Crisis (DC Comics),Arrowverse Main Cast,Outsiders,Flash Family,The Rogues (Flash),Shazam Family
+
+Stardew Valley;Stardew Valley Trio,Stardew Valley Bachelorettes,Stardew Valley Bachelors,Stardew Valley Residents
+
+Avengers;Avengers (Core),Avengers (Extended),USAvengers
+Guardians of the Galaxy;Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)
+Champions (Marvel);Champions (Marvel) (Core)
+Young Avengers;Young Avengers (Core),Young Avengers (Extended)
+X-Men;X-Men First Class,X-Men (Extended),X-Men (Core),Young X-Men,Giant Sized X-Men #1 Team,New Mutants (Core),New Mutants (Extended)
+Fantastic Four;Fantastic Four (Core),Fantastic Four (Extended),Future Foundation
+Exiles;Exiles (Core),Exiles (Extended)
+Misc. Marvel Teams;Infinity Watch,Symbiote Squad,Hulks,Ultimates (Team),Alpha Flight,Falcon & the Winter Soldier Main Trio,Captain Americas,Invaders,Avengers Original Quintet
+
+Band of Fools;Band of Fools (Original),Band of Fools (Redux),Original Three (Band of Fools)
+Permutations;Zach Wiebe's Permutations,Aarav Gupta's Permutations,Harrison Truscott's Permutations
+
+Order of the Pheonix;Order of the Pheonix I,Order of the Pheonix II
+Misc. Harry Potter;Hogwarts Professors,Weasley Family
+
+Misc. Avatar;The Gaang,Avatars,Team Avatar (Korra)
+
+Muppets;Sesame Street Residents,The Muppet Show,Electric Mayhem
+
+She-Ra;Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
+
+Star Wars;Jedi Order,501st Legion (Star Wars),Star Wars Droids,Star Wars Droid Duo,Stinger Mantis Crew,Sith Lord,Galactic Empire
+Main Cast;Sequel Trilogy Main Cast,The Clone Wars Primary Trio,Original Trilogy Quintet
+
+Greek Rick Riordan;Heroes of Olympus,Greek Demigods (Rick Riordan),Original Prophecy,Trials of Apollo Crew,Titans (Rick Riordan)
+Norse Rick Riordan;Floor 19,Einharjar (Rich Riordan),Norse Demigods (Rick Riordan),Magnus Chase First Quintet,Magnus Chase Ragnarok-Halting Gang
+Egyptian Rick Riordan;House of Life,Twenty-First Nome
+
+Fire Emblem: Three Houses;Knights of Seiros,Black Eagles,Blue Lions,Golden Deer
+
+Borderlands;Vault Hunters,Borderlands 1 Vault Hunters,Borderlands 2 Vault Hunters,Borderlands 3 Vault Hunters
+
+Walkyverse;Shortpacked! Store,Dumbing of Age Main Cast
+
+Sonic;Sonic the Hedgehog (Main Cast),Resistance (Sonic),Sonic the Hedgehog (Extended Cast)
+
+The Martian;NASA (The Martian),Ares III Mission Crew
+
+LOTR;Fellowship of the Ring,Thorin and Company
+
+Pokemon;Pokemon Anime Kanto Trio,Champions (Pokemon),Kanto Gym Leaders
+
+Super Smash Bros;Super Smash Bros,Super Smash Bros DLC
+
+Mario;Paper Mario: The Origami King Cast,Koopa Troopa
+
+JoJo's Bizarre Adventures;Zeppeli Family,Battle Tendency Cast
+
+Phineas and Ferb;Flynn-Fletcher Family,Phineas and Ferb Main Child Group

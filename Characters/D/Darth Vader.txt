@@ -16,7 +16,7 @@ Male
 Commander,Soldier,Sith Lord,Parent Child|Luke Skywalker,Parent Child|Leia Skywalker,Galactic Empire
 City
 High
-Sith Lord,Galactic Empire Commanders
+Sith Lord,Galactic Empire
 The Imperial March (Darth Vader's Theme)|https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y?si=eb8c769583cb4dba
 Movies
 Star Wars

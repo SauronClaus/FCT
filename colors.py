@@ -44,5 +44,7 @@ colors = {
     "Bone White": 0xe4dac7,
     "Brown": 0x793200,
     "Bronze": 0xcd7f32,
-    "Kerbal-Green": 0xe7e37e
+    "Kerbal-Green": 0xe7e37e,
+    "Brock-Orange": 0xca7a33,
+    "Turquoise": 0x72c5bd
 }

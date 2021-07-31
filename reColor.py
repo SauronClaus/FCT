@@ -1,8 +1,18 @@
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 import os
 
-searchColor = "Gray"
+searchColor = "Turquoise"
 colorList = {}
+
+currentColorsFile = open("colors.txt", "r", encoding='utf8')
+currentColors = currentColorsFile.read().split("\n")
+currentColorList = []
+for colors in currentColors:
+    if colors != "":
+        color = colors.split('"')[1]
+        #print(color)
+        currentColorList.append(color)
+
 # List all files in a directory using os.listdir
 for letter in alphabet:
     basepath = 'Characters/' + letter
@@ -12,10 +22,14 @@ for letter in alphabet:
             characterInfo = characterFile.read().split("\n")
             if len(characterInfo) == 24:
                 #print(entry + ": " + str(len(characterInfo)))
+                
                 try:
                     characterColor = characterInfo[23]
+                    if not(characterColor in currentColorList):
+                        print("New Color! " + characterColor)
                     if characterColor == searchColor:
                         print(entry)
+
                     try:
                         colorList[characterColor]+=1
                     except:

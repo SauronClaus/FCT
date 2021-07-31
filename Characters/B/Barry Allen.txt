@@ -16,7 +16,7 @@ Male
 Superheroes,Speedsters,Justice League,Police,Legacy|Jay Garrick,Love Interest|Iris West
 City
 High
-Justice League Core Members,Justice League (Extended),Flash Family,Justice League (film),Arrowverse Main Cast,Justice League Founder
+Justice League (Core),Justice League (Extended),Flash Family,Justice League (film),Arrowverse Main Cast,Justice League Founder
 
 Superhero Comics,Comics,TV Shows,Movies
 DC

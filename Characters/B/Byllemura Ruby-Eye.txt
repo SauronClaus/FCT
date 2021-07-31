@@ -16,7 +16,7 @@ Male
 D&D,Band of Fools,Band of Fools Redux,Artificer,Gnome
 Modified Human
 Low
-Band of Fools (Original),Band of Fools (Redux)
+Band of Fools (Original),Band of Fools (Redux),Harrison Truscott's Permutations
 
 Dungeons and Dragons
 Band of Fools

@@ -16,7 +16,7 @@ Male
 Vault Hunter,Strong Man
 Modified Human
 Low
-Crimson Raiders,Borderlands 1 Vault Hunters,Vault Hunters
+Borderlands 1 Vault Hunters,Vault Hunters
 
 Video Games
 Borderlands

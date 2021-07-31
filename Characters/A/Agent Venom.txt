@@ -16,7 +16,7 @@ Male
 Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Reformed Villain
 City
 Low
-Guardians of the Galaxy Extended,Avengers Extended,Symbiote Squad
+Guardians of the Galaxy (Extended),Avengers (Extended),Symbiote Squad
 
 Superhero Comics,Comics
 Marvel

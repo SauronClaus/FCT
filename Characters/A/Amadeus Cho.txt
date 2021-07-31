@@ -16,7 +16,7 @@ Male
 Hulk,Gamma,Strong,Raw Power,Green,Genius,Young,Champions (Team)
 City
 Medium
-Champions (Marvel) Core Members,Hulks
+Champions (Marvel) (Core),Hulks
 
 Superhero Comics,Comics
 Marvel Comics

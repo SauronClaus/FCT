@@ -16,7 +16,7 @@ Female
 Mage,Overachiever,Nobility,Blue Lions (Fire Emblem),Crest,Friends|Mercedes
 Baseline
 Low
-Blue Lions (Fire Emblem)
+Blue Lions
 
 Video Games
 Fire Emblem

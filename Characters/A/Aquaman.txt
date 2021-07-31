@@ -16,7 +16,7 @@ Male
 Sea Powers,Water,Ocean,Royalty,King,Justice League
 Country
 High
-Justice League (Extended),Justice League Founder,Justice League (Film)
+Justice League (Extended),Justice League Founder,Justice League (film)
 
 Superhero Comics,Comics,Movies,TV Shows
 DC

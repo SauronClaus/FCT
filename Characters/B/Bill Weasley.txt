@@ -16,7 +16,7 @@ Male
 Weasely,Order of the Pheonix II,Wizard,Married|Fleur Delacour,Gryffindor,Magic Users
 Modified Human
 Low
-Order of the Pheonix II
+Order of the Pheonix II,Weasley Family
 
 Books,Movies
 Harry Potter
