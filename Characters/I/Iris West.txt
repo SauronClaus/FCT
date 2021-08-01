@@ -1,4 +1,24 @@
 Iris West
 DC Comics
+Iris West is a fictional character, a supporting character appearing in American comic books published by DC Comics. She has been the main love interest and later wife of Barry Allen, the alter ego of the Silver Age version of the superhero The Flash, and the aunt and grandmother, respectively, of the Modern Age variations of the characters Wally West and Bart Allen.
+https://upload.wikimedia.org/wikipedia/en/5/5d/Iris_West.jpg
+https://en.wikipedia.org/wiki/Iris_West
+Iris
+West
+Iris West|Iris Allen|Iris Ann West
+Paula Marshall|Nicole Dubuc|Candice Patton|Vicki Lewis|Jennifer Hale
+
+Reporter
+Human
+Good
+Supporting Protagonist
+Female
+Reporter,Romantic Subplot|Barry Allen,Aunt Uncle|Wally West,Grandparent|Bart Allen
+Baseline
+Medium
 
 
+Superhero Comics,Comics,TV Shows
+DC
+
+Magenta

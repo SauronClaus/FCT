@@ -3,7 +3,7 @@ Star Wars Original Trilogy
 C-3PO, sometimes spelled See-Threepio and often referred to simply as Threepio, was a 3PO-series protocol droid designed to interact with organics, programmed primarily for etiquette and protocol. He was fluent in over six million forms of communication, and developed a fussy and worry-prone personality throughout his many decades of operation. Along with his counterpart, the astromech droid R2-D2, C-3PO constantly found himself directly involved in pivotal moments of galactic history, and aided in saving the galaxy on many occasions.
 https://static.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png/revision/latest/scale-to-width-down/486?cb=20180121052644
 https://en.wikipedia.org/wiki/C-3PO
-C-3PO
+
 
 C-3PO|Threepio
 
@@ -13,10 +13,10 @@ Robot
 Good
 Supporting Protagonist
 Male
-Droids,Protocol,Gold,Inseperable Duo|R2-D2
+Droids,Protocol,Gold,Duo|R2-D2,Galactic Republic (Star Wars),Rebel Alliance (Star Wars)
 Baseline
 High
-Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids
+Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids,Rebel Alliance (Star Wars)
 
 Movies
 Star Wars

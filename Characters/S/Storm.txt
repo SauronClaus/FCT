@@ -1,4 +1,24 @@
 Storm
 Marvel Comics
+Storm is a fictional character appearing in American comic books published by Marvel Comics. The character was created by writer Len Wein and artist Dave Cockrum, first appearing in Giant-Size X-Men #1 (May 1975). Descended from a long line of African witch-priestesses, Storm is a member of a fictional subspecies of humans born with superhuman abilities known as mutants. She is able to control the weather and atmosphere and is considered to be one of the most powerful mutants on the planet.
+https://upload.wikimedia.org/wikipedia/en/3/34/Storm_%28Ororo_Munroe%29.png
+https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)
+Ororo
+Munroe
+Storm|Ororo Munroe
+Halle Berry|Alexandra Shipp|Iona Morris|Alison Sealy-Smith|Kirsten Williamson|Susan Dalian|Jill Scott|
 
+Superhero
+Mutant
+Good
+Protagonist
+Female
+X-Men,Superhero,Weather Powers
+Modified Human
+Medium
+X-Men (Core),X-Men (Extended),Fantastic Four (Extended),Giant Sized X-Men #1 Team
 
+Superhero Comics,Comics,TV Shows,Movies
+Marvel
+
+Black

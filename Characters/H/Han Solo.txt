@@ -1,4 +1,24 @@
 Han Solo
+Star Wars Original Trilogy
+Han Solo is a fictional character in the Star Wars franchise created by George Lucas. The character first appeared in the 1977 film Star Wars portrayed by Harrison Ford, who reprised his role in The Empire Strikes Back (1980) and Return of the Jedi (1983). Ford returned to the role for The Force Awakens (2015), as well as a brief cameo in The Rise of Skywalker (2019). In the spin-off film Solo (2018), a younger version of the character was portrayed by Alden Ehrenreich. The character is the captain of the Millennium Falcon who, along with Wookiee co-pilot Chewbacca, becomes affiliated with the Rebel Alliance in their war against the Galactic Empire when he transports Jedi Ben Kenobi and his pupil Luke Skywalker to Alderaan. He also meets Leia Organa, whom he eventually marries and with whom he has a son, Ben Solo, who later becomes the villain Kylo Ren. Thirty years later, he is murdered by his own son while helping the young scavenger Rey destroy Starkiller Base, the First Order's battle station.
+https://upload.wikimedia.org/wikipedia/en/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg
+https://en.wikipedia.org/wiki/Han_Solo
+Han
+Solo
+Han Solo|Captain Solo
+Harrison Ford|Alden Ehrenreich|Neil Ross|David Esch|Lex Lang|John Armstrong
+32|3
+Smuggler
+Human
+Good
+Protagonist
+Male
+Smuggler,Criminal,Pilot,Romantic Subplot|Leia Organa,Duo|Chewbacca,Parent Child|Kylo Ren
+Baseline
+High
+Original Trilogy Quintet,Rebel Alliance (Star Wars)
+
+Movies
 Star Wars
 
-
+Black

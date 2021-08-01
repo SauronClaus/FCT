@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Male
-Captain America,Paragon,Super-Soldier Serum,Patriotism,Leader,Avengers,WWII,Rival|Tony Stark,Shields,Country-Themed
+Captain America,Paragon,Super-Soldier Serum,Patriotism,Leader,Avengers,WWII,Rival|Iron Man,Shields,Country-Themed,Big Three (Marvel)
 Modified Human
 High
-Avengers (Core),Avengers (Extended),Invaders,Avengers Original Quintet
+Avengers (Core),Avengers (Extended),Invaders,Avengers Original Quintet,Big Three (Marvel)
 
 Superhero Comics,Comics,Movies
 Marvel

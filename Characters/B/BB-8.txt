@@ -16,7 +16,7 @@ Male
 Droids,Astromech,Cute,Orange
 Baseline
 High
-Star Wars Droids,Sequel Trilogy Main Cast
+Star Wars Droids,Sequel Trilogy Main Cast,The Resistance (Star Wars)
 
 Movies
 Star Wars

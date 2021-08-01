@@ -46,5 +46,7 @@ colors = {
     "Bronze": 0xcd7f32,
     "Kerbal-Green": 0xe7e37e,
     "Brock Orange": 0xca7a33,
-    "Turquoise": 0x72c5bd
+    "Turquoise": 0x72c5bd,
+    "Magenta": 0xf653a6,
+    "Blond": 0xfaf0be
 }

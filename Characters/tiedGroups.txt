@@ -15,7 +15,7 @@ Avengers;Avengers (Core),Avengers (Extended),USAvengers
 Guardians of the Galaxy;Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)
 Champions (Marvel);Champions (Marvel) (Core)
 Young Avengers;Young Avengers (Core),Young Avengers (Extended)
-X-Men;X-Men First Class,X-Men (Extended),X-Men (Core),Young X-Men,Giant Sized X-Men #1 Team,New Mutants (Core),New Mutants (Extended)
+X-Men;X-Men First Class,X-Men (Extended),X-Men (Core),Young X-Men,Giant Sized X-Men #1 Team,New Mutants (Core),New Mutants (Extended),Excalibur (Marvel)
 Fantastic Four;Fantastic Four (Core),Fantastic Four (Extended),Future Foundation
 Exiles;Exiles (Core),Exiles (Extended)
 Misc. Marvel Teams;Infinity Watch,Symbiote Squad,Hulks,Ultimates (Team),Alpha Flight,Falcon & the Winter Soldier Main Trio,Captain Americas,Invaders,Avengers Original Quintet

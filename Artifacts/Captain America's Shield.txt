@@ -4,7 +4,7 @@ Captain America's shield is a fictional weapon appearing in American comic books
 https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/falcon-shield-1617104044.png?crop=0.822xw:1.00xh;0,0&resize=1200:*
 https://en.wikipedia.org/wiki/Captain_America's_shield
 Marvel
-Captain America
+Captain America|Bucky Barnes|Sam Wilson
 Shield,Vibranium,Boomerang,Iconic
 Superhero Comics,Comics,Movies
 Armor|Shield

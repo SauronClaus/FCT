@@ -1,4 +1,24 @@
 Green Arrow
 DC Comics
+Green Arrow is a fictional superhero who appears in comic books published by DC Comics. Created by Mort Weisinger and designed by George Papp, he first appeared in More Fun Comics #73 in November 1941. His real name is Oliver Jonas Queen, a wealthy businessman and owner of Queen Industries who is also a well-known celebrity in Star City. He uses this position to hide the fact that he is the Arrow. Sometimes shown dressed like the character Robin Hood, Green Arrow is an archer who uses his skills to fight crime in his home cities of Star City and Seattle, as well as alongside his fellow superheroes as a member of the Justice League. Though much less frequently used in modern stories, he also deploys a range of trick arrows (in contemporary times, they are referred as "specialty arrows") with various special functions, such as glue, explosive-tipped, grappling hook, flash grenade, tear gas and even kryptonite arrows for use in a range of special situations. At the time of his debut, Green Arrow functioned in many ways as an archery-themed analogue of the very popular Batman character, but writers at DC subsequently developed him into a voice of left-wing politics very much distinct in character from Batman.
+https://upload.wikimedia.org/wikipedia/en/1/1f/Green_Arrow_%28circa_2021%29.jpg
+https://en.wikipedia.org/wiki/Green_Arrow
+Oliver
+Queen
+Oliver Jonas Queen|Green Arrow|Ollie Queen
+Justin Hartley|Stephen Amell|Kin Shriner|James Arnold Taylor|Alan Tudyk
 
+Superhero
+Human
+Good
+Protagonist
+Male
+Archer,Trick Arrows,Justice League,Green,Romantic Subplot|Black Canary
+Baseline
+High
+Seven Soldiers of Victory,Justice League (Extended)
 
+TV Shows,Comics,Superhero Comics
+DC
+
+Green

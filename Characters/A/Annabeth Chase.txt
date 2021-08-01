@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Demigod,Greek,Genius,Romantic Subplot (Percy Jackson),Camp Half-Blood
+Demigod,Greek,Genius,Romantic Subplot|Percy Jackson,Camp Half-Blood
 Modified Human
 High
 Heroes of Olympus,Camp Half-Blood,Greek Demigods (Rick Riordan),Original Prophecy

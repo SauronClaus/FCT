@@ -1,7 +1,7 @@
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 import os
 
-searchColor = "Turquoise"
+searchColor = "Magenta"
 colorList = {}
 
 currentColorsFile = open("colors.txt", "r", encoding='utf8')

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Lawyer,Parent Child|Jean Louise "Scout" Finch,Parent Child|Jem Finch
+Lawyer,Parent Child|Scout Finch,Parent Child|Jem Finch
 Baseline
 Medium
 Finch Family
