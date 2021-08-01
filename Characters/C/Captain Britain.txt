@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Siblings|Betsy Braddock,Country-Themed,Patriotism,Britain-Themed,Captain Britain
+Siblings|Psylocke,Country-Themed,Patriotism,Britain-Themed,Captain Britain
 Country
 Low
 Avengers (Extended)

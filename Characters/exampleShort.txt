@@ -2,6 +2,7 @@ Name
 Franchise
 Description
 Image
+Article Link
 First Name
 Last Name
 Aliases
@@ -20,3 +21,4 @@ Theme Song
 Medium
 Brand
 Signature Weapon
+Color

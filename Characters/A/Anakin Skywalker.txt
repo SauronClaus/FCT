@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Jedi Knight,Commander,Soldier,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Inventor|C3P0
+Jedi Knight,Commander,Soldier,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Inventor|C3PO
 City
 High
 The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars)
