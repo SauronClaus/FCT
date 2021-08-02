@@ -20,5 +20,5 @@ Justice League (Extended),Justice League International
 
 Superhero Comics,Comics,TV Shows
 DC
-Skeets
+Skeets|Legion Flight Rings
 Yellow

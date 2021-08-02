@@ -13,7 +13,7 @@ Human
 Good
 Minor Side Character
 Male
-Weasely,Order of the Pheonix II,Wizard,Married|Fleur Delacour,Gryffindor,Magic Users
+Weasley,Order of the Pheonix II,Wizard,Married|Fleur Delacour,Gryffindor,Magic Users,Pureblood
 Modified Human
 Low
 Order of the Pheonix II,Weasley Family

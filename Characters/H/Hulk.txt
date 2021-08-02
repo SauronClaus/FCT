@@ -1,4 +1,24 @@
 Hulk
 Marvel Comics
+The Hulk is a fictional character and superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). In his comic book appearances, the character is both the Hulk, a green-skinned, hulking and muscular humanoid possessing a vast degree of physical strength, and his alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist. The two exist as independent dissociative personalities, and resent each other.
+https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png
+https://en.wikipedia.org/wiki/Hulk
+Robert
+Banner
+Dr. Robert Bruce Banner|Bruce Banner|Hulk
+Max Ferguson|Paul Soles|Michael Bell|Bob Holt|Ron Perlman|Neal McDonough|Lou Ferrigno|Michael Donovan|Travis Willingham|Fred Tatasciore|Gabriel Mann|Jesse Burch|Kevin Shinick|Sebastian Spence|Michael Dobson|Armen Taylor|Bill Bixby|Lou Ferrigno|Mark Ruffalo|Eric Bana|Edward Norton|Bryce Johnson
 
+Superhero
+Human
+Neutral
+Protagonist
+Male
+Hulk,Gamma,Strong,Raw Power,Green,Genius,Avengers,
+World
+High
+Avengers (Core),Avengers (Extended),Avengers Original Quintent,Hulks
 
+Superhero Comics,Comics,Movies
+Marvel
+
+Green

@@ -1,4 +1,24 @@
 Dimitri
 Fire Emblem: Three Houses
+Dimitri is a playable character and one of four main protagonists in Fire Emblem: Three Houses. He is the 17-year-old prince of the Holy Kingdom of Faerghus and the house leader of the Blue Lions. Dimitri possesses a Minor Crest of Blaiddyd and wields Lances as his main weapon.
+https://static.wikia.nocookie.net/fireemblem/images/1/18/Artwork_Dimitri.png/revision/latest/scale-to-width-down/700?cb=20201220085839
+https://fireemblem.fandom.com/wiki/Dimitri
+Dimitri
+Blaiddyd
+Dimitri Alexandre Blaiddyd|
+Hidenori Takahashi|Ben Lepley
+18|1
+Prince
+Human
+Neutral
+Protagonist
+Male
+Angsty,Lances,Nobility,Royalty,Master Servant|Dedue,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),Prince,King
+Baseline
+Medium
+Blue Lions,House Leaders (Fire Emblem)
 
-
+Video Games
+Fire Emblem
+Areadbhar
+Blue

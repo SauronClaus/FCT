@@ -1,0 +1,24 @@
+Black Widow
+Marvel Comics
+Black Widow (Natalia Alianovna "Natasha" Romanova; Russian: Наталья Альяновна "Наташа" Романова) is a fictional character appearing in American comic books published by Marvel Comics. Created by editor and plotter Stan Lee, scripter Don Rico, and artist Don Heck, the character debuted in Tales of Suspense #52 (April 1964). The character was introduced as a Russian spy, an antagonist of the superhero Iron Man. She later defected to the United States, becoming an agent of the fictional spy agency S.H.I.E.L.D. and a member of the superhero team the Avengers.
+https://upload.wikimedia.org/wikipedia/en/1/1b/Black_Widow_1.png
+https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)
+Natasha
+Romanova
+Black Widow|Natasha Romanova|Natalia Alianovna Romanova
+Vanessa Marshall|Laura Bailey|Olivia d'Abo|Scarlett Johansson|Jennifer Carpenter|Nika Futterman|Alison Brie
+
+Superhero
+Human
+Good
+Protagonist
+Female
+Non-Powered,Spy,Espionage,Russian,Assassin,Brainwashed,SHIELD (Marvel)
+Baseline
+High
+Avengers (Core),Avengers (Extended),Avengers Original Quintent,SHIELD (Marvel)
+
+Superhero Comics,Comics,Movies
+Marvel
+
+Black

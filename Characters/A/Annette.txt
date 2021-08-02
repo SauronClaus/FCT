@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Mage,Overachiever,Nobility,Blue Lions (Fire Emblem),Crest,Friends|Mercedes
+Mage,Overachiever,Nobility,Blue Lions (Fire Emblem),Crest,Friends|Mercedes,Magic User
 Baseline
 Low
 Blue Lions

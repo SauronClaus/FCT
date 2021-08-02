@@ -20,4 +20,5 @@ for letter in alphabet:
                         except:
                             weaponFile = open("Artifacts\\" + weapon + ".txt", "w")
                             weaponFile.write(weapon + "\n" + characterInfo[1] + "\n\n\n\n" + characterInfo[21] + "\n" + entry[0:len(entry)-4:] + "\n\n" + characterInfo[20])
+                            print("New! " + weapon)
 
