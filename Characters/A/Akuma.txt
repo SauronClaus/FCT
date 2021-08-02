@@ -13,11 +13,11 @@ Human
 Neutral
 Antagonist
 Male
-Raw Power,Antagonist
+Street Fighter,Raw Power,Antagonist,Honorable,Fighter
 Country
 Medium
 
-
+Theme of Gouki|https://open.spotify.com/track/3yFHznUGbmryEeXhMjHgEx?si=b191b352620e4326
 Video Games
 Street Fighter
 
