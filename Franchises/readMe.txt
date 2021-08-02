@@ -1,11 +1,21 @@
-Alright, places! There's 5 lines involved here.
+Alright, places! There's 14 lines involved here.
 
-• Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
-• Goals! These goals need to be accomplished for the story to be successful; mostly, they're the goals that the protagonists must complete to be successful.
-• Reach Goals! These goals are bonuses! If the character's don't accomplish them, oh well, but if they do, bonus points to them. 
-• Stetch Goals! These goals are the far out ones. Typically, if they're accomplished, the majority of the plot doesn't happen. 
-• The character inserts! These are splitted with a "|", and just tell the things which characters to replace.
-• Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
+1. Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
+2. Description- A short description of the character, often taken from a wiki or something.
+3. Image- a thumbnail image of the character. 
+4. Article- Add an article where you can find more information on the character.
+5. Goals! These goals need to be accomplished for the story to be successful; mostly, they're the goals that the protagonists must complete to be successful.
+6. Reach Goals! These goals are bonuses! If the character's don't accomplish them, oh well, but if they do, bonus points to them. 
+7. Stetch Goals! These goals are the far out ones. Typically, if they're accomplished, the majority of the plot doesn't happen. 
+8. The character inserts! These are splitted with a "|", and just tell the things which characters to replace.
+9. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
+10. Brand- Overarching brand set for the francise.
+11. Medium- What medium is the franchise in?
+12. Color- The color for the franchise embed! Make it purtty. 
+13. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
+14. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
+
+
 
 Alright so other important notes: 
 - If adding something, no commas, line breaks, or "|" in their names. 

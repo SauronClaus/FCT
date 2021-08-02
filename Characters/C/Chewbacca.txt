@@ -1,24 +1,24 @@
 Chewbacca
+Star Wars Original Trilogy
+Chewbacca (/tʃuːˈbɑːkə/), nicknamed "Chewie", is a fictional character in the Star Wars franchise. He is a wookiee, a tall, hirsute, bipedal, intelligent species originating from the fictional planet of Kashyyyk. Chewbacca is the loyal friend and first mate of Han Solo, and serves as co-pilot on Solo's spaceship, the Millennium Falcon; together they help the Rebel Alliance defeat the Galactic Empire and restore freedom to the galaxy.
+https://upload.wikimedia.org/wikipedia/en/1/12/Chewbaca_%28Peter_Mayhew%29.png
+https://en.wikipedia.org/wiki/Chewbacca
+Chewbacca
+
+Chewbacca
+Ben Burtt|Peter Mayhew|Joonas Suotamo
+200|20
+Smuggler
+Wookie
+Good
+Protagonist
+Male
+Smuggler,Criminal,Pilot,Duo|Han Solo,Wookie,Crossbow,No Words,Resistance (Star Wars),Rebellion (Star Wars)
+Modified Human
+High
+Original Trilogy Quintet,Rebel Alliance (Star Wars),The Resistance (Star Wars)
+
+Movies
 Star Wars
 
-
-
-First Name
-Last Name
-Aliases
-Actors
-Age
-Type
-Race
-Alignment
-Role
-Gender
-Tags
-Power Level
-Popularity
-Groups
-Theme Song
-Medium
-Brand
-Signature Weapon
-Color
+Brown

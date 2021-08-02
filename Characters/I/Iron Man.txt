@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Male
-Rival|Captain America,Genius,Inventor,Armor Suit,Billionaire,Tech,Big Three (Marvel)
+Rival|Captain America,Genius,Inventor,Armor Suit,Billionaire,Tech,Big Three (Marvel),Avengers
 City
 High
-Avengers (Core),Avengers (Extended),Avengers Original Quintent,Big Three (Marvel)
+Avengers (Core),Avengers (Extended),Avengers Original Quintent,Big Three (Marvel),Iron Men Corps
 
 Superhero Comics,Comics,Movies
 Marvel
