@@ -7,7 +7,7 @@ Olivia
 Colomar
 Olivia Colomar|Sombra
 Carolina Ravassa
-30
+30|3
 Hacker
 Human
 Neutral
