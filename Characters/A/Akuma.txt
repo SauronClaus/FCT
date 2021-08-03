@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Male
-Street Fighter,Raw Power,Antagonist,Honorable,Fighter
+Street Fighter,Raw Power,Antagonist,Honorable,Martial Artist
 Country
 Medium
 
