@@ -15,7 +15,7 @@ Protagonist
 Male
 Powerhouse,Ultimates (Team),Genius,Forgotten Hero
 Country
-Popularity (Low, Medium, High)
+Low
 Ultimates (Team)
 
 Superhero Comics,Comics

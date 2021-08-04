@@ -6,14 +6,14 @@ https://en.wikipedia.org/wiki/Jonathan_Harker
 Jonathan
 Harker
 Jonathan Harker|Lord Jonathan Flynn Harker
-John Van Eyssen|David Manners|Fred Williams|Murray Brown|Trevor Eve|Keanu Reeves|Rafe Spall|Corey Landis|Unax Ugalde|John Heffernan|Darren Ritchie|Lorenzo Trossello
+Gustav von Wangenheim|David Manners|John Van Eyssen|Fred Williams|Bosco Hogan|Trevor Eve|Bruno Ganz|Murray Brown|Keanu Reeves|Steven Weber|Rafe Spall|Corey Landis|Unax Ugalde|Oliver Jackson-Cohen|John Heffernan
 
 Civilian
 Human
 Good
 Protagonist
 Male
-Vampire Hunter,Estate Agent,Clerk,Fiance|Mina Murray,Romantic Subplot|Mina Murray
+Vampire Hunter,Estate Agent,Clerk,Fiance|Mina Harker,Romantic Subplot|Mina Harker
 Baseline
 Low
 Dracula Hunters

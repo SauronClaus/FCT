@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Depends
-Protagonist,Player Character,Chosen One,Crest
+Player Character,Chosen One,Crest
 City
 High
 Black Eagles,Blue Lions,Golden Deer,Knights of Seiros

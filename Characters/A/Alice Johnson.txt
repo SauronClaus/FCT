@@ -15,7 +15,7 @@ Protagonist
 Female
 Dream Powers,Horror Movie Protagonist
 Baseline
-Popularity (Low, Medium, High)
+Medium
 
 
 Movies,Horror Movies
