@@ -11,7 +11,7 @@ Josh Gad|Greg Hildreth
 Adventurer
 Snowman
 Good
-Protagonist
+Supporting Protagonist
 Male
 Musical,Naive,Childlike,Snowman,Detachable Body Parts,Summer,Warm Hugs,Magical
 Modified Human

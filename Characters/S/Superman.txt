@@ -1,24 +1,24 @@
 Superman
 DC Comics
 Superman was born on the planet Krypton and was given the name Kal-El at birth. As a baby, his parents sent him to Earth in a small spaceship moments before Krypton was destroyed in a natural cataclysm. His ship landed in the American countryside, near the fictional town of Smallville. He was found and adopted by farmers Jonathan and Martha Kent, who named him Clark Kent. Clark developed various superhuman abilities, such as incredible strength and impervious skin. His adoptive parents advised him to use his abilities for the benefit of humanity, and he decided to fight crime as a vigilante. To protect his privacy, he changes into a colorful costume and uses the alias "Superman" when fighting crime.
-https://en.wikipedia.org/wiki/Superman#/media/File:Supermanflying.png
+https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png
 https://en.wikipedia.org/wiki/Superman
-Clark
-Kent
-Clark Kent|Kal-El|Superman
+Kal
+El
+Clark Kent|Kal-El|Superman|Superboy
 Henry Cavill|Tyler Hoechlin|Tom Welling|Christopher Reeve|Brandon Routh|George Reeves|Matt Bomer|Kirk Alyn
-30|3
+
 Superhero
 Kryptonian
 Good
 Protagonist
 Male
-DC Comics|Justice League|Kryptonian|Superhero|Metropolis
+Justice League,Kryptonian,Superheroes,Trinity
 Cosmic
 High
-Justice League
-Theme from SUperman|https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ
-Comics,Movies,Cartoons,TV Shows
-Superman
+Justice League (Core),Justice League (Extended),Superman Family,Justice League (film),Justice League Unlimited
+Theme from Superman-Concert Version|https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ
+Comics,Movies,Superhero Comics,TV Shows
+DC
 
 Blue

@@ -1,3 +1,7 @@
+# Finds the paired folk. In duos.txt, it prints the incomplete pairs (one of the people is not created).
+# In duosAll.txt, it prints all of the duos, along with the type of pairing.
+
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 

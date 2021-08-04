@@ -4,7 +4,7 @@ Superman of Earth-Two is an alternate version of the fictional superhero Superma
 https://upload.wikimedia.org/wikipedia/en/7/75/Superman_%28Kal-L-_1940s%29.jpeg
 https://en.wikipedia.org/wiki/Superman_(Earth-Two)
 Kal
-
+L
 Superman|Kal-L|Clark Kent
 Darren Criss
 
@@ -13,7 +13,7 @@ Kryptonian
 Good
 Protagonist
 Male
-Superhero,Earth-2,Multiversal Origin,Justice Society of America,Cosmic
+Superhero,Earth-2,Multiversal Origin,Justice Society of America,Cosmic,Kryptonian
 Cosmic
 Low
 Survivors of the First Crisis (DC Comics),Justice Society of America (Extended)

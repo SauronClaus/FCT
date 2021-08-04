@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Exiled Royalty,Royalty,Nobility,Queen,Absurdly Strong,Mentor,Old,Grandparent|Thorn
+Exiled Royalty,Royalty,Nobility,Queen,Absurdly Strong,Mentor,Old,Grandparent|Thorn Harvestar,Dream Powers
 Modified Human
 Medium
 Valley Inhabitants (Bone),Bone Main Cast
