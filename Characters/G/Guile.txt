@@ -1,4 +1,24 @@
 Guile
 Street Fighter
+Guile (ガイル Gairu?) is a video game character from the Street Fighter series, first appearing in Street Fighter II. He is a major in the United States Air Force whose goal is to destroy the criminal organization Shadaloo, while at the same time investigating the whereabouts of his best friend Charlie Nash.
+https://en.wikipedia.org/wiki/Guile_(Street_Fighter)#/media/File:Guile_(SSFII).png
+https://streetfighter.fandom.com/wiki/Guile
+William
+Guile
+Major William F. Guile
+Jean-Claude Van Damme|Travis Willingham|Kirk Thornton|Michael Donovan
+34
+Soldier
+Human
+Good
+Protagonist
+Male
+Street Fighter,Stoic,Military,Air Force,United States,Tragic Backstory,Commander,Revenge-Driven
+Modified Human
+Medium
+United States Military
+Theme of Guile|https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO?si=9d90bfc8187a4b9b
+Video Games
+Street Fighter
 
-
+Dark Green
