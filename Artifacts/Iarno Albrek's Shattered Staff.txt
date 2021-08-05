@@ -1,9 +1,14 @@
 Iarno Albrek's Shattered Staff
 Band of Fools
-
-
-
+This long, thin shard of glass broke off of the shattered glass staff of Iarno Albrek. The shard contains some of the magical power, of his staff, but fragmented. Whenever the shard is used as a spell casting focus, it deals +2 damage to the attack, but on a roll of a 1 on a d4 the spell is not fired and is instead replaced with a wild magic surge.
+https://dygtyjqp7pi0m.cloudfront.net/i/37665/32477550_2.jpg?v=8D6B07C0038F570
+https://i.imgur.com/We8TIv1.png
 Band of Fools
 Kalathos Sunstrider
-
+Spellcasting Focus,Glass,Fragment
 Dungeons & Dragons
+Weapon|Wand
+
+Slightly-Magical
+Low
+Pale Blue
