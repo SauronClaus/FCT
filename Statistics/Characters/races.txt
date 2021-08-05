@@ -1,0 +1,53 @@
+Android: 3
+Asgardian: 1
+Bee: 1
+Bob-omb: 1
+Bone: 4
+Breegull: 1
+Cat: 2
+Coluan: 1
+Deity: 1
+Demigod: 7
+Dragon: 1
+Dragonborn: 2
+Earth Dragon: 1
+Elf: 4
+Fairy: 1
+Faunus: 1
+Former God: 1
+Genasi: 1
+Gnome: 1
+God: 2
+Half-Cetra: 1
+Half-Elf: 3
+Hedgehog: 2
+Hobbit: 1
+Honey Bear: 1
+Human: 191
+Human : 1
+Humans: 1
+Kangaroo: 1
+Kerbal: 2
+Koopa: 2
+Kryptonian: 4
+Light Dragon: 1
+Modified Human: 1
+Muppet: 6
+Mutant: 14
+Part-Veela: 1
+Pony: 1
+Rat Creature: 2
+Reindeer: 1
+Robot: 4
+Siren: 1
+Skeleton: 2
+Sky Dragon: 1
+Snowman: 1
+Spectre: 1
+Svartalf: 1
+Titan: 1
+Togruta: 1
+Umbra Witch: 1
+Unknown Cat Species: 1
+Wookie: 1
+Yoda's Species: 1

@@ -7,7 +7,7 @@ Chun
 Li
 Chun-Li
 Ming-Na Wen|Kristin Kreuk|Laura Dawn Bailey
-28
+28|2
 Fighter
 Human
 Good

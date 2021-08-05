@@ -13,7 +13,7 @@ Kryptonian
 Evil
 Antagonist
 Male
-Cosmic,Supervillain,Multiversal Origin,Earth-Prime,Cosmic,Kryptonian
+Cosmic,Supervillain,Multiversal Origin,Earth-Prime,Kryptonian
 Cosmic
 Low
 Survivors of the First Crisis (DC Comics)

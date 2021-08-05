@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Flight,Suit,Captain America,Legacy|Captain America,Bird-Powers,Bird-Themed,African American,Avengers,Legacy|Captain America
+Flight,Suit,Captain America,Legacy|Captain America,Bird-Powers,Bird-Themed,African American,Avengers
 Modified Human
 High
 Avengers (Extended),Captain America Corps

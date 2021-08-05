@@ -1,0 +1,3 @@
+High: 88
+Low: 113
+Medium: 90

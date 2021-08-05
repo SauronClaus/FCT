@@ -11,6 +11,7 @@ write2File = open("franchiseCharacters.txt","w",encoding='utf8')
 charactersToFind = []
 print("Start!")
 numberFranchises = 0
+numberOfFranchises = 0
 listFranchises = ""
 # List all files in a directory using os.listdir
 for letter in alphabet:
@@ -19,7 +20,8 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
             franchiseInfo = franchiseFile.read().split("\n")
-            if len(franchiseInfo) == 5:
+            if len(franchiseInfo) >= 5:
+                numberOfFranchises +=1
                 numberFranchises +=1
                 listFranchises = listFranchises + franchiseInfo[0] + ", "
                 characters = franchiseInfo[4].split("|")

@@ -1,0 +1,261 @@
+
+Avatar (TV Show):
+	-Avatar: The Last Airbender: 9
+	-The Legend of Korra: 3
+	-Total: 12
+Sesame Street:
+	-Sesame Street: 4
+	-Total: 4
+Stardew Valley:
+	-Stardew Valley: 2
+	-Total: 2
+Dracula Hunters:
+	-Dracula: 1
+	-Total: 1
+Marvel:
+	-Marvel Comics: 36
+	-MCU: 1
+	-Total: 37
+He-Man:
+	-She-Ra and the Princesses of Power: 4
+	-Total: 4
+Monk:
+	-Monk: 1
+	-Total: 1
+Final Fantasy:
+	-Final Fantasy VII: 2
+	-Total: 2
+Minority Report:
+	-Minority Report: 1
+	-Total: 1
+Star Wars:
+	-The Clone Wars: 1
+	-Star Wars: The Clone Wars: 3
+	-Star Wars Sequel Trilogy: 3
+	-Star Wars Original Trilogy: 6
+	-Fallen Order: 1
+	-Star Wars (Original Trilogy): 1
+	-Star Wars: 1
+	-Star Wars Prequel Trilogy: 1
+	-Total: 17
+Ready Player One:
+	-Ready Player One: 1
+	-Total: 1
+Band of Fools:
+	-Band of Fools Original: 8
+	-Band of Fools Reboot: 1
+	-Total: 9
+Street Fighter:
+	-Street Fighter: 6
+	-Total: 6
+Tron:
+	-Tron: 1
+	-Total: 1
+DC Comics:
+	-DC Comics: 3
+	-Suicide Squad: 1
+	-Total: 4
+Alan Wake:
+	-Alan Wake: 2
+	-Total: 2
+Harry Potter:
+	-Harry Potter: 9
+	-Total: 9
+A Clockwork Orange:
+	-A Clockwork Orange: 1
+	-Total: 1
+Percy Jackson and the Olympians:
+	-Magnus Chase: 4
+	-Kane Chronicles: 5
+	-Percy Jackson: 5
+	-Total: 14
+DC:
+	-DC Comics: 26
+	-Suicide Squad: 1
+	-Total: 27
+A Nightmare on Elm Street:
+	-A Nightmare on Elm Street: 1
+	-Total: 1
+Eureka:
+	-Eureka: 1
+	-Total: 1
+Fans!:
+	-Fans!: 3
+	-Total: 3
+Fire Emblem:
+	-Fire Emblem: Three Houses: 17
+	-Total: 17
+Horizon Zero Dawn:
+	-Horizon Zero Dawn: 1
+	-Total: 1
+Castlevania:
+	-Castlevania: 1
+	-Total: 1
+Half-Life:
+	-Half-Life: 1
+	-Total: 1
+Borderlands:
+	-Borderlands 3: 1
+	-Borderlands 2: 1
+	-Borderlands 1: 1
+	-Total: 3
+Walkyverse:
+	-Shortpacked: 1
+	-Total: 1
+39 Clues:
+	-39 Clues: 1
+	-Total: 1
+Tacoma:
+	-Tacoma: 1
+	-Total: 1
+Sonic the Hedgehog:
+	-Sonic: 5
+	-Total: 5
+Marvel Comics:
+	-Marvel Comics: 5
+	-Avengers: 1
+	-Total: 6
+The Muppets:
+	-The Muppets: 3
+	-Total: 3
+Persona:
+	-Persona 5: 1
+	-Total: 1
+Omniscient Reader's Viewpoint:
+	-Omniscient Reader's Viewpoint: 1
+	-Total: 1
+Frozen:
+	-Frozen: 5
+	-Total: 5
+The Martian:
+	-The Martian: 4
+	-Total: 4
+No Country for Old Men:
+	-No Country for Old Men: 1
+	-Total: 1
+League of Legends:
+	-League of Legends: 1
+	-Total: 1
+My Little Pony:
+	-My Little Pony: Friendship is Magic: 1
+	-Total: 1
+Lord of the Rings:
+	-Lord of the Rings: 3
+	-The Hobbit: 3
+	-Total: 6
+Magic: The Gathering:
+	-Magic: The Gathering: 1
+	-Total: 1
+Dracula:
+	-Dracula: 5
+	-Total: 5
+Metro:
+	-Metro: 1
+	-Total: 1
+Eragon:
+	-Eragon: 2
+	-Total: 2
+Pokemon:
+	-Pokemon Anime: 1
+	-Pokemon: 3
+	-Total: 4
+Until Dawn:
+	-Until Dawn: 1
+	-Total: 1
+Mass Effect:
+	-Mass Effect: 1
+	-Total: 1
+God of War:
+	-God of War: 3
+	-Total: 3
+To Kill a Mockingbird:
+	-To Kill a Mockingbird: 3
+	-Total: 3
+Atlantis: The Lost Empire:
+	-Atlantis: The Lost Empire: 1
+	-Total: 1
+The Backyardigans:
+	-The Backyardigans: 1
+	-Total: 1
+Phineas and Ferb:
+	-Phineas & Ferb: 3
+	-Total: 3
+Banjo & Kazooie:
+	-Banjo & Kazooie: 2
+	-Total: 2
+The Bee Movie:
+	-The Bee Movie: 1
+	-Total: 1
+Overwatch:
+	-Overwatch: 2
+	-Total: 2
+Bayonetta:
+	-Bayonetta: 1
+	-Total: 1
+Ender's Game:
+	-Ender's Game: 1
+	-Total: 1
+Kerbal Space Program:
+	-Kerbal Space Program: 2
+	-Total: 2
+Slaughterhouse-Five:
+	-Slaughterhouse-Five: 1
+	-Total: 1
+RWBY:
+	-RWBY: 2
+	-Total: 2
+Bone:
+	-Bone: 7
+	-Total: 7
+Mario:
+	-Paper Mario: 1
+	-Mario: 7
+	-Total: 8
+Raya and the Last Dragon:
+	-Raya and the Last Dragon: 1
+	-Total: 1
+Valorant:
+	-Valorant: 2
+	-Total: 2
+Hatchet:
+	-Hatchet: 1
+	-Total: 1
+One Piece:
+	-One Piece: 1
+	-Total: 1
+Jojo's Bizarre Adventure:
+	-JoJo's Bizarre Adventure: Battle Tendency: 1
+	-Total: 1
+Moby Dick:
+	-Moby Dick: 1
+	-Total: 1
+F-Zero:
+	-F-Zero: 1
+	-Total: 1
+In the Heart of the Sea:
+	-In the Heart of the Sea: 1
+	-Total: 1
+Saving Private Ryan:
+	-Saving Private Ryan: 1
+	-Total: 1
+Star Trek:
+	-Star Trek: The Original Series: 1
+	-Total: 1
+Twenty Thousand Leagues Under the Sea:
+	-Twenty Thousand Leagues Under the Sea: 1
+	-Total: 1
+Spy Kids:
+	-Spy Kids: 2
+	-Total: 2
+Kindred:
+	-Kindred: 1
+	-Total: 1
+Don't Starve:
+	-Don't Starve: 1
+	-Total: 1
+Team Fortress:
+	-Team Fortress 2: 1
+	-Total: 1
+Mortal Kombat:
+	-Mortal Kombat: 1
+	-Total: 1

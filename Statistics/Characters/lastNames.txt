@@ -1,0 +1,24 @@
+Kane: 3
+Skywalker: 3
+Chase: 2
+Weasley: 4
+Williams: 2
+Finch: 3
+Beaubier: 2
+Gordon: 2
+Allen: 2
+Kerman: 2
+Carter: 2
+Braddock: 2
+Batson: 2
+Cortez: 2
+Lang: 2
+Bone: 3
+Harvestar: 2
+Solo: 2
+van Dyne: 3
+West: 2
+Harker: 2
+Mario: 2
+Maximoff: 2
+El: 2

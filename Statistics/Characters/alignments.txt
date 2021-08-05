@@ -1,0 +1,4 @@
+Depends: 1
+Evil: 22
+Good: 238
+Neutral: 30

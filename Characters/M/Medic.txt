@@ -7,7 +7,7 @@ https://wiki.teamfortress.com/wiki/Medic
 Ludwig
 Dr. Ludwig|The Medic
 Robin Atkin Downes
-45
+45|4
 Medic
 Human
 Neutral

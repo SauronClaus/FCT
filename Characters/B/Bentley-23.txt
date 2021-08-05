@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Clone,Genius,Fantastic Four,Future Foundation,Genius,Non-Powered
+Clone,Fantastic Four,Future Foundation,Genius,Non-Powered
 Baseline
 Low
 Future Foundation,Fantastic Four (Extended)

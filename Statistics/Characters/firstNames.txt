@@ -1,0 +1,17 @@
+Alan: 3
+Alex: 3
+Amy: 3
+Anakin: 2
+Anna: 2
+Arthur: 3
+Ashley: 2
+Barry: 3
+Bruce: 2
+Bill: 2
+Billy: 2
+Bowser: 2
+Brian: 2
+James: 4
+John: 2
+Carter: 2
+Kal: 3

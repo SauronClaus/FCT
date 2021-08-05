@@ -1,0 +1,626 @@
+: 2
+AI: 1
+Ability Copier: 1
+Absurdly Strong: 1
+Accidental Adventurer: 3
+Accidental Time Travel: 1
+Adopted: 1
+African American: 6
+African-American: 2
+Against Programming: 1
+Agents: 1
+Allergies: 1
+Almost Invulnerable: 1
+Alpha Flight: 2
+American: 1
+Amnesiac: 1
+Android: 1
+Angsty: 1
+Animal-Person: 1
+Animorphic: 2
+Antagonist: 1
+Antihero: 2
+Antivillain: 1
+Apples: 1
+Apprentice: 1
+Archbishop: 1
+Archer: 10
+Armor Suit: 4
+Artificer: 1
+Artificial: 2
+Artist: 1
+Asgardian: 1
+Assassin: 4
+Astral Captain: 1
+Astral Force: 1
+Astromech: 2
+Astronaut: 4
+Aunt Uncle: 2
+Australian: 1
+Avenger: 1
+Avengers: 13
+Avengers Founders: 1
+Axe: 1
+Axe-Wielder: 1
+Axes: 1
+Bad Jokes: 1
+Band of Fools: 8
+Band of Fools Redux: 3
+Barbarian: 1
+Bard: 2
+Bat-Family: 3
+Bat-Themed Hero: 1
+Beast: 2
+Beauxbatons: 1
+Bender: 6
+Best Friends Squad: 2
+Best Friends Squad (She-Ra): 1
+Betrayer: 1
+Big: 2
+Big Three (Marvel): 3
+Billionaire: 2
+Billionare: 1
+Bipolar: 1
+Bird: 1
+Bird Wings: 1
+Bird-Powers: 1
+Bird-Themed: 1
+Birds of Prey: 2
+Black Eagles (Fire Emblem): 4
+Black Order: 1
+Blind: 2
+Blood of Pharaohs: 4
+Blue Lions (Fire Emblem): 4
+Body-Swapped: 1
+Bodyguard: 1
+Bomb: 1
+Bone: 3
+Boomerang: 2
+Brainwashed: 2
+Brave: 1
+Britain-Themed: 1
+Brooding: 1
+Bully: 1
+Buster: 1
+CGI: 1
+Camp Half-Blood: 3
+Captain: 4
+Captain America: 3
+Captain Britain: 1
+Captain Falcon: 1
+Cartoon: 2
+Cat-Themed: 3
+Celestial: 1
+Chainsaw: 1
+Champion: 3
+Champions: 1
+Champions (Team): 1
+Chaos Magic: 1
+Chaotic: 1
+Charismatic: 2
+Cheerful: 4
+Chef: 1
+Child: 4
+Childlike: 1
+Chosen One: 10
+Civilian: 1
+Cleric: 1
+Clerk: 1
+Clone: 2
+Commander: 6
+Conman: 1
+Cosmic: 5
+Cosmic Historian: 1
+Cosmic Power: 1
+Country-Themed: 2
+Cousin: 3
+Cowboy: 1
+Crafter: 1
+Creator: 1
+Crest: 11
+Crime Lord: 1
+Criminal: 4
+Crossbow: 1
+Cryokinesis: 1
+Crystal Powers: 1
+Cursed: 1
+Cute: 1
+Cyborg: 1
+D&D: 9
+Damsel in Distress: 2
+Dark: 1
+Deaf: 1
+Death Knight: 1
+Deity: 1
+Demigod: 8
+Demon Hunter: 1
+Density-Powers: 2
+Depowered: 1
+Detachable Body Parts: 1
+Detective: 2
+Devil Fruit: 1
+Dhampir: 1
+Diligent: 1
+Dimensional Traveller: 1
+Diplomat: 1
+Director: 1
+Disciplined: 2
+Disney Princess: 2
+Doctor: 4
+Don't Starve: 1
+Dragon: 4
+Dragon Rider: 1
+Dragon Riders: 1
+Dragonborn: 1
+Dragonslayer: 1
+Dream Powers: 3
+Droids: 3
+Dumbledore's Army: 4
+Duo: 23
+Dwarf: 1
+Earth Bender: 2
+Earth-2: 2
+Earth-295: 1
+Earth-3: 1
+Earth-Prime: 1
+Edgy: 2
+Einharjar: 2
+Electric Mayhem: 1
+Elemental: 2
+Elf: 3
+Emperor: 1
+Empress: 1
+Engineer: 2
+Espionage: 1
+Estate Agent: 1
+Evil: 1
+Evil King: 1
+Exile: 4
+Exiled Royalty: 2
+Exiles: 1
+Exiles (Team): 1
+Explorer: 1
+Explosion Happy: 1
+Eye of Anibus: 1
+Eye of Horus: 1
+Eye of Isis: 1
+Eye of Ra: 1
+Face Paint: 1
+Fairies: 1
+Fallen Paladin: 1
+Fans: 1
+Fantastic Four: 1
+Farmer: 1
+Fashionista: 2
+Father: 2
+Father Figure: 1
+Federal Agent: 1
+Fellowship of the Ring: 2
+Fiance: 2
+Fighter: 1
+Fire Bender: 3
+Fire Dragon: 1
+Fire-Powers: 1
+First Order: 1
+Fisherman: 1
+Flight: 3
+Floor 19: 2
+Football: 1
+Force Sensitive: 1
+Force-Sensitive: 2
+Forgotten Hero: 1
+Former Criminal: 1
+Former Immortal: 1
+Frenemy: 2
+Friends: 2
+Frozen in Ice: 1
+Future Child: 1
+Future Foundation: 1
+Future Sight: 2
+Future Tech: 3
+GCPD: 1
+Galactic Empire: 1
+Galactic Republic (Star Wars): 7
+Gamma: 2
+Geek: 2
+Genderfluid: 1
+Genius: 25
+Gnome: 1
+God: 3
+God Slayer: 1
+Goddess: 3
+Gold: 1
+Golden Age: 1
+Golden Deer (Fire Emblem): 3
+Government: 1
+Government Agent: 1
+Grandparent: 2
+Grandparents: 1
+Greek: 5
+Green: 7
+Green Beret: 1
+Green Lantern: 1
+Gryffindor: 6
+Guardian: 3
+Guardians of the Galaxy: 2
+Gun-Arm: 1
+Gym Leader: 2
+Gymnast: 2
+Hacker: 4
+Half-Elf: 3
+Hapless Assistant: 1
+Harry Potter: 1
+Harry Potter Main Trio: 3
+Heavily Armored: 1
+Heiress: 1
+Heiress to Empire: 1
+Helmet: 1
+Heterochromia: 1
+Hitman: 1
+Hobbit: 1
+Honorable: 1
+Horder: 1
+Horror Game Protagonist: 1
+Horror Games: 1
+Horror Movie Protagonist: 1
+Hothead: 1
+House Leaders (Fire Embelm): 1
+House Leaders (Fire Emblem): 1
+Hulk: 2
+Husband: 1
+Hydra: 1
+Hypnotic Beauty: 1
+Ice Powers: 1
+Iconic: 1
+Idiot: 2
+Imaginative: 1
+Immortal: 3
+Infinity Watch: 1
+Insect-Themed: 6
+Insects: 1
+Inspiration: 1
+Interdimensional: 3
+Interpol: 1
+Introvert: 3
+Inventor: 9
+Investigator: 1
+Japanese: 2
+Jedi Knight: 9
+Jedi Master: 4
+Jedi Order: 3
+Jock: 1
+Justice League: 12
+Justice League Dark: 1
+Justice League International: 2
+Justice Society of America: 3
+Kanto: 3
+Kidnapper: 1
+Kinetic Blasts: 1
+King: 5
+Knights of Seiros: 3
+Knights of Seiros (Fire Emblem): 4
+Knives: 1
+Koopa: 2
+Kryptonian: 4
+LGBTQ+: 15
+Lab Experiment: 1
+Lances: 1
+Large Bird: 1
+Last of Kind: 1
+Lawyer: 1
+Lazy: 1
+Leader: 4
+League of Legends: 1
+Legacy: 12
+Legion of Superheroes: 1
+Lightning: 1
+Lightning Manipulation: 1
+Literary Agent: 1
+Looks-Like-Child-But-Is-Actually-Old: 2
+Loud: 2
+Love Interest: 1
+Machine Gun: 1
+Machine Hunter: 1
+Mage: 1
+Magic: 4
+Magic Gunslinger: 1
+Magic User: 19
+Magic Users: 3
+Magic Word: 3
+Magical: 1
+Magnet Powers: 1
+Manipulator: 3
+Married: 8
+Martial Artist: 7
+Marvel: 1
+Master Apprentice: 9
+Master Servant: 4
+Mastermind: 1
+Megalomaniac: 2
+Mentor: 7
+Mercenary: 1
+Metal Bender: 1
+Minion: 2
+Monk: 1
+Monster Hunter: 3
+Moral Compass: 1
+Mortal Kombat: 1
+Most Powerful: 2
+Mother of Species: 1
+Movies: 1
+Muggleborn: 1
+Multiversal Origin: 7
+Muppet: 5
+Musclehead: 1
+Musical: 6
+Musician: 2
+Mutant: 1
+Mutants: 1
+Mutation: 1
+Mysterious Backstory: 3
+NASA: 2
+Naive: 2
+Narrator: 1
+Nature: 1
+Naval Captain: 1
+Nemesis: 3
+Nerd: 2
+New Mutants: 1
+New Yorker: 1
+Nimble: 1
+Ninja: 1
+No Manners: 1
+No Words: 2
+Nobility: 26
+Non-Human: 2
+Non-Powered: 9
+Norse: 5
+OCD: 1
+OSS: 2
+Observer: 1
+Occult Interested: 1
+Ocean: 3
+Old: 7
+Omen: 2
+Omnipotent: 1
+Orange: 1
+Order of the Pheonix I: 1
+Order of the Pheonix II: 3
+Original Four: 2
+Original Three (Band of Fools): 3
+Orphan: 2
+Outcast: 3
+Outdoorsman: 1
+Outsiders: 2
+Overachiever: 2
+Overly Sexualized: 1
+Overwatch: 1
+PR Person: 1
+Pacifist: 1
+Paladin: 1
+Paragon: 3
+Parent Child: 29
+Patriotism: 2
+Peaceful: 1
+Peasant: 1
+Peg-Leg: 1
+PhD: 1
+Phantom Thieves of Hearts: 1
+Photokinesis: 1
+Pilot: 4
+Pink: 1
+Pixelated: 2
+Planeswalker: 1
+Platformer: 2
+Player Character: 5
+Poetry: 1
+Pokemon Trainer: 4
+Police: 2
+Police Commissioner: 1
+Police Officer: 1
+Polyamory: 3
+Possessing Possessed: 2
+Post-Apocalypse: 1
+Power Armor: 1
+Power-Ups: 2
+Powerhouse: 3
+Powerless: 1
+Prankster: 2
+Precognitive: 1
+Prideful: 2
+Priestess: 1
+Prince: 2
+Princess: 7
+Problem Child: 1
+Programmer: 1
+Prosthetic: 3
+Prosthetic Limb: 1
+Protocol: 1
+Psychiatrist: 1
+Psychic: 1
+Psychic Powers: 1
+Psychopath: 2
+Punching: 1
+Pureblood: 4
+Pyrokinesis: 2
+Pyromaniac: 1
+Queen: 5
+Quiet: 1
+Racer: 1
+Ranger: 2
+Raw Power: 4
+Reality Bending: 1
+Reality Hopping: 2
+Rebel: 9
+Rebel Leader: 1
+Rebellion: 1
+Rebellion (Star Wars): 6
+Redemption: 3
+Redemption Arc: 1
+Reformed: 3
+Reformed Villain: 1
+Reindeer: 1
+Relic: 1
+Religious: 1
+Reluctant Hero: 1
+Reporter: 1
+Resistance (Star Wars): 5
+Revenge-Driven: 1
+Right-Hand Man Leader: 2
+Ring-Bearer: 1
+Ripple User: 1
+Rival: 2
+Robot: 1
+Rogue: 2
+Romantic Subplot: 55
+Royalty: 24
+Runes: 1
+Russian: 2
+Ruthless: 1
+SHIELD (Marvel): 1
+Sailor: 2
+Sarcastic: 2
+Scarf: 1
+Schemer: 2
+Science Fiction: 1
+Scientific: 1
+Scientist: 4
+Sea: 1
+Sea Powers: 2
+Secret Agent: 2
+Secretly Immortal: 3
+Servant: 1
+Sesame Street: 2
+Sesame Street Residents: 1
+Shadaloo: 2
+Shape Shifter: 1
+Shapeshifter: 1
+Sharing Body: 2
+Shazam Family: 3
+Shields: 1
+Shortpacked! Store: 1
+Sibling: 8
+Siblings: 11
+Sidekick: 2
+Siren (Borderlands): 1
+Sister: 1
+Sith Lord: 2
+Size-Changing: 6
+Skeleton: 1
+Slightly Insane: 2
+Small: 1
+Smuggler: 2
+Snowman: 1
+Sociopath: 2
+Soldier: 13
+Sorcerer: 5
+Southern Accent: 1
+Space: 1
+Special Forces: 1
+Speedster: 3
+Speedsters: 5
+Split Personality: 1
+Spy: 1
+Spy Kids: 2
+Star Trek Captains: 1
+Star Trek: The Original Series: 1
+Stardew Valley Bachelorettes: 1
+Stardew Valley Bachelors: 1
+Stoic: 2
+Store Clerk: 1
+Straight Man: 1
+Strategist: 1
+Straw Hat Pirates: 1
+Street Fighter: 6
+Strong: 3
+Strong Man: 3
+Strong Will: 1
+Studious: 1
+Stupid: 2
+Suave: 1
+Submarine: 1
+Suicide Squad: 2
+Suit: 1
+Summer: 1
+Sun: 1
+Super Smash Bros: 13
+Super Smash Bros Original Cast: 1
+Super-Soldier Serum: 2
+Superhero: 11
+Superheroes: 12
+Supersonic: 1
+Supervillain: 3
+Survivalist: 1
+Survivor: 1
+Swordsman: 5
+Symbiote: 1
+Tailor: 1
+Tall: 1
+Talon: 1
+Team Avatar (Korra): 1
+Team Fortress: 1
+Team Fortress 2: 1
+Tech: 15
+Tech Genius: 1
+Teen Titans: 3
+Teenager: 2
+Teleportation: 1
+Teleporter: 1
+Tempted By Darkness: 1
+The Princess Alliance: 2
+Thorin and Company: 1
+Thunder: 1
+Thunderbolts: 1
+Time Traveler: 4
+Timid: 1
+Titan: 1
+Tomboy: 3
+Top Hats: 1
+Town Guard: 1
+Tragic Backstory: 1
+Trained: 1
+Transforming: 4
+Traumatic Past: 1
+Traumatized: 1
+Tribal: 1
+Trick Arrows: 2
+Trickster: 1
+Trinity: 2
+Turret: 1
+Twins: 2
+USAvengers: 1
+Ultimates (Team): 3
+Uncle: 1
+Undead: 1
+VR (Augumented Reality): 1
+Vampire Hunter: 7
+Vault Hunter: 3
+WWII: 3
+War Hammer: 1
+Warlock: 1
+Warm Hugs: 1
+Water: 1
+Water Bender: 1
+Water Powers: 1
+Weasely: 1
+Weasley: 3
+Weather Powers: 1
+Webtoon: 1
+Weelchair: 1
+Wilderness: 1
+Wise: 1
+Witch: 1
+Wizard: 10
+Wookie: 1
+Word of Power: 3
+Writer: 2
+X-Men: 11
+X-Men (Core): 1
+X-Men (Extended): 1
+X-Men First Class: 2
+Yin & Yang: 2
+Young: 2
+Young Avengers: 2
+Young Justice: 3
+Young X-Men: 2
+Youngest: 1

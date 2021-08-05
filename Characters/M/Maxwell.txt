@@ -7,7 +7,7 @@ William
 Carter
 William Carter|The Amazing Maxwell
 
-67
+67|6
 Puppet Master
 Human
 Evil

@@ -7,7 +7,7 @@ Hanzo
 Hasashi
 Hanzo Hasashi|Scorpion
 Hiroyuki Sanada|Chris Casamassa|Ed Boon|Patrick Seitz|Ian Anthony Dale|Ron Yuan|J.J. Perry
-52
+52|5
 Ninja
 Spectre
 Depends

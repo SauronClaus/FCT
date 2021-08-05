@@ -1,0 +1,13 @@
+Antagonist: 26
+Cursed Exile: 1
+Inventor: 1
+Love Interest: 2
+Mentor: 3
+Minor Side Character: 2
+NPC: 2
+Party Member: 11
+Playable Character: 7
+Protagonist: 167
+Rival: 1
+Side Character: 7
+Supporting Protagonist: 61

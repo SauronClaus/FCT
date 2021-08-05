@@ -7,16 +7,16 @@ Ryu
 Hoshi
 Ryu Hoshi
 Byron Mann|Jon Foo|Mike Moh|Daniel Southworth|Kyle Henry Hebert
-30
+30|3
 Fighter
 Human
 Good
 Protagonist
 Male
-Street Fighter,Martial Artist,Stoic,Disciplined,Tempted By Darkness
+Street Fighter,Martial Artist,Stoic,Disciplined,Tempted By Darkness,Super Smash Bros
 City
 Medium
-
+Super Smash Bros
 Theme of Ryu|https://open.spotify.com/track/0HQGN3a1nQUnU0TbBEQMyo
 Video Games
 Street Fighter
