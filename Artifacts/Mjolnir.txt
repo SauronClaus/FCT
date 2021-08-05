@@ -1,9 +1,14 @@
 Mjolnir
 Marvel Comics
-
-
-
+Mjolnir (literally, "grinder" as in "grindstone", cf. 'meal' to "Mjöl") is the enchanted hammer wielded by the Asgardian; Thor, the "Norse God of Thunder". The Uru hammer which grants him many of his powers and abilities. Forged by Eitri and the Dwarves of Nidavellir in the heart of a dying star. Mjolnir is enchanted so it can only be wielded by those who are deemed "worthy".
+https://static.wikia.nocookie.net/marveldatabase/images/c/cd/Thor_Vikings_Vol_1_4_Textless.jpg/revision/latest/scale-to-width-down/682?cb=20190712065442
+https://marvel.fandom.com/wiki/Mjolnir
 Marvel
 Thor
-
+Hammer,Worthy,Returning,Elemental Weapon,Lightning,Dwarven Forged
 Superhero Comics,Comics,Movies
+Weapon|Hammer
+
+Country
+High
+Grey

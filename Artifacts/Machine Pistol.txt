@@ -9,5 +9,6 @@ Gun,Rapid-Fire
 Video Games
 Weapon|Gun
 
-
-
+Mundane
+Low
+Blue
