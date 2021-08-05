@@ -13,7 +13,7 @@ Human
 Good
 Playable Character
 Male
-Street Fighter|Martial Artist|Prideful|Hothead|Father|Husband
+Street Fighter,Martial Artist,Prideful,Hothead,Parent Child|Mel Masters,Spouse|Eliza Masters
 Modified Human
 Medium
 
