@@ -1,0 +1,28 @@
+African American; Ironheart
+Android; Iron Lad
+Armor Suit; Iron Lad, Iron Man, Ironheart
+Aunt Uncle; Iris West|Wally West
+Avengers; Iron Man
+Bender; Iroh
+Big Three (Marvel); Iron Man
+Billionaire; Iron Man
+Exile; Iroh
+Exiles; Iron Lad
+Fire Bender; Iroh
+Genius; Iron Man, Ironheart
+Grandparent; Iris West|Bart Allen
+Inventor; Iron Man, Ironheart
+Legacy; Ironheart|Iron Man
+Mentor; Iroh
+Nobility; Iroh
+Old; Iroh
+Parent Child; Iroh|Zuko
+Peaceful; Iroh
+Reporter; Iris West
+Rival; Iron Man|Captain America
+Romantic Subplot; Iris West|Barry Allen, Iron Lad|Cassie Lang
+Royalty; Iroh
+Tech; Iron Lad, Iron Man, Ironheart
+Time Traveler; Iron Lad
+Wise; Iroh
+Young Avengers; Iron Lad
