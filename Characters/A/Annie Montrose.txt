@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Female
-PR Person,NASA
+NASA,PR Person
 Baseline
 Low
 NASA (The Martian)

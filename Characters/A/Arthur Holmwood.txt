@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Vampire Hunter,Billionare,Nobility
+Billionare,Nobility,Vampire Hunter
 Baseline
 Low
 Dracula Hunters

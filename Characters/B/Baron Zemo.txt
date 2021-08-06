@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Supervillain,Manipulator,Hydra
+Hydra,Manipulator,Supervillain
 Baseline
 Medium
 Falcon & the Winter Soldier Main Trio

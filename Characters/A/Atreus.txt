@@ -13,7 +13,7 @@ Demigod
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Archer,Parent Child|Kratos
+Archer,Demigod,Norse,Parent Child|Kratos
 Modified Human
 High
 

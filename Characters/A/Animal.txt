@@ -13,7 +13,7 @@ Muppet
 Neutral
 Supporting Protagonist
 Male
-Musician,Muppet,Electric Mayhem
+Electric Mayhem,Muppet,Musician
 Baseline
 High
 Electric Mayhem,The Muppet Show

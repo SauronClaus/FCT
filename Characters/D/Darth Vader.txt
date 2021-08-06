@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Commander,Soldier,Sith Lord,Parent Child|Luke Skywalker,Parent Child|Leia Organa,Galactic Empire
+Commander,Galactic Empire,Parent Child|Luke Skywalker,Parent Child|Leia Organa,Sith Lord,Soldier
 City
 High
 Sith Lord,Galactic Empire

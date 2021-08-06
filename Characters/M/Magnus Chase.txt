@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Demigod,Norse,Einharjar,LGBTQ+,Romantic Subplot|Alex Fierro,Floor 19
+Demigod,Einharjar,Floor 19,LGBTQ+,Norse,Romantic Subplot|Alex Fierro
 Modified Human
 High
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)

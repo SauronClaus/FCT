@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Redemption,Sith Lord,First Order,Romantic Subplot|Rey,Master Apprentice|Luke Skywalker,Parent Child|Leia Organa,Parent Child|Han Solo
+First Order,Master Apprentice|Luke Skywalker,Parent Child|Leia Organa,Parent Child|Han Solo,Redemption,Romantic Subplot|Rey,Sith Lord
 City
 High
 Skywalkers (Star Wars),First Order (Star Wars),Sith Lords

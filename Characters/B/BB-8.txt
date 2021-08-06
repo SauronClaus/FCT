@@ -13,7 +13,7 @@ Robot
 Good
 Supporting Protagonist
 Male
-Droids,Astromech,Cute,Orange
+Astromech,Cute,Droids,Orange
 Baseline
 High
 Star Wars Droids,Sequel Trilogy Main Cast,The Resistance (Star Wars)

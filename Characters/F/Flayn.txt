@@ -13,7 +13,7 @@ Light Dragon
 Good
 Supporting Protagonist
 Male
-Crest,Dragon,Secretly Immortal,Knights of Seiros (Fire Emblem),Parent Child|Seteth,Looks-Like-Child-But-Is-Actually-Old
+Crest,Dragon,Knights of Seiros (Fire Emblem),Looks-Like-Child-But-Is-Actually-Old,Parent Child|Seteth,Secretly Immortal
 Country
 Low
 Knights of Seiros,Children of the Goddess (Fire Emblem)

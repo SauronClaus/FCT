@@ -13,7 +13,7 @@ Kangaroo
 Good
 Protagonist
 Male
-Imaginative,Child
+Child,Imaginative
 Baseline
 Low
 The Backyardigans

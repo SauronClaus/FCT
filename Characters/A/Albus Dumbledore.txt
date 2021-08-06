@@ -13,7 +13,7 @@ Human
 Good
 Mentor
 Male
-Wizard,Old,Mentor,Order of the Pheonix I,Order of the Pheonix II,Most Powerful,LGBTQ+,Magic Users,Gryffindor
+Gryffindor,LGBTQ+,Magic Users,Mentor,Most Powerful,Old,Order of the Pheonix I,Order of the Pheonix II,Wizard
 Country
 High
 Order of the Pheonix I,Order of the Pheonix II,Hogwarts Professors

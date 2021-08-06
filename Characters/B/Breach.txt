@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Kinetic Blasts,Agents,Cyborg
+Agents,Cyborg,Kinetic Blasts
 City
 Low
 Valorant Agents

@@ -13,7 +13,7 @@ Mutant
 Neutral
 Antagonist
 Male
-Magnet Powers,Parent Child|Scarlet Witch,Parent Child|Quicksilver,Antihero,Old
+Antihero,Magnet Powers,Old,Parent Child|Scarlet Witch,Parent Child|Quicksilver
 Country
 High
 X-Men (Extended)

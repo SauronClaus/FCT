@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Ranger,Post-Apocalypse
+Post-Apocalypse,Ranger
 Baseline
 Low
 

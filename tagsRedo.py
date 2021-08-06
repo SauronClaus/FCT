@@ -58,8 +58,8 @@ for character in characters.keys():
     
     tagString = ""
     for tag in characters[character]:
-        tagString = tagString + tag + ", "
-    print(tagString[0:len(tagString)-2:])
+        tagString = tagString + tag + ","
+    print(tagString[0:len(tagString)-1:])
 
     for item in characterInfo:
         if characterInfo.index(item) != 15 and characterInfo.index(item) != 23:
@@ -69,7 +69,7 @@ for character in characters.keys():
                 characterFile.write(item)
             else:
                 if characterInfo.index(item) == 15:
-                    characterFile.write(tagString)
+                    characterFile.write(tagString[0:len(tagString)-1:] + "\n")
     characterFile.close()
 
 print("Completed!")

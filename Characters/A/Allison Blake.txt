@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Scientist,Doctor,PhD,Federal Agent
+Doctor,Federal Agent,PhD,Scientist
 Baseline
 Low
 Eureka! Citizens

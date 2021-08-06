@@ -13,7 +13,7 @@ Part-Veela
 Good
 Side Character
 Female
-Hypnotic Beauty,Wizard,Magic User,Beauxbatons,Married|Bill Weasley
+Beauxbatons,Hypnotic Beauty,Magic User,Married|Bill Weasley,Wizard
 City
 Low
 Order of the Pheonix II,Triwizard Tournament Competitors

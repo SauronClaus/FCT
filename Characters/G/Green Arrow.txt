@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Trick Arrows,Justice League,Green,Romantic Subplot|Black Canary
+Archer,Green,Justice League,Romantic Subplot|Black Canary,Trick Arrows
 Baseline
 High
 Seven Soldiers of Victory,Justice League (Extended)

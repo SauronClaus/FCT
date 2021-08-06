@@ -13,7 +13,7 @@ Robot
 Good
 Supporting Protagonist
 Male
-Droids,Protocol,Gold,Duo|R2-D2,Galactic Republic (Star Wars),Rebellion (Star Wars),Resistance (Star Wars)
+Droids,Duo|R2-D2,Galactic Republic (Star Wars),Gold,Protocol,Rebellion (Star Wars),Resistance (Star Wars)
 Baseline
 High
 Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids,Rebel Alliance (Star Wars),The Resistance (Star Wars)

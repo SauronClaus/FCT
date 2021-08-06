@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Interdimensional,Reality Hopping,Multiversal Origin,Exiles (Team),X-Men,Teleporter,Earth-295
+Earth-295,Exiles (Team),Interdimensional,Multiversal Origin,Reality Hopping,Teleporter,X-Men
 Modified Human
 Low
 Exiles (Core),X-Men (Extended)

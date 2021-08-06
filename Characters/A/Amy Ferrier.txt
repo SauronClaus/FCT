@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Rebel,Investigator,Future Tech
+Future Tech,Investigator,Rebel
 Baseline
 Low
 

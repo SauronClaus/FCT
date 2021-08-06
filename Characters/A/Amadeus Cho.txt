@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Hulk,Gamma,Strong,Raw Power,Green,Genius,Young,Champions (Team)
+Champions (Team),Gamma,Genius,Green,Hulk,Raw Power,Strong,Young
 City
 Medium
 Champions (Marvel) (Core),Hulks

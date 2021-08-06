@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Parent Child|Atticus Finch,Sibling|Jem Finch,Child,Narrator,Tomboy
+Child,Narrator,Parent Child|Atticus Finch,Sibling|Jem Finch,Tomboy
 Baseline
 High
 Finch Family

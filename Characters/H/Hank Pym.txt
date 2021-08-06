@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Insect-Themed,Parent Child|Hope van Dyne,Married|Janet van Dyne,Size-Changing,Tech,Superheroes,Avengers,Genius,Bipolar,Avengers Founders
+Avengers,Avengers Founders,Bipolar,Genius,Insect-Themed,Married|Janet van Dyne,Parent Child|Hope van Dyne,Size-Changing,Superheroes,Tech
 City
 High
 Avengers (Extended),Ant-Man Cast

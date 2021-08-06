@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Insect-Themed,Parent Child|Hank Pym,Parent Child|Janet van Dyne,Legacy|Janet van Dyne,Size-Changing,Tech,Superheroes,Genius,Adopted,Russian
+Adopted,Genius,Insect-Themed,Legacy|Janet van Dyne,Parent Child|Hank Pym,Parent Child|Janet van Dyne,Russian,Size-Changing,Superheroes,Tech
 City
 High
 Ant-Man Cast,Champions (Extended),Avengers (Extended)

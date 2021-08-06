@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Street Fighter,Martial Artist,Stoic,Disciplined,Tempted By Darkness,Super Smash Bros
+Disciplined,Martial Artist,Stoic,Street Fighter,Super Smash Bros,Tempted By Darkness
 City
 Medium
 Super Smash Bros

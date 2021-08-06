@@ -13,7 +13,7 @@ Dragonborn
 Neutral
 Protagonist
 Male
-Original Three (Band of Fools),Barbarian,Band of Fools,Band of Fools Redux,D&D
+Band of Fools,Band of Fools Redux,Barbarian,D&D,Original Three (Band of Fools)
 Modified Human
 Low
 Band of Fools (Original),Original Three (Band of Fools),Band of Fools (Redux),Aarav Gupta's Permutations

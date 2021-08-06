@@ -13,7 +13,7 @@ Hedgehog
 Good
 Protagonist
 Male
-Speedster,Romantic Subplot|Amy Rose,Rebel,Nemesis|Doctor Eggman,Player Character
+Nemesis|Doctor Eggman,Player Character,Rebel,Romantic Subplot|Amy Rose,Speedster
 City
 High
 Sonic the Hedgehog (Main Cast),Resistance (Sonic),Sonic the Hedgehog (Extended Cast)

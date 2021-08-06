@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Ruthless,Scientific,Ocean,Submarine,Captain,Science Fiction,Royalty,Nobility
+Captain,Nobility,Ocean,Royalty,Ruthless,Science Fiction,Scientific,Submarine
 Modified Human
 Medium
 The Nautilus Crew

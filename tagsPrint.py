@@ -1,5 +1,4 @@
-#alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-alphabet = ['I']
+alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 import os
 
@@ -48,7 +47,7 @@ for character in completedCharacters:
                 pairedTag = True
             characterTag = characterTagFull.split("|")[0]
             if tagSearch == characterTag:
-                print("Tag Match: " + characterInfo[0] + " (" + character + ")")
+                print("Tag Match: " + characterInfo[0] + " (" + character + ") has the " + characterTag + " (" + tagSearch + ") tag!")
             if not (characterTag in tagsExpended):
                 if pairedTag == False:
                     try:

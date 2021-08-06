@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Demigod,Greek,Romantic Subplot|Annabeth Chase,Camp Half-Blood,Chosen One,Sea Powers,Ocean,Sea
+Camp Half-Blood,Chosen One,Demigod,Greek,Ocean,Romantic Subplot|Annabeth Chase,Sea,Sea Powers
 City
 High
 Heroes of Olympus,Camp Half-Blood,Greek Demigods (Rick Riordan),Original Prophecy

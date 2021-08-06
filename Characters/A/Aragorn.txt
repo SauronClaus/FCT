@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Fellowship of the Ring,Royalty,King,Nobility,Outcast,Swordsman
+Fellowship of the Ring,King,Nobility,Outcast,Royalty,Swordsman
 Baseline
 High
 Fellowship of the Ring

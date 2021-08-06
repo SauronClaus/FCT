@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Female
-Axes,House Leaders (Fire Embelm),Black Eagles (Fire Emblem),Royalty,Nobility,Heiress to Empire,Empress,Master Servant|Hubert
+Axes,Black Eagles (Fire Emblem),Empress,Heiress to Empire,House Leaders (Fire Embelm),Master Servant|Hubert,Nobility,Royalty
 Baseline
 Medium
 Black Eagles,House Leaders (Fire Emblem)

@@ -13,7 +13,7 @@ Titan
 Evil
 Antagonist
 Male
-Marvel,Titan,Black Order
+Black Order,Marvel,Titan
 Interuniversal
 High
 The Black Order

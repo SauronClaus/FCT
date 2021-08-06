@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Jedi Knight,Jedi Master,Galactic Republic (Star Wars),African American,Jedi Order,Soldier,Commander
+African American,Commander,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Soldier
 City
 High
 Jedi Order

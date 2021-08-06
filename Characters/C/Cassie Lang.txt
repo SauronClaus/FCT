@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Insect-Themed,Parent Child|Scott Lang,Legacy|Scott Lang,Romantic Subplot|Iron Lad,Size-Changing,Tech,Superheroes
+Insect-Themed,Legacy|Scott Lang,Parent Child|Scott Lang,Romantic Subplot|Iron Lad,Size-Changing,Superheroes,Tech
 City
 Low
 Avengers (Extended),Ant-Man Cast,Young Avengers (Extended)

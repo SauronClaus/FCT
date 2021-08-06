@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Vampire Hunter,Estate Agent,Clerk,Fiance|Mina Harker,Romantic Subplot|Mina Harker
+Clerk,Estate Agent,Fiance|Mina Harker,Romantic Subplot|Mina Harker,Vampire Hunter
 Baseline
 Low
 Dracula Hunters

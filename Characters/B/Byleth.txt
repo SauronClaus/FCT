@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Depends
-Possessing Possessed|Sothis,Player Character,Chosen One,Crest,Black Eagles (Fire Emblem),Blue Lions (Fire Emblem),Golden Deer (Fire Emblem),Knights of Seiros (Fire Emblem),Sharing Body
+Black Eagles (Fire Emblem),Blue Lions (Fire Emblem),Chosen One,Crest,Golden Deer (Fire Emblem),Knights of Seiros (Fire Emblem),Player Character,Possessing Possessed|Sothis,Sharing Body
 City
 High
 Black Eagles,Blue Lions,Golden Deer,Knights of Seiros

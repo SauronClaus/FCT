@@ -13,7 +13,7 @@ Human
 Neutral
 Party Member
 Male
-Magic User,Black Eagles (Fire Emblem),Nobility,Master Servant|Edelgard,Dark,Edgy,Brooding
+Black Eagles (Fire Emblem),Brooding,Dark,Edgy,Magic User,Master Servant|Edelgard,Nobility
 Baseline
 Low
 Black Eagles

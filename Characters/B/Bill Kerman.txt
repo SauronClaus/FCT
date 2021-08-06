@@ -13,7 +13,7 @@ Kerbal
 Good
 Protagonist
 Male
-Stupid,Engineer,Original Four,Astronaut
+Astronaut,Engineer,Original Four,Stupid
 Modified Human
 Medium
 Original Four (KSP)

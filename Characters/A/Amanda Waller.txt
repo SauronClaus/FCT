@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Manipulator,Antihero,Government Agent,Suicide Squad
+Antihero,Government Agent,Manipulator,Suicide Squad
 Baseline
 Low
 Suicide Squad (Core),Suicide Squad (Extended)

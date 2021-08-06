@@ -13,7 +13,7 @@ Demigod
 Good
 Supporting Protagonist
 Genderfluid
-Genderfluid,Shape Shifter,Chaotic,Demigod,Norse,Einharjar,LGBTQ+,Romantic Subplot|Magnus Chase,Floor 19
+Chaotic,Demigod,Einharjar,Floor 19,Genderfluid,LGBTQ+,Norse,Romantic Subplot|Magnus Chase,Shape Shifter
 Modified Human
 Medium
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)

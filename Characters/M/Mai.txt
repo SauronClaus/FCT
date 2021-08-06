@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Male
-Non-Powered,Redemption,Stoic,Romantic Subplot|Zuko,Nobility,Knives
+Knives,Nobility,Non-Powered,Redemption,Romantic Subplot|Zuko,Stoic
 City
 Medium
 Azula's Capture-the-Avatar Gang

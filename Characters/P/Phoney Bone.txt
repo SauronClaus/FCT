@@ -13,7 +13,7 @@ Bone
 Neutral
 Supporting Protagonist
 Male
-Bone,Accidental Adventurer,Chosen One,Conman,Cousin|Fone Bone,Cousin|Smiley Bone
+Accidental Adventurer,Bone,Chosen One,Conman,Cousin|Fone Bone,Cousin|Smiley Bone
 Modified Human
 Low
 Bone Cousins,Bone Main Cast

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Insect-Themed,Parent Child|Hank Pym,Parent Child|Janet van Dyne,Legacy|Janet van Dyne,Romantic Subplot|Scott Lang,Size-Changing,Tech,Superheroes
+Insect-Themed,Legacy|Janet van Dyne,Parent Child|Hank Pym,Parent Child|Janet van Dyne,Romantic Subplot|Scott Lang,Size-Changing,Superheroes,Tech
 City
 High
 Ant-Man Cast

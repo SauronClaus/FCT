@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Sorcerer,Magic User,Blood of Pharaohs,Eye of Isis,Siblings|Carter Kane,Romantic Subplot|Walt Stone
+Blood of Pharaohs,Eye of Isis,Magic User,Romantic Subplot|Walt Stone,Siblings|Carter Kane,Sorcerer
 City
 Medium
 Twenty-First Nome,House of Life,Kanes

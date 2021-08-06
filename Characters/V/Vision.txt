@@ -13,7 +13,7 @@ Android
 Good
 Protagonist
 Male
-Density-Powers,Artificial,Avengers,Romantic Subplot|Scarlet Witch,Parent Child|Viv Vision
+Artificial,Avengers,Density-Powers,Parent Child|Viv Vision,Romantic Subplot|Scarlet Witch
 Country
 High
 Avengers (Core),Avengers (Extended)

@@ -13,7 +13,7 @@ Former God
 Good
 Love Interest
 Female
-Goddess,Immortal,Former Immortal,Sorcerer,Magic User,Romantic Subplot|Leo Valdez
+Former Immortal,Goddess,Immortal,Magic User,Romantic Subplot|Leo Valdez,Sorcerer
 City
 Medium
 Titans (Rick Riordan)

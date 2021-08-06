@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Harry Potter|Death Eater|Wizard|Megalomaniac
+Harry Potter|Death Eater
 City
 High
 Death Eaters

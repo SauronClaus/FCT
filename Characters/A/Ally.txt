@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Married|Rikk,Married|Rumy,Polyamory,Overly Sexualized
+Married|Rikk,Married|Rumy,Overly Sexualized,Polyamory
 Baseline
 Low
 Fans! Cast,Fans! Polyamorous Group

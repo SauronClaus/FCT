@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Jedi Master,Jedi Knight,Jedi Order,Galactic Republic (Star Wars)
+Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda
 City
 Medium
 Jedi Order

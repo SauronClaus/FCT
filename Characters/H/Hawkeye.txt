@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Non-Powered,Avengers,Thunderbolts,Trick Arrows
+Archer,Avengers,Non-Powered,Thunderbolts,Trick Arrows
 Baseline
 High
 Avengers (Core),Avengers (Extended),Thunderbolts,Avengers Original Quintent,West Coast Avengers

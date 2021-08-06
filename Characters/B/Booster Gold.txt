@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Time Traveler,Future Tech,Duo|Ted Kord,Justice League,Justice League International
+Duo|Ted Kord,Future Tech,Justice League,Justice League International,Time Traveler
 Modified Human
 Medium
 Justice League (Extended),Justice League International

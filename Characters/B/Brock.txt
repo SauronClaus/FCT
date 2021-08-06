@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Pokemon Trainer,Kanto,Gym Leader
+Gym Leader,Kanto,Pokemon Trainer
 Baseline
 High
 Kanto Gym Leaders,Pokemon Anime Kanto Trio

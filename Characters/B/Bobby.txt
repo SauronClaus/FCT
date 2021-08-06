@@ -13,7 +13,7 @@ Bob-omb
 Good
 Supporting Protagonist
 Male
-Bomb,Amnesiac
+Amnesiac,Bomb
 Modified Human
 Low
 Paper Mario: The Origami King Cast

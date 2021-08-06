@@ -13,7 +13,7 @@ Umbra Witch
 Good
 Protagonist
 Female
-Witch,Super Smash Bros,Magic Gunslinger,Demon Hunter
+Demon Hunter,Magic Gunslinger,Super Smash Bros,Witch
 City
 Medium
 Super Smash Bros

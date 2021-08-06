@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Psychic,Mutant,X-Men (Extended),X-Men (Core),Ninja,Body-Swapped,Precognitive
+Body-Swapped,Mutant,Ninja,Precognitive,Psychic,X-Men (Core),X-Men (Extended)
 Modified Human
 Medium
 X-Men (Core),X-Men (Extended),Exiles,Excalibur (Marvel)

@@ -13,7 +13,7 @@ Dragonborn
 Good
 Protagonist
 Female
-Paladin,Band of Fools,D&D,Dragonborn
+Band of Fools,D&D,Dragonborn,Paladin
 Modified Human
 Low
 Band of Fools (Original),Abby Smetana's Permutations

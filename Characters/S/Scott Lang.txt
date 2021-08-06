@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Insect-Themed,Parent Child|Cassie Lang,Legacy|Hank Pym,Romantic Subplot|Hope van Dyne,Size-Changing,Tech,Former Criminal,Superheroes,Avengers
+Avengers,Former Criminal,Insect-Themed,Legacy|Hank Pym,Parent Child|Cassie Lang,Romantic Subplot|Hope van Dyne,Size-Changing,Superheroes,Tech
 City
 High
 Avengers (Extended),Ant-Man Cast

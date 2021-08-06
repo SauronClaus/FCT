@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Genius,Inventor,Non-Powered,Duo|Booster Gold,Mentor,Justice League,Justice League International
+Duo|Booster Gold,Genius,Inventor,Justice League,Justice League International,Mentor,Non-Powered
 Modified Human
 Low
 Justice League (Extended),Justice League International

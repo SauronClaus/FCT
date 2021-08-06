@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Swordsman,Loud,Relic,Knights of Seiros,Yin & Yang|Shamir
+Knights of Seiros,Loud,Relic,Swordsman,Yin & Yang|Shamir
 Baseline
 Low
 Knights of Seiros

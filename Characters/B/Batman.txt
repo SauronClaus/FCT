@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bat-Family,Justice League,Trinity,Outsiders,Tech,Genius,Detective,Billionaire
+Bat-Family,Billionaire,Detective,Genius,Justice League,Outsiders,Tech,Trinity
 City
 High
 Justice League (Core),Justice League (Extended),Bat-Family (Core),Bat-Family (Extended),Justice League (film),Justice League Unlimited,Outsiders

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Reformed Villain
+Avengers,Guardians of the Galaxy,Reformed,Reformed Villain,Superhero,Symbiote
 City
 Low
 Guardians of the Galaxy (Extended),Avengers (Extended),Symbiote Squad

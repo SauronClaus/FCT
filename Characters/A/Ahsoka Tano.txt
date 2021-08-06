@@ -13,7 +13,7 @@ Togruta
 Good
 Protagonist
 Female
-Jedi Knight,Soldier,CGI,Master Apprentice|Anakin Skywalker
+CGI,Jedi Knight,Master Apprentice|Anakin Skywalker,Soldier
 City
 High
 The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars)

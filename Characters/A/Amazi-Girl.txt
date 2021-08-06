@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Superhero,Nerd,Store Clerk,Shortpacked! Store,Introvert
+Introvert,Nerd,Shortpacked! Store,Store Clerk,Superhero
 Baseline
 Low
 Shortpacked! Store,Dumbing of Age Main Cast

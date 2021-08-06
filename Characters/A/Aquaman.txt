@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Sea Powers,Water,Ocean,Royalty,King,Justice League
+Justice League,King,Ocean,Royalty,Sea Powers,Water
 Country
 High
 Justice League (Extended),Justice League Founder,Justice League (film)

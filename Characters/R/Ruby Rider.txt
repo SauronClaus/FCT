@@ -13,7 +13,7 @@ Genasi
 Evil
 Protagonist
 Male
-D&D,Band of Fools,Elemental,Warlock,Betrayer
+Band of Fools,Betrayer,D&D,Elemental,Warlock
 Modified Human
 Low
 Band of Fools (Original),Jack Noland's Permutations

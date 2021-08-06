@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Magic User,Wizard,Harry Potter Main Trio,Romantic Subplot|Ron Weasley,Muggleborn,Dumbledore's Army,Gryffindor,Studious,Overachiever
+Dumbledore's Army,Gryffindor,Harry Potter Main Trio,Magic User,Muggleborn,Overachiever,Romantic Subplot|Ron Weasley,Studious,Wizard
 City
 High
 Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years)

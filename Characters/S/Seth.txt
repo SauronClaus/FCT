@@ -13,7 +13,7 @@ Android
 Evil
 Antagonist
 Male
-Street Fighter,Criminal,Ability Copier,AI,Immortal,Megalomaniac,Shadaloo
+AI,Ability Copier,Criminal,Immortal,Megalomaniac,Shadaloo,Street Fighter
 City
 Low
 Shadaloo

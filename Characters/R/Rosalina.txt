@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Princess,Observer,Guardian,Mother of Species,Celestial,Cosmic,Super Smash Bros
+Celestial,Cosmic,Guardian,Mother of Species,Observer,Princess,Super Smash Bros
 City
 Low
 Super Smash Bros

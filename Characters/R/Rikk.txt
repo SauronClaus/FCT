@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Married|Ally,Married|Rumy,Polyamory,Leader,Charismatic,Geek
+Charismatic,Geek,Leader,Married|Ally,Married|Rumy,Polyamory
 Baseline
 Low
 Fans! Cast,Fans! Polyamorous Group

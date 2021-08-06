@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Wizard,Magic User,Weasley,Romantic Subplot|Harry Potter,Dumbledore's Army,Gryffindor,Pureblood
+Dumbledore's Army,Gryffindor,Magic User,Pureblood,Romantic Subplot|Harry Potter,Weasley,Wizard
 City
 High
 Dumbledore's Army,Weasley Family,Gryffindor (Harry Potter's Years)

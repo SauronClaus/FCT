@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Demigod,Greek,Inventor,Romantic Subplot|Calypso,Camp Half-Blood,Pyrokinesis
+Camp Half-Blood,Demigod,Greek,Inventor,Pyrokinesis,Romantic Subplot|Calypso
 Modified Human
 Medium
 Heroes of Olympus,Camp Half-Blood,Greek Demigods (Rick Riordan)

@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Overwatch,Talon,Hacker,Antivillain,Mysterious Backstory
+Antivillain,Hacker,Mysterious Backstory,Overwatch,Talon
 Modified Human
 Medium
 Talon

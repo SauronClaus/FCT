@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
+African-American,Avengers,Cat-Themed,Genius,King,Married|Storm,Nobility,Royalty,Tech,Ultimates (Team)
 Modified Human
 High
 Avengers (Core),Avengers (Extended),Ultimates (Team),Fantastic Four (Extended)

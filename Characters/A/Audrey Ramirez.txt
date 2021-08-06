@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Engineer,Teenager,Genius
+Engineer,Genius,Teenager
 Baseline
 Low
 Atlantis Crew (Disney)

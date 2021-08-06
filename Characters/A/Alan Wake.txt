@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Writer,Creator,Reality Bending,Horror Games
+Creator,Horror Games,Reality Bending,Writer
 Baseline
 Low
 

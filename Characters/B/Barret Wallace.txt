@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-African-American,Gun-Arm,Prosthetic,Rebel,Leader
+African-American,Gun-Arm,Leader,Prosthetic,Rebel
 Modified Human
 Low
 Final Fantasy VII Party

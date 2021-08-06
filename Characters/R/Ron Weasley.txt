@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Magic User,Wizard,Harry Potter Main Trio,Romantic Subplot|Hermione Granger,Pureblood,Dumbledore's Army,Gryffindor,Weasley
+Dumbledore's Army,Gryffindor,Harry Potter Main Trio,Magic User,Pureblood,Romantic Subplot|Hermione Granger,Weasley,Wizard
 City
 High
 Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years),Weasley Family

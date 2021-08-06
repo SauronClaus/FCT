@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Parent Child|Atticus Finch,Sibling|Scout Finch,Child
+Child,Parent Child|Atticus Finch,Sibling|Scout Finch
 Baseline
 Medium
 Finch Family

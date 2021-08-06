@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Suicide Squad,Boomerang,Australian
+Australian,Boomerang,Suicide Squad
 Baseline
 Low
 Suicide Squad (Core),Suicide Squad (Extended),The Rogues (Flash)

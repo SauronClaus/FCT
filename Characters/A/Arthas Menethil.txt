@@ -13,7 +13,7 @@ Skeleton
 Evil
 Antagonist
 Male
-Death Knight,Fallen Paladin,War Hammer,D&D
+D&D,Death Knight,Fallen Paladin,War Hammer
 City
 Low
 

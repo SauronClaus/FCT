@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Romantic Subplot|Suki,Siblings|Katara,Boomerang,Non-Powered
+Boomerang,Non-Powered,Romantic Subplot|Suki,Siblings|Katara
 Baseline
 High
 The Gaang

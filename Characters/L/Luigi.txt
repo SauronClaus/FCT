@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Power-Ups,Super Smash Bros,Romantic Subplot|Princess Daisy,Siblings|Mario,Duo|Mario
+Duo|Mario,Power-Ups,Romantic Subplot|Princess Daisy,Siblings|Mario,Super Smash Bros
 City
 High
 Super Smash Bros,Mario Cast

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Royalty,Cheerful,Musical,Disney Princess,Sibling|Elsa
+Cheerful,Disney Princess,Musical,Royalty,Sibling|Elsa
 Baseline
 High
 Frozen Quintent

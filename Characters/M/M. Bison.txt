@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Street Fighter,Shadaloo,Criminal,Crime Lord,Megalomaniac,Fighter,Mysterious Backstory
+Crime Lord,Criminal,Fighter,Megalomaniac,Mysterious Backstory,Shadaloo,Street Fighter
 City
 Medium
 Shadaloo

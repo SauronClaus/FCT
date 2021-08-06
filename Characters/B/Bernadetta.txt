@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Black Eagles (Fire Emblem),Archer,Nobility,Crest,Introvert,Timid
+Archer,Black Eagles (Fire Emblem),Crest,Introvert,Nobility,Timid
 Baseline
 Low
 Black Eagles

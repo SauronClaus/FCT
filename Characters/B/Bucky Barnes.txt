@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Captain America,Sidekick,Assassin,Brainwashed,Prosthetic Limb,Non-Powered,Super-Soldier Serum,Duo|Captain America,Legacy|Captain America
+Assassin,Brainwashed,Captain America,Duo|Captain America,Legacy|Captain America,Non-Powered,Prosthetic Limb,Sidekick,Super-Soldier Serum
 Modified Human
 High
 Falcon & the Winter Soldier Main Trio,Captain America Corps

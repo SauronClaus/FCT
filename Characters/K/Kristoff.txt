@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Musical,Romantic Subplot|Anna,Duo|Sven,No Manners,Outdoorsman
+Duo|Sven,Musical,No Manners,Outdoorsman,Romantic Subplot|Anna
 Baseline
 High
 Frozen Quintent

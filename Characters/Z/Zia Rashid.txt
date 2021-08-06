@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Sorcerer,Magic User,Blood of Pharaohs,Eye of Ra,Romantic Subplot|Carter Kane,Chosen One
+Blood of Pharaohs,Chosen One,Eye of Ra,Magic User,Romantic Subplot|Carter Kane,Sorcerer
 City
 Medium
 Twenty-First Nome,House of Life

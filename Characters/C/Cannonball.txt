@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-X-Men,Mutants,New Mutants,USAvengers
+Mutants,New Mutants,USAvengers,X-Men
 City
 Medium
 X-Men (Extended),New Mutants (Core),New Mutants (Extended),USAvengers

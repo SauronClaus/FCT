@@ -13,7 +13,7 @@ Human
 Good
 Mentor
 Male
-Uncle,Mentor,Most Powerful,Magic User
+Magic User,Mentor,Most Powerful,Uncle
 Country
 Medium
 House of Life,Twenty-First Nome,Kanes

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Non-Powered,Spy,Espionage,Russian,Assassin,Brainwashed,SHIELD (Marvel)
+Assassin,Brainwashed,Espionage,Non-Powered,Russian,SHIELD (Marvel),Spy
 Baseline
 High
 Avengers (Core),Avengers (Extended),Avengers Original Quintent,SHIELD (Marvel)

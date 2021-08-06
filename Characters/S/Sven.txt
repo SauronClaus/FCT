@@ -13,7 +13,7 @@ Reindeer
 Good
 Supporting Protagonist
 Male
-Musical,Duo|Kristoff,Reindeer
+Duo|Kristoff,Musical,Reindeer
 Baseline
 High
 Frozen Quintent

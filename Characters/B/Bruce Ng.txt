@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Scientist,Government,Director,NASA
+Director,Government,NASA,Scientist
 Baseline
 Low
 NASA (The Martian)

@@ -13,7 +13,7 @@ Human
 Good
 Cursed Exile
 Male
-Cursed,Exile,Dimensional Traveller,Multiversal Origin,Omen
+Cursed,Dimensional Traveller,Exile,Multiversal Origin,Omen
 Modified Human
 Low
 

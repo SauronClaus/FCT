@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Magic Word,Word of Power,Shazam Family,Magic,Paragon,Transforming,Sibling|Mary Marvel,Sibling|Captain Marvel Jr.
+Magic,Magic Word,Paragon,Shazam Family,Sibling|Mary Marvel,Sibling|Captain Marvel Jr.,Transforming,Word of Power
 World
 High
 Shazam Family,Justice League (Extended)

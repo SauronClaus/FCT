@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bender,Fire Bender,Redemption,Traumatized,Parent Child|Iroh,Romantic Subplot|Mai,Siblings|Azula,Royalty,Nobility,Emperor,Exile
+Bender,Emperor,Exile,Fire Bender,Nobility,Parent Child|Iroh,Redemption,Romantic Subplot|Mai,Royalty,Siblings|Azula,Traumatized
 City
 High
 The Gaang

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Vampire Hunter,American
+American,Vampire Hunter
 Baseline
 Low
 Dracula Hunters

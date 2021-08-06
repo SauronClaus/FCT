@@ -13,7 +13,7 @@ Gnome
 Good
 Protagonist
 Male
-D&D,Band of Fools,Band of Fools Redux,Artificer,Gnome
+Artificer,Band of Fools,Band of Fools Redux,D&D,Gnome
 Modified Human
 Low
 Band of Fools (Original),Band of Fools (Redux),Harrison Truscott's Permutations

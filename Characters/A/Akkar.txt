@@ -13,7 +13,7 @@ Elf
 Good
 Protagonist
 Male
-Blind,Archer,Elf,Band of Fools,D&D,Ranger
+Archer,Band of Fools,Blind,D&D,Elf,Ranger
 Modified Human
 Low
 Band of Fools (Original),Zach Wiebe's Permutations

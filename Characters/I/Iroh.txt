@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Bender,Fire Bender,Parent Child|Zuko,Royalty,Nobility,Exile,Peaceful,Old,Mentor,Wise
+Bender,Exile,Fire Bender,Mentor,Nobility,Old,Parent Child|Zuko,Peaceful,Royalty,Wise
 City
 Medium
 

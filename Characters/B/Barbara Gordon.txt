@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Hacker,Genius,Weelchair,Parent Child|Jim Gordon,Superhero,Bat-Family,Non-Powered,Birds of Prey,Bat-Themed Hero
+Bat-Family,Bat-Themed Hero,Birds of Prey,Genius,Hacker,Non-Powered,Parent Child|Jim Gordon,Superhero,Weelchair
 Baseline
 High
 Bat-Family (Core),Bat-Family (Extended),Birds of Prey (Core),Birds of Prey (Extended)

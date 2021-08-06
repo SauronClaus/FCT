@@ -13,7 +13,7 @@ Dragon
 Evil
 Antagonist
 Male
-Dragon,Fire Dragon,Guardian,Horder,Beast
+Beast,Dragon,Fire Dragon,Guardian,Horder
 Country
 High
 
