@@ -36,9 +36,16 @@ async def on_message(message):
     if message.author == client.user:
         return
     if "*testall" in message.content:
-        name = message.content.split("-")[1]
-        print(name)
         foundName = False
+        name = ""
+        messageList = message.content.split("-")
+        if len(messageList) > 1:
+            name = messageList[1]
+            print(name)
+            foundName = False
+        else:
+            print("No name detected; starting from beginning")
+            foundName = True
 
         alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -50,6 +57,8 @@ async def on_message(message):
                     characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                     characterInfo = characterFile.read().split("\n")
                     if len(characterInfo) == 24:
+                        if entry[0:len(entry)-4:] == name:
+                            foundName = True
                         if foundName == True:
                             embed = infoPerson(entry[0:len(entry)-4:])
                             await message.channel.send(embed=embed)
@@ -57,8 +66,7 @@ async def on_message(message):
                                 for artifact in characterInfo[22].split("|"):
                                     embed = infoArtifact(artifact)
                                     await message.channel.send(embed=embed)
-                        if entry[0:len(entry)-4:] == name:
-                            foundName = True
+                        
                             
                         
         print("Completed!")

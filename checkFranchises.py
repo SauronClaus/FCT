@@ -7,6 +7,10 @@ groupsLarge = {}
 
 writeFile = open("addBeforeItBreaks.txt","w",encoding='utf8')
 write2File = open("franchiseCharacters.txt","w",encoding='utf8')
+franchiseCharacterFile = open("neededCharacters.txt","w",encoding='utf8')
+
+franchiseSearch = "NieR:Automata"
+franchiseAddCharacters = []
 
 charactersToFind = []
 print("Start!")
@@ -29,6 +33,8 @@ for letter in alphabet:
                 for character in characters:
                     charactersToFind.append(character)
                     characterString = characterString + character + ", "
+                    if franchiseSearch == franchiseInfo[0]:
+                        franchiseAddCharacters.append(character)
                 write2File.write(franchiseInfo[0] + ": " + characterString[0:len(characterString)-2:] + "\n")
 
 for letter in alphabet:
@@ -52,6 +58,9 @@ for character in charactersToFind:
 
 for character in singular:
     writeFile.write(character + "\n")
+
+for character in franchiseAddCharacters:
+    franchiseCharacterFile.write(character + "\n")
 
 print("Completed!")
 print("Franchises (" + str(numberFranchises) + "): " + listFranchises[0:len(listFranchises)-2:])

@@ -50,5 +50,6 @@ colors = {
     "Magenta": 0xf653a6,
     "Blond": 0xfaf0be,
     "Rosalina's Dress": 0x6EADBF,
-    "Copper": 0xB87333
+    "Copper": 0xB87333,
+    "Purple": 0xCC8899
 }
