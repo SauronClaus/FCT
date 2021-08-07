@@ -13,7 +13,7 @@ Spectre
 Depends
 Playable Character
 Male
-Mortal Kombat|Tragic Backstory
+Tragic Backstory
 City
 Medium
 Shirai Ryu

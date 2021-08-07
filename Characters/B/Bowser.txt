@@ -13,7 +13,7 @@ Koopa
 Evil
 Antagonist
 Male
-Evil King,Kidnapper,King,Koopa,Nobility,Parent Child|Bowser Jr.,Royalty,Super Smash Bros
+Evil King,Kidnapper,King,Koopa,Nemesis|Mario,Nobility,Parent Child|Bowser Jr.,Royalty,Ruler,Super Smash Bros
 City
 High
 Super Smash Bros,Koopa Troopa

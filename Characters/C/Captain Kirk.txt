@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Astral Captain,Captain,Explorer,Space,Star Trek Captains,Star Trek: The Original Series
+Astral Captain,Captain,Explorer,Star Trek Captains,Star Trek: The Original Series
 Baseline
 High
 Star Trek: The Original Series Crew

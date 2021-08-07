@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Genius,Heiress,LGBTQ+,Powerless,Romantic Subplot|Korra
+Genius,Heiress,LGBTQ+,Non-Powered,Romantic Subplot|Korra,Team Avatar (Korra)
 Baseline
 Low
 Team Avatar (Korra)

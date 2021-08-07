@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Duo|Luigi,Iconic,Player Character,Power-Ups,Romantic Subplot|Princess Peach,Siblings|Luigi,Super Smash Bros,Super Smash Bros Original Cast
+Duo|Luigi,Iconic,Nemesis|Bowser,Platformer,Player Character,Power-Ups,Romantic Subplot|Princess Peach,Siblings|Luigi,Super Smash Bros,Super Smash Bros Original Cast
 City
 High
 Super Smash Bros,Super Smash Bros Original Cast,Mario Cast

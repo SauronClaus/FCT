@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Superhero,Weather Powers,X-Men
+Mutant,Superheroes,Weather Powers,X-Men
 Modified Human
 Medium
 X-Men (Core),X-Men (Extended),Fantastic Four (Extended),Giant Sized X-Men #1 Team

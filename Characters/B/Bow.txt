@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Best Friends Squad (She-Ra),Genius,Rebel Leader,Rebellion,Romantic Subplot|Glimmer
+Archer,Best Friends Squad (She-Ra),Genius,Rebel,Rebellion (She-Ra),Romantic Subplot|Glimmer,The Princess Alliance
 Modified Human
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance

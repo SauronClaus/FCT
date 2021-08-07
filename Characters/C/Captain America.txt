@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Big Three (Marvel),Captain America,Country-Themed,Leader,Paragon,Patriotism,Rival|Iron Man,Shields,Super-Soldier Serum,WWII
+Avengers,Big Three (Marvel),Captain America,Country-Themed,Frozen in Ice,Golden Age,Iconic,Leader,Paragon,Patriotism,Rival|Iron Man,Shields,Super-Soldier Serum,WWII,Yin & Yang|Iron Man
 Modified Human
 High
 Avengers (Core),Avengers (Extended),Invaders,Avengers Original Quintet,Big Three (Marvel),Captain America Corps

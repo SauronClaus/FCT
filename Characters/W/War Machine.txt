@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Armor Suit,Avengers,Commander,Legacy|Iron Man,Soldier,Tech
+African American,Armor Suit,Avengers,Legacy|Iron Man,Soldier,Tech
 City
 Medium
 Avengers (Extended),Iron Men Corps

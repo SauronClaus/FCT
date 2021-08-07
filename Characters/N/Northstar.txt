@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Alpha Flight,LGBTQ+,Speedsters,Superhero,Twins|Aurora,X-Men
+Alpha Flight,LGBTQ+,Mutant,Speedsters,Superheroes,Twins|Aurora,X-Men
 City
 Low
 Alpha Flight,X-Men (Extended)

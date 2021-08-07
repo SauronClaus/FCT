@@ -13,7 +13,7 @@ Hedgehog
 Good
 Supporting Protagonist
 Female
-Pink,Rebel,Romantic Subplot|Sonic the Hedgehog
+Pink,Platformer,Rebel,Romantic Subplot|Sonic the Hedgehog
 Modified Human
 Medium
 Sonic the Hedgehog (Main Cast),Resistance (Sonic),Sonic the Hedgehog (Extended Cast)

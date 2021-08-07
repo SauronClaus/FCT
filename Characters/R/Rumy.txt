@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Artist,Charismatic,Geek,Japanese,Leader,Married|Ally,Married|Rikk,Martial Artist,Polyamory
+Artist,Charismatic,Geek,Japanese,Married|Ally,Married|Rikk,Martial Artist,Polyamory
 Baseline
 Low
 Fans! Cast,Fans! Polyamorous Group

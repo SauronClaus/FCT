@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Face Paint,Fans,Non-Powered,Romantic Subplot|Sokka,Soldier
+Face Paint,Fans (Weapon),Non-Powered,Romantic Subplot|Sokka,Soldier
 Baseline
 Medium
 

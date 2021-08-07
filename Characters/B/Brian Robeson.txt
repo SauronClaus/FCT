@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Survivalist,Wilderness
+Survivalist,Survivor,Wilderness
 Baseline
 Medium
 

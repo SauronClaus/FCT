@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Power Armor,Powerhouse,X-Men,Young X-Men
+Mutant,Power Armor,Powerhouse,X-Men,Young X-Men
 Modified Human
 Medium
 X-Men (Extended),Young X-Men

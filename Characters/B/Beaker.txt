@@ -13,7 +13,7 @@ Muppet
 Good
 Supporting Protagonist
 Male
-Almost Invulnerable,Duo|Dr. Bunsen Honeydew,Hapless Assistant
+Comedically Invulnerable,Duo|Dr. Bunsen Honeydew,Hapless Assistant
 Baseline
 Medium
 The Muppet Show

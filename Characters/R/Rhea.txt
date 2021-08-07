@@ -13,7 +13,7 @@ Sky Dragon
 Neutral
 Protagonist
 Female
-Archbishop,Crest,Dragon,Knights of Seiros (Fire Emblem),Right-Hand Man Leader|Seteth,Secretly Immortal
+Church,Crest,Dragon,Knights of Seiros (Fire Emblem),Right-Hand Man Leader|Seteth,Secretly Immortal
 Country
 Medium
 Knights of Seiros,Children of the Goddess (Fire Emblem)

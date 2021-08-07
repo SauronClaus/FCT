@@ -13,7 +13,7 @@ Robot
 Neutral
 Protagonist
 Male
-Against Programming,Machine Gun,Robot,Turret
+Against Programming,Robot
 Modified Human
 Medium
 Overwatch Heroes

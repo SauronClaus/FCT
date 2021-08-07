@@ -13,7 +13,7 @@ Unknown Cat Species
 Neutral
 Antagonist
 Female
-Cat-Themed,Heterochromia,Redemption Arc,Romantic Subplot|Adora
+Cat-Themed,Heterochromia,Redemption,Romantic Subplot|Adora
 Modified Human
 Low
 Super Pal Trio,Best Friends Squad,The Rebellion (She-Ra)

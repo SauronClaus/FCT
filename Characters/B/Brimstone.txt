@@ -13,7 +13,7 @@ Human
 Good
 Playable Character
 Male
-Commander,Strong Man
+Commander,Strong
 Baseline
 Low
 Valorant Agents

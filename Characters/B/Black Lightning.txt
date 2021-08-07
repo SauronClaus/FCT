@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Justice League,Lightning Manipulation,Outsiders
+African American,Justice League,Lightning,Outsiders
 Modified Human
 Medium
 Outsiders,Justice League (Extended)

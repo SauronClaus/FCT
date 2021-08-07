@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Angsty,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prince,Royalty
+Angsty,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prideful,Prince,Relic,Royalty,Ruler
 Baseline
 Medium
 Blue Lions,House Leaders (Fire Emblem)

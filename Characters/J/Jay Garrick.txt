@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Helmet,Justice Society of America,Mentor,Old,Speedster,Superheroes,WWII
+Golden Age,Justice Society of America,Mentor,Old,Speedsters,Superheroes,WWII
 Country
 Medium
 Justice Society of America (Core),Justice Society of America (Extended),Flash Family

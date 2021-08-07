@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Big,Bodyguard,Master Servant|Dimitri,Raw Power,Strong
+Big,Bodyguard,Master Servant|Dimitri,Powerhouse,Servant,Strong
 Baseline
 Low
 Blue Lions

@@ -13,7 +13,7 @@ Elf
 Good
 Side Character
 Female
-Dragon Riders,Magic User,Nobility,Queen,Royalty,Swordsman
+Dragon Rider,Magic User,Nobility,Queen,Royalty,Ruler,Swordsman
 Baseline
 Low
 

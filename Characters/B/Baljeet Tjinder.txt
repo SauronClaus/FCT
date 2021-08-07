@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Cartoon,Frenemy|Buford Van Stomm,Genius,Nerd
+Cartoon,Frenemy|Buford Van Stomm,Geek,Genius,Nerd
 Baseline
 Medium
 Phineas and Ferb Main Child Group

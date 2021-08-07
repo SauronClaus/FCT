@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Evil,Hitman,Psychopath,Trained
+Evil,Hitman,Psychopath/Sociopath,Trained
 Baseline
 Medium
 

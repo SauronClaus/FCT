@@ -13,7 +13,7 @@ Half-Elf
 Good
 Love Interest
 Female
-Half-Elf,Nobility,Queen,Romantic Subplot|Aragorn,Royalty
+Half-Elf,Nobility,Queen,Romantic Subplot|Aragorn,Royalty,Ruler
 Baseline
 Low
 

@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Doctor,Mercenary,Mysterious Backstory,Psychopath,Team Fortress,Team Fortress 2
+Medical Doctor,Mercenary,Mysterious Backstory,Psychopath/Sociopath,Team Fortress 2
 Baseline
 Medium
 Team Fortress

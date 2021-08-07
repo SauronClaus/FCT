@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Android,Armor Suit,Exiles,Romantic Subplot|Cassie Lang,Tech,Time Traveler,Young Avengers
+Android,Armor Suit,Exiles (Team),Romantic Subplot|Cassie Lang,Tech,Time Traveler,Young Avengers
 City
 Low
 Young Avengers Founders,Young Avengers (Extended),Exiles,Kang the Conqueror Permutations

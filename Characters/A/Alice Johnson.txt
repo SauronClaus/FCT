@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Dream Powers,Horror Movie Protagonist
+Dream Powers,Horror Protagonist
 Baseline
 Medium
 

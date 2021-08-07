@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Strong Man,Vault Hunter
+Strong,Vault Hunter
 Modified Human
 Low
 Borderlands 1 Vault Hunters,Vault Hunters

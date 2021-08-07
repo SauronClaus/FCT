@@ -13,7 +13,7 @@ Earth Dragon
 Neutral
 Supporting Protagonist
 Male
-Crest,Dragon,Knights of Seiros (Fire Emblem),Parent Child|Flayn,Right-Hand Man Leader|Rhea,Secretly Immortal
+Church,Crest,Dragon,Knights of Seiros (Fire Emblem),Parent Child|Flayn,Right-Hand Man Leader|Rhea,Secretly Immortal
 Country
 Low
 Knights of Seiros,Children of the Goddess (Fire Emblem)

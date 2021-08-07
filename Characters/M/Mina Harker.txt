@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Fiance|Jonathan Harker,Romantic Subplot|Jonathan Harker,Vampire Hunter
+Fiance|Jonathan Harker,Monster Hunter,Romantic Subplot|Jonathan Harker
 Baseline
 Low
 Dracula Hunters

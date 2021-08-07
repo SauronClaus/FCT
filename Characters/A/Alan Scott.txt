@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Earth-2,Golden Age,Green,Green Lantern,Justice Society of America,LGBTQ+,Superhero
+Earth-2,Golden Age,Green,Green Lantern,Justice Society of America,LGBTQ+,Old,Superheroes,WWII
 Cosmic
 Medium
 Justice Society of America (Core),Justice Society of America (Extended),Green Lantern Corps

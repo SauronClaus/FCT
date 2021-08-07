@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Female
-Bender,Exile,Fire Bender,Nobility,Princess,Royalty,Siblings|Zuko,Sociopath
+Bender,Exile,Fire Bender,Fire Powers,Nobility,Princess,Psychopath/Sociopath,Royalty,Siblings|Zuko
 City
 Medium
 Azula's Capture-the-Avatar Gang

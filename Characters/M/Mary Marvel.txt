@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Magic,Magic Word,Shazam Family,Sibling|Captain Marvel,Transforming,Word of Power
+Magic Entity,Magic Word,Shazam Family,Siblings|Captain Marvel,Transforming,Phrase of Power
 Country
 Medium
 Shazam Family,Justice League (Extended)

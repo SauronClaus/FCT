@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Female
-Astronaut,Romantic Subplot|Dr. Chris Beck,Tech Genius,Youngest
+Astronaut,NASA,Romantic Subplot|Dr. Chris Beck,Tech Genius
 Baseline
 Low
 Ares III Mission Crew

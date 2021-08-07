@@ -13,7 +13,7 @@ Honey Bear
 Good
 Protagonist
 Male
-Animorphic,Duo|Kazooie,Non-Human,Platformer,Super Smash Bros
+Animorphic,Duo|Kazooie,Non-Human,Platformer,Super Smash Bros,Super Smash Bros Ultimate DLC
 City
 Low
 Super Smash Bros,Super Smash Bros DLC

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Genius,Introvert,Teenager
+Genius,Introvert
 Baseline
 Low
 

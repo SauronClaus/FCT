@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Genius,Old,Vampire Hunter
+Monster Hunter
 Baseline
 Medium
 Dracula Hunters

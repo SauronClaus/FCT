@@ -13,7 +13,7 @@ Human
 Good
 Mentor
 Male
-Magic User,Mentor,Most Powerful,Uncle
+Egyptian Gods,Eye of Set,Magic User,Mentor,Most Powerful,Uncle
 Country
 Medium
 House of Life,Twenty-First Nome,Kanes

@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Order of the Pheonix II,Weasely,Wizard
+Order of the Pheonix II,Weasley,Wizard
 Baseline
 Medium
 Order of the Pheonix II,Weasley Family

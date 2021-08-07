@@ -13,7 +13,7 @@ Elf
 Neutral
 Protagonist
 Male
-Band of Fools,Band of Fools Redux,D&D,Elf,Magic User,Original Three (Band of Fools),Wizard
+Band of Fools,Band of Fools Redux,D&D,Elf,Magic User,Original Three (Band of Fools),Wizard,Wizard
 Modified Human
 Low
 Band of Fools (Original),Original Three (Band of Fools),Ethan Chou's Permutations,Band of Fools (Redux)

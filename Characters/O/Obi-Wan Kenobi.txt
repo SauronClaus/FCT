@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Commander,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Master Apprentice|Anakin Skywalker,Master Apprentice|Luke Skywalker,Master Apprentice|Qui-Gon Jinn,Nemesis|Darth Vader,Soldier
+Apprentice,Commander,Father Figure,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Anakin Skywalker,Master Apprentice|Luke Skywalker,Master Apprentice|Qui-Gon Jinn,Nemesis|Darth Vader,Soldier
 City
 High
 The Clone Wars Primary Trio,Jedi Order,Rebel Alliance (Star Wars)

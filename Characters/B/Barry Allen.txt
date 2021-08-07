@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Justice League,Legacy|Jay Garrick,Love Interest|Iris West,Police,Speedsters,Superheroes
+Iconic,Justice League,Legacy|Jay Garrick,Mentor,Police,Romantic Subplot|Iris West,Speedsters,Superheroes
 City
 High
 Justice League (Core),Justice League (Extended),Flash Family,Justice League (film),Arrowverse Main Cast,Justice League Founder

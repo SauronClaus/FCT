@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-GCPD,Legacy|Batman,Parent Child|Barbara Gordon,Police Commissioner,Police Officer
+GCPD,Legacy|Batman,Parent Child|Barbara Gordon,Police
 Baseline
 High
 Bat-Family (Extended),GCPD

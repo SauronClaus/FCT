@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Dhampir,Monster Hunter,Vampire Hunter
+Dhampir,Monster Hunter,Monster Hunter
 Modified Human
 Medium
 

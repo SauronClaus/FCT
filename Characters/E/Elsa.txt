@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Cryokinesis,Disney Princess,Elemental,Ice Powers,Magic User,Musical,Royalty,Sibling|Elsa,Traumatic Past
+Cryokinesis,Disney Princess,Elemental,Ice Powers,Magic User,Musical,Royalty,Siblings|Elsa,Traumatized
 Country
 High
 Frozen Quintent

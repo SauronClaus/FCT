@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Gymnast,Martial Artist,OSS,Pilot,Secret Agent,Spy Kids
+Gymnast,Martial Artist,OSS,Pilot,Secret Agent,Spy,Spy Kids
 Modified Human
 High
 OSS,Cortez Family
