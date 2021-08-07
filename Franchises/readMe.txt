@@ -8,12 +8,13 @@ Alright, places! There's 14 lines involved here.
 6. Reach Goals! These goals are bonuses! If the character's don't accomplish them, oh well, but if they do, bonus points to them. 
 7. Stretch Goals! These goals are the far out ones. Typically, if they're accomplished, the majority of the plot doesn't happen. 
 8. The character inserts! These are splitted with a "|", and just tell the things which characters to replace.
-9. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
-10. Brand- Overarching brand set for the francise.
-11. Medium- What medium is the franchise in?
-12. Color- The color for the franchise embed! Make it purtty. 
-13. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
-14. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
+9. Antagonist Inserts! These are splitted with a "|" as well.
+10. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
+11. Brand- Overarching brand set for the francise.
+12. Medium- What medium is the franchise in?
+13. Color- The color for the franchise embed! Make it purtty. 
+14. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
+15. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
 
 
 

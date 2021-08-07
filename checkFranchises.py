@@ -9,7 +9,7 @@ writeFile = open("addBeforeItBreaks.txt","w",encoding='utf8')
 write2File = open("franchiseCharacters.txt","w",encoding='utf8')
 franchiseCharacterFile = open("neededCharacters.txt","w",encoding='utf8')
 
-franchiseSearch = "NieR:Automata"
+franchiseSearch = ["NieR:Automata", "Stormlight Archive", "Mistborn"]
 franchiseAddCharacters = []
 
 charactersToFind = []
@@ -33,7 +33,7 @@ for letter in alphabet:
                 for character in characters:
                     charactersToFind.append(character)
                     characterString = characterString + character + ", "
-                    if franchiseSearch == franchiseInfo[0]:
+                    if franchiseInfo[0] in franchiseSearch:
                         franchiseAddCharacters.append(character)
                 write2File.write(franchiseInfo[0] + ": " + characterString[0:len(characterString)-2:] + "\n")
 
@@ -46,7 +46,7 @@ for letter in alphabet:
             if len(characterInfo) == 24:
                 if entry[0:len(entry)-4:] in charactersToFind:
                     while entry[0:len(entry)-4:] in charactersToFind:
-                        print(entry[0:len(entry)-4:])
+                        #print(entry[0:len(entry)-4:])
                         charactersToFind.remove(entry[0:len(entry)-4:])   
 
 singular = []
@@ -57,10 +57,11 @@ for character in charactersToFind:
         singular.append(character)
 
 for character in singular:
-    writeFile.write(character + "\n")
+    if not(character in franchiseAddCharacters):
+        writeFile.write(character + "\n")
 
 for character in franchiseAddCharacters:
     franchiseCharacterFile.write(character + "\n")
 
-print("Completed!")
 print("Franchises (" + str(numberFranchises) + "): " + listFranchises[0:len(listFranchises)-2:])
+print("Completed!")

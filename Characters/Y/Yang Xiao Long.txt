@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Genius,Inventor,LGBTQ+,Monster Hunter,Prosthetic,Romantic Subplot|Blake Belladonna
+Genius,Inventor,LGBTQ+,Monster Hunter,Prosthetic,Romantic Subplot|Blake Belladonna,Siblings|Ruby Rose
 Baseline
 Medium
 Team RWBY
