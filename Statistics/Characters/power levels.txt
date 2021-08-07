@@ -1,4 +1,4 @@
-Baseline: 107
+Baseline: 105
 City: 72
 Cosmic: 10
 Country: 21

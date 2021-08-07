@@ -23,7 +23,7 @@ Half-Elf: 3
 Hedgehog: 2
 Hobbit: 1
 Honey Bear: 1
-Human: 191
+Human: 189
 Human : 1
 Humans: 1
 Kangaroo: 1

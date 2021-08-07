@@ -157,8 +157,8 @@ Eragon:
 	-Total: 2
 Pokemon:
 	-Pokemon Anime: 1
-	-Pokemon: 3
-	-Total: 4
+	-Pokemon: 1
+	-Total: 2
 Until Dawn:
 	-Until Dawn: 1
 	-Total: 1

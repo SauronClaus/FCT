@@ -37,7 +37,6 @@ Captain America Corps: 3
 Champions (Extended): 1
 Champions (Marvel) (Core): 3
 Champions (Marvel) (Extended): 2
-Champions (Pokemon): 2
 Children of the Goddess (Fire Emblem): 3
 Colin Frazer's Permutations: 1
 Cortez Family: 2
@@ -102,7 +101,7 @@ Justice Society of America (Core): 2
 Justice Society of America (Extended): 3
 Kanes: 3
 Kang the Conqueror Permutations: 1
-Kanto Gym Leaders: 2
+Kanto Gym Leaders: 1
 Knights of Seiros: 7
 Koopa Troopa: 2
 League of Legends Champions: 1
@@ -128,7 +127,6 @@ Paper Mario: The Origami King Cast: 1
 Pequod Crew: 1
 Phantom Thieves of Hearts: 1
 Phineas and Ferb Main Child Group: 2
-Player Characters (Pokemon): 1
 Pokemon Anime Kanto Trio: 2
 Rat Creature Horde (Bone): 2
 Raya and the Last Dragon Crew: 1

@@ -7,7 +7,6 @@ Minor Side Character: 2
 NPC: 2
 Party Member: 11
 Playable Character: 7
-Protagonist: 167
-Rival: 1
+Protagonist: 166
 Side Character: 7
 Supporting Protagonist: 61

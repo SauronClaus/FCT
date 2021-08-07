@@ -92,7 +92,7 @@ for character in completedCharacters:
     characterBrand = characterInfo[21]
     characterFranchise = characterInfo[1]
     if characterFranchise == searchFranchise:
-        print("-" + characterInfo[0] + " (" + character + ") adding to " + characterBrand + "\\" + characterFranchise)
+        print("-" + characterInfo[0] + " (" + character + ") is in " + characterBrand + " (Brand)/" + characterFranchise + " (Franchise)")
     try:
         brands[characterBrand][characterFranchise]+=1
         brands[characterBrand]["Total"]+=1
@@ -129,7 +129,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    firstNameSearch = "James"
+    firstNameSearch = "------"
     characterFirstName = characterInfo[5]
     if firstNameSearch == characterFirstName:
         print("First Name Search: " + characterInfo[0] + " (" + character + ")")
@@ -169,7 +169,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    actorSearch = "Nolan North"
+    actorSearch = "Billy Kametz"
     if characterInfo[8] != "":
         characterActorList = characterInfo[8].split("|")
         for characterActor in characterActorList:
@@ -200,7 +200,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
     if characterInfo[9] != "":
-        yearSearch = "4"
+        yearSearch = ""
         characterYear = characterInfo[9].split("|")[0]
         if yearSearch == characterYear:
             print("Year Search: " + characterInfo[0] + " (" + character + ")")
@@ -361,7 +361,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    genderSearch = "Tara Strong"
+    genderSearch = "----"
     if characterInfo[14] != "":
         characterGender = characterInfo[14]
         if genderSearch == characterGender:
@@ -389,11 +389,11 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    powerLevelSearch = "Omnipotent"
+    powerLevelSearch = "-----"
     if characterInfo[16] != "":
         characterPowerLevel = characterInfo[16]
         if powerLevelSearch == characterPowerLevel:
-            print("Gender Match: " + characterInfo[0] + " (" + character + ")")
+            print("Power Level Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
             powerLevels[characterPowerLevel]+=1
@@ -421,7 +421,7 @@ for character in completedCharacters:
     if characterInfo[17] != "":
         characterPopularity = characterInfo[17]
         if popularitySearch == characterPopularity:
-            print("Gender Match: " + characterInfo[0] + " (" + character + ")")
+            print("Popularity Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
             popularities[characterPopularity]+=1

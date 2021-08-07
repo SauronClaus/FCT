@@ -19,6 +19,6 @@ Muppets: 7
 Superhero Comics: 69
 TV Shows: 62
 VR: 1
-Video Games: 74
+Video Games: 72
 Webcomics: 4
 Webtoons: 1

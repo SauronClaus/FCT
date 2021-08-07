@@ -18,7 +18,7 @@ Batgirl Purple: 1
 Beige: 3
 Black: 36
 Blond: 2
-Blue: 23
+Blue: 22
 Bone White: 4
 Brock Orange: 1
 Bronze: 3
@@ -26,12 +26,10 @@ Brown: 9
 Copper: 1
 Crimson: 10
 Dark Green: 2
-Garreg Mach Gold: 1
-Gold: 9
-Gray: 1
+Gold: 10
 Green: 13
 Green (Alex Stardew): 1
-Grey: 7
+Grey: 8
 Kerbal-Green: 5
 Magenta: 1
 Military Green: 7
@@ -44,7 +42,7 @@ Pale Orange (Annette): 1
 Pale Purple: 3
 Pink: 10
 Purple: 4
-Red: 31
+Red: 30
 Rosalina's Dress: 1
 Silver: 3
 Silver-White: 6

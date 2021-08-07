@@ -1,4 +1,3 @@
-: 2
 AI: 1
 Ability Copier: 1
 Absurdly Strong: 1
@@ -92,7 +91,7 @@ Cartoon: 2
 Cat-Themed: 3
 Celestial: 1
 Chainsaw: 1
-Champion: 3
+Champion: 1
 Champions: 1
 Champions (Team): 1
 Chaos Magic: 1
@@ -156,7 +155,7 @@ Dragonslayer: 1
 Dream Powers: 3
 Droids: 3
 Dumbledore's Army: 4
-Duo: 23
+Duo: 21
 Dwarf: 1
 Earth Bender: 2
 Earth-2: 2
@@ -244,7 +243,7 @@ Gryffindor: 6
 Guardian: 3
 Guardians of the Galaxy: 2
 Gun-Arm: 1
-Gym Leader: 2
+Gym Leader: 1
 Gymnast: 2
 Hacker: 4
 Half-Elf: 3
@@ -293,7 +292,7 @@ Justice League: 12
 Justice League Dark: 1
 Justice League International: 2
 Justice Society of America: 3
-Kanto: 3
+Kanto: 1
 Kidnapper: 1
 Kinetic Blasts: 1
 King: 5
@@ -412,9 +411,9 @@ Pink: 1
 Pixelated: 2
 Planeswalker: 1
 Platformer: 2
-Player Character: 5
+Player Character: 4
 Poetry: 1
-Pokemon Trainer: 4
+Pokemon Trainer: 2
 Police: 2
 Police Commissioner: 1
 Police Officer: 1

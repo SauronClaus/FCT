@@ -72,7 +72,7 @@ Ninja: 1
 Nobility: 1
 Operative: 1
 Phantom Thief: 1
-Pokemon Trainer: 4
+Pokemon Trainer: 2
 Police Officer: 1
 Post-Apocalypse Survivor: 1
 Precog: 2
