@@ -12,7 +12,7 @@ Soldier
 Human
 Neutral
 Antagonist
-Male
+Female
 Knives,Nobility,Non-Powered,Redemption,Romantic Subplot|Zuko,Stoic
 City
 Medium

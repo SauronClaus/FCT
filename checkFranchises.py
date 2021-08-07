@@ -43,16 +43,16 @@ for letter in alphabet:
                     if franchiseInfo[8] != "":
                         antagonists = franchiseInfo[8].split("|")
                         for antagonist in antagonists:
-                            charactersToFind.append(character)
+                            charactersToFind.append(antagonist)
                             characterString = characterString + antagonist + ", "
                             if franchiseInfo[0] in franchiseSearch:
                                 franchiseAddCharacters.append(antagonist)
+                            print("Antag: " + antagonist)
                     if franchiseInfo[9] != "":
                         artifacts = franchiseInfo[9].split("|")
                         for artifact in artifacts:
                             artifactList.append(artifact)
                             artifactsIncomplete.append(artifact)
-                            print("Artifact: " + artifact)
                 write2File.write(franchiseInfo[0] + ": " + characterString[0:len(characterString)-2:] + "\n")
 
 for letter in alphabet:
@@ -66,6 +66,7 @@ for letter in alphabet:
                     while entry[0:len(entry)-4:] in charactersToFind:
                         #print(entry[0:len(entry)-4:])
                         charactersToFind.remove(entry[0:len(entry)-4:])   
+invalidNum = 0
 basepath = 'Artifacts'
 for entry in os.listdir(basepath):
     if os.path.isfile(os.path.join(basepath, entry)):
@@ -75,10 +76,8 @@ for entry in os.listdir(basepath):
             if len(artifactInfo) == 14:
                 artifactsIncomplete.remove(entry[0:len(entry)-4:])
         except:
-            print("Incomplete: " + entry[0:len(entry)-4:])
-
-for artiafct in artifactsIncomplete:
-    print("+" + artiafct)
+            #print("Incomplete: " + entry[0:len(entry)-4:])
+            invalidNum+=1
 
 singular = []
 charactersToFind.sort()

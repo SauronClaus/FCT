@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Chosen One,Dumbledore's Army,Gryffindor,Harry Potter Main Trio,Iconic,Magic User,Pureblood,Romantic Subplot|Ginny Weasley,Wizard
+Chosen One,Dumbledore's Army,Gryffindor,Harry Potter Main Trio,Iconic,Magic User,Pureblood,Romantic Subplot|Ginny Weasley,Wizard,Nemesis|Lord Voldemort
 City
 High
 Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years)
