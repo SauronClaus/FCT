@@ -16,7 +16,7 @@ def infoPerson(personName):
     embed = discord.Embed(title="Test", description="Test :)")
 
     if personInfo[2] != "":
-        print(str(len(personInfo[2])) + ", truncated to " + str(len(personInfo[2][0:250:])))
+        #print(str(len(personInfo[2])) + ", truncated to " + str(len(personInfo[2][0:250:])))
         embed = discord.Embed(title=personInfo[0], description=personInfo[2][0:250:] + "[. . .](" + personInfo[4] + ")")
     else:
         embed = discord.Embed(title=personInfo[0])
@@ -146,6 +146,88 @@ def infoArtifact(artifactName):
         artifactSetString = artifactSetString[0:len(artifactSetString)-2:]
         embed.add_field(name="Sets",value=artifactSetString, inline=False)
 
+    embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+
+    return embed
+
+def infoFranchise(franchiseName):
+    firstChar = franchiseName[0:1:]
+    if firstChar in numbers:
+        firstChar = "#"
+    print("Opening path to " + franchiseName + ": Franchises\\" + firstChar + "\\" + franchiseName + ".txt")
+    franchiseFile = open("Franchises\\" + firstChar + "\\" + franchiseName + ".txt", "r", encoding='utf8')
+    franchiseInfo = franchiseFile.read().split("\n")
+
+
+    embed = discord.Embed(title="Test", description="Test :)")
+
+    if franchiseInfo[1] != "":
+        embed = discord.Embed(title=franchiseInfo[0], description=franchiseInfo[1][0:250:] + "[. . .](" + franchiseInfo[3] + ")")
+    else:
+        embed = discord.Embed(title=franchiseInfo[0])
+    
+    if franchiseInfo[2] != "":
+        embed.set_thumbnail(url=franchiseInfo[2])
+
+    embed.color = colors[franchiseInfo[13]]
+    
+    if franchiseInfo[11] != "":
+        embed.add_field(name="Franchise",value=franchiseInfo[11], inline=False)
+
+    if franchiseInfo[12] != "":
+        mediumString = ""
+        for medium in franchiseInfo[12].split(","):
+            mediumString = mediumString + medium + ", "
+        mediumString = mediumString[0:len(mediumString)-2:]
+        embed.add_field(name="Mediums",value=mediumString, inline=True)
+
+    if franchiseInfo[15] != "":
+        embed.add_field(name="Average Power Level",value=franchiseInfo[15], inline=True)
+
+    if franchiseInfo[7] != "":
+        characterInsertsString = ""
+        for character in franchiseInfo[7].split("|"):
+            characterInsertsString = characterInsertsString + character + ", "
+        characterInsertsString = characterInsertsString[0:len(characterInsertsString)-2:]
+        embed.add_field(name="Character Inserts",value=characterInsertsString, inline=False)
+
+    if franchiseInfo[8] != "":
+        characterInsertsString = ""
+        for character in franchiseInfo[8].split("|"):
+            characterInsertsString = characterInsertsString + character + ", "
+        characterInsertsString = characterInsertsString[0:len(characterInsertsString)-2:]
+        embed.add_field(name="Antagonist Inserts",value=characterInsertsString, inline=False)
+
+
+    if franchiseInfo[10] != "":
+        themeSong = "Megalovania|https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL?si=a9791693d4f04223"
+        if len(franchiseInfo[10].split("|")) >= 2:
+            themeSongList = franchiseInfo[10].split(",")
+            RNG = random.randint(0,len(themeSongList)-1)
+            themeSong = themeSongList[RNG]
+        embed.add_field(name="Theme Song",value="[" + themeSong.split("|")[0] + "](" + themeSong.split("|")[1] + ")")
+
+    if franchiseInfo[4] != "":
+        goalsString = ""
+        for goal in franchiseInfo[4].split("|"):
+            goalsString = goalsString + goal + ", "
+        goalsString = goalsString[0:len(goalsString)-2:]
+        embed.add_field(name="Normal Goals",value=goalsString, inline=False)
+    
+    if franchiseInfo[5] != "":
+        goalsString = ""
+        for goal in franchiseInfo[5].split("|"):
+            goalsString = goalsString + goal + ", "
+        goalsString = goalsString[0:len(goalsString)-2:]
+        embed.add_field(name="Stretch Goals",value=goalsString, inline=False)
+    
+    if franchiseInfo[6] != "":
+        goalsString = ""
+        for goal in franchiseInfo[6].split("|"):
+            goalsString = goalsString + goal + ", "
+        goalsString = goalsString[0:len(goalsString)-2:]
+        embed.add_field(name="Reach Goals",value=goalsString, inline=False)
+    
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed

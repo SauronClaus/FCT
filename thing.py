@@ -6,6 +6,7 @@ import time
 import os
 
 from infoCard import infoPerson
+from infoCard import infoFranchise
 from infoCard import infoArtifact
 
 intents = discord.Intents.all()
@@ -77,6 +78,21 @@ async def on_message(message):
                 if entry != "readMe.txt":
                     embed = infoArtifact(entry[0:len(entry)-4:])
                     await message.channel.send(embed=embed)
+    if message.content == "*test franchises":
+
+        alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+        # List all files in a directory using os.listdir
+        for letter in alphabet:
+            basepath = 'Franchises/' + letter
+            for entry in os.listdir(basepath):
+                if os.path.isfile(os.path.join(basepath, entry)):
+                    print(entry)
+                    franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
+                    franchiseInfo = franchiseFile.read().split("\n")
+                    if len(franchiseInfo) == 16:
+                        embed = infoFranchise(entry[0:len(entry)-4:])
+                        await message.channel.send(embed=embed)
     if "*info" in message.content:
         messageParam = message.content[6::].split("-")
         if messageParam[0] == "artifact" or messageParam[0] == "Artifact":

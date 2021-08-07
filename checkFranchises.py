@@ -9,7 +9,7 @@ writeFile = open("addBeforeItBreaks.txt","w",encoding='utf8')
 write2File = open("franchiseCharacters.txt","w",encoding='utf8')
 franchiseCharacterFile = open("neededCharacters.txt","w",encoding='utf8')
 
-franchiseSearch = ["NieR:Automata", "Stormlight Archive", "Mistborn"]
+franchiseSearch = ["Persona 3","Persona 4"]
 franchiseAddCharacters = []
 
 charactersToFind = []
@@ -47,7 +47,6 @@ for letter in alphabet:
                             characterString = characterString + antagonist + ", "
                             if franchiseInfo[0] in franchiseSearch:
                                 franchiseAddCharacters.append(antagonist)
-                            print("Antag: " + antagonist)
                     if franchiseInfo[9] != "":
                         artifacts = franchiseInfo[9].split("|")
                         for artifact in artifacts:

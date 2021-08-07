@@ -2,9 +2,9 @@ Age of Ultron: Iron Man, Captain America, Black Widow, Hulk, Vision, Thor, Quick
 Avatar: The Last Airbender: Aang, Katara, Sokka, Toph Beifong, Zuko, Azula, Mai, Ty Lee, Fire Lord Ozai
 Avengers: Iron Man, Captain America, Black Widow, Hulk, Thor, Loki
 Band of Fools (original): Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Arthail Consumer of Food, Ruby Rider, Byllemura Ruby-Eye, Nahara
-Bone: Fone Bone, Smiley Bone, Phoney Bone, Thorn Harvestar, Gran'ma Ben, Kingdok, Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Bone: Fone Bone, Smiley Bone, Phoney Bone, Thorn Harvestar, Gran'ma Ben, Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Captain America: Civil War: Captain America, Bucky Barnes, Scott Lang, Hawkeye, Falcon, Scarlet Witch, Iron Man, Black Widow, War Machine, Black Panther, Vision, Spider-Man
-Crisis on Infinite Earths: Barry Allen, Kal-L, Alexander Luthor Jr., Superboy Prime, Pariah, Harbringer, Supergirl, Batman, Superman, Anti-Monitor, Psycho Pirate
+Crisis on Infinite Earths: Barry Allen, Kal-L, Alexander Luthor Jr., Superboy Prime, Pariah, Harbringer, Supergirl, Batman, Superman, Anti-Monitor
 Dracula: Jonathan Harker, Mina Harker, Quincey Morris, Arthur Holmwood, John Seward, Abraham Van Helsing, Dracula
 Fire Emblem Three Houses (Azure Moon): Edelgard, Hubert
 Fire Emblem Three Houses (Crimson Flower): Edelgard, Hubert, Byleth, Rhea, Seteth, Dimitri, Dedue, Claude, Hilda
@@ -12,9 +12,11 @@ Fire Emblem Three Houses (Golden Route): Byleth, Edelgard, Hubert, Dimitri, Dedu
 Fire Emblem Three Houses (Silver Snow): Edelgard, Hubert
 Fire Emblem Three Houses (Verdant Wind): Edelgard, Hubert
 Frozen: Anna, Elsa, Kristoff, Sven, Olaf
-Harry Potter: Harry Potter, Hermione Granger, Ron Weasley, Ginny Weasley, Voldemort
+Harry Potter: Harry Potter, Hermione Granger, Ron Weasley, Ginny Weasley, Lord Voldemort
 Kane Chronicles: Carter Kane, Sadie Kane, Zia Rashid, Walt Stone
 Kindred (novel): Dana Franklin
 Mario 64: Mario, Bowser
 Mario Galaxy: Mario, Rosalina, Bowser
+Persona 3: Makoto Yuki, Mitsuru Kirijo, Akihiko Sanada, Aigis
+Persona 4: Yu Narukami, Yosuke Hanamura, Naoto Shirogane, Rise Kujikawa
 RWBY: Ruby Rose, Weiss Schnee, Blake Belladonna, Yang Xiao Long
