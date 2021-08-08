@@ -2,7 +2,7 @@ Alright, places! There's 16 lines involved here.
 
 1. Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
 2. Description- A short description of the franchise, often taken from a wiki or something.
-3. Image- a thumbnail image of the franchise. 
+3. Image- a thumbnail image URL of the franchise. 
 4. Article- Add an article where you can find more information on the franchise.
 5. Goals! These goals need to be accomplished for the story to be successful; mostly, they're the goals that the protagonists must complete to be successful.
 6. Reach Goals! These goals are bonuses! If the character's don't accomplish them, oh well, but if they do, bonus points to them. 
