@@ -10,6 +10,7 @@ Anti-Monitor
 
 
 DC Comics
+DC
 Superhero Comics,Comics
 Black
 Medium

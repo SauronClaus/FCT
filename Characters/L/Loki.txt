@@ -16,7 +16,7 @@ Male
 Antihero,Asgardian,Cosmic,God,Trickster,Prankster,Schemer,Shapeshifter
 Cosmic
 High
-
+Asgardians
 
 Superhero Comics,Comics,Movies,TV Shows
 Marvel

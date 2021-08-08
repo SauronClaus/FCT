@@ -1,4 +1,4 @@
-Alright, places! There's 16 lines involved here.
+Alright, places! There's 17 lines involved here.
 
 1. Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
 2. Description- A short description of the franchise, often taken from a wiki or something.
@@ -11,11 +11,12 @@ Alright, places! There's 16 lines involved here.
 9. Antagonist Inserts! These are splitted with a "|" as well.
 10. Artifact! The MacGuffin. The "Thing" that everyone wants, be it the Infinity Gauntlet, Loki's Scepter, etc.
 11. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
-12. Brand- Overarching brand set for the francise.
-13. Medium- What medium is the franchise in?
-14. Color- The color for the franchise embed! Make it purtty. 
-15. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
-16. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
+12. Franchise- the franchise set. 
+13. Brand- Overarching brand set for the francise.
+14. Medium- What medium is the franchise in?
+15. Color- The color for the franchise embed! Make it purtty. 
+16. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
+17. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
 
 
 
