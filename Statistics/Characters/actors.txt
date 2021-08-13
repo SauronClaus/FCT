@@ -2,17 +2,20 @@ Adrian Pasdar: 2
 Alan Tudyk: 2
 Armen Taylor: 2
 Ben Lepley: 2
+Billy Kametz: 2
+Bryce Papenbrook: 2
 Bumper Robinson: 3
 Charles Martinet: 2
 Christopher Judge: 2
 Colleen O'Shaughnessey: 2
+Crispin Freeman: 2
 Danny Wells: 2
-David Kaye: 2
+David Kaye: 3
 Dwight Schultz: 2
 Eric Bauza: 3
 Erica Lindbeck: 2
 Frank Oz: 3
-Fred Tatasciore: 4
+Fred Tatasciore: 5
 George Buza: 2
 Gregory Peck: 2
 Grey DeLisle: 3
@@ -20,12 +23,14 @@ Hayden Christensen: 2
 Hidenori Takahashi: 2
 Jake Lloyd: 2
 James Arnold Taylor: 4
+Jason Spisak: 2
 Jen Taylor: 2
 Jennifer Hale: 2
 Jeremy Irons: 2
 Jessica Chisum: 2
 John Wesley Shipp: 2
 Jonathan Groff: 2
+Josh Keaton: 2
 Julien Bardakoff: 2
 Kari Wahlgren: 2
 Kimberly Brooks: 2
@@ -34,13 +39,18 @@ Lou Albano: 2
 Lou Ferrigno: 2
 Mae Whitman: 2
 Marc Graue: 2
+Mark Hamill: 2
 Matt Lanter: 2
 Matthew Mercer: 3
 Michael Gough: 2
+Neil Patrick Harris: 2
 Nolan North: 5
+Paul Soles: 2
 Ralph Fiennes: 2
+Robbie Daymond: 2
 Roger Craig Smith: 3
 Rosario Dawson: 2
+Sam Riegel: 2
 Scott Menville: 2
 Sebastian Spence: 2
 Sebastian Stan: 2
@@ -48,9 +58,11 @@ Steve Blum: 2
 Steve Whitmire: 2
 Tara Strong: 5
 Terrence C. Carson: 2
-Tom Kane: 3
+Tom Kane: 4
+Tom Kenny: 2
 Travis Willingham: 4
-Troy Baker: 2
+Troy Baker: 3
 Vanessa Marshall: 2
+Wally Wingert: 2
 Wendy Tremont King: 2
-Yuri Lowenthal: 2
+Yuri Lowenthal: 3

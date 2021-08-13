@@ -1,8 +1,9 @@
-Baseline: 105
-City: 72
-Cosmic: 10
+Baseline: 109
+City: 76
+Cosmic: 12
 Country: 21
 Interuniversal: 2
 Modified Human: 76
+Multiversal: 1
 Omnipotent: 1
 World: 2

@@ -1,4 +1,5 @@
 Kane: 3
+Rose: 2
 Skywalker: 3
 Chase: 2
 Weasley: 4

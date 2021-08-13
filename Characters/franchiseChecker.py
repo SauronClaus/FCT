@@ -8,6 +8,7 @@ newCompletedCharacters = {}
 allCharacters = {}
 completedCharactersOld = []
 completedCharactersNew = []
+
 import os
 
 print("Start!")
@@ -66,7 +67,7 @@ for franchise in allCharacters:
         joe = str(len(newCompletedCharacters[franchise]))
     except: 
         newCompletedCharacters[franchise] = []
-    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + ")"
+    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + "): " + str(len(allCharacters[franchise])-len(newCompletedCharacters[franchise]))
     print(franchiseInfo)
 writeFile1 = open("Characters\\franchises.txt", "w", encoding="utf8")
 writeFile2 = open("Characters\\franchisesAll.txt", "w", encoding="utf8")
@@ -77,18 +78,46 @@ for franchise in allCharacters.keys():
 
 franchiseAllCollections = []
 
+franchiseValue = {}
+valuesNums = []
+
+for franchise in allCharacters:
+    numImp = len(allCharacters[franchise])-len(newCompletedCharacters[franchise])
+    if not(numImp in valuesNums):
+        valuesNums.append(numImp)
+    if not(franchise in franchiseValue):
+        try:
+            franchiseValue[numImp].append(franchise)
+        except:
+            franchiseValue[numImp] = [franchise]
+valuesNums.sort()
+
+writeFile3 = open("Characters\\franchisesByNum.txt", "w", encoding='utf8')
+for number in valuesNums:
+    print(number)
+    franchisesMini = franchiseValue[number]
+    tedString = str(number) + ": "
+    for franchise in franchisesMini:
+        tedString = tedString + franchise + ", "
+    tedString = tedString[0:len(tedString)-2:]
+    writeFile3.write(tedString + "\n")
+
+
+
+
+
 for franchise in oldCompletedCharacters:
     franchiseInfo = franchise + " (" + str(len(oldCompletedCharacters[franchise])) + ")"
     writeFile1.write(franchiseInfo + "\n")
 for franchise in allCharacters:
-    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + ")"
+    franchiseInfo = franchise + " (" + str(len(newCompletedCharacters[franchise])) + "/" + str(len(oldCompletedCharacters[franchise])) + "/" + str(len(allCharacters[franchise])) + "): " + str(len(allCharacters[franchise])-len(newCompletedCharacters[franchise]))
     writeFile2.write(franchiseInfo + "\n")
 
 writeFile1.close()
 writeFile2.close()
 
 print("\n\n\n\n")
-exitTest = ""
+exitTest = "End"
 
 while exitTest != "End":
     exitTest = input("Enter a franchise: ")

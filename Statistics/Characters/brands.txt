@@ -1,8 +1,8 @@
 
 Avatar (TV Show):
-	-Avatar: The Last Airbender: 9
+	-Avatar: The Last Airbender: 11
 	-The Legend of Korra: 3
-	-Total: 12
+	-Total: 14
 Sesame Street:
 	-Sesame Street: 4
 	-Total: 4
@@ -13,9 +13,9 @@ Dracula Hunters:
 	-Dracula: 1
 	-Total: 1
 Marvel:
-	-Marvel Comics: 36
+	-Marvel Comics: 39
 	-MCU: 1
-	-Total: 37
+	-Total: 40
 He-Man:
 	-She-Ra and the Princesses of Power: 4
 	-Total: 4
@@ -70,9 +70,9 @@ Percy Jackson and the Olympians:
 	-Percy Jackson: 5
 	-Total: 14
 DC:
-	-DC Comics: 26
+	-DC Comics: 27
 	-Suicide Squad: 1
-	-Total: 27
+	-Total: 28
 A Nightmare on Elm Street:
 	-A Nightmare on Elm Street: 1
 	-Total: 1
@@ -147,8 +147,8 @@ Magic: The Gathering:
 	-Magic: The Gathering: 1
 	-Total: 1
 Dracula:
-	-Dracula: 5
-	-Total: 5
+	-Dracula: 6
+	-Total: 6
 Metro:
 	-Metro: 1
 	-Total: 1
@@ -157,8 +157,8 @@ Eragon:
 	-Total: 2
 Pokemon:
 	-Pokemon Anime: 1
-	-Pokemon: 1
-	-Total: 2
+	-Pokemon: 3
+	-Total: 4
 Until Dawn:
 	-Until Dawn: 1
 	-Total: 1
@@ -202,8 +202,8 @@ Slaughterhouse-Five:
 	-Slaughterhouse-Five: 1
 	-Total: 1
 RWBY:
-	-RWBY: 2
-	-Total: 2
+	-RWBY: 4
+	-Total: 4
 Bone:
 	-Bone: 7
 	-Total: 7

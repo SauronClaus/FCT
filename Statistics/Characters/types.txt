@@ -26,7 +26,6 @@ Cleric: 1
 Conman: 1
 Dark Mage: 1
 Death Knight: 1
-Deity: 1
 Detective: 1
 Dictator: 1
 Director: 1
@@ -34,6 +33,7 @@ Doctor: 1
 Dragon: 1
 Dragon Rider: 1
 Dreamer: 1
+Emperor: 1
 Empress: 1
 Engineer: 1
 Evil King: 1
@@ -52,7 +52,7 @@ Hero: 1
 Hitman: 1
 Hooligan: 1
 Horror Game Character: 1
-Huntress: 2
+Huntress: 4
 Inventor: 3
 Jedi: 7
 Jedi Knight: 2
@@ -72,7 +72,7 @@ Ninja: 1
 Nobility: 1
 Operative: 1
 Phantom Thief: 1
-Pokemon Trainer: 2
+Pokemon Trainer: 4
 Police Officer: 1
 Post-Apocalypse Survivor: 1
 Precog: 2
@@ -94,22 +94,24 @@ Secret Agent: 2
 Sith: 1
 Sith Lord: 1
 Smuggler: 2
-Soldier: 11
+Soldier: 12
 Sorcerer: 4
 Space Captain: 1
 Strategist: 1
 Super Hero: 1
 Super Villain: 1
-Superhero: 61
-Supervillain: 4
+Superhero: 63
+Supervillain: 6
 Teenager: 1
 Time Traveler: 1
 Titan: 1
 Town Guard: 1
 Vampire Hunter: 1
+Vampire Lord: 1
 Wanderer: 1
 Warlock: 1
 Warrior: 5
 Witch: 1
 Wizard: 14
+World Destroyer: 1
 Writer: 1

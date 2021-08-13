@@ -16,7 +16,7 @@ Male
 Avengers,Gamma,Genius,Green,Hulks,Powerhouse,Strong
 World
 High
-Avengers (Core),Avengers (Extended),Avengers Original Quintent,Hulks,Avengers Founders
+Avengers (Core),Avengers (Extended),Avengers Original Quintet,Hulks,Avengers Founders
 
 Superhero Comics,Comics,Movies
 Marvel

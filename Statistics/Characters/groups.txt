@@ -5,16 +5,16 @@ Alpha Flight: 2
 Ant-Man Cast: 6
 Ares III Mission Crew: 2
 Arrowverse Main Cast: 1
+Asgardians: 1
 Asgardians (Marvel): 1
 Ashleigh Smith's Permutations: 1
 Atlantis Crew (Disney): 1
 Avatars: 2
-Avengers (Core): 9
-Avengers (Extended): 20
+Avengers (Core): 10
+Avengers (Extended): 21
 Avengers Founders: 4
-Avengers Original Quintent: 4
-Avengers Original Quintet: 2
-Azula's Capture-the-Avatar Gang: 2
+Avengers Original Quintet: 6
+Azula's Capture-the-Avatar Gang: 3
 Band of Fools (Original): 8
 Band of Fools (Redux): 3
 Bat-Family (Core): 3
@@ -37,6 +37,7 @@ Captain America Corps: 3
 Champions (Extended): 1
 Champions (Marvel) (Core): 3
 Champions (Marvel) (Extended): 2
+Champions (Pokemon): 2
 Children of the Goddess (Fire Emblem): 3
 Colin Frazer's Permutations: 1
 Cortez Family: 2
@@ -58,7 +59,7 @@ Exiles (Core): 1
 Falcon & the Winter Soldier Main Trio: 2
 Fans! Cast: 3
 Fans! Polyamorous Group: 3
-Fantastic Four (Extended): 3
+Fantastic Four (Extended): 4
 Fellowship of the Ring: 2
 Final Fantasy VII Party: 2
 Finch Family: 3
@@ -101,7 +102,7 @@ Justice Society of America (Core): 2
 Justice Society of America (Extended): 3
 Kanes: 3
 Kang the Conqueror Permutations: 1
-Kanto Gym Leaders: 1
+Kanto Gym Leaders: 2
 Knights of Seiros: 7
 Koopa Troopa: 2
 League of Legends Champions: 1
@@ -127,6 +128,7 @@ Paper Mario: The Origami King Cast: 1
 Pequod Crew: 1
 Phantom Thieves of Hearts: 1
 Phineas and Ferb Main Child Group: 2
+Player Characters (Pokemon): 1
 Pokemon Anime Kanto Trio: 2
 Rat Creature Horde (Bone): 2
 Raya and the Last Dragon Crew: 1
@@ -147,6 +149,7 @@ Sith Lords: 1
 Skywalkers (Star Wars): 3
 Sonic the Hedgehog (Extended Cast): 4
 Sonic the Hedgehog (Main Cast): 2
+Spider-People: 1
 Star Trek: The Original Series Crew: 1
 Star Wars Droid Duo: 2
 Star Wars Droids: 3
@@ -169,7 +172,7 @@ Symbiote Squad: 1
 Talon: 1
 Team Avatar (Korra): 3
 Team Fortress: 1
-Team RWBY: 2
+Team RWBY: 4
 Teen Titans (Core): 2
 Teen Titans (Extended): 4
 Teen Titans Founders: 1

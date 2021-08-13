@@ -16,20 +16,20 @@ Banjo Brown: 1
 Banshee Green: 1
 Batgirl Purple: 1
 Beige: 3
-Black: 36
+Black: 37
 Blond: 2
-Blue: 22
+Blue: 24
 Bone White: 4
 Brock Orange: 1
 Bronze: 3
 Brown: 9
 Copper: 1
-Crimson: 10
+Crimson: 11
 Dark Green: 2
 Gold: 10
-Green: 13
+Green: 14
 Green (Alex Stardew): 1
-Grey: 8
+Grey: 9
 Kerbal-Green: 5
 Magenta: 1
 Military Green: 7
@@ -42,12 +42,12 @@ Pale Orange (Annette): 1
 Pale Purple: 3
 Pink: 10
 Purple: 4
-Red: 30
+Red: 34
 Rosalina's Dress: 1
 Silver: 3
 Silver-White: 6
 Turquoise: 1
 Weasley Orange: 6
-White: 27
+White: 28
 Yellow: 16
 Zemo Purple: 1

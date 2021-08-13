@@ -1,12 +1,12 @@
 Anime: 3
 Book: 1
-Books: 55
-CGI: 26
+Books: 56
+CGI: 28
 Card Game: 1
-Cartoon: 20
+Cartoon: 22
 Cartoons: 1
 Children's TV Shows: 4
-Comics: 81
+Comics: 85
 Dungeons & Dragons: 7
 Dungeons and Dragons: 2
 Graphic Novels: 7
@@ -14,11 +14,11 @@ Horror Games: 2
 Horror Movies: 1
 Manga: 2
 Movie: 3
-Movies: 100
+Movies: 104
 Muppets: 7
-Superhero Comics: 69
-TV Shows: 62
+Superhero Comics: 73
+TV Shows: 67
 VR: 1
-Video Games: 72
+Video Games: 74
 Webcomics: 4
 Webtoons: 1

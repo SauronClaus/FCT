@@ -1,5 +1,5 @@
 Android: 3
-Asgardian: 1
+Asgardian: 2
 Bee: 1
 Bob-omb: 1
 Bone: 4
@@ -23,7 +23,7 @@ Half-Elf: 3
 Hedgehog: 2
 Hobbit: 1
 Honey Bear: 1
-Human: 189
+Human: 196
 Human : 1
 Humans: 1
 Kangaroo: 1
@@ -32,13 +32,14 @@ Koopa: 2
 Kryptonian: 4
 Light Dragon: 1
 Modified Human: 1
+Monitor: 1
 Muppet: 6
 Mutant: 14
 Part-Veela: 1
 Pony: 1
 Rat Creature: 2
 Reindeer: 1
-Robot: 4
+Robot: 5
 Siren: 1
 Skeleton: 2
 Sky Dragon: 1
@@ -49,5 +50,6 @@ Titan: 1
 Togruta: 1
 Umbra Witch: 1
 Unknown Cat Species: 1
+Vampire: 1
 Wookie: 1
 Yoda's Species: 1

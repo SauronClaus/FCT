@@ -15,3 +15,4 @@ James: 4
 John: 2
 Carter: 2
 Kal: 3
+Ruby: 2
