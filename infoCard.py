@@ -169,7 +169,7 @@ def infoFranchise(franchiseName):
     if franchiseInfo[2] != "":
         embed.set_thumbnail(url=franchiseInfo[2])
 
-    embed.color = colors[franchiseInfo[13]]
+    embed.color = colors[franchiseInfo[14]]
     
     if franchiseInfo[11] != "":
         embed.add_field(name="Franchise",value=franchiseInfo[11], inline=False)
