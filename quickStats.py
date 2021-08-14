@@ -94,17 +94,17 @@ for character in completedCharacters:
     if characterFranchise == searchFranchise:
         print("-" + characterInfo[0] + " (" + character + ") is in " + characterBrand + " (Brand)/" + characterFranchise + " (Franchise)")
     try:
-        brands[characterBrand][characterFranchise]+=1
-        brands[characterBrand]["Total"]+=1
+        brands[characterBrand][characterFranchise].append(character)
+        brands[characterBrand]["Total"].append(character)
     except:
         #print("Stage 1 failure (location: " + character + ")")
         try:
-            brands[characterBrand][characterFranchise] = 1
-            brands[characterBrand]["Total"]+=1
+            brands[characterBrand][characterFranchise] = [character]
+            brands[characterBrand]["Total"].append(character)
         except:
             #print("Stage 2 failure (location: " + character + ")")
             try:
-                brands[characterBrand] = {characterFranchise: 1,"Total":1}
+                brands[characterBrand] = {characterFranchise: [character],"Total":[character]}
             except:
                 print("It broke!")
 
@@ -113,8 +113,14 @@ for brandName in brands.keys():
     brandSet = brandName + ":\n"
     for franchiseName in brands[brandName].keys():
         if franchiseName != "Total":
-            brandSet = brandSet + "\t-" + franchiseName + ": " + str(brands[brandName][franchiseName]) + "\n"
-    brandSet = brandSet + "\t-" + "Total: " + str(brands[brandName]["Total"])
+            brandSet = brandSet + "\t-" + franchiseName + " (" + str(len(brands[brandName][franchiseName])) + "/" + str(len(brands[brandName]["Total"])) + "): "
+            for person in brands[brandName][franchiseName]:
+                brandSet = brandSet + person + ", "
+            brandSet = brandSet[0:len(brandSet)-2:] + "\n"
+    brandSet = brandSet + "\t-All " + " (" + str(len(brands[brandName]["Total"])) + "/" + str(len(completedCharacters)) + "): "
+    for person in brands[brandName]["Total"]:
+        brandSet = brandSet + person + ", "
+    brandSet = brandSet[0:len(brandSet)-2:] + "\n"
     brandString = brandString + "\n" + brandSet
     
 brandsFile.write(brandString)
@@ -141,24 +147,32 @@ for character in completedCharacters:
 
     if characterFirstName != "":
         try:
-            firstNames[characterFirstName]+=1
+            firstNames[characterFirstName].append(character)
         except:
-            firstNames[characterFirstName] = 1
+            firstNames[characterFirstName] = [character]
     if characterLastName != "":
         try:
-            lastNames[characterLastName]+=1
+            lastNames[characterLastName].append(character)
         except:
-            lastNames[characterLastName] = 1
+            lastNames[characterLastName] = [character]
 
 firstNameFile = open("Statistics\\Characters\\firstNames.txt", "w",encoding='utf8')
 lastNameFile = open("Statistics\\Characters\\lastNames.txt", "w",encoding='utf8')\
 
 for firstName in firstNames.keys():
-    if firstNames[firstName] >= 2:
-        firstNameFile.write(firstName + ": " + str(firstNames[firstName]) + "\n")
+    if len(firstNames[firstName]) >= 2:
+        firstNameString = firstName + ": "
+        for person in firstNames[firstName]:
+            firstNameString = firstNameString + person + ", "
+        firstNameString = firstNameString[0:len(firstNameString)-2:]
+        firstNameFile.write(firstNameString + "\n")
 for lastName in lastNames.keys():
-    if lastNames[lastName] >= 2:
-        lastNameFile.write(lastName + ": " + str(lastNames[lastName]) + "\n")
+    if len(lastNames[lastName]) >= 2:
+        lastNameString = lastName + ": "
+        for person in lastNames[lastName]:
+            lastNameString = lastNameString + person + ", "
+        lastNameString = lastNameString[0:len(lastNameString)-2:]
+        lastNameFile.write(lastNameString + "\n")
 
 actors = {}
 for character in completedCharacters:
@@ -169,7 +183,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    actorSearch = "Billy Kametz"
+    actorSearch = "-----"
     if characterInfo[8] != "":
         characterActorList = characterInfo[8].split("|")
         for characterActor in characterActorList:
@@ -177,18 +191,48 @@ for character in completedCharacters:
                 print("Actor Match: " + characterInfo[0] + " (" + character + ")")
 
             try:
-                actors[characterActor]+=1
+                actors[characterActor].append(character)
             except:
-                actors[characterActor] = 1
+                actors[characterActor] = [character]
 
 actorPart2 = []
 for actor in actors.keys():
     actorPart2.append(actor)
 actorFile = open("Statistics\\Characters\\actors.txt", "w",encoding='utf8')
+actorFileByNumber = open("Statistics\\Characters\\actorsByNumbers.txt", "w",encoding='utf8')
+
 actorPart2.sort()
+
+highNumber = -1
+for characterList in actors.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+actorsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in actors.keys():
+        if len(actors[characterList]) == x:
+            try:
+                actorsByValues[x].append(characterList)
+            except:
+                actorsByValues[x] = [characterList]
+
 for actor in actorPart2:
-    if actors[actor] >= 2:
-        actorFile.write(actor + ": " + str(actors[actor]) + "\n")
+    if len(actors[actor]) >= 2:
+        actorString = actor + " (" + str(len(actors[actor])) + "): "
+        for character in actors[actor]:
+            actorString = actorString + character + ", "
+        actorString = actorString[0:len(actorString)-2:]
+        actorFile.write(actorString + "\n")
+
+for number in actorsByValues.keys():
+    for actorName in actorsByValues[number]:
+        if len(actors[actorName]) >= 2:
+            actorString = actorName + " (" + str(number) + "): "
+            for character in actors[actorName]:
+                actorString = actorString + character + ", "
+            actorString = actorString[0:len(actorString)-2:]
+            actorFileByNumber.write(actorString + "\n")
 
 years = {}
 decades = {}
@@ -211,13 +255,13 @@ for character in completedCharacters:
             print("Decades Search: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            years[characterYear]+=1
+            years[characterYear].append(character)
         except:
-            years[characterYear] = 1
+            years[characterYear] = [character]
         try:
-            decades[characterDecade]+=1
+            decades[characterDecade].append(character)
         except:
-            decades[characterDecade] = 1
+            decades[characterDecade] = [character]
 
 yearFile = open("Statistics\\Characters\\years.txt", "w",encoding='utf8')
 decadesFile = open("Statistics\\Characters\\decades.txt", "w",encoding='utf8')\
@@ -233,11 +277,19 @@ for decade in decades.keys():
 yearsPart2.sort()
 decadesPart2.sort()
 for year in yearsPart2:
-    if years[str(year)] >= 2:
-        yearFile.write(str(year) + ": " + str(years[str(year)]) + "\n")
+    if len(years[str(year)]) >= 2:
+        yearString = str(year) + " (" + str(len(years[str(year)])) + "): "
+        for character in years[str(year)]:
+            yearString = yearString + character + ", "
+        yearString = yearString[0:len(yearString)-2:]
+        yearFile.write(yearString + "\n")
 for decade in decadesPart2:
-    if decades[str(decade)] >= 2:
-        decadesFile.write(str(decade) + ": " + str(decades[str(decade)]) + "\n")
+    if len(decades[str(decade)]) >= 2:
+        decadeString = str(decade) + " (" + str(len(decades[str(decade)])) + "): "
+        for character in decades[str(decade)]:
+            decadeString = decadeString + character + ", "
+        decadeString = decadeString[0:len(decadeString)-2:]
+        decadesFile.write(decadeString + "\n")
 
 
 types = {}
@@ -256,18 +308,47 @@ for character in completedCharacters:
             print("Type Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            types[characterType]+=1
+            types[characterType].append(character)
         except:
-            types[characterType] = 1
+            types[characterType] = [character]
 
 typesPart2 = []
 for typeIt in types.keys():
     typesPart2.append(typeIt)
 typeFile = open("Statistics\\Characters\\types.txt", "w",encoding='utf8')
+typeFileByNumbers = open("Statistics\\Characters\\typesByNumbers.txt", "w",encoding='utf8')
+
 typesPart2.sort()
 for typeIt in typesPart2:
-    typeFile.write(typeIt + ": " + str(types[typeIt]) + "\n")
+    typeString = typeIt + " (" + str(len(types[typeIt])) + "): "
+    for typein in types[typeIt]:
+        typeString = typeString + typein + ", "
+    typeString = typeString[0:len(typeString)-2:]
+    typeFile.write(typeString + "\n")
 
+highNumber = -1
+for characterList in types.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+typesByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in types.keys():
+        if len(types[characterList]) == x:
+            try:
+                typesByValues[x].append(characterList)
+            except:
+                typesByValues[x] = [characterList]
+
+
+for number in typesByValues.keys():
+    for typeName in typesByValues[number]:
+        if len(types[typeName]) >= 2:
+            typeString = typeName + " (" + str(number) + "): "
+            for character in types[typeName]:
+                typeString = typeString + character + ", "
+            typeString = typeString[0:len(typeString)-2:]
+            typeFileByNumbers.write(typeString + "\n")
 races = {}
 for character in completedCharacters:
     firstLetter = character[0:1:]
@@ -558,7 +639,131 @@ for tag in tagsPart2:
 
 highestNum = 0
 for typeIt in typesPart2:
-    if types[typeIt] > highestNum and typeIt != "Superhero" and typeIt != "Fighter":
-        highestNum = types[typeIt]
+    if len(types[typeIt]) > highestNum and typeIt != "Superhero" and typeIt != "Fighter":
+        highestNum = len(types[typeIt])
+
+
+
+weirdFile = open("Statistics\\Completetion Rankings\\People\\weirdCharacters.txt", "w", encoding='utf8')
+updateFile = open("Statistics\\Completetion Rankings\\People\\needToUpdateCharacters.txt", "w", encoding='utf8')
+incompleteFile = open("Statistics\\Completetion Rankings\\People\\incompleteCharacters.txt", "w", encoding='utf8')
+completeFile = open("Statistics\\Completetion Rankings\\People\\completedCharacters.txt", "w", encoding='utf8')
+
+completedCharacters.sort()
+undoneCharacters.sort()
+needToUpdateCharacters.sort()
+weirdCharacters.sort()
+
+for character in completedCharacters:
+    completeFile.write(character + "\n")
+
+for character in undoneCharacters:
+    incompleteFile.write(character + "\n")
+for character in needToUpdateCharacters:
+    updateFile.write(character + "\n")
+for character in weirdCharacters:
+    weirdFile.write(character + "\n")
+
+weirdFile.close()
+updateFile.close()
+incompleteFile.close()
+completeFile.close()
+
+
+weirdFile = open("Statistics\\Completetion Rankings\\Franchises\\weirdFranchises.txt", "w", encoding='utf8')
+updateFile = open("Statistics\\Completetion Rankings\\Franchises\\needToUpdateFranchises.txt", "w", encoding='utf8')
+incompleteFile = open("Statistics\\Completetion Rankings\\Franchises\\incompleteFranchises.txt", "w", encoding='utf8')
+completeFile = open("Statistics\\Completetion Rankings\\Franchises\\completedFranchises.txt", "w", encoding='utf8')
+
+
+completedFranchises = []
+undoneFranchises = []
+needToUpdateFranchises = []
+weirdFranchises = []
+
+for letter in alphabet:
+    basepath = 'Franchises/' + letter
+    for entry in os.listdir(basepath):
+        if os.path.isfile(os.path.join(basepath, entry)):
+            franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
+            franchiseInfo = franchiseFile.read().split("\n")
+            if len(franchiseInfo) == 17:
+                completedFranchises.append(entry[0:len(entry)-4:])
+            else:
+                if len(franchiseInfo) == 7:
+                    needToUpdateFranchises.append(entry[0:len(entry)-4:])
+                else:
+                    if len(franchiseInfo) == 2:
+                        undoneFranchises.append(entry[0:len(entry)-4:])
+                    else:
+                        weirdFranchises.append(entry[0:len(entry)-4:])
+
+completedFranchises.sort()
+undoneFranchises.sort()
+needToUpdateFranchises.sort()
+weirdFranchises.sort()
+
+for franchise in weirdFranchises:
+    weirdFile.write(franchise + "\n")
+for franchise in needToUpdateFranchises:
+    updateFile.write(franchise + "\n")
+for franchise in undoneFranchises:
+    incompleteFile.write(franchise + "\n")
+for franchise in completedFranchises:
+    completeFile.write(franchise + "\n")
+
+weirdFile.close()
+updateFile.close()
+incompleteFile.close()
+completeFile.close()
+
+weirdFile = open("Statistics\\Completetion Rankings\\Artifacts\\weirdArtifacts.txt", "w", encoding='utf8')
+updateFile = open("Statistics\\Completetion Rankings\\Artifacts\\needToUpdateArtifacts.txt", "w", encoding='utf8')
+incompleteFile = open("Statistics\\Completetion Rankings\\Artifacts\\incompleteArtifacts.txt", "w", encoding='utf8')
+completeFile = open("Statistics\\Completetion Rankings\\Artifacts\\completedArtifacts.txt", "w", encoding='utf8')
+
+
+completedArtifacts = []
+undoneArtifacts = []
+needToUpdateArtifacts = []
+weirdArtifacts = []
+
+basepath = "Artifacts"
+for entry in os.listdir(basepath):
+    if os.path.isfile(os.path.join(basepath, entry)):
+        ArtifactsFile = open(basepath + "/" + entry, "r", encoding='utf8')
+        ArtifactsInfo = ArtifactsFile.read().split("\n")
+        if entry != "readMe.txt":
+            if len(ArtifactsInfo) == 14:
+                completedArtifacts.append(entry[0:len(entry)-4:])
+            else:
+                if len(ArtifactsInfo) == 0:
+                    needToUpdateArtifacts.append(entry[0:len(entry)-4:])
+                else:
+                    if len(ArtifactsInfo) == 9:
+                        undoneArtifacts.append(entry[0:len(entry)-4:])
+                    else:
+                        weirdArtifacts.append(entry[0:len(entry)-4:])
+
+completedArtifacts.sort()
+undoneArtifacts.sort()
+needToUpdateArtifacts.sort()
+weirdArtifacts.sort()
+
+for artifact in weirdArtifacts:
+    weirdFile.write(artifact + "\n")
+for artifact in needToUpdateArtifacts:
+    updateFile.write(artifact + "\n")
+for artifact in undoneArtifacts:
+    incompleteFile.write(artifact + "\n")
+for artifact in completedArtifacts:
+    completeFile.write(artifact + "\n")
+
+weirdFile.close()
+updateFile.close()
+incompleteFile.close()
+completeFile.close()
+
 print("High Number: " + str(highestNum))
 print("Completed!")
+

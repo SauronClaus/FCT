@@ -1,25 +1,25 @@
-4: 2
-6: 3
-10: 3
-11: 6
-12: 2
-14: 8
-15: 7
-16: 7
-17: 12
-18: 11
-19: 3
-20: 4
-21: 4
-22: 3
-24: 2
-25: 2
-27: 2
-28: 2
-29: 3
-30: 7
-32: 2
-35: 2
-41: 3
-45: 3
-115: 2
+4 (2): Abby Cadabby, Seth
+6 (3): Bean, Big Bird, Scout Finch
+10 (3): Ash Ketchum, Boun, Jem Finch
+11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
+12 (2): Amy Rose, Toph Beifong
+14 (8): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Sadie Kane, Zia Rashid
+15 (7): Brock, Carter Kane, Mai, Ruby Rose, Sokka, Sonic the Hedgehog, Sven
+16 (7): Alex Fierro, Annette, Araithia Shokta, Bolin, Leo Valdez, Magnus Chase, Zuko
+17 (12): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Edelgard, Korra, Weiss Schnee, Yang Xiao Long
+18 (11): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Fleur Delacour, Hilda, Percy Jackson
+19 (3): Leia Organa, Luke Skywalker, Rey
+20 (4): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert
+21 (4): Adora, Bill Weasley, Elsa, Kristoff
+22 (3): Aerith Gainsborough, Anakin Skywalker, Mercedes
+24 (2): Alyx, Artyom
+25 (2): Ashley Williams, Shamir
+27 (2): Captain Kirk, Catherine
+28 (2): Barry Allen, Chun-Li
+29 (3): Beth Johanssen, Captain George Pollard Jr., Kylo Ren
+30 (7): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Ken, Ryu, Sombra
+32 (2): C3PO, Han Solo
+35 (2): Barret Wallace, Obi-Wan Kenobi
+41 (3): Alan Wake, Arthur Weasley, Darth Vader
+45 (3): Alois, Captain Nemo, Medic
+115 (2): Albus Dumbledore, Kalathos Sunstrider

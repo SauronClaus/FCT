@@ -1,18 +1,18 @@
-Alan: 3
-Alex: 3
-Amy: 3
-Anakin: 2
-Anna: 2
-Arthur: 3
-Ashley: 2
-Barry: 3
-Bruce: 2
-Bill: 2
-Billy: 2
-Bowser: 2
-Brian: 2
-James: 4
-John: 2
-Carter: 2
-Kal: 3
-Ruby: 2
+Alan: Alan Bradley, Alan Scott, Alan Wake
+Alex: Alex DeLarge, Alex Fierro, Alex
+Amy: Amethyst, Amy Cahill, Amy Rose
+Anakin: Anakin Skywalker, Darth Vader
+Anna: Anna Croft, Anna
+Arthur: Aquaman, Arthur Holmwood, Arthur Weasley
+Ashley: Ashley Brown, Ashley Williams
+Barry: Barry Allen, Barry B. Benson, Barry Wheeler
+Bruce: Batman, Bruce Ng
+Bill: Bill Kerman, Bill Weasley
+Billy: Billy Pilgrim, Captain Marvel
+Bowser: Bowser Jr., Bowser
+Brian: Brian Robeson, Captain Britain
+James: Bucky Barnes, Captain Kirk, Jim Gordon, War Machine
+John: Captain John H. Miller, John Seward
+Carter: Carter Kane, Sadie Kane
+Kal: Kal-L, Superboy Prime, Superman
+Ruby: Ruby Rider, Ruby Rose

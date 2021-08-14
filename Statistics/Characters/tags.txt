@@ -315,7 +315,7 @@ Machine Hunter: 1
 Mage: 1
 Magic Entity: 5
 Magic Gunslinger: 1
-Magic User: 23
+Magic User: 24
 Magic Word: 3
 Magnet Powers: 1
 Manipulator: 4

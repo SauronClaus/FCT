@@ -1,261 +1,340 @@
 
 Avatar (TV Show):
-	-Avatar: The Last Airbender: 11
-	-The Legend of Korra: 3
-	-Total: 14
+	-Avatar: The Last Airbender (11/14): Aang, Azula, Iroh, Katara, Mai, Ozai, Sokka, Suki, Toph Beifong, Ty Lee, Zuko
+	-The Legend of Korra (3/14): Asami Sato, Bolin, Korra
+	-All  (14/300): Aang, Asami Sato, Azula, Bolin, Iroh, Katara, Korra, Mai, Ozai, Sokka, Suki, Toph Beifong, Ty Lee, Zuko
+
 Sesame Street:
-	-Sesame Street: 4
-	-Total: 4
+	-Sesame Street (4/4): Abby Cadabby, Bert, Big Bird, Ernie
+	-All  (4/300): Abby Cadabby, Bert, Big Bird, Ernie
+
 Stardew Valley:
-	-Stardew Valley: 2
-	-Total: 2
+	-Stardew Valley (2/2): Abigail, Alex
+	-All  (2/300): Abigail, Alex
+
 Dracula Hunters:
-	-Dracula: 1
-	-Total: 1
+	-Dracula (1/1): Abraham Van Helsing
+	-All  (1/300): Abraham Van Helsing
+
 Marvel:
-	-Marvel Comics: 39
-	-MCU: 1
-	-Total: 40
+	-Marvel Comics (39/40): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Banshee, Beast, Bentley-23, Black Panther, Black Widow, Blink, Blue Marvel, Bucky Barnes, Cannonball, Captain America, Captain Britain, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Loki, Magneto, Nadia van Dyne, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Thor, Ultron, Vision, Viv Vision, War Machine
+	-MCU (1/40): Baron Zemo
+	-All  (40/300): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Banshee, Baron Zemo, Beast, Bentley-23, Black Panther, Black Widow, Blink, Blue Marvel, Bucky Barnes, Cannonball, Captain America, Captain Britain, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Loki, Magneto, Nadia van Dyne, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Thor, Ultron, Vision, Viv Vision, War Machine
+
 He-Man:
-	-She-Ra and the Princesses of Power: 4
-	-Total: 4
+	-She-Ra and the Princesses of Power (4/4): Adora, Bow, Catra, Glimmer
+	-All  (4/300): Adora, Bow, Catra, Glimmer
+
 Monk:
-	-Monk: 1
-	-Total: 1
+	-Monk (1/1): Adrian Monk
+	-All  (1/300): Adrian Monk
+
 Final Fantasy:
-	-Final Fantasy VII: 2
-	-Total: 2
+	-Final Fantasy VII (2/2): Aerith Gainsborough, Barret Wallace
+	-All  (2/300): Aerith Gainsborough, Barret Wallace
+
 Minority Report:
-	-Minority Report: 1
-	-Total: 1
+	-Minority Report (1/1): Agatha
+	-All  (1/300): Agatha
+
 Star Wars:
-	-The Clone Wars: 1
-	-Star Wars: The Clone Wars: 3
-	-Star Wars Sequel Trilogy: 3
-	-Star Wars Original Trilogy: 6
-	-Fallen Order: 1
-	-Star Wars (Original Trilogy): 1
-	-Star Wars: 1
-	-Star Wars Prequel Trilogy: 1
-	-Total: 17
+	-The Clone Wars (1/17): Ahsoka Tano
+	-Star Wars: The Clone Wars (3/17): Anakin Skywalker, Obi-Wan Kenobi, Yoda
+	-Star Wars Sequel Trilogy (3/17): BB-8, Kylo Ren, Rey
+	-Star Wars Original Trilogy (6/17): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, R2-D2
+	-Fallen Order (1/17): Cal Kestis
+	-Star Wars (Original Trilogy) (1/17): Darth Vader
+	-Star Wars (1/17): Mace Windu
+	-Star Wars Prequel Trilogy (1/17): Qui-Gon Jinn
+	-All  (17/300): Ahsoka Tano, Anakin Skywalker, BB-8, C3PO, Cal Kestis, Chewbacca, Darth Vader, Han Solo, Kylo Ren, Leia Organa, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, R2-D2, Rey, Yoda
+
 Ready Player One:
-	-Ready Player One: 1
-	-Total: 1
+	-Ready Player One (1/1): Akihide Karatsu
+	-All  (1/300): Akihide Karatsu
+
 Band of Fools:
-	-Band of Fools Original: 8
-	-Band of Fools Reboot: 1
-	-Total: 9
+	-Band of Fools Original (8/9): Akkar, Arthail Consumer of Food, Byllemura Ruby-Eye, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
+	-Band of Fools Reboot (1/9): Arthas Menethil
+	-All  (9/300): Akkar, Arthail Consumer of Food, Arthas Menethil, Byllemura Ruby-Eye, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
+
 Street Fighter:
-	-Street Fighter: 6
-	-Total: 6
+	-Street Fighter (6/6): Akuma, Chun-Li, Ken, M. Bison, Ryu, Seth
+	-All  (6/300): Akuma, Chun-Li, Ken, M. Bison, Ryu, Seth
+
 Tron:
-	-Tron: 1
-	-Total: 1
+	-Tron (1/1): Alan Bradley
+	-All  (1/300): Alan Bradley
+
 DC Comics:
-	-DC Comics: 3
-	-Suicide Squad: 1
-	-Total: 4
+	-DC Comics (3/4): Alan Scott, Alfred Pennyworth, Amethyst
+	-Suicide Squad (1/4): Amanda Waller
+	-All  (4/300): Alan Scott, Alfred Pennyworth, Amanda Waller, Amethyst
+
 Alan Wake:
-	-Alan Wake: 2
-	-Total: 2
+	-Alan Wake (2/2): Alan Wake, Barry Wheeler
+	-All  (2/300): Alan Wake, Barry Wheeler
+
 Harry Potter:
-	-Harry Potter: 9
-	-Total: 9
+	-Harry Potter (9/9): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Lord Voldemort, Ron Weasley
+	-All  (9/300): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Lord Voldemort, Ron Weasley
+
 A Clockwork Orange:
-	-A Clockwork Orange: 1
-	-Total: 1
+	-A Clockwork Orange (1/1): Alex DeLarge
+	-All  (1/300): Alex DeLarge
+
 Percy Jackson and the Olympians:
-	-Magnus Chase: 4
-	-Kane Chronicles: 5
-	-Percy Jackson: 5
-	-Total: 14
+	-Magnus Chase (4/14): Alex Fierro, Blitzen, Hearthstone, Magnus Chase
+	-Kane Chronicles (5/14): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+	-Percy Jackson (5/14): Annabeth Chase, Apollo, Calypso, Leo Valdez, Percy Jackson
+	-All  (14/300): Alex Fierro, Amos Kane, Annabeth Chase, Apollo, Blitzen, Calypso, Carter Kane, Hearthstone, Leo Valdez, Magnus Chase, Percy Jackson, Sadie Kane, Walt Stone, Zia Rashid
+
 DC:
-	-DC Comics: 27
-	-Suicide Squad: 1
-	-Total: 28
+	-DC Comics (27/28): Alexander Luthor Jr., Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning, Booster Gold, Brainiac 5, Captain Marvel Jr., Captain Marvel, Green Arrow, Harbringer, Iris West, Jay Garrick, Jim Gordon, Kal-L, Mary Marvel, Pariah, Superboy Prime, Supergirl, Superman, Ted Kord, Wally West
+	-Suicide Squad (1/28): Captain Boomerang
+	-All  (28/300): Alexander Luthor Jr., Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning, Booster Gold, Brainiac 5, Captain Boomerang, Captain Marvel Jr., Captain Marvel, Green Arrow, Harbringer, Iris West, Jay Garrick, Jim Gordon, Kal-L, Mary Marvel, Pariah, Superboy Prime, Supergirl, Superman, Ted Kord, Wally West
+
 A Nightmare on Elm Street:
-	-A Nightmare on Elm Street: 1
-	-Total: 1
+	-A Nightmare on Elm Street (1/1): Alice Johnson
+	-All  (1/300): Alice Johnson
+
 Eureka:
-	-Eureka: 1
-	-Total: 1
+	-Eureka (1/1): Allison Blake
+	-All  (1/300): Allison Blake
+
 Fans!:
-	-Fans!: 3
-	-Total: 3
+	-Fans! (3/3): Ally, Rikk, Rumy
+	-All  (3/300): Ally, Rikk, Rumy
+
 Fire Emblem:
-	-Fire Emblem: Three Houses: 17
-	-Total: 17
+	-Fire Emblem: Three Houses (17/17): Alois, Annette, Bernadetta, Byleth, Catherine, Claude, Dedue, Dimitri, Edelgard, Flayn, Hilda, Hubert, Mercedes, Rhea, Seteth, Shamir, Sothis
+	-All  (17/300): Alois, Annette, Bernadetta, Byleth, Catherine, Claude, Dedue, Dimitri, Edelgard, Flayn, Hilda, Hubert, Mercedes, Rhea, Seteth, Shamir, Sothis
+
 Horizon Zero Dawn:
-	-Horizon Zero Dawn: 1
-	-Total: 1
+	-Horizon Zero Dawn (1/1): Aloy
+	-All  (1/300): Aloy
+
 Castlevania:
-	-Castlevania: 1
-	-Total: 1
+	-Castlevania (1/1): Alucard
+	-All  (1/300): Alucard
+
 Half-Life:
-	-Half-Life: 1
-	-Total: 1
+	-Half-Life (1/1): Alyx
+	-All  (1/300): Alyx
+
 Borderlands:
-	-Borderlands 3: 1
-	-Borderlands 2: 1
-	-Borderlands 1: 1
-	-Total: 3
+	-Borderlands 3 (1/3): Amara
+	-Borderlands 2 (1/3): Axton
+	-Borderlands 1 (1/3): Brick
+	-All  (3/300): Amara, Axton, Brick
+
 Walkyverse:
-	-Shortpacked: 1
-	-Total: 1
+	-Shortpacked (1/1): Amazi-Girl
+	-All  (1/300): Amazi-Girl
+
 39 Clues:
-	-39 Clues: 1
-	-Total: 1
+	-39 Clues (1/1): Amy Cahill
+	-All  (1/300): Amy Cahill
+
 Tacoma:
-	-Tacoma: 1
-	-Total: 1
+	-Tacoma (1/1): Amy Ferrier
+	-All  (1/300): Amy Ferrier
+
 Sonic the Hedgehog:
-	-Sonic: 5
-	-Total: 5
+	-Sonic (5/5): Amy Rose, Big the Cat, Blaze the Cat, Doctor Eggman, Sonic the Hedgehog
+	-All  (5/300): Amy Rose, Big the Cat, Blaze the Cat, Doctor Eggman, Sonic the Hedgehog
+
 Marvel Comics:
-	-Marvel Comics: 5
-	-Avengers: 1
-	-Total: 6
+	-Marvel Comics (5/6): Angel, Anole, Armor, Aurora, Northstar
+	-Avengers (1/6): Thanos
+	-All  (6/300): Angel, Anole, Armor, Aurora, Northstar, Thanos
+
 The Muppets:
-	-The Muppets: 3
-	-Total: 3
+	-The Muppets (3/3): Animal, Beaker, Dr. Bunsen Honeydew
+	-All  (3/300): Animal, Beaker, Dr. Bunsen Honeydew
+
 Persona:
-	-Persona 5: 1
-	-Total: 1
+	-Persona 5 (1/1): Ann Takamaki
+	-All  (1/300): Ann Takamaki
+
 Omniscient Reader's Viewpoint:
-	-Omniscient Reader's Viewpoint: 1
-	-Total: 1
+	-Omniscient Reader's Viewpoint (1/1): Anna Croft
+	-All  (1/300): Anna Croft
+
 Frozen:
-	-Frozen: 5
-	-Total: 5
+	-Frozen (5/5): Anna, Elsa, Kristoff, Olaf, Sven
+	-All  (5/300): Anna, Elsa, Kristoff, Olaf, Sven
+
 The Martian:
-	-The Martian: 4
-	-Total: 4
+	-The Martian (4/4): Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck
+	-All  (4/300): Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck
+
 No Country for Old Men:
-	-No Country for Old Men: 1
-	-Total: 1
+	-No Country for Old Men (1/1): Anton Chigurh
+	-All  (1/300): Anton Chigurh
+
 League of Legends:
-	-League of Legends: 1
-	-Total: 1
+	-League of Legends (1/1): Aphelios
+	-All  (1/300): Aphelios
+
 My Little Pony:
-	-My Little Pony: Friendship is Magic: 1
-	-Total: 1
+	-My Little Pony: Friendship is Magic (1/1): Applejack
+	-All  (1/300): Applejack
+
 Lord of the Rings:
-	-Lord of the Rings: 3
-	-The Hobbit: 3
-	-Total: 6
+	-Lord of the Rings (3/6): Aragorn, Arwen, Boromir
+	-The Hobbit (3/6): Bard the Bowman, Bilbo Baggins, Smaug
+	-All  (6/300): Aragorn, Arwen, Bard the Bowman, Bilbo Baggins, Boromir, Smaug
+
 Magic: The Gathering:
-	-Magic: The Gathering: 1
-	-Total: 1
+	-Magic: The Gathering (1/1): Araithia Shokta
+	-All  (1/300): Araithia Shokta
+
 Dracula:
-	-Dracula: 6
-	-Total: 6
+	-Dracula (6/6): Arthur Holmwood, Dracula, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+	-All  (6/300): Arthur Holmwood, Dracula, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+
 Metro:
-	-Metro: 1
-	-Total: 1
+	-Metro (1/1): Artyom
+	-All  (1/300): Artyom
+
 Eragon:
-	-Eragon: 2
-	-Total: 2
+	-Eragon (2/2): Arya, Brom
+	-All  (2/300): Arya, Brom
+
 Pokemon:
-	-Pokemon Anime: 1
-	-Pokemon: 3
-	-Total: 4
+	-Pokemon Anime (1/4): Ash Ketchum
+	-Pokemon (3/4): Blue, Brock, Red (Pokemon)
+	-All  (4/300): Ash Ketchum, Blue, Brock, Red (Pokemon)
+
 Until Dawn:
-	-Until Dawn: 1
-	-Total: 1
+	-Until Dawn (1/1): Ashley Brown
+	-All  (1/300): Ashley Brown
+
 Mass Effect:
-	-Mass Effect: 1
-	-Total: 1
+	-Mass Effect (1/1): Ashley Williams
+	-All  (1/300): Ashley Williams
+
 God of War:
-	-God of War: 3
-	-Total: 3
+	-God of War (3/3): Athena, Atreus, Kratos
+	-All  (3/300): Athena, Atreus, Kratos
+
 To Kill a Mockingbird:
-	-To Kill a Mockingbird: 3
-	-Total: 3
+	-To Kill a Mockingbird (3/3): Atticus Finch, Jem Finch, Scout Finch
+	-All  (3/300): Atticus Finch, Jem Finch, Scout Finch
+
 Atlantis: The Lost Empire:
-	-Atlantis: The Lost Empire: 1
-	-Total: 1
+	-Atlantis: The Lost Empire (1/1): Audrey Ramirez
+	-All  (1/300): Audrey Ramirez
+
 The Backyardigans:
-	-The Backyardigans: 1
-	-Total: 1
+	-The Backyardigans (1/1): Austin
+	-All  (1/300): Austin
+
 Phineas and Ferb:
-	-Phineas & Ferb: 3
-	-Total: 3
+	-Phineas & Ferb (3/3): Baljeet Tjinder, Buford Van Stomm, Candace Flynn
+	-All  (3/300): Baljeet Tjinder, Buford Van Stomm, Candace Flynn
+
 Banjo & Kazooie:
-	-Banjo & Kazooie: 2
-	-Total: 2
+	-Banjo & Kazooie (2/2): Banjo, Kazooie
+	-All  (2/300): Banjo, Kazooie
+
 The Bee Movie:
-	-The Bee Movie: 1
-	-Total: 1
+	-The Bee Movie (1/1): Barry B. Benson
+	-All  (1/300): Barry B. Benson
+
 Overwatch:
-	-Overwatch: 2
-	-Total: 2
+	-Overwatch (2/2): Bastion, Sombra
+	-All  (2/300): Bastion, Sombra
+
 Bayonetta:
-	-Bayonetta: 1
-	-Total: 1
+	-Bayonetta (1/1): Bayonetta
+	-All  (1/300): Bayonetta
+
 Ender's Game:
-	-Ender's Game: 1
-	-Total: 1
+	-Ender's Game (1/1): Bean
+	-All  (1/300): Bean
+
 Kerbal Space Program:
-	-Kerbal Space Program: 2
-	-Total: 2
+	-Kerbal Space Program (2/2): Bill Kerman, Bob Kerman
+	-All  (2/300): Bill Kerman, Bob Kerman
+
 Slaughterhouse-Five:
-	-Slaughterhouse-Five: 1
-	-Total: 1
+	-Slaughterhouse-Five (1/1): Billy Pilgrim
+	-All  (1/300): Billy Pilgrim
+
 RWBY:
-	-RWBY: 4
-	-Total: 4
+	-RWBY (4/4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+	-All  (4/300): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+
 Bone:
-	-Bone: 7
-	-Total: 7
+	-Bone (7/7): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+	-All  (7/300): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+
 Mario:
-	-Paper Mario: 1
-	-Mario: 7
-	-Total: 8
+	-Paper Mario (1/8): Bobby
+	-Mario (7/8): Bowser Jr., Bowser, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina
+	-All  (8/300): Bobby, Bowser Jr., Bowser, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina
+
 Raya and the Last Dragon:
-	-Raya and the Last Dragon: 1
-	-Total: 1
+	-Raya and the Last Dragon (1/1): Boun
+	-All  (1/300): Boun
+
 Valorant:
-	-Valorant: 2
-	-Total: 2
+	-Valorant (2/2): Breach, Brimstone
+	-All  (2/300): Breach, Brimstone
+
 Hatchet:
-	-Hatchet: 1
-	-Total: 1
+	-Hatchet (1/1): Brian Robeson
+	-All  (1/300): Brian Robeson
+
 One Piece:
-	-One Piece: 1
-	-Total: 1
+	-One Piece (1/1): Brook
+	-All  (1/300): Brook
+
 Jojo's Bizarre Adventure:
-	-JoJo's Bizarre Adventure: Battle Tendency: 1
-	-Total: 1
+	-JoJo's Bizarre Adventure: Battle Tendency (1/1): Caesar Anthonio Zeppeli
+	-All  (1/300): Caesar Anthonio Zeppeli
+
 Moby Dick:
-	-Moby Dick: 1
-	-Total: 1
+	-Moby Dick (1/1): Captain Ahab
+	-All  (1/300): Captain Ahab
+
 F-Zero:
-	-F-Zero: 1
-	-Total: 1
+	-F-Zero (1/1): Captain Falcon
+	-All  (1/300): Captain Falcon
+
 In the Heart of the Sea:
-	-In the Heart of the Sea: 1
-	-Total: 1
+	-In the Heart of the Sea (1/1): Captain George Pollard Jr.
+	-All  (1/300): Captain George Pollard Jr.
+
 Saving Private Ryan:
-	-Saving Private Ryan: 1
-	-Total: 1
+	-Saving Private Ryan (1/1): Captain John H. Miller
+	-All  (1/300): Captain John H. Miller
+
 Star Trek:
-	-Star Trek: The Original Series: 1
-	-Total: 1
+	-Star Trek: The Original Series (1/1): Captain Kirk
+	-All  (1/300): Captain Kirk
+
 Twenty Thousand Leagues Under the Sea:
-	-Twenty Thousand Leagues Under the Sea: 1
-	-Total: 1
+	-Twenty Thousand Leagues Under the Sea (1/1): Captain Nemo
+	-All  (1/300): Captain Nemo
+
 Spy Kids:
-	-Spy Kids: 2
-	-Total: 2
+	-Spy Kids (2/2): Carmen Cortez, Juni Cortez
+	-All  (2/300): Carmen Cortez, Juni Cortez
+
 Kindred:
-	-Kindred: 1
-	-Total: 1
+	-Kindred (1/1): Dana Franklin
+	-All  (1/300): Dana Franklin
+
 Don't Starve:
-	-Don't Starve: 1
-	-Total: 1
+	-Don't Starve (1/1): Maxwell
+	-All  (1/300): Maxwell
+
 Team Fortress:
-	-Team Fortress 2: 1
-	-Total: 1
+	-Team Fortress 2 (1/1): Medic
+	-All  (1/300): Medic
+
 Mortal Kombat:
-	-Mortal Kombat: 1
-	-Total: 1
+	-Mortal Kombat (1/1): Scorpion
+	-All  (1/300): Scorpion

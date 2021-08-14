@@ -1,0 +1,33 @@
+Superhero (63): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Cassie Lang, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine
+Fighter (16): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya, Banjo, Boromir, Chun-Li, Glimmer, Kazooie, Ken, Rikk, Rumy, Ryu
+Wizard (14): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hearthstone, Hermione Granger, Lord Voldemort, Ron Weasley
+Adventurer (13): Bilbo Baggins, Blitzen, Bobby, Calypso, Fone Bone, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Nahara, Olaf, Smiley Bone
+Soldier (12): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Leia Organa, Mai, Shamir, Suki, Ty Lee
+Civilian (10): Bert, Big Bird, Candace Flynn, Dana Franklin, Ernie, Jem Finch, Jonathan Harker, Mina Harker, Quincey Morris, Scout Finch
+Bender (8): Aang, Azula, Bolin, Iroh, Katara, Korra, Toph Beifong, Zuko
+Jedi (7): Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
+Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
+Princess (5): Anna, Princess Daisy, Princess Peach, Rosalina, Thorn Harvestar
+Warrior (5): Hilda, Kratos, Magnus Chase, Percy Jackson, Sokka
+Pokemon Trainer (4): Ash Ketchum, Blue, Brock, Red (Pokemon)
+Archer (4): Atreus, Bernadetta, Bow, Claude
+Explorer (4): Bastion, Captain Nemo, Kristoff, Sven
+Astronaut (4): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck
+Huntress (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+Inventor (3): Doctor Eggman, Dr. Bunsen Honeydew, Leo Valdez
+Baseline Human (2): Abigail, Alex
+Precog (2): Agatha, Anna Croft
+Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
+Ranger (2): Akkar, Aloy
+Martial Artist (2): Akuma, Caesar Anthonio Zeppeli
+Rogue (2): Alex Fierro, Araithia Shokta
+Federal Agent (2): Allison Blake, Annie Montrose
+Knight (2): Alois, Catherine
+Musician (2): Animal, Brook
+God (2): Apollo, Athena
+Astromech Droid (2): BB-8, R2-D2
+Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Secret Agent (2): Carmen Cortez, Juni Cortez
+Smuggler (2): Chewbacca, Han Solo
+Queen (2): Elsa, Gran'ma Ben

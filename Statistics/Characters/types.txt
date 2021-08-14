@@ -1,117 +1,117 @@
-Adventurer: 13
-Archbishop: 1
-Archer: 4
-Artificer: 1
-Assassin: 1
-Astral Punching: 1
-Astromech Droid: 2
-Astronaut: 4
-Average Guy: 1
-Barbarian: 1
-Baseline Human: 2
-Bender: 8
-Berserker: 1
-Bishop: 1
-Bodyguard: 1
-Bully: 1
-Businesswoman: 1
-Butler: 1
-Captain: 1
-Castaway: 1
-Chef: 1
-Child: 1
-Chosen One: 1
-Civilian: 10
-Cleric: 1
-Conman: 1
-Dark Mage: 1
-Death Knight: 1
-Detective: 1
-Dictator: 1
-Director: 1
-Doctor: 1
-Dragon: 1
-Dragon Rider: 1
-Dreamer: 1
-Emperor: 1
-Empress: 1
-Engineer: 1
-Evil King: 1
-Evil Prince: 1
-Explorer: 4
-Farmer: 1
-Federal Agent: 2
-Fighter: 16
-Fisherman: 1
-God: 2
-Goddess: 1
-Government Agent: 1
-Guardian: 1
-Hacker: 1
-Hero: 1
-Hitman: 1
-Hooligan: 1
-Horror Game Character: 1
-Huntress: 4
-Inventor: 3
-Jedi: 7
-Jedi Knight: 2
-Knight: 2
-Lab Assistant: 1
-Lawyer: 1
-Literary Agent: 1
-Martial Artist: 2
-Mastermind: 1
-Medic: 1
-Minion: 2
-Monster Hunter: 1
-Musician: 2
-Naval Captain: 1
-Nerd: 1
-Ninja: 1
-Nobility: 1
-Operative: 1
-Phantom Thief: 1
-Pokemon Trainer: 4
-Police Officer: 1
-Post-Apocalypse Survivor: 1
-Precog: 2
-Prince: 1
-Princess: 5
-Princess Warrior: 1
-Programmer: 1
-Protocol Droid: 1
-Puppet Master: 1
-Queen: 2
-Racer: 1
-Ranger: 2
-Rebel Leader: 1
-Reporter: 1
-Rich Guy: 1
-Rogue: 2
-Saintess: 1
-Secret Agent: 2
-Sith: 1
-Sith Lord: 1
-Smuggler: 2
-Soldier: 12
-Sorcerer: 4
-Space Captain: 1
-Strategist: 1
-Super Hero: 1
-Super Villain: 1
-Superhero: 63
-Supervillain: 6
-Teenager: 1
-Time Traveler: 1
-Titan: 1
-Town Guard: 1
-Vampire Hunter: 1
-Vampire Lord: 1
-Wanderer: 1
-Warlock: 1
-Warrior: 5
-Witch: 1
-Wizard: 14
-World Destroyer: 1
-Writer: 1
+Adventurer (13): Bilbo Baggins, Blitzen, Bobby, Calypso, Fone Bone, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Nahara, Olaf, Smiley Bone
+Archbishop (1): Rhea
+Archer (4): Atreus, Bernadetta, Bow, Claude
+Artificer (1): Byllemura Ruby-Eye
+Assassin (1): Aphelios
+Astral Punching (1): Amara
+Astromech Droid (2): BB-8, R2-D2
+Astronaut (4): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck
+Average Guy (1): Barry B. Benson
+Barbarian (1): Arthail Consumer of Food
+Baseline Human (2): Abigail, Alex
+Bender (8): Aang, Azula, Bolin, Iroh, Katara, Korra, Toph Beifong, Zuko
+Berserker (1): Brick
+Bishop (1): Seteth
+Bodyguard (1): Dedue
+Bully (1): Buford Van Stomm
+Businesswoman (1): Asami Sato
+Butler (1): Alfred Pennyworth
+Captain (1): Captain Ahab
+Castaway (1): Brian Robeson
+Chef (1): Boun
+Child (1): Austin
+Chosen One (1): Byleth
+Civilian (10): Bert, Big Bird, Candace Flynn, Dana Franklin, Ernie, Jem Finch, Jonathan Harker, Mina Harker, Quincey Morris, Scout Finch
+Cleric (1): Mercedes
+Conman (1): Phoney Bone
+Dark Mage (1): Hubert
+Death Knight (1): Arthas Menethil
+Detective (1): Adrian Monk
+Dictator (1): M. Bison
+Director (1): Bruce Ng
+Doctor (1): John Seward
+Dragon (1): Smaug
+Dragon Rider (1): Brom
+Dreamer (1): Alice Johnson
+Emperor (1): Ozai
+Empress (1): Edelgard
+Engineer (1): Audrey Ramirez
+Evil King (1): Bowser
+Evil Prince (1): Bowser Jr.
+Explorer (4): Bastion, Captain Nemo, Kristoff, Sven
+Farmer (1): Applejack
+Federal Agent (2): Allison Blake, Annie Montrose
+Fighter (16): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya, Banjo, Boromir, Chun-Li, Glimmer, Kazooie, Ken, Rikk, Rumy, Ryu
+Fisherman (1): Big the Cat
+God (2): Apollo, Athena
+Goddess (1): Sothis
+Government Agent (1): Amanda Waller
+Guardian (1): Blaze the Cat
+Hacker (1): Sombra
+Hero (1): Sonic the Hedgehog
+Hitman (1): Anton Chigurh
+Hooligan (1): Alex DeLarge
+Horror Game Character (1): Ashley Brown
+Huntress (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+Inventor (3): Doctor Eggman, Dr. Bunsen Honeydew, Leo Valdez
+Jedi (7): Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
+Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
+Knight (2): Alois, Catherine
+Lab Assistant (1): Beaker
+Lawyer (1): Atticus Finch
+Literary Agent (1): Barry Wheeler
+Martial Artist (2): Akuma, Caesar Anthonio Zeppeli
+Mastermind (1): Seth
+Medic (1): Medic
+Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Monster Hunter (1): Alucard
+Musician (2): Animal, Brook
+Naval Captain (1): Captain George Pollard Jr.
+Nerd (1): Baljeet Tjinder
+Ninja (1): Scorpion
+Nobility (1): Arwen
+Operative (1): Amy Ferrier
+Phantom Thief (1): Ann Takamaki
+Pokemon Trainer (4): Ash Ketchum, Blue, Brock, Red (Pokemon)
+Police Officer (1): Jim Gordon
+Post-Apocalypse Survivor (1): Artyom
+Precog (2): Agatha, Anna Croft
+Prince (1): Dimitri
+Princess (5): Anna, Princess Daisy, Princess Peach, Rosalina, Thorn Harvestar
+Princess Warrior (1): Amethyst
+Programmer (1): Alan Bradley
+Protocol Droid (1): C3PO
+Puppet Master (1): Maxwell
+Queen (2): Elsa, Gran'ma Ben
+Racer (1): Captain Falcon
+Ranger (2): Akkar, Aloy
+Rebel Leader (1): Barret Wallace
+Reporter (1): Iris West
+Rich Guy (1): Arthur Holmwood
+Rogue (2): Alex Fierro, Araithia Shokta
+Saintess (1): Flayn
+Secret Agent (2): Carmen Cortez, Juni Cortez
+Sith (1): Kylo Ren
+Sith Lord (1): Darth Vader
+Smuggler (2): Chewbacca, Han Solo
+Soldier (12): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Leia Organa, Mai, Shamir, Suki, Ty Lee
+Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+Space Captain (1): Captain Kirk
+Strategist (1): Bean
+Super Hero (1): Bucky Barnes
+Super Villain (1): Captain Boomerang
+Superhero (63): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Cassie Lang, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine
+Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
+Teenager (1): Amy Cahill
+Time Traveler (1): Billy Pilgrim
+Titan (1): Thanos
+Town Guard (1): Bard the Bowman
+Vampire Hunter (1): Abraham Van Helsing
+Vampire Lord (1): Dracula
+Wanderer (1): Pariah
+Warlock (1): Ruby Rider
+Warrior (5): Hilda, Kratos, Magnus Chase, Percy Jackson, Sokka
+Witch (1): Bayonetta
+Wizard (14): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hearthstone, Hermione Granger, Lord Voldemort, Ron Weasley
+World Destroyer (1): Anti-Monitor
+Writer (1): Alan Wake
