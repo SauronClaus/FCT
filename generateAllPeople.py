@@ -32,7 +32,6 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
         print("<" + person + ">")
 
         if person != "":
-            print(str(people[person]))
             groupsPerson = people[person][18].split(",")
             for group in groupsPerson:
                 if not(group in groupsCanReplace) and group != "":
@@ -150,7 +149,6 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                         if groupRemove != group:
                             newlyInvalidGroups.append(groupRemove)
                             print("Removed " + groupRemove + " from " + person + ". (default group); remaing groups " + str(reverseFranchiseGroups[person]))
-                            #print("Removed " + groupRemove + " from " + personRemoval)      
                     for personGroupsRemove in franchiseGroups[group]:
                             for personsGroup in reverseFranchiseGroups[personGroupsRemove]:
                                 if personsGroup != group:
@@ -264,7 +262,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                 RNGRandomSwapper = random.randint(1,100)
 
                 if RNGRandomSwapper <= 5:
-                    print("Replacing " + person + " with full random")
+                    #print("Replacing " + person + " with full random")
 
                     RNG = random.randint(0,len(people)-1)
                     peopleList = []
@@ -277,7 +275,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
                 if RNGRandomSwapper > 5 and RNGRandomSwapper <= 35:
-                    print("Replacing " + person + " with tags.")
+                    #print("Replacing " + person + " with tags.")
                     #Occasionally adds a seocnd person when group tags.
                     rawTagList = people[person][15].split(",")
                     duoTagList = {}
@@ -414,7 +412,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                     #if escapeCharacter != ":)":
                         #print("Tags failed (" + tagName + " had no matches.)")
                 if RNGRandomSwapper > 35 and RNGRandomSwapper <= 42:
-                    print("Replacing " + person + " with names.")
+                    #print("Replacing " + person + " with names.")
 
                     namesChecked = ["First", "Last", "Aliases"]
                     subCharacter = "None"
@@ -513,7 +511,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                     else:
                         print("Names were an ultimate failure.")
                 if RNGRandomSwapper > 42 and RNGRandomSwapper <= 49:
-                    print("Replacing " + person + " with actors.")
+                    #print("Replacing " + person + " with actors.")
 
                     actors = people[person][8].split("|")
                     actorSharers = []
@@ -555,7 +553,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                     else:
                         print("Actors were an ultimate failure.")
                 if RNGRandomSwapper > 49 and RNGRandomSwapper <= 56:
-                    print("Replacing " + person + " with type/occupation.")
+                    #print("Replacing " + person + " with type/occupation.")
                     
                     role = people[person][10]
                     if role != "":
@@ -581,7 +579,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
                 if RNGRandomSwapper > 56 and RNGRandomSwapper <= 63:
-                    print("Replacing " + person + " with role.")
+                    #print("Replacing " + person + " with role.")
                     
                     role = people[person][13]
                     if role != "":
@@ -607,7 +605,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
                 if RNGRandomSwapper > 63 and RNGRandomSwapper <= 70:
-                    print("Replacing " + person + " with alignment.")
+                    #print("Replacing " + person + " with alignment.")
                     
                     alignment = people[person][12]
                     if alignment != "":
@@ -633,7 +631,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
                 if RNGRandomSwapper > 70 and RNGRandomSwapper <= 77:
-                    print("Replacing " + person + " with gender.")
+                    #print("Replacing " + person + " with gender.")
                     
                     gender = people[person][14]
                     if gender != "":
@@ -659,7 +657,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
                 if RNGRandomSwapper > 77 and RNGRandomSwapper <= 84:
-                    print("Replacing " + person + " with race.")
+                    #print("Replacing " + person + " with race.")
                     
                     race = people[person][11]
                     if race != "":
@@ -685,7 +683,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
                 if RNGRandomSwapper > 84 and RNGRandomSwapper <= 91:
-                    print("Replacing " + person + " with medium.")
+                    #print("Replacing " + person + " with medium.")
 
                     mediums = people[person][20].split(",")
                     mediumSharers = []
@@ -726,7 +724,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                     else:
                         print("Mediums were an ultimate failure.")
                 if RNGRandomSwapper > 91 and RNGRandomSwapper <= 98:
-                    print("Replacing " + person + " with age.")
+                    #print("Replacing " + person + " with age.")
                     namesChecked = ["Years", "Decades"]
                     subCharacter = "None"
                     ageShared = ""
@@ -802,7 +800,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters):
                     else:
                         print("Ages were an ultimate failure.")
                 if RNGRandomSwapper > 98:
-                    print(person + " stays the same")
+                    #print(person + " stays the same")
 
                     charactersReplacement[person] = person
                     print("Not subbing " + charactersReplacement[person] + " for " + person + " (no change)")

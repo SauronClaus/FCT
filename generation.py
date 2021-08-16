@@ -21,9 +21,9 @@ def generate():
                     franchiseInfo = franchiseFile.read().split("\n")
                     if len(franchiseInfo) == 17:
                         franchises.append(entry[0:len(entry)-4:])
-                        if franchiseInfo[14] == "Medium" or franchiseInfo[14] == "High":
+                        if franchiseInfo[15] == "Medium" or franchiseInfo[15] == "High":
                             franchises.append(entry[0:len(entry)-4:])
-                        if franchiseInfo[14] == "High":
+                        if franchiseInfo[15] == "High":
                             franchises.append(entry[0:len(entry)-4:])
                         
 

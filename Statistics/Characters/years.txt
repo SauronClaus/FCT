@@ -1,11 +1,14 @@
+0 (1): Olaf
 4 (2): Abby Cadabby, Seth
+5 (1): BB-8
 6 (3): Bean, Big Bird, Scout Finch
 10 (3): Ash Ketchum, Boun, Jem Finch
 11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
 12 (2): Amy Rose, Toph Beifong
+13 (1): Brian Robeson
 14 (8): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Sadie Kane, Zia Rashid
 15 (7): Brock, Carter Kane, Mai, Ruby Rose, Sokka, Sonic the Hedgehog, Sven
-16 (7): Alex Fierro, Annette, Araithia Shokta, Bolin, Leo Valdez, Magnus Chase, Zuko
+16 (8): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Leo Valdez, Magnus Chase, Zuko
 17 (12): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Edelgard, Korra, Weiss Schnee, Yang Xiao Long
 18 (11): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Fleur Delacour, Hilda, Percy Jackson
 19 (3): Leia Organa, Luke Skywalker, Rey
@@ -20,6 +23,29 @@
 30 (7): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Ken, Ryu, Sombra
 32 (2): C3PO, Han Solo
 35 (2): Barret Wallace, Obi-Wan Kenobi
+36 (1): Dr. Chris Beck
+37 (1): Allison Blake
+40 (1): Boromir
 41 (3): Alan Wake, Arthur Weasley, Darth Vader
+43 (1): Bard the Bowman
 45 (3): Alois, Captain Nemo, Medic
+50 (1): Adrian Monk
+51 (1): Bilbo Baggins
+52 (1): Scorpion
+54 (1): Adam Warlock
+60 (1): Qui-Gon Jinn
+67 (1): Maxwell
+71 (1): Lord Voldemort
+87 (1): Aragorn
+88 (1): Brook
+103 (1): Arya
+112 (1): Aang
 115 (2): Albus Dumbledore, Kalathos Sunstrider
+129 (1): Brom
+150 (1): Akkar
+200 (1): Chewbacca
+896 (1): Yoda
+1250 (1): Sothis
+2777 (1): Arwen
+3568 (1): Calypso
+4000 (1): Thanos

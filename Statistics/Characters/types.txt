@@ -1,6 +1,6 @@
 Adventurer (13): Bilbo Baggins, Blitzen, Bobby, Calypso, Fone Bone, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Nahara, Olaf, Smiley Bone
 Archbishop (1): Rhea
-Archer (4): Atreus, Bernadetta, Bow, Claude
+Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
 Artificer (1): Byllemura Ruby-Eye
 Assassin (1): Aphelios
 Astral Punching (1): Amara
@@ -82,7 +82,7 @@ Princess Warrior (1): Amethyst
 Programmer (1): Alan Bradley
 Protocol Droid (1): C3PO
 Puppet Master (1): Maxwell
-Queen (2): Elsa, Gran'ma Ben
+Queen (3): Elsa, Gran'ma Ben, Hippolyta
 Racer (1): Captain Falcon
 Ranger (2): Akkar, Aloy
 Rebel Leader (1): Barret Wallace
@@ -100,7 +100,7 @@ Space Captain (1): Captain Kirk
 Strategist (1): Bean
 Super Hero (1): Bucky Barnes
 Super Villain (1): Captain Boomerang
-Superhero (63): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Cassie Lang, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine
+Superhero (64): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Cassie Lang, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine, Wonder Woman
 Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
 Teenager (1): Amy Cahill
 Time Traveler (1): Billy Pilgrim

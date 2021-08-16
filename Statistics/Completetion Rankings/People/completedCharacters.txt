@@ -66,6 +66,7 @@ Arwen
 Arya
 Asami Sato
 Ash Ketchum
+Ashe
 Ashley Brown
 Ashley Williams
 Athena
@@ -192,6 +193,7 @@ Hawkeye
 Hearthstone
 Hermione Granger
 Hilda
+Hippolyta
 Hope van Dyne
 Hubert
 Hulk
@@ -294,6 +296,7 @@ Wally West
 Walt Stone
 War Machine
 Weiss Schnee
+Wonder Woman
 Yang Xiao Long
 Yoda
 Zia Rashid

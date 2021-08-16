@@ -277,19 +277,17 @@ for decade in decades.keys():
 yearsPart2.sort()
 decadesPart2.sort()
 for year in yearsPart2:
-    if len(years[str(year)]) >= 2:
-        yearString = str(year) + " (" + str(len(years[str(year)])) + "): "
-        for character in years[str(year)]:
-            yearString = yearString + character + ", "
-        yearString = yearString[0:len(yearString)-2:]
-        yearFile.write(yearString + "\n")
+    yearString = str(year) + " (" + str(len(years[str(year)])) + "): "
+    for character in years[str(year)]:
+        yearString = yearString + character + ", "
+    yearString = yearString[0:len(yearString)-2:]
+    yearFile.write(yearString + "\n")
 for decade in decadesPart2:
-    if len(decades[str(decade)]) >= 2:
-        decadeString = str(decade) + " (" + str(len(decades[str(decade)])) + "): "
-        for character in decades[str(decade)]:
-            decadeString = decadeString + character + ", "
-        decadeString = decadeString[0:len(decadeString)-2:]
-        decadesFile.write(decadeString + "\n")
+    decadeString = str(decade) + " (" + str(len(decades[str(decade)])) + "): "
+    for character in decades[str(decade)]:
+        decadeString = decadeString + character + ", "
+    decadeString = decadeString[0:len(decadeString)-2:]
+    decadesFile.write(decadeString + "\n")
 
 
 types = {}
@@ -343,12 +341,11 @@ for x in reversed(range(highNumber + 1)):
 
 for number in typesByValues.keys():
     for typeName in typesByValues[number]:
-        if len(types[typeName]) >= 2:
-            typeString = typeName + " (" + str(number) + "): "
-            for character in types[typeName]:
-                typeString = typeString + character + ", "
-            typeString = typeString[0:len(typeString)-2:]
-            typeFileByNumbers.write(typeString + "\n")
+        typeString = typeName + " (" + str(number) + "): "
+        for character in types[typeName]:
+            typeString = typeString + character + ", "
+        typeString = typeString[0:len(typeString)-2:]
+        typeFileByNumbers.write(typeString + "\n")
 races = {}
 for character in completedCharacters:
     firstLetter = character[0:1:]
@@ -365,17 +362,46 @@ for character in completedCharacters:
             print("Type Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            races[characterRace]+=1
+            races[characterRace].append(character)
         except:
-            races[characterRace] = 1
+            races[characterRace] = [character]
 
 racesPart2 = []
 for race in races.keys():
     racesPart2.append(race)
 raceFile = open("Statistics\\Characters\\races.txt", "w",encoding='utf8')
+raceFileByNumber = open("Statistics\\Characters\\racesByNumbers.txt", "w",encoding='utf8')
+
 racesPart2.sort()
 for race in racesPart2:
-    raceFile.write(race + ": " + str(races[race]) + "\n")
+    raceString = race + " (" + str(len(races[race])) + "): "
+    for racer in races[race]:
+        raceString = raceString + racer + ", "
+    raceString = raceString[0:len(raceString)-2:]
+    raceFile.write(raceString + "\n")
+
+highNumber = -1
+for characterList in races.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+racesByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in races.keys():
+        if len(races[characterList]) == x:
+            try:
+                racesByValues[x].append(characterList)
+            except:
+                racesByValues[x] = [characterList]
+
+
+for number in racesByValues.keys():
+    for race in racesByValues[number]:
+        raceString = race + " (" + str(number) + "): "
+        for character in races[race]:
+            raceString = raceString + character + ", "
+        raceString = raceString[0:len(raceString)-2:]
+        raceFileByNumber.write(raceString + "\n")
 
 alignments = {}
 for character in completedCharacters:
@@ -393,9 +419,9 @@ for character in completedCharacters:
             print("Type Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            alignments[characterAlignment]+=1
+            alignments[characterAlignment].append(character)
         except:
-            alignments[characterAlignment] = 1
+            alignments[characterAlignment] = [character]
 
 alignmentsPart2 = []
 for alignment in alignments.keys():
@@ -403,7 +429,11 @@ for alignment in alignments.keys():
 alignmentFile = open("Statistics\\Characters\\alignments.txt", "w",encoding='utf8')
 alignmentsPart2.sort()
 for alignment in alignmentsPart2:
-    alignmentFile.write(alignment + ": " + str(alignments[alignment]) + "\n")
+    alignString = alignment + " (" + str(len(alignments[alignment])) + "): "
+    for character in alignments[alignment]:
+        alignString = alignString + character + ", "
+    alignString = alignString[0:len(alignString)-2:]
+    alignmentFile.write(alignString + "\n")
 
 roles = {}
 for character in completedCharacters:
@@ -421,17 +451,46 @@ for character in completedCharacters:
             print("Type Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            roles[characterRole]+=1
+            roles[characterRole].append(character)
         except:
-            roles[characterRole] = 1
+            roles[characterRole] = [character]
 
 rolesPart2 = []
 for role in roles.keys():
     rolesPart2.append(role)
 roleFile = open("Statistics\\Characters\\roles.txt", "w",encoding='utf8')
+roleFileByNumber = open("Statistics\\Characters\\rolesByNumbers.txt", "w",encoding='utf8')
 rolesPart2.sort()
+
 for role in rolesPart2:
-    roleFile.write(role + ": " + str(roles[role]) + "\n")
+    roleString = role + " (" + str(len(roles[role])) + "): "
+    for rolen in roles[role]:
+        roleString = roleString + rolen + ", "
+    roleString = roleString[0:len(roleString)-2:]
+    roleFile.write(roleString + "\n")
+
+highNumber = -1
+for characterList in roles.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+rolesByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in roles.keys():
+        if len(roles[characterList]) == x:
+            try:
+                rolesByValues[x].append(characterList)
+            except:
+                rolesByValues[x] = [characterList]
+
+
+for number in rolesByValues.keys():
+    for role in rolesByValues[number]:
+        roleString = role + " (" + str(number) + "): "
+        for character in roles[role]:
+            roleString = roleString + character + ", "
+        roleString = roleString[0:len(roleString)-2:]
+        roleFileByNumber.write(roleString + "\n")
 
 genders = {}
 for character in completedCharacters:
@@ -449,9 +508,9 @@ for character in completedCharacters:
             print("Gender Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            genders[characterGender]+=1
+            genders[characterGender].append(character)
         except:
-            genders[characterGender] = 1
+            genders[characterGender] = [character]
 
 gendersPart2 = []
 for gender in genders.keys():
@@ -459,7 +518,11 @@ for gender in genders.keys():
 genderFile = open("Statistics\\Characters\\genders.txt", "w",encoding='utf8')
 gendersPart2.sort()
 for gender in gendersPart2:
-    genderFile.write(gender + ": " + str(genders[gender]) + "\n")
+    genderString = gender + " (" + str(len(genders[gender])) + "): "
+    for gendered in genders[gender]:
+        genderString = genderString + gendered + ", "
+    genderString = genderString[0:len(genderString)-2:]
+    genderFile.write(genderString + "\n")
 
 powerLevels = {}
 for character in completedCharacters:
@@ -477,17 +540,47 @@ for character in completedCharacters:
             print("Power Level Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            powerLevels[characterPowerLevel]+=1
+            powerLevels[characterPowerLevel].append(character)
         except:
-            powerLevels[characterPowerLevel] = 1
+            powerLevels[characterPowerLevel] = [character]
 
 powerLevelsPart2 = []
 for powerLevel in powerLevels.keys():
     powerLevelsPart2.append(powerLevel)
 powerLevelsFile = open("Statistics\\Characters\\power levels.txt", "w",encoding='utf8')
+powerLevelsFileByNumbers = open("Statistics\\Characters\\power levels by numbers.txt", "w",encoding='utf8')
+
 powerLevelsPart2.sort()
+
 for powerLevel in powerLevelsPart2:
-    powerLevelsFile.write(powerLevel + ": " + str(powerLevels[powerLevel]) + "\n")
+    powerLevelString = powerLevel + " (" + str(len(powerLevels[powerLevel])) + "): "
+    for powerLVL in powerLevels[powerLevel]:
+        powerLevelString = powerLevelString + powerLVL + ", "
+    powerLevelString = powerLevelString[0:len(powerLevelString)-2:]
+    powerLevelsFile.write(powerLevelString + "\n")
+
+highNumber = -1
+for characterList in powerLevels.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+powerLevelsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in powerLevels.keys():
+        if len(powerLevels[characterList]) == x:
+            try:
+                powerLevelsByValues[x].append(characterList)
+            except:
+                powerLevelsByValues[x] = [characterList]
+
+
+for number in powerLevelsByValues.keys():
+    for powerLevel in powerLevelsByValues[number]:
+        powerLevelString = powerLevel + " (" + str(number) + "): "
+        for character in powerLevels[powerLevel]:
+            powerLevelString = powerLevelString + character + ", "
+        powerLevelString = powerLevelString[0:len(powerLevelString)-2:]
+        powerLevelsFileByNumbers.write(powerLevelString + "\n")
 
 popularities = {}
 for character in completedCharacters:
@@ -505,17 +598,21 @@ for character in completedCharacters:
             print("Popularity Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            popularities[characterPopularity]+=1
+            popularities[characterPopularity].append(character)
         except:
-            popularities[characterPopularity] = 1
+            popularities[characterPopularity] = [character]
 
 popularitiesPart2 = []
 for popularity in popularities.keys():
     popularitiesPart2.append(popularity)
 popularitiesFile = open("Statistics\\Characters\\popularities.txt", "w",encoding='utf8')
 popularitiesPart2.sort()
-for popularity in popularitiesPart2:
-    popularitiesFile.write(popularity + ": " + str(popularities[popularity]) + "\n")
+for popularity in popularities:
+    popularityString = popularity + " (" + str(len(popularities[popularity])) + "): "
+    for character in popularities[popularity]:
+        popularityString = popularityString + character + ", "
+    popularityString = popularityString[0:len(popularityString)-2:]
+    popularitiesFile.write(popularityString + "\n")
 
 mediums = {}
 for character in completedCharacters:
@@ -534,17 +631,47 @@ for character in completedCharacters:
                 print("Medium Match: " + characterInfo[0] + " (" + character + ")")
 
             try:
-                mediums[characterMedium]+=1
+                mediums[characterMedium].append(character)
             except:
-                mediums[characterMedium] = 1
+                mediums[characterMedium] = [character]
 
 mediumsPart2 = []
 for medium in mediums.keys():
     mediumsPart2.append(medium)
 mediumsFile = open("Statistics\\Characters\\mediums.txt", "w",encoding='utf8')
+mediumsFileByNumbers = open("Statistics\\Characters\\mediums by numbers.txt", "w",encoding='utf8')
+
 mediumsPart2.sort()
+
 for medium in mediumsPart2:
-    mediumsFile.write(medium + ": " + str(mediums[medium]) + "\n")
+    mediumString = medium + " (" + str(len(mediums[medium])) + "): "
+    for mediumed in mediums[medium]:
+        mediumString = mediumString + mediumed + ", "
+    mediumString = mediumString[0:len(mediumString)-2:]
+    mediumsFile.write(mediumString + "\n")
+
+highNumber = -1
+for characterList in mediums.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+mediumsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in mediums.keys():
+        if len(mediums[characterList]) == x:
+            try:
+                mediumsByValues[x].append(characterList)
+            except:
+                mediumsByValues[x] = [characterList]
+
+
+for number in mediumsByValues.keys():
+    for medium in mediumsByValues[number]:
+        mediumString = medium + " (" + str(number) + "): "
+        for character in mediums[medium]:
+            mediumString = mediumString + character + ", "
+        mediumString = mediumString[0:len(mediumString)-2:]
+        mediumsFileByNumbers.write(mediumString + "\n")
 
 colors = {}
 for character in completedCharacters:
@@ -562,17 +689,47 @@ for character in completedCharacters:
             print("Color Match: " + characterInfo[0] + " (" + character + ")")
 
         try:
-            colors[characterColor]+=1
+            colors[characterColor].append(character)
         except:
-            colors[characterColor] = 1
+            colors[characterColor] = [character]
 
 colorsPart2 = []
 for color in colors.keys():
     colorsPart2.append(color)
 colorFile = open("Statistics\\Characters\\colors.txt", "w",encoding='utf8')
+colorsFileByNumbers= open("Statistics\\Characters\\colors by numbers.txt", "w",encoding='utf8')
 colorsPart2.sort()
 for color in colorsPart2:
-    colorFile.write(color + ": " + str(colors[color]) + "\n")
+    colorString = color + " (" + str(len(colors[color])) + "): "
+    for colour in colors[color]:
+        colorString = colorString + colour + ", "
+    colorString = colorString[0:len(colorString)-2:]
+    colorFile.write(colorString + "\n")
+
+highNumber = -1
+for characterList in colors.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+colorsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in colors.keys():
+        if len(colors[characterList]) == x:
+            try:
+                colorsByValues[x].append(characterList)
+            except:
+                colorsByValues[x] = [characterList]
+
+
+for number in colorsByValues.keys():
+    for color in colorsByValues[number]:
+        colorString = color + " (" + str(number) + "): "
+        for character in colors[color]:
+            colorString = colorString + character + ", "
+        colorString = colorString[0:len(colorString)-2:]
+        colorsFileByNumbers.write(colorString + "\n")
+
+
 
 groups = {}
 for character in completedCharacters:
@@ -591,18 +748,46 @@ for character in completedCharacters:
                 print("Medium Match: " + characterInfo[0] + " (" + character + ")")
 
             try:
-                groups[characterGroup]+=1
+                groups[characterGroup].append(character)
             except:
-                groups[characterGroup] = 1
+                groups[characterGroup] = [character]
 
 groupsPart2 = []
 for group in groups.keys():
     groupsPart2.append(group)
 groupFile = open("Statistics\\Characters\\groups.txt", "w",encoding='utf8')
+groupFileByNumbers = open("Statistics\\Characters\\groups by numbers.txt", "w",encoding='utf8')
+
 groupsPart2.sort()
 for group in groupsPart2:
-    groupFile.write(group + ": " + str(groups[group]) + "\n")
+    groupString = group + " (" + str(len(groups[group])) + "): "
+    for groupem in groups[group]:
+        groupString = groupString + groupem + ", "
+    groupString = groupString[0:len(groupString)-2:]
+    groupFile.write(groupString + "\n")
 
+highNumber = -1
+for characterList in groups.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+groupsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in groups.keys():
+        if len(groups[characterList]) == x:
+            try:
+                groupsByValues[x].append(characterList)
+            except:
+                groupsByValues[x] = [characterList]
+
+
+for number in groupsByValues.keys():
+    for group in groupsByValues[number]:
+        groupString = group + " (" + str(number) + "): "
+        for character in groups[group]:
+            groupString = groupString + character + ", "
+        groupString = groupString[0:len(groupString)-2:]
+        groupFileByNumbers.write(groupString + "\n")
 
 tags = {}
 for character in completedCharacters:
@@ -617,15 +802,21 @@ for character in completedCharacters:
     if characterInfo[15] != "":
         characterTagList = characterInfo[15].split(",")
         for characterTagFull in characterTagList:
-            characterTag = characterTagFull.split("|")[0]
-            if tagSearch == characterTag:
+            characterTag = characterTagFull.split("|")
+            if tagSearch == characterTag[0]:
                 print("Tag Match: " + characterInfo[0] + " (" + character + ")")
-            if not (characterTag in tagsExpended):
-                try:
-                    tags[characterTag]+=1
-                except:
-                    tags[characterTag] = 1
-                tagsExpended.append(characterTag)
+            if not (characterTag[0] in tagsExpended):
+                if len(characterTag) >= 2:
+                    try:
+                        tags[characterTag[0]].append(character + " (" + characterTag[1] + ")")
+                    except:
+                        tags[characterTag[0]] = [character + " (" + characterTag[1] + ")"]
+                else:
+                    try:
+                        tags[characterTag[0]].append(character)
+                    except:
+                        tags[characterTag[0]] = [character]
+                tagsExpended.append(characterTag[0])
             #else:
                 #print(characterInfo[0] + " already expended " + characterTag)
 
@@ -633,15 +824,44 @@ tagsPart2 = []
 for tag in tags.keys():
     tagsPart2.append(tag)
 tagFile = open("Statistics\\Characters\\tags.txt", "w",encoding='utf8')
+tagFileByNumbers = open("Statistics\\Characters\\tags by numbers.txt", "w",encoding='utf8')
+
 tagsPart2.sort()
 for tag in tagsPart2:
-    tagFile.write(tag + ": " + str(tags[tag]) + "\n")
+    tagString = tag + " (" + str(len(tags[tag])) + "): "
+    for tagget in tags[tag]:
+        tagString = tagString + tagget + ", "
+    tagString = tagString[0:len(tagString)-2:]
+    tagFile.write(tagString + "\n")
+
+highNumber = -1
+for characterList in tags.values():
+    if len(characterList) > highNumber:
+        highNumber = len(characterList)
+
+tagsByValues = {}
+for x in reversed(range(highNumber + 1)):
+    for characterList in tags.keys():
+        if len(tags[characterList]) == x:
+            try:
+                tagsByValues[x].append(characterList)
+            except:
+                tagsByValues[x] = [characterList]
+
+
+for number in tagsByValues.keys():
+    for tag in tagsByValues[number]:
+        tagString = tag + " (" + str(number) + "): "
+        for character in tags[tag]:
+            tagString = tagString + character + ", "
+        tagString = tagString[0:len(tagString)-2:]
+        tagFileByNumbers.write(tagString + "\n")
+
 
 highestNum = 0
 for typeIt in typesPart2:
     if len(types[typeIt]) > highestNum and typeIt != "Superhero" and typeIt != "Fighter":
         highestNum = len(types[typeIt])
-
 
 
 weirdFile = open("Statistics\\Completetion Rankings\\People\\weirdCharacters.txt", "w", encoding='utf8')
@@ -680,6 +900,7 @@ completedFranchises = []
 undoneFranchises = []
 needToUpdateFranchises = []
 weirdFranchises = []
+allFranchises = []
 
 for letter in alphabet:
     basepath = 'Franchises/' + letter
@@ -697,7 +918,7 @@ for letter in alphabet:
                         undoneFranchises.append(entry[0:len(entry)-4:])
                     else:
                         weirdFranchises.append(entry[0:len(entry)-4:])
-
+            allFranchises.append(entry[0:len(entry)-4:])
 completedFranchises.sort()
 undoneFranchises.sort()
 needToUpdateFranchises.sort()
@@ -727,6 +948,7 @@ completedArtifacts = []
 undoneArtifacts = []
 needToUpdateArtifacts = []
 weirdArtifacts = []
+allArtifacts = []
 
 basepath = "Artifacts"
 for entry in os.listdir(basepath):
@@ -744,7 +966,7 @@ for entry in os.listdir(basepath):
                         undoneArtifacts.append(entry[0:len(entry)-4:])
                     else:
                         weirdArtifacts.append(entry[0:len(entry)-4:])
-
+            allArtifacts.append(entry[0:len(entry)-4:])
 completedArtifacts.sort()
 undoneArtifacts.sort()
 needToUpdateArtifacts.sort()
@@ -764,6 +986,11 @@ updateFile.close()
 incompleteFile.close()
 completeFile.close()
 
+
+completionFile = open("Statistics\\Completetion Rankings\\completetionRankingsFinal.txt", "w", encoding='utf8')
+completionFile.write("Characters (" + str(round(len(completedCharacters)/len(allCharacters),4)*100) + "%):\n   -" + str(len(completedCharacters)) + " completed characters.\n   -" + str(len(undoneCharacters)) + " incomplete characters.\n   -" + str(len(needToUpdateCharacters)) + " unupdated characters.\n   -" + str(len(weirdCharacters)) + " weird characters.\n   -" + str(len(allCharacters)) + " total characters.\n")
+completionFile.write("Franchises: (" + str(round(len(completedFranchises)/len(allFranchises),4)*100) + "%):\n   -" + str(len(completedFranchises)) + " completed franchises.\n   -" + str(len(undoneFranchises)) + " incomplete franchises.\n   -" + str(len(needToUpdateFranchises)) + " unupdated franchises\n   -" + str(len(weirdFranchises)) + " weird franchises.\n   -" + str(len(allFranchises)) + " total franchises.\n")
+completionFile.write("Artifacts: (" + str(round(len(completedArtifacts)/len(allArtifacts),4)*100) + "%):\n   -" + str(len(completedArtifacts)) + " completed artifacts.\n   -" + str(len(undoneArtifacts)) + " incomplete artifacts.\n   -" + str(len(needToUpdateArtifacts)) + " unupdated artifacts\n   -" + str(len(weirdArtifacts)) + " weird artifacts.\n   -" + str(len(allArtifacts)) + " total artifacts.")
+
 print("High Number: " + str(highestNum))
 print("Completed!")
-
