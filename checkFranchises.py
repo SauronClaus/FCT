@@ -39,7 +39,7 @@ for letter in alphabet:
                     characterString = characterString + character + ", "
                     if franchiseInfo[0] in franchiseSearch:
                         franchiseAddCharacters.append(character)
-                if len(franchiseInfo) == 16:
+                if len(franchiseInfo) == 17:
                     if franchiseInfo[8] != "":
                         antagonists = franchiseInfo[8].split("|")
                         for antagonist in antagonists:

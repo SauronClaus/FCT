@@ -16,7 +16,7 @@ Genderfluid
 Chaotic,Demigod,Einharjar,Floor 19,Genderfluid,LGBTQ+,Norse,Romantic Subplot|Magnus Chase,Shape Shifter
 Modified Human
 Medium
-Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)
+Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang
 
 Books
 Percy Jackson and the Olympians

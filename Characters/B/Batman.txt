@@ -16,7 +16,7 @@ Male
 Bat-Family,Billionaire,Detective,Genius,Iconic,Justice League,Justice League International,Leader,Manipulator,Mastermind,Non-Powered,Outsiders,Schemer,Tech,Tragic Backstory,Trinity (DC),Superheroes
 City
 High
-Justice League (Core),Justice League (Extended),Bat-Family (Core),Bat-Family (Extended),Justice League (film),Justice League Unlimited,Outsiders,Trinity (DC)
+Justice League (Core),Justice League (Extended),Bat-Family (Core),Bat-Family (Extended),Justice League (film),Justice League Unlimited,Outsiders,Trinity (DC),Justice League International,Justice League Founder
 Batman Theme|https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx?si=5cdb886371bb4624,Batman Theme|https://open.spotify.com/track/2nVHairZHuwuv1SBMokNxE?si=96e2b14f2f4f48c5
 Superhero Comics,Comics,TV Shows,Movies
 DC

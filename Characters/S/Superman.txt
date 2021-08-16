@@ -16,7 +16,7 @@ Male
 Iconic,Justice League,Kryptonian,Leader,Legion of Superheroes,Most Powerful,Paragon,Powerhouse,Superheroes,Trinity (DC),Reporter
 Cosmic
 High
-Justice League (Core),Justice League (Extended),Superman Family,Justice League (film),Justice League Unlimited,Trinity (DC)
+Justice League (Core),Justice League (Extended),Superman Family,Justice League (film),Justice League Unlimited,Trinity (DC),Justice League Founder
 Theme from Superman-Concert Version|https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ
 Comics,Movies,Superhero Comics,TV Shows
 DC

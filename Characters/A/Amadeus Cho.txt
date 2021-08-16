@@ -16,7 +16,7 @@ Male
 Champions (Team),Gamma,Genius,Green,Hulks,Powerhouse,Strong
 City
 Medium
-Champions (Marvel) (Core),Hulks
+Champions (Marvel) (Core),Hulks,Champions (Marvel) (Extended)
 
 Superhero Comics,Comics
 Marvel

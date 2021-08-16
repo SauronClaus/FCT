@@ -16,7 +16,7 @@ Male
 Demigod,Einharjar,Floor 19,LGBTQ+,Norse,Romantic Subplot|Alex Fierro
 Modified Human
 High
-Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)
+Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang,Magnus Chase First Quintet
 
 Books
 Percy Jackson and the Olympians

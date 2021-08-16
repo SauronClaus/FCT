@@ -16,7 +16,7 @@ Male
 Adopted,Archer,Knight,Blue Lions (Fire Emblem),Freckles
 Baseline
 Low
-Blue Lions (Fire Emblem)
+Blue Lions
 
 Video Games
 Fire Emblem

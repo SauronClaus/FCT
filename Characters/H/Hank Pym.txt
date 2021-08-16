@@ -16,7 +16,7 @@ Male
 Avengers,Avengers Founders,Bipolar,Genius,Insect-Themed,Married|Janet van Dyne,Parent Child|Hope van Dyne,Size-Changing,Superheroes,Tech
 City
 High
-Avengers (Extended),Ant-Man Cast
+Avengers (Extended),Ant-Man Cast,Avengers Founders
 
 Superhero Comics,Comics,Movies
 Marvel

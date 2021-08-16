@@ -15,6 +15,7 @@ Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia va
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+Skywalkers (Star Wars) (5): Anakin Skywalker, Kylo Ren, Leia Organa, Luke Skywalker, Rey
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Blue Lions (5): Annette, Byleth, Dedue, Dimitri, Mercedes
 Justice League (film) (5): Aquaman, Barry Allen, Batman, Superman, Wonder Woman
@@ -73,7 +74,6 @@ Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
-Skywalkers (Star Wars) (3): Kylo Ren, Leia Organa, Rey
 Avatars (2): Aang, Korra
 Stardew Valley Residents (2): Abigail, Alex
 Guardians of the Galaxy (Extended) (2): Adam Warlock, Agent Venom
