@@ -1,4 +1,24 @@
 Finn
+Star Wars Sequel Trilogy
+Finn (Designation FN-2187) is a fictional character in the Star Wars franchise. The character first appeared in the 2015 film Star Wars: The Force Awakens as a First Order stormtrooper who, shocked by the Order's cruelty in his first combat mission, flees and joins forces with Rey and later the Resistance. He is portrayed by English actor John Boyega, who reprised the role in Star Wars: The Last Jedi and Star Wars: The Rise of Skywalker. Boyega's performance and the character have received praise. For his performance in The Force Awakens, Boyega won the BAFTA Rising Star Award, and was nominated for the Saturn Award for Best Actor.
+https://upload.wikimedia.org/wikipedia/en/2/2a/Finn-Force_Awakens_%282015%29.png
+https://en.wikipedia.org/wiki/Finn_(Star_Wars)
+Finn
+
+Finn|FN-2187
+John Boyega|Arif S. Kinchen|Omar Benson Miller
+23|2
+Soldier
+Human
+Good
+Protagonist
+Male
+Resistance (Star Wars),Soldier,Traitor,Defector
+Baseline
+High
+Sequel Trilogy Main Cast,The Resistance (Star Wars)
+
+Movies
 Star Wars
 
-
+Beige
