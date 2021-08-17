@@ -1,9 +1,9 @@
-Characters (26.840000000000003%):
-   -303 completed characters.
-   -820 incomplete characters.
+Characters (27.57%):
+   -311 completed characters.
+   -811 incomplete characters.
    -3 unupdated characters.
    -3 weird characters.
-   -1129 total characters.
+   -1128 total characters.
 Franchises: (12.049999999999999%):
    -20 completed franchises.
    -140 incomplete franchises.

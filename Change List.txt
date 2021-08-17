@@ -1,0 +1,9 @@
+-Finish power level upper cap
+-Reduce odds that adjective characters will show up
+-Harry Potter/Voldemort duo tag glitch
+
+1) Adjective Info
+2) Artifact replacementing. Fun times.
+3) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1")
+    >Replace via powers?
+    >Add to people information packets

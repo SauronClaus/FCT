@@ -51,18 +51,21 @@ def generate():
     franchiseGroups = allGroups() #a dict of string/list pairs; the string is the group name, the list is the people in the group.
     people = allPeople()    
     otherAddedCharacters = []
-    listen = genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters)
+    listen = genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, False)
     charactersReplacement = listen[0]
     charactersReasonSubbing = listen[1]
     otherAddedCharacters = listen[2]
+    protagAdjectives = listen[3]
+
 
     listenAntag = []
     if len(antagonistReplacementOrigs) > 1 or antagonistReplacementOrigs[0] != "":
         print("Antag Replace Orig: " + str(antagonistReplacementOrigs) + "/" + str(len(antagonistReplacementOrigs)))
-        listenAntag = genAllPeople(antagonistReplacementOrigs, franchiseInfo, otherAddedCharacters)
+        listenAntag = genAllPeople(antagonistReplacementOrigs, franchiseInfo, otherAddedCharacters, True)
         antagReplacement = listenAntag[0]
         antagReasonSubbing = listenAntag[1]
         otherAddedCharacters = listenAntag[2]
+        antagAdjectives = listenAntag[3]
     artifactReplacement = {}
 
     print("\nFinal Generation Protagonists: ")
@@ -75,7 +78,3 @@ def generate():
 
     return[listen, listenAntag, [franchiseName,franchiseInfo]]
     # These are the heavy ones. These are always active, and serve to stick in the people when need be. 
-
-    
-
-                                

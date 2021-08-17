@@ -12,7 +12,6 @@ def allGroups():
             if os.path.isfile(os.path.join(basepath, entry)):
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
-                #print(characterInfo.split("\n")[0])
                 if len(characterInfo) == 24:
                     groups = characterInfo[18].split(",")
                     for group in groups:

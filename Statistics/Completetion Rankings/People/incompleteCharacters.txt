@@ -2,7 +2,6 @@ Captain Robert Walton
 Cara Dune
 Carl Hauser
 Carmen Sandeigo
-Carol Danvers
 Caspar
 Cedric Diggory
 Cere Junda
@@ -38,11 +37,9 @@ Corrin
 Corvo Attano
 Cosmic Boy
 Count Bleck
-Count Dracula
 Count Strahd von Zarovich
 Count von Count
 Cream the Rabbit
-Cyborg
 Cyclone
 Cyclops
 Cypher
@@ -135,7 +132,6 @@ Fen'Sthern
 Ferb Fletcher
 Ferdinand
 Filius Flitwick
-Finn
 Fiona
 Firelord
 Fizz
@@ -251,7 +247,6 @@ Jason Grace
 Jason Todd
 Javik
 Jean Gray
-Jebediah Kerman
 Jen Stern
 Jenifer Sternstell
 Jeshua Ben Joseph
@@ -425,7 +420,6 @@ Mipha
 Miranda Lawson
 Miss Fortune
 Miss Piggy
-Misty
 Misty Knight
 Moana
 Moaning Myrtle
@@ -536,7 +530,6 @@ Pit
 Pixie
 Player
 Pleakley
-Poe Dameron
 Pomona Sprout
 Popo
 Power Girl
@@ -618,7 +611,6 @@ Samantha Carter
 Samantha Cook
 Samara
 Sameen Shaw
-Samirah al-Abbas
 Samus Aran
 Samwise Gamgee
 Sandy
@@ -748,7 +740,6 @@ Uniqua
 Urbosa
 Urdnot Wrex
 Usopp
-Valentina Kerman
 Valentine
 Valerie Richards
 Vaughn

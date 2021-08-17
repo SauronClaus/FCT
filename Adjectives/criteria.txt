@@ -1,0 +1,4 @@
+Tier 1: World Level
+Tier 2: Country Level
+Tier 3: City level
+Tier 4: Modified Human Level

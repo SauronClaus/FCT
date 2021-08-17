@@ -158,6 +158,7 @@ Captain Marvel
 Captain Marvel Jr.
 Captain Nemo
 Carmen Cortez
+Carol Danvers
 Carter Kane
 Cassie Lang
 Catherine
@@ -165,6 +166,7 @@ Catra
 Chewbacca
 Chun-Li
 Claude
+Cyborg
 Dana Franklin
 Darth Vader
 Dedue
@@ -177,6 +179,7 @@ Edelgard
 Elsa
 Ernie
 Falcon
+Finn
 Flayn
 Fleur Delacour
 Fone Bone
@@ -204,6 +207,7 @@ Iron Man
 Ironheart
 Janet van Dyne
 Jay Garrick
+Jebediah Kerman
 Jem Finch
 Jim Gordon
 John Seward
@@ -236,6 +240,7 @@ Maxwell
 Medic
 Mercedes
 Mina Harker
+Misty
 Nadia van Dyne
 Nahara
 Northstar
@@ -245,6 +250,7 @@ Ozai
 Pariah
 Percy Jackson
 Phoney Bone
+Poe Dameron
 Princess Daisy
 Princess Peach
 Psylocke
@@ -263,6 +269,7 @@ Ruby Rose
 Rumy
 Ryu
 Sadie Kane
+Samirah al-Abbas
 Scarlet Witch
 Scorpion
 Scott Lang
@@ -290,6 +297,7 @@ Thorn Harvestar
 Toph Beifong
 Ty Lee
 Ultron
+Valentina Kerman
 Vision
 Viv Vision
 Wally West

@@ -5,7 +5,7 @@ Artificer (1): Byllemura Ruby-Eye
 Assassin (1): Aphelios
 Astral Punching (1): Amara
 Astromech Droid (2): BB-8, R2-D2
-Astronaut (4): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck
+Astronaut (6): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Valentina Kerman
 Average Guy (1): Barry B. Benson
 Barbarian (1): Arthail Consumer of Food
 Baseline Human (2): Abigail, Alex
@@ -72,7 +72,8 @@ Ninja (1): Scorpion
 Nobility (1): Arwen
 Operative (1): Amy Ferrier
 Phantom Thief (1): Ann Takamaki
-Pokemon Trainer (4): Ash Ketchum, Blue, Brock, Red (Pokemon)
+Pilot (1): Poe Dameron
+Pokemon Trainer (5): Ash Ketchum, Blue, Brock, Misty, Red (Pokemon)
 Police Officer (1): Jim Gordon
 Post-Apocalypse Survivor (1): Artyom
 Precog (2): Agatha, Anna Croft
@@ -94,18 +95,19 @@ Secret Agent (2): Carmen Cortez, Juni Cortez
 Sith (1): Kylo Ren
 Sith Lord (1): Darth Vader
 Smuggler (2): Chewbacca, Han Solo
-Soldier (12): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Leia Organa, Mai, Shamir, Suki, Ty Lee
+Soldier (13): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Finn, Leia Organa, Mai, Shamir, Suki, Ty Lee
 Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Space Captain (1): Captain Kirk
 Strategist (1): Bean
 Super Hero (1): Bucky Barnes
 Super Villain (1): Captain Boomerang
-Superhero (64): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Cassie Lang, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine, Wonder Woman
+Superhero (66): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Falcon, Green Arrow, Hank Pym, Harbringer, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Kal-L, Mary Marvel, Nadia van Dyne, Northstar, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine, Wonder Woman
 Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
 Teenager (1): Amy Cahill
 Time Traveler (1): Billy Pilgrim
 Titan (1): Thanos
 Town Guard (1): Bard the Bowman
+Valkyrie (1): Samirah al-Abbas
 Vampire Hunter (1): Abraham Van Helsing
 Vampire Lord (1): Dracula
 Wanderer (1): Pariah

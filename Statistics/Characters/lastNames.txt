@@ -8,12 +8,13 @@ Finch: Atticus Finch, Jem Finch, Scout Finch
 Beaubier: Aurora, Northstar
 Gordon: Barbara Gordon, Jim Gordon
 Allen: Barry Allen, Bart Allen
-Kerman: Bill Kerman, Bob Kerman
+Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Carter: Booster Gold, Maxwell
 Braddock: Captain Britain, Psylocke
 Batson: Captain Marvel, Mary Marvel
 Cortez: Carmen Cortez, Juni Cortez
 Lang: Cassie Lang, Scott Lang
+Stone: Cyborg, Walt Stone
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo, Kylo Ren

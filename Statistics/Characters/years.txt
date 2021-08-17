@@ -2,7 +2,7 @@
 4 (2): Abby Cadabby, Seth
 5 (1): BB-8
 6 (3): Bean, Big Bird, Scout Finch
-10 (3): Ash Ketchum, Boun, Jem Finch
+10 (4): Ash Ketchum, Boun, Jem Finch, Misty
 11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
 12 (2): Amy Rose, Toph Beifong
 13 (1): Brian Robeson
@@ -15,13 +15,14 @@
 20 (4): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert
 21 (4): Adora, Bill Weasley, Elsa, Kristoff
 22 (3): Aerith Gainsborough, Anakin Skywalker, Mercedes
+23 (1): Finn
 24 (2): Alyx, Artyom
 25 (2): Ashley Williams, Shamir
 27 (2): Captain Kirk, Catherine
 28 (2): Barry Allen, Chun-Li
 29 (3): Beth Johanssen, Captain George Pollard Jr., Kylo Ren
 30 (7): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Ken, Ryu, Sombra
-32 (2): C3PO, Han Solo
+32 (3): C3PO, Han Solo, Poe Dameron
 35 (2): Barret Wallace, Obi-Wan Kenobi
 36 (1): Dr. Chris Beck
 37 (1): Allison Blake

@@ -1,10 +1,12 @@
 Adrian Pasdar (2): Hawkeye, Iron Man
 Alan Tudyk (2): Barry Allen, Green Arrow
+April Stewart (2): Carol Danvers, Psylocke
 Armen Taylor (2): Hulk, Jay Garrick
 Ben Lepley (2): Dedue, Dimitri
 Billy Kametz (2): Blue, Iron Lad
+Brian Bloom (2): Captain America, Cyborg
 Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
-Bumper Robinson (3): Black Lightning, Falcon, War Machine
+Bumper Robinson (4): Black Lightning, Cyborg, Falcon, War Machine
 Charles Martinet (2): Luigi, Mario
 Christopher Judge (2): Kratos, Magneto
 Colleen O'Shaughnessey (2): Cassie Lang, Janet van Dyne
@@ -13,19 +15,19 @@ Danny Wells (2): Luigi, Luigi
 David Kaye (3): Akuma, Ultron, Vision
 Dwight Schultz (2): Barry Allen, Magneto
 Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
-Erica Lindbeck (2): Blaze the Cat, Psylocke
+Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
 Frank Oz (3): Bert, Yoda, Yoda
 Fred Tatasciore (5): Beast, Hulk, Magneto, Qui-Gon Jinn, Ultron
 George Buza (2): Beast, Magneto
 Gregory Peck (2): Atticus Finch, Captain Ahab
-Grey DeLisle (3): Azula, Black Canary, Psylocke
+Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
 Hayden Christensen (2): Anakin Skywalker, Darth Vader
 Hidenori Takahashi (2): Dedue, Dimitri
 Jake Lloyd (2): Anakin Skywalker, Darth Vader
 James Arnold Taylor (4): Bucky Barnes, Green Arrow, Magneto, Obi-Wan Kenobi
 Jason Spisak (2): Loki, Wally West
 Jen Taylor (2): Princess Daisy, Princess Peach
-Jennifer Hale (2): Iris West, Scarlet Witch
+Jennifer Hale (3): Carol Danvers, Iris West, Scarlet Witch
 Jeremy Irons (2): Alfred Pennyworth, Brom
 Jessica Chisum (2): Princess Daisy, Princess Peach
 John Wesley Shipp (2): Barry Allen, Jay Garrick
@@ -33,8 +35,10 @@ Jonathan Groff (2): Kristoff, Sven
 Josh Keaton (2): Scott Lang, Spider-Man
 Julien Bardakoff (2): Luigi, Luigi
 Kari Wahlgren (2): Hope van Dyne, Janet van Dyne
+Khary Payton (2): Black Lightning, Cyborg
 Kimberly Brooks (2): Ashley Williams, Psylocke
-Laura Bailey (5): Black Widow, Blaze the Cat, Cassie Lang, Psylocke, Supergirl
+Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psylocke, Supergirl
+Lex Lang (2): Han Solo, Poe Dameron
 Lou Albano (2): Mario, Mario
 Lou Ferrigno (2): Hulk, Hulk
 Mae Whitman (2): Barbara Gordon, Katara

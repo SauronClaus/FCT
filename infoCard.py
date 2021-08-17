@@ -4,7 +4,8 @@ import discord
 import random
 from colors import colors
 
-def infoPerson(personName):
+
+def infoPerson(personName, fctPolls):
     firstChar = personName[0:1:]
     if firstChar in numbers:
         firstChar = "#"
@@ -87,11 +88,14 @@ def infoPerson(personName):
     if personInfo[3] != "":
         embed.set_thumbnail(url=personInfo[3])
 
+    if fctPolls != "":
+        embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
+
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
 
-def infoArtifact(artifactName):
+def infoArtifact(artifactName, fctPolls):
     print("Opening path to " + artifactName + ": Artifacts\\" + artifactName + ".txt")
     artifactFile = open("Artifacts\\" + artifactName + ".txt", "r", encoding='utf8')
     artifactInfo = artifactFile.read().split("\n")
@@ -146,11 +150,14 @@ def infoArtifact(artifactName):
         artifactSetString = artifactSetString[0:len(artifactSetString)-2:]
         embed.add_field(name="Sets",value=artifactSetString, inline=False)
 
+    if fctPolls != "":
+        embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
+
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
 
-def infoFranchise(franchiseName):
+def infoFranchise(franchiseName, fctPolls):
     firstChar = franchiseName[0:1:]
     if firstChar in numbers:
         firstChar = "#"
@@ -228,6 +235,9 @@ def infoFranchise(franchiseName):
         goalsString = goalsString[0:len(goalsString)-2:]
         embed.add_field(name="Reach Goals",value=goalsString, inline=False)
     
+    if fctPolls != "":
+        embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
+
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
