@@ -1,6 +1,4 @@
--Finish power level upper cap
 -Reduce odds that adjective characters will show up
--Harry Potter/Voldemort duo tag glitch
 
 1) Adjective Info
 2) Artifact replacementing. Fun times.

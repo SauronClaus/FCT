@@ -15,6 +15,10 @@ additionalPowerLevels = {4: "Tier 1", 3: "Tier 2", 2: "Tier 3", 1: "Tier 4"}
 
 def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, antagonists):
     print("People Replace: " + str(peopleReplacementOrigs))
+    maxPowerLevel = -1
+    for powerLevel in powerLevelsDict.values():
+        maxPowerLevel = powerLevel
+    print("Max Power Level: " + str(maxPowerLevel))
     franchiseGroups = allGroups() #a dict of string/list pairs; the string is the group name, the list is the people in the group.
     people = allPeople()
     
@@ -44,8 +48,6 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     # This makes groupsCanReplace (and, by extension, endValidGroups) a full list of all the groups in all the people in the franchise
     # file. 
 
-    groupReplacementRNG = 4
-    print("len(groupsCanReplace): " + str(len(groupsCanReplace)))
     if groupReplacementRNG == 4 and len(groupsCanReplace) > 0:
         groupPowerLevels = {}
         for group in endValidGroups:
@@ -316,7 +318,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     for tag in rawTagList:
                         duoTag = tag.split("|")
                         if len(duoTag) > 1:
-                            if not(duoTag[0] in duoTagList):
+                            if not(duoTag[0] in duoTagList) and not(duoTag[1] in charactersReplacement.values()) and not (duoTag[1] in charactersReplacement.keys()) and not(duoTag[1] in otherAddedCharacters):
                                 duoTagList[duoTag[0]] = []
                                 typesOfDuoTags.append(duoTag[0])
                         else:
@@ -348,7 +350,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             swapList = []
                             for taggedMatchee in tagList[typesOfTags[RNG]]:
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
-                                if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(currentPowerLevel-1,currentPowerLevel+1):
+                                if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
                                     if taggedMatchRarity == "Low":
                                         swapList.append(taggedMatchee)
@@ -384,12 +386,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         RNG = random.randint(0,len(typesOfDuoTags)-1)
                         tagRNG = RNG
                         tagName = typesOfDuoTags[RNG]
-
                         if len(duoTagList[typesOfDuoTags[tagRNG]]) >= 1:
                             swapList = []
                             for taggedMatchee in duoTagList[typesOfDuoTags[tagRNG]]:
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
-                                if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(currentPowerLevel-1,currentPowerLevel+1):
+                                if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
                                     if taggedMatchRarity == "Low":
                                         swapList.append(taggedMatchee)
@@ -499,7 +500,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 nameSharers = []
                                 for character in people.keys():
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
-                                    if people[character][5] == firstName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(currentPowerlevel-1,currentPowerLevel+1):
+                                    if people[character][5] == firstName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
                                         if taggedMatchRarity == "Low":
                                             nameSharers.append(character)
@@ -527,7 +528,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             if lastName != "":
                                 nameSharers = []
                                 for character in people.keys():
-                                    if people[character][6] == lastName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                                    characterPowerLevel = powerLevelsDict[people[character][16]]
+                                    if people[character][6] == lastName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
                                         if taggedMatchRarity == "Low":
                                             nameSharers.append(character)
@@ -554,7 +556,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             for character in people.keys():
                                 subCharacterAliases = people[character][7].split("|")
                                 for subAlias in subCharacterAliases:
-                                    if subAlias in aliases and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                                    characterPowerLevel = powerLevelsDict[people[character][16]]
+                                    if subAlias in aliases and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
                                         if taggedMatchRarity == "Low":
                                             nameSharers.append(character)
@@ -609,7 +612,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         for character in people.keys():
                             subCharacterActors = people[character][8].split("|")
                             for subActor in subCharacterActors:
-                                if subActor in actors and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                                characterPowerLevel = powerLevelsDict[people[character][16]]
+                                if subActor in actors and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[character][17]
                                     if taggedMatchRarity == "Low":
                                         actorSharers.append(character)
@@ -660,7 +664,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     if role != "":
                         roleSharers = []
                         for character in people.keys():
-                            if people[character][10] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+
+                            if people[character][10] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     roleSharers.append(character)
@@ -699,7 +705,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     if role != "":
                         roleSharers = []
                         for character in people.keys():
-                            if people[character][13] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+
+                            if people[character][13] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     roleSharers.append(character)
@@ -736,7 +744,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     if alignment != "":
                         alignmentShared = []
                         for character in people.keys():
-                            if people[character][12] == alignment and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+
+                            if people[character][12] == alignment and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     alignmentShared.append(character)
@@ -773,7 +783,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     if gender != "":
                         genderShared = []
                         for character in people.keys():
-                            if people[character][14] == gender and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+                            if people[character][14] == gender and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     genderShared.append(character)
@@ -810,7 +821,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     if race != "":
                         raceShared = []
                         for character in people.keys():
-                            if people[character][11] == race and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+
+                            if people[character][11] == race and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     raceShared.append(character)
@@ -851,7 +864,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     for character in people.keys():
                         subCharacterMediums = people[character][20].split(",")
                         for subMedium in subCharacterMediums:
-                            if subMedium in mediums and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                            characterPowerLevel = powerLevelsDict[people[character][16]]
+                            if subMedium in mediums and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
                                 if taggedMatchRarity == "Low":
                                     mediumSharers.append(character)
@@ -908,7 +922,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 if years != "":
                                     yearsSharers = []
                                     for character in people.keys():
-                                        if people[character][9].split("|")[0] == years and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                                        characterPowerLevel = powerLevelsDict[people[character][16]]
+                                        if people[character][9].split("|")[0] == years and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                             taggedMatchRarity = people[character][17]
                                             if taggedMatchRarity == "Low":
                                                 yearsSharers.append(character)
@@ -937,7 +952,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     decadeSharers = []
                                     for character in people.keys():
                                         if people[character][9] != "":
-                                            if people[character][9].split("|")[1] == decades and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters):
+                                            characterPowerLevel = powerLevelsDict[people[character][16]]
+                                            if people[character][9].split("|")[1] == decades and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                                 taggedMatchRarity = people[character][17]
                                                 if taggedMatchRarity == "Low":
                                                     decadeSharers.append(character)

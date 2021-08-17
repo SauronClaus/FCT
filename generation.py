@@ -33,7 +33,7 @@ def generate():
     RNG = random.randint(0,len(franchises)-1)
     print("Chose " + franchises[RNG] + " (" + str(RNG) + "/" + str(len(franchises)) + ")")
     franchiseName = franchises[RNG]
-    
+
     firstChar = franchiseName[0:1:]
     if firstChar in numbers:
         firstChar = "#"
