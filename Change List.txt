@@ -1,5 +1,3 @@
--Reduce odds that adjective characters will show up
-
 1) Adjective Info
 2) Artifact replacementing. Fun times.
 3) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1")

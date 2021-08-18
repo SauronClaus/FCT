@@ -241,3 +241,20 @@ def infoFranchise(franchiseName, fctPolls):
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
+
+def infoAdjective(adjective):
+    print("Adjective: " + adjective)
+    if adjective[len(adjective)-1::] != "-":
+        contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
+    else:
+        contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
+    
+    contentFull = contentFile.read()
+    content = contentFull.split("\n")
+
+    embed = discord.Embed(title=adjective[:1:].capitalize() + adjective[1::], description=content[0].capitalize()[:1:] + content[0][1::], color=0xFF9900)
+
+    if not(content[1].startswith("https://www.dictionary.com/")):
+        embed.add_field(name="Link",value=content[1], inline=False)
+    embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+    return embed

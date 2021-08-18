@@ -8,6 +8,7 @@ import os
 from infoCard import infoPerson
 from infoCard import infoFranchise
 from infoCard import infoArtifact
+from infoCard import infoAdjective
 
 from generation import generate
 from colors import colors
@@ -129,7 +130,7 @@ async def on_message(message):
                 franchiseInfo = replacement[2][1]
                 print("\n")
                 if len(replacement[1]) == 4:
-                    print("A " + str(len(replacement[1])) + " proves antagonists exist (out of 4 )")
+                    print("A " + str(len(replacement[1])) + " proves antagonists exist (out of 4)")
                     antagonistsReplacement = replacement[1][0]
                     antagonistsReasonSubbing = replacement[1][1]
                     antagonistsExist = True
@@ -147,6 +148,8 @@ async def on_message(message):
 
                 origAntags = {}
                 subAntags = {}
+                adjectives = {}
+
                 messagePeopleChannel = message.channel
                 for channel in message.guild.text_channels:
                     if channel.name == "fictional-people-info":
@@ -164,7 +167,14 @@ async def on_message(message):
                     if channel.name == "fictional-competency-test-polls":
                         print("found #" + channel.name)
                         fctPolls = channel
+
+                messageAdjectivesChannel = message.channel
+                for channel in message.guild.text_channels:
+                    if channel.name == "fictional-adjectives-info":
+                        print("found #" + channel.name)
+                        messageAdjectivesChannel = channel
                 print("\n")
+
                 for character in charactersReplacement.keys():
                     embed = infoPerson(character, fctPolls)
                     embedID = await(messagePeopleChannel.send(embed=embed))
@@ -175,7 +185,10 @@ async def on_message(message):
                     embedID = await(messagePeopleChannel.send(embed=embed))
                     subCharacters[character] = embedID
                     #print("Sub Protags: " + character + " = " + str(embedID.id))
-
+                for adjective in protagonistAdjectives.values():
+                    embed = infoAdjective(adjective)
+                    embedID = await(messageAdjectivesChannel.send(embed=embed))
+                    adjectives[adjective] = embedID
                 
                 if antagonistsExist == True:
                     for character in antagonistsReplacement.keys():
@@ -188,6 +201,10 @@ async def on_message(message):
                         embedID = await(messagePeopleChannel.send(embed=embed))
                         subAntags[character] = embedID
                         #print("Sub Antags: " + character + " = " + str(embedID.id))
+                    for adjective in antagonistAdjectives.values():
+                        embed = infoAdjective(adjective)
+                        embedID = await(messageAdjectivesChannel.send(embed=embed))
+                        adjectives[adjective] = embedID
 
 
                 embed = discord.Embed(title="Test", description="Test :)")
@@ -209,12 +226,12 @@ async def on_message(message):
                     try:
                         adjective = protagonistAdjectives[subCharacter]
                         if charactersReasonSubbing[protagonist][0] == "Full Random":
-                            replacementText = "[" + protagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by " + adjective.capitalize() + " [" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0]
+                            replacementText = "[" + protagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0]
                         else:
                             if charactersReasonSubbing[protagonist][0] == "No Change":
                                 replacementText = "[" + protagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") doesn't change."
                             else:
-                                replacementText = "[" + protagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by " + adjective.capitalize() + " [" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
+                                replacementText = "[" + protagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
                         if len(replacementLines) + len(replacementText) >= 1024:
                             replacementList.append(replacementLines)
                             replacementLines = ""
@@ -251,12 +268,12 @@ async def on_message(message):
                         try:
                             adjective = antagonistAdjectives[subCharacter]
                             if antagonistsReasonSubbing[antagonist][0] == "Full Random":
-                                replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by " + adjective.capitalize() + "[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0]
+                                replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0]
                             else:
                                 if antagonistsReasonSubbing[antagonist][0] == "No Change":
                                     replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") doesn't change."
                                 else:
-                                    replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by " + adjective.capitalize() + "[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
+                                    replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
                         except:
                             if antagonistsReasonSubbing[antagonist][0] == "Full Random":
                                 replacementText = "[" + antagonist + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + subCharacter + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0]

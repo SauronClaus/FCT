@@ -6,6 +6,8 @@ from all import allPeople
 
 from generateAdjective import generateAdjective
 
+from generateOdds import chooseCharacter
+
 
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -313,7 +315,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     rawTagList = people[person][15].split(",")
                     duoTagList = {}
                     typesOfDuoTags = []
-                    tagList = {}
+                    tagList = {} #Dict of tags- key is the tag, value is a list of people with that tag.
                     tagName = "None"
                     for tag in rawTagList:
                         duoTag = tag.split("|")
@@ -352,15 +354,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
                                 if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
-                                    if taggedMatchRarity == "Low":
-                                        swapList.append(taggedMatchee)
-                                    if taggedMatchRarity == "Medium":
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
-                                    if taggedMatchRarity == "High":
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
+                                    swapList = chooseCharacter(taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
                             if len(swapList) > 0:
                                 RNG = random.randint(0,len(swapList)-1)
                                 charactersReplacement[person] = swapList[RNG]
@@ -392,16 +386,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
                                 if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
-                                    if taggedMatchRarity == "Low":
-                                        swapList.append(taggedMatchee)
-                                    if taggedMatchRarity == "Medium":
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
-                                    if taggedMatchRarity == "High":
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
-                                        swapList.append(taggedMatchee)
-                                    
+                                    swapList = chooseCharacter(taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
+
                             if len(swapList) > 0:
 
                                 RNG = random.randint(0,len(swapList)-1)
@@ -502,15 +488,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if people[character][5] == firstName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        if taggedMatchRarity == "Low":
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "Medium":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "High":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
+                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
                                 if len(nameSharers) >= 1:
                                     RNG = random.randint(0,len(nameSharers)-1)
                                     subCharacter = nameSharers[RNG]
@@ -531,15 +509,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if people[character][6] == lastName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        if taggedMatchRarity == "Low":
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "Medium":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "High":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
+                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
+
                                 if len(nameSharers) >= 1:
                                     RNG = random.randint(0,len(nameSharers)-1)
                                     subCharacter = nameSharers[RNG]
@@ -559,15 +530,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if subAlias in aliases and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        if taggedMatchRarity == "Low":
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "Medium":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                        if taggedMatchRarity == "High":
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
-                                            nameSharers.append(character)
+                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
                             if len(nameSharers) >= 1:
                                 RNG = random.randint(0,len(nameSharers)-1)
                                 subCharacter = nameSharers[RNG]
@@ -615,19 +578,13 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 characterPowerLevel = powerLevelsDict[people[character][16]]
                                 if subActor in actors and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[character][17]
+                                    actorSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorSharers)
                                     if taggedMatchRarity == "Low":
-                                        actorSharers.append(character)
                                         actorList.append(subActor)
                                     if taggedMatchRarity == "Medium":
-                                        actorSharers.append(character)
-                                        actorSharers.append(character)
                                         actorList.append(subActor)
                                         actorList.append(subActor)
                                     if taggedMatchRarity == "High":
-                                        actorSharers.append(character)
-                                        actorSharers.append(character)
-                                        actorSharers.append(character)
-
                                         actorList.append(subActor)
                                         actorList.append(subActor)
                                         actorList.append(subActor)
@@ -668,15 +625,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][10] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    roleSharers.append(character)
-                                if taggedMatchRarity == "Medium":
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
-                                if taggedMatchRarity == "High":
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
+                                actorSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
                         if len(roleSharers) >= 1:
                             RNG = random.randint(0,len(roleSharers)-1)
                             subCharacter = roleSharers[RNG]
@@ -709,15 +658,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][13] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    roleSharers.append(character)
-                                if taggedMatchRarity == "Medium":
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
-                                if taggedMatchRarity == "High":
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
-                                    roleSharers.append(character)
+                                roleSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
                         if len(roleSharers) >= 1:
                             RNG = random.randint(0,len(roleSharers)-1)
                             subCharacter = roleSharers[RNG]
@@ -748,15 +689,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][12] == alignment and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    alignmentShared.append(character)
-                                if taggedMatchRarity == "Medium":
-                                    alignmentShared.append(character)
-                                    alignmentShared.append(character)
-                                if taggedMatchRarity == "High":
-                                    alignmentShared.append(character)
-                                    alignmentShared.append(character)
-                                    alignmentShared.append(character)
+                                alignmentShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, alignmentShared)
                         if len(alignmentShared) >= 1:
                             RNG = random.randint(0,len(alignmentShared)-1)
                             subCharacter = alignmentShared[RNG]
@@ -786,15 +719,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             characterPowerLevel = powerLevelsDict[people[character][16]]
                             if people[character][14] == gender and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    genderShared.append(character)
-                                if taggedMatchRarity == "Medium":
-                                    genderShared.append(character)
-                                    genderShared.append(character)
-                                if taggedMatchRarity == "High":
-                                    genderShared.append(character)
-                                    genderShared.append(character)
-                                    genderShared.append(character)
+                                genderShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, genderShared)
                         if len(genderShared) >= 1:
                             RNG = random.randint(0,len(genderShared)-1)
                             subCharacter = genderShared[RNG]
@@ -825,15 +750,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][11] == race and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    raceShared.append(character)
-                                if taggedMatchRarity == "Medium":
-                                    raceShared.append(character)
-                                    raceShared.append(character)
-                                if taggedMatchRarity == "High":
-                                    raceShared.append(character)
-                                    raceShared.append(character)
-                                    raceShared.append(character)
+                                raceShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, raceShared)
+
                         if len(raceShared) >= 1:
                             RNG = random.randint(0,len(raceShared)-1)
                             subCharacter = raceShared[RNG]
@@ -867,28 +785,14 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             characterPowerLevel = powerLevelsDict[people[character][16]]
                             if subMedium in mediums and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                if taggedMatchRarity == "Low":
-                                    mediumSharers.append(character)
-                                    mediumList.append(subMedium)
-                                if taggedMatchRarity == "Medium":
-                                    mediumSharers.append(character)
-                                    mediumSharers.append(character)
-                                    mediumList.append(subMedium)
-                                    mediumList.append(subMedium)
-                                if taggedMatchRarity == "High":
-                                    mediumSharers.append(character)
-                                    mediumSharers.append(character)
-                                    mediumSharers.append(character)
-
-                                    mediumList.append(subMedium)
-                                    mediumList.append(subMedium)
-                                    mediumList.append(subMedium)
+                                mediumSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumSharers)
+                                mediumList = chooseCharacter(subMedium, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumList)
                     if len(mediumSharers) >= 1:
                         RNG = random.randint(0,len(mediumSharers)-1)
                         subCharacter = mediumSharers[RNG]
                         mediumFinal = mediumList[RNG]
                     if subCharacter != "None":
-                        print("Subbing " + subCharacter + " for " + person + " (actors: " + mediumFinal + ")")
+                        print("Subbing " + subCharacter + " for " + person + " (medium: " + mediumFinal + ")")
                         reasonSubbing[person] = ["Mediums", mediumFinal]
                         charactersReplacement[person] = subCharacter
                         subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -925,15 +829,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                         characterPowerLevel = powerLevelsDict[people[character][16]]
                                         if people[character][9].split("|")[0] == years and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                             taggedMatchRarity = people[character][17]
-                                            if taggedMatchRarity == "Low":
-                                                yearsSharers.append(character)
-                                            if taggedMatchRarity == "Medium":
-                                                yearsSharers.append(character)
-                                                yearsSharers.append(character)
-                                            if taggedMatchRarity == "High":
-                                                yearsSharers.append(character)
-                                                yearsSharers.append(character)
-                                                yearsSharers.append(character)
+                                            yearsSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, yearsSharers)
+
                                     if len(yearsSharers) >= 1:
                                         RNG = random.randint(0,len(yearsSharers)-1)
                                         subCharacter = yearsSharers[RNG]
@@ -955,15 +852,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                             characterPowerLevel = powerLevelsDict[people[character][16]]
                                             if people[character][9].split("|")[1] == decades and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                                 taggedMatchRarity = people[character][17]
-                                                if taggedMatchRarity == "Low":
-                                                    decadeSharers.append(character)
-                                                if taggedMatchRarity == "Medium":
-                                                    decadeSharers.append(character)
-                                                    decadeSharers.append(character)
-                                                if taggedMatchRarity == "High":
-                                                    decadeSharers.append(character)
-                                                    decadeSharers.append(character)
-                                                    decadeSharers.append(character)
+                                                decadeSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, decadeSharers)
+
                                     if len(decadeSharers) >= 1:
                                         RNG = random.randint(0,len(decadeSharers)-1)
                                         subCharacter = decadeSharers[RNG]
