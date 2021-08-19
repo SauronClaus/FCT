@@ -8,7 +8,7 @@ for letter in alphabet:
     for entry in os.listdir(basepath):
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "a", encoding='utf8')
-            characterFile.write("\n\n")
+            characterFile.write("\n\n\n\n\n\n\n")
 
 
 print("Completed!")

@@ -2,6 +2,5 @@
     >Replace via powers?
     >Add to people information packets
 2) Artifact replacementing. Fun times.
-3) Add: The Lorax, Disney Princesses
-4) New files: Variants
-5) New files: Places
+3) New files: Variants
+4) New files: Places
