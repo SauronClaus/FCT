@@ -3,7 +3,7 @@ Halloween is an American slasher franchise that consists of eleven films, as wel
 https://en.wikipedia.org/wiki/Halloween_(1978_film)#/media/File:Halloween_(1978)_theatrical_poster.jpg
 https://en.wikipedia.org/wiki/Halloween_(1978_film)
 Survive and drive off Michael Myers's replacement at least for the night
-Kill Michael Myers's replacement
+Kill Michael Myers's replacement|Prevent Michael Myers' replacement from killing anyone
 Prevent Michael Myers's replacement from escaping the asylum
 Laurie Strode|Dr. Loomis
 Michael Myers
