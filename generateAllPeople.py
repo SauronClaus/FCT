@@ -1,3 +1,5 @@
+# Generates the people needed. Follows through from generation.py
+
 import random
 import os
 from all import allFranchises
@@ -579,15 +581,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 if subActor in actors and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[character][17]
                                     actorSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorSharers)
-                                    if taggedMatchRarity == "Low":
-                                        actorList.append(subActor)
-                                    if taggedMatchRarity == "Medium":
-                                        actorList.append(subActor)
-                                        actorList.append(subActor)
-                                    if taggedMatchRarity == "High":
-                                        actorList.append(subActor)
-                                        actorList.append(subActor)
-                                        actorList.append(subActor)
+                                    actorList = chooseCharacter(subActor, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorList)
                     if len(actorSharers) >= 1:
                         RNG = random.randint(0,len(actorSharers)-1)
                         subCharacter = actorSharers[RNG]
@@ -867,7 +861,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     #print("Alias complete!")
                     if subCharacter != "None":
                         print("Subbing " + subCharacter + " for " + person + " (years: " + ageShared + " (" + ageType + ")" + ")")
-                        reasonSubbing[person] = ["Ages", ageShared + " (" + ageType + ")"]
+                        reasonSubbing[person] = ["Ages", ageType + "|" + ageShared]
                         charactersReplacement[person] = subCharacter
                         subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
                         originalPowerLevel = powerLevelsDict[people[person][16]]

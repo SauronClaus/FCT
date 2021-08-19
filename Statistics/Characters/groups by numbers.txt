@@ -1,4 +1,4 @@
-Avengers (Extended) (22): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Nadia van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
+Avengers (Extended) (22): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Nadia Van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
 Justice League (Extended) (18): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Black Lightning, Booster Gold, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hippolyta, Mary Marvel, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
 X-Men (Extended) (14): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm
 Super Smash Bros (13): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
@@ -13,7 +13,7 @@ Blue Lions (6): Annette, Ashe, Byleth, Dedue, Dimitri, Mercedes
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
 Original Trilogy Quintet (6): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, R2-D2
-Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia van Dyne, Scott Lang
+Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 Magnus Chase Ragnarok-Halting Gang (5): Alex Fierro, Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
@@ -188,6 +188,7 @@ Galactic Empire (1): Darth Vader
 Triwizard Tournament Competitors (1): Fleur Delacour
 Colin Frazer's Permutations (1): Glynnric Manassnass
 Seven Soldiers of Victory (1): Green Arrow
+United States Military (1): Guile
 Thunderbolts (1): Hawkeye
 West Coast Avengers (1): Hawkeye
 Young Avengers Founders (1): Iron Lad
@@ -202,7 +203,7 @@ Death Eaters (1): Lord Voldemort
 Super Smash Bros Original Cast (1): Mario
 Survivors of the Constant (1): Maxwell
 Team Fortress (1): Medic
-Champions (Extended) (1): Nadia van Dyne
+Champions (Extended) (1): Nadia Van Dyne
 Abby Smetana's Permutations (1): Nahara
 Excalibur (Marvel) (1): Psylocke
 Player Characters (Pokemon) (1): Red (Pokemon)

@@ -1,5 +1,7 @@
-1) Adjective Info
-2) Artifact replacementing. Fun times.
-3) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1")
+1) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1"), variants, creators, company, "Special Tag?".
     >Replace via powers?
     >Add to people information packets
+2) Artifact replacementing. Fun times.
+3) Add: The Lorax, Disney Princesses
+4) New files: Variants
+5) New files: Places

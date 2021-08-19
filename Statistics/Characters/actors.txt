@@ -37,6 +37,7 @@ Julien Bardakoff (2): Luigi, Luigi
 Kari Wahlgren (2): Hope van Dyne, Janet van Dyne
 Khary Payton (2): Black Lightning, Cyborg
 Kimberly Brooks (2): Ashley Williams, Psylocke
+Kirk Thornton (2): Adam Warlock, Guile
 Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psylocke, Supergirl
 Lex Lang (2): Han Solo, Poe Dameron
 Lou Albano (2): Mario, Mario
@@ -46,6 +47,7 @@ Marc Graue (2): Luigi, Mario
 Mark Hamill (2): Luke Skywalker, Ozai
 Matt Lanter (2): Agent Venom, Anakin Skywalker
 Matthew Mercer (3): Hawkeye, Iron Man, Luke Skywalker
+Michael Donovan (2): Guile, Hulk
 Michael Gough (2): Alfred Pennyworth, Arthur Holmwood
 Neil Patrick Harris (2): Barry Allen, Spider-Man
 Nolan North (5): Beast Boy, Hank Pym, Hawkeye, Iron Man, Magneto
@@ -64,7 +66,7 @@ Tara Strong (5): Barbara Gordon, Blink, Janet van Dyne, Mary Marvel, Scarlet Wit
 Terrence C. Carson (2): Kratos, Mace Windu
 Tom Kane (4): Jim Gordon, Magneto, Ultron, Yoda
 Tom Kenny (2): Anti-Monitor, Ultron
-Travis Willingham (4): Booster Gold, Captain Britain, Hulk, Thor
+Travis Willingham (5): Booster Gold, Captain Britain, Guile, Hulk, Thor
 Troy Baker (3): Alucard, Hawkeye, Loki
 Vanessa Marshall (2): Black Canary, Black Widow
 Wally Wingert (2): Hank Pym, Ultron

@@ -1,3 +1,4 @@
+# Handles person generation for the matches. Moved to a seperate file because it's big as heck.
 import random
 import os
 from all import allFranchises

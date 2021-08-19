@@ -4,7 +4,7 @@ Sting was an Elven short-sword made in Gondolin during the First Age. Bilbo Bagg
 https://static.wikia.nocookie.net/lotr/images/5/5d/Sting_with_scabbard.jpg/revision/latest/scale-to-width-down/700?cb=20140527085852
 https://lotr.fandom.com/wiki/Sting
 Lord of the Rings
-Frodo Baggins,Bilbo Baggins
+Frodo Baggins|Bilbo Baggins
 Elvish-Forged,Shortsword,Sword,Glowing
 Books,Movies
 Weapon|Shortsword

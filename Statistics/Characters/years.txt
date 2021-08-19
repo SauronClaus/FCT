@@ -23,6 +23,7 @@
 29 (3): Beth Johanssen, Captain George Pollard Jr., Kylo Ren
 30 (7): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Ken, Ryu, Sombra
 32 (3): C3PO, Han Solo, Poe Dameron
+34 (1): Guile
 35 (2): Barret Wallace, Obi-Wan Kenobi
 36 (1): Dr. Chris Beck
 37 (1): Allison Blake

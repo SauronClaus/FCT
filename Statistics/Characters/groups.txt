@@ -3,7 +3,7 @@ Aarav Gupta's Permutations (1): Arthail Consumer of Food
 Abby Smetana's Permutations (1): Nahara
 Alpha Flight (3): Aurora, Carol Danvers, Northstar
 Amazons (2): Hippolyta, Wonder Woman
-Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia van Dyne, Scott Lang
+Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
 Ares III Mission Crew (2): Beth Johanssen, Dr. Chris Beck
 Arrowverse Main Cast (1): Barry Allen
 Asgardians (1): Loki
@@ -12,7 +12,7 @@ Ashleigh Smith's Permutations (1): Kareem Par-Al
 Atlantis Crew (Disney) (1): Audrey Ramirez
 Avatars (2): Aang, Korra
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
-Avengers (Extended) (22): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Nadia van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
+Avengers (Extended) (22): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Nadia Van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
 Azula's Capture-the-Avatar Gang (3): Azula, Mai, Ty Lee
@@ -35,7 +35,7 @@ Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
 Camp Half-Blood (4): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
-Champions (Extended) (1): Nadia van Dyne
+Champions (Extended) (1): Nadia Van Dyne
 Champions (Marvel) (Core) (3): Amadeus Cho, Ironheart, Viv Vision
 Champions (Marvel) (Extended) (3): Amadeus Cho, Ironheart, Viv Vision
 Champions (Pokemon) (2): Blue, Red (Pokemon)
@@ -197,6 +197,7 @@ Triwizard Tournament Competitors (1): Fleur Delacour
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 USAvengers (1): Cannonball
 Ultimates (Team) (4): America Chavez, Black Panther, Blue Marvel, Carol Danvers
+United States Military (1): Guile
 Until Dawn Cast (1): Ashley Brown
 Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Valorant Agents (2): Breach, Brimstone

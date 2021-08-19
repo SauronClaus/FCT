@@ -1,3 +1,4 @@
+# Generates an adjective in the specified tier.
 import random
 
 def generateAdjective(tier):

@@ -1,3 +1,7 @@
+# Searches through all the franchises. If the character is incomplete and in the franchises listed in 
+# franchiseSearch, it'll write them under neededCharacters.txt. Otherwise, it'll write them under 
+# addBeforeItBreaks.txt.
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 
@@ -6,7 +10,6 @@ import os
 groupsLarge = {}
 
 writeFile = open("addBeforeItBreaks.txt","w",encoding='utf8')
-write2File = open("franchiseCharacters.txt","w",encoding='utf8')
 franchiseCharacterFile = open("neededCharacters.txt","w",encoding='utf8')
 
 franchiseSearch = ["Persona 3","Persona 4"]
@@ -52,7 +55,6 @@ for letter in alphabet:
                         for artifact in artifacts:
                             artifactList.append(artifact)
                             artifactsIncomplete.append(artifact)
-                write2File.write(franchiseInfo[0] + ": " + characterString[0:len(characterString)-2:] + "\n")
 
 for letter in alphabet:
     basepath = 'Characters/' + letter
@@ -95,5 +97,4 @@ artifactsIncomplete.sort()
 for artifact in artifactsIncomplete:
     writeFile.write("Artifact: " + artifact + "\n")
 
-print("Franchises (" + str(numberFranchises) + "): " + listFranchises[0:len(listFranchises)-2:])
 print("Completed!")

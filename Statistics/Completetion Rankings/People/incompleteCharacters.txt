@@ -1,3 +1,4 @@
+Aigis
 Captain Robert Walton
 Cara Dune
 Carl Hauser
@@ -377,6 +378,7 @@ Major Rick Martinez
 Major William Cage
 Mako
 Makoto Niijima
+Makoto Yuki
 Malcolm Beech
 Mallory Keen
 Mantis

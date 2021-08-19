@@ -188,6 +188,7 @@ Glimmer
 Glynnric Manassnass
 Gran'ma Ben
 Green Arrow
+Guile
 Han Solo
 Hank Pym
 Harbringer
@@ -241,7 +242,7 @@ Medic
 Mercedes
 Mina Harker
 Misty
-Nadia van Dyne
+Nadia Van Dyne
 Nahara
 Northstar
 Obi-Wan Kenobi

@@ -18,7 +18,7 @@ Stone: Cyborg, Walt Stone
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo, Kylo Ren
-van Dyne: Hope van Dyne, Janet van Dyne, Nadia van Dyne
+van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 West: Iris West, Wally West
 Harker: Jonathan Harker, Mina Harker
 Mario: Luigi, Mario

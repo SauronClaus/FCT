@@ -1,3 +1,4 @@
+# Prints every character out into charactersList.txt with their name (as in line 1 of their file) followed by their file's name.
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 import os
 
