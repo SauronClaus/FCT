@@ -1,9 +1,11 @@
+# Remove a tag from everyone who has it. 
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 #alphabet = ["#"]
 tagsFull = {}
 import os
 
-deleteTags = ["Books", "Video Games", "Movies", "TV Shows", "Comic Books", "Superhero Comics", "CGI", "Webcomics", "Webtoons", "Anime", "Graphic Novels", "Manga"]
+deleteTags = ["===="]
 for exitPath in deleteTags:
     charactersReplace = []
     # List all files in a directory using os.listdir
