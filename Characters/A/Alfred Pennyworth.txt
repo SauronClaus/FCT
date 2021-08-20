@@ -19,11 +19,11 @@ High
 Bat-Family (Core),Bat-Family (Extended)
 
 Superhero Comics,Comics
-DC Comics
+DC
 
 Black
-
-
+Servant|Trained|1,Trained Fighter|Modern Soldier|2
+DC
 Sebastian Polge
 
 No

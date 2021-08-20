@@ -22,8 +22,8 @@ Superhero Comics,Comics
 Marvel
 the Venom Symbiote
 Black
-
-
+Trained Fighter|Modern Soldier|2,Super Powers|Symbiote|3,Spider-Powers|Symbiote|3
+Disney
 Sebastian Polge
-
+Agent Venom,Flash Thompson,Flash Thompson (MCU),Venom
 No

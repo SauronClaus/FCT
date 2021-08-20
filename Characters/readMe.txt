@@ -25,7 +25,7 @@ There's 29 lines, in this order. Thoses lines are:
 22. Brand- Kind of the umbrella for the new franchise. The Franchise may be "Prequel Trilogy Star Wars", with the brand being "Star Wars". Or "Avengers" and "Marvel".
 23. Signature Weapon- Thor's got Mjolnir, Edelgard's got Aymr, and Thanos has his Infinity Gauntlet. Any items in here should correspond with an Artifact in artifacts. Seperate them with a "|".
 24. Color- use a name, and then add the color to colors.py as an entry in the dictionary.
-25. Powers, along with the tier of power (tiers going, in order, 1: Baseline (almost useless), 2: Slightly useful, 3: Small town destroying, 4: City destroying, 5: country tackling, 6: hemisphere destroying, 7: world destroying, 8: multi-world destruction, 9: inter-universal destruction, 10: Omniscience)
+25. Powers, along with the subset and tier of power (tiers going, in order, 1: Baseline (almost useless), 2: Slightly useful, 3: Small town destroying, 4: City destroying, 5: country tackling, 6: hemisphere destroying, 7: world destroying, 8: multi-world destruction, 9: inter-universal destruction, 10: Omniscience)
 26. Brand- what's the parent company? (Disney, 20th Century Fox, etc.)
 27. Contributors- the names of the people contributing to this particular file.
 28. Variants- variants of the character (Iron Man Mk. I, Bombastic Bag-Man, etc.) These should mostly be cosmetic- any variants that add changes to the tags will be handled later.

@@ -11,7 +11,7 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
-            if len(characterInfo) == 24:
+            if len(characterInfo) == 29:
                 charactersCompleted.append(characterInfo[0] + " (" + entry[0:len(entry)-4:] + ")")
 
 charactersWriteFile = open("charactersList.txt", "w", encoding='utf8')

@@ -22,8 +22,8 @@ Movies,Horror Movies
 A Nightmare on Elm Street
 
 Gold
-
-
+Dream Powers|Survived Trauma|4
+Classic Horror Movies
 Sebastian Polge
 
 No

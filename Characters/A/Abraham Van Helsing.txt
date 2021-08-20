@@ -22,8 +22,8 @@ Books,Movies
 Dracula Hunters
 
 White
-
-
+Monster Hunter|Trained Monster Hunter|2,Scholar|Monster Scholar|3,Medical Training|Medical Doctor|2
+Literary Classics
 Sebastian Polge
 
 No

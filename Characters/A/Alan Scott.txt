@@ -19,11 +19,11 @@ Medium
 Justice Society of America (Core),Justice Society of America (Extended),Green Lantern Corps
 
 Superhero Comics,Comics
-DC Comics
+DC
 Alan Scott's Ring|The Starheart (DC Comics)
 Green
-
-
+Emotional Spectrum|Willpower|6,Magical Powers|Magical Artifact|3
+DC
 Sebastian Polge
 
 No

@@ -22,8 +22,8 @@ Video Games,VR,CGI
 Half-Life
 
 Alyx Brown
-
-
+Trained Fighter|Modern Soldier|2
+Valve
 Sebastian Polge
 
 No

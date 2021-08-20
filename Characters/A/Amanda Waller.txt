@@ -19,11 +19,11 @@ Low
 Suicide Squad (Core),Suicide Squad (Extended)
 
 Superhero Comics,Comics,Movies
-DC Comics
+DC
 
 Black
-
-
+Charisma|Manipulator|2
+DC
 Sebastian Polge
 
 No

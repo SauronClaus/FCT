@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bender,Earth Bender,Fire Bender,Fire Powers,Frozen in Ice,Ice Powers,Monk,Pacifist,Romantic Subplot|Katara,Water Bender,Water Powers
+Bender,Earth Bender,Fire Bender,Fire Powers,Frozen in Ice,Ice Powers,Monk,Pacifist,Romantic Subplot|Katara,Water Bender,Water Powers,Reincarnation
 City
 High
 The Gaang,Avatars
@@ -22,8 +22,8 @@ Cartoon,TV Shows
 Avatar (TV Show)
 Aang's Glider Staff
 Pale Orange (Aang)
-
-
+Cryokinesis|Water Bending|4,Aerokinesis|Air Bending|4,Terrakinesis|Earth Bending|4,Pyrokinesis|Fire Bending|4,Energykinesis|Energy Bending|4,Elemental Manipulation|Avatar|4,Spiritual Interaction|Avatar-Spirit-Powers|2,Martial Arts|Staff Fighter|3
+Nickelodeon
 Sebastian Polge
-
+Aang's Avatar State,Adult Aang
 No

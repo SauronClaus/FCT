@@ -22,7 +22,7 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
-            if len(characterInfo) == 24:
+            if len(characterInfo) == 29:
                 #print(entry + ": " + str(len(characterInfo)))
                 
                 try:
