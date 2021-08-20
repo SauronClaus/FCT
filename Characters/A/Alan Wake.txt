@@ -22,7 +22,7 @@ Video Games,Horror Games
 Alan Wake
 
 Black
-Reality Warping|Uncontrollable|3,Reality Warping|Writer|1
+Reality Warping|Uncontrollable|3,Reality Warping|Writer|0
 Horror Video Games
 Sebastian Polge
 

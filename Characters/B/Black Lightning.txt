@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Black
-
-
+Lightning Manipulation|Superhero|4
+DC
 Sebastian Polge
 
 No

@@ -22,8 +22,8 @@ Video Games,CGI
 Sonic the Hedgehog
 
 Austin Purple
-
-
+Fisherman|Trained|1
+Sega
 Sebastian Polge
 
 No

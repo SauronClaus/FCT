@@ -22,8 +22,8 @@ TV Shows,Muppets
 The Muppets
 
 Red
-
-
+Musician|Trained|2
+Jim Henson's Muppets
 Sebastian Polge
 
 No

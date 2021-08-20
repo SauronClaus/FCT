@@ -1,26 +1,2 @@
-Kane: Amos Kane, Carter Kane, Sadie Kane
-Rose: Amy Rose, Ruby Rose
-Skywalker: Anakin Skywalker, Darth Vader, Luke Skywalker
-Chase: Annabeth Chase, Magnus Chase
-Weasley: Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
-Williams: Ashley Williams, Ironheart
-Finch: Atticus Finch, Jem Finch, Scout Finch
-Beaubier: Aurora, Northstar
-Gordon: Barbara Gordon, Jim Gordon
+Weasley: Arthur Weasley, Bill Weasley
 Allen: Barry Allen, Bart Allen
-Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
-Carter: Booster Gold, Maxwell
-Braddock: Captain Britain, Psylocke
-Batson: Captain Marvel, Mary Marvel
-Cortez: Carmen Cortez, Juni Cortez
-Lang: Cassie Lang, Scott Lang
-Stone: Cyborg, Walt Stone
-Bone: Fone Bone, Phoney Bone, Smiley Bone
-Harvestar: Gran'ma Ben, Thorn Harvestar
-Solo: Han Solo, Kylo Ren
-van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
-West: Iris West, Wally West
-Harker: Jonathan Harker, Mina Harker
-Mario: Luigi, Mario
-Maximoff: Quicksilver, Scarlet Witch
-El: Superboy Prime, Superman

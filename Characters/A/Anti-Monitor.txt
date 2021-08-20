@@ -22,8 +22,8 @@ Superhero Comics,Comics
 DC
 
 Blue
-
-
+Annihilation|Anti-Matter|8,Super Strength|Inborn|6
+DC
 Sebastian Polge
 
 No

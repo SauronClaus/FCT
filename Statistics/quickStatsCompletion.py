@@ -14,6 +14,7 @@ def quickStatsCompletion():
     needToUpdateCharacters = []
     weirdCharacters = []
     allCharacters = []
+    newCharacterRankings = []
 
     # List all files in a directory using os.listdir
     for letter in alphabet:
@@ -23,7 +24,10 @@ def quickStatsCompletion():
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
                 if len(characterInfo) == 29:
-                    completedCharacters.append(entry[0:len(entry)-4:])
+                    if characterInfo[24] != "":
+                        completedCharacters.append(entry[0:len(entry)-4:])
+                    else:
+                        newCharacterRankings.append(entry[0:len(entry)-4:])
                 else:
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])
@@ -41,12 +45,13 @@ def quickStatsCompletion():
     needToUpdateCharacters.sort()
     weirdCharacters.sort()
     allCharacters.sort()
+    newCharacterRankings.sort()
 
     weirdFile = open("Statistics\\Completetion Rankings\\People\\weirdCharacters.txt", "w", encoding='utf8')
     updateFile = open("Statistics\\Completetion Rankings\\People\\needToUpdateCharacters.txt", "w", encoding='utf8')
     incompleteFile = open("Statistics\\Completetion Rankings\\People\\incompleteCharacters.txt", "w", encoding='utf8')
     completeFile = open("Statistics\\Completetion Rankings\\People\\completedCharacters.txt", "w", encoding='utf8')
-
+    newCharacterRankingsFile = open("Statistics\\Completetion Rankings\\People\\newUpdate.txt", "w", encoding='utf8')
     for character in completedCharacters:
         completeFile.write(character + "\n")
 

@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Red
-
-
+Super-Speed|Heritage|5,Reality Travelling|Vibration|0,Time Travel|Vibration|2
+DC
 Sebastian Polge
-
+Kid Flash,Impulse,The Flash
 No

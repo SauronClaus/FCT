@@ -22,7 +22,7 @@ TV Shows,Children's TV Shows,Muppets
 Sesame Street
 
 Pink
-Fey Magic|Fairy Magic|2
+Magical Powers|Fey Magic|2
 Jim Henson's Muppets
 Sebastian Polge
 

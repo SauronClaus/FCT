@@ -22,8 +22,8 @@ TV Shows,Children's TV Shows,Muppets
 Sesame Street
 
 Yellow
-
-
+Super Strength|Inborn|0,Flight|Wings|0
+Jim Henson's Muppets
 Sebastian Polge
 
 No

@@ -22,8 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 White
-
-
+Genius|Inborn|3
+Disney
 Sebastian Polge
 
 No

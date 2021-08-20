@@ -1,19 +1,10 @@
-0 (7): Abby Cadabby, BB-8, Bean, Big Bird, Olaf, Scout Finch, Seth
-1 (61): Ahsoka Tano, Alex DeLarge, Alex Fierro, Alice Johnson, Aloy, Amy Cahill, Ann Takamaki, Anna, Annabeth Chase, Annette, Araithia Shokta, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Azula, Bernadetta, Big the Cat, Blake Belladonna, Blaze the Cat, Blue, Bolin, Boun, Bow, Brian Robeson, Brock, Candace Flynn, Carter Kane, Catra, Claude, Dedue, Dimitri, Edelgard, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Hilda, Jem Finch, Katara, Korra, Leia Organa, Leo Valdez, Luke Skywalker, Magnus Chase, Mai, Misty, Percy Jackson, Red (Pokemon), Rey, Ron Weasley, Ruby Rose, Sadie Kane, Sokka, Sonic the Hedgehog, Sven, Toph Beifong, Weiss Schnee, Yang Xiao Long, Zia Rashid, Zuko
-2 (24): Adora, Aerith Gainsborough, Alyx, Amy Rose, Anakin Skywalker, Artyom, Ashley Williams, Barry Allen, Beth Johanssen, Bill Weasley, Blitzen, Byleth, Caesar Anthonio Zeppeli, Captain George Pollard Jr., Captain Kirk, Catherine, Chun-Li, Elsa, Finn, Hubert, Kristoff, Kylo Ren, Mercedes, Shamir
-3 (15): Allison Blake, Annie Montrose, Anton Chigurh, Barret Wallace, Barry Wheeler, Bastion, C3PO, Dr. Chris Beck, Guile, Han Solo, Ken, Obi-Wan Kenobi, Poe Dameron, Ryu, Sombra
-4 (8): Alan Wake, Alois, Arthur Weasley, Bard the Bowman, Boromir, Captain Nemo, Darth Vader, Medic
-5 (4): Adam Warlock, Adrian Monk, Bilbo Baggins, Scorpion
-6 (2): Maxwell, Qui-Gon Jinn
-7 (1): Lord Voldemort
-8 (2): Aragorn, Brook
+0 (4): Abby Cadabby, BB-8, Bean, Big Bird
+1 (14): Ahsoka Tano, Alex Fierro, Alice Johnson, Aloy, Amy Cahill, Annabeth Chase, Annette, Araithia Shokta, Ash Ketchum, Ashe, Azula, Bernadetta, Big the Cat, Blake Belladonna
+2 (9): Adora, Aerith Gainsborough, Alyx, Amy Rose, Anakin Skywalker, Artyom, Ashley Williams, Barry Allen, Bill Weasley
+3 (5): Allison Blake, Annie Montrose, Anton Chigurh, Barret Wallace, Bastion
+4 (4): Alan Wake, Alois, Arthur Weasley, Bard the Bowman
+5 (3): Adam Warlock, Adrian Monk, Bilbo Baggins
+8 (1): Aragorn
 10 (1): Arya
-11 (3): Aang, Albus Dumbledore, Kalathos Sunstrider
-12 (1): Brom
+11 (2): Aang, Albus Dumbledore
 15 (1): Akkar
-20 (1): Chewbacca
-89 (1): Yoda
-125 (1): Sothis
-277 (1): Arwen
-356 (1): Calypso
-400 (1): Thanos

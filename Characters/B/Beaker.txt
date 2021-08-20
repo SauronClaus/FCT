@@ -22,8 +22,8 @@ Muppets,TV Shows,Movies
 The Muppets
 
 Orange
-
-
+Invulnerability|Comedic|8
+Jim Henson's Muppets
 Sebastian Polge
 
 No

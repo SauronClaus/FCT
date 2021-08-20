@@ -1,53 +1,42 @@
-Aarav Blue (5): Arthail Consumer of Food, Boromir, Captain Falcon, Captain George Pollard Jr., Seteth
+Aarav Blue (1): Arthail Consumer of Food
 Abigail Purple (2): Abigail, Bernadetta
 Aloy Blue (1): Aloy
 Alucard Yellow-Orange (1): Alucard
 Alyx Brown (1): Alyx
 Amazi-Girl Yellow (1): Amazi-Girl
 Anakin Brown (1): Anakin Skywalker
-Anna Purple (1): Anna
 Applejack Orange (1): Applejack
 Armor (Marvel) Red (1): Armor
-Army Brown (2): Barret Wallace, Bolin
+Army Brown (1): Barret Wallace
 Artyom Orange (1): Artyom
 Ash Ketchum Red (1): Ash Ketchum
 Austin Purple (2): Austin, Big the Cat
-Banjo Brown (1): Banjo
 Banshee Green (1): Banshee
 Batgirl Purple (1): Barbara Gordon
-Beige (4): Adrian Monk, Alan Bradley, Atticus Finch, Finn
-Black (37): Agent Venom, Alan Wake, Alfred Pennyworth, Allison Blake, Ally, Amanda Waller, Anton Chigurh, Aphelios, Arthas Menethil, Atreus, Batman, Bayonetta, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna, Bobby, Bucky Barnes, Buford Van Stomm, Byleth, Captain Ahab, Darth Vader, Dracula, Han Solo, Harry Potter, Hubert, John Seward, Kylo Ren, Lord Voldemort, Mai, Maxwell, Psylocke, Rumy, Shamir, Storm, Walt Stone
-Blond (2): Kristoff, Magnus Chase
-Blue (25): America Chavez, Anti-Monitor, Beast, Blue Marvel, Blue Stupid Rat Creature, Blue, Captain America, Captain Boomerang, Captain Marvel Jr., Chun-Li, Dimitri, Harbringer, Jonathan Harker, Kal-L, Katara, Korra, Misty, Percy Jackson, Quicksilver, Sokka, Sonic the Hedgehog, Superboy Prime, Supergirl, Superman, Ted Kord
-Bone White (4): Bastion, Brook, Kratos, Sadie Kane
-Brock Orange (1): Brock
-Bronze (3): Carter Kane, Leo Valdez, Zia Rashid
-Brown (9): Boun, Brom, Brown Stupid Rat Creature, Cal Kestis, Chewbacca, Jim Gordon, Obi-Wan Kenobi, Qui-Gon Jinn, Sven
-Copper (1): Nahara
-Crimson (12): Amos Kane, Asami Sato, Ashley Brown, Bilbo Baggins, Billy Pilgrim, Catra, Hermione Granger, M. Bison, Ozai, Ruby Rider, Smaug, Wonder Woman
-Dark Green (3): Aragorn, Bard the Bowman, Guile
-Gold (11): Adora, Alexander Luthor Jr., Alice Johnson, Anna Croft, Annabeth Chase, Apollo, Arya, Ashe, Bow, C3PO, Dedue
-Green (15): Alan Scott, Amadeus Cho, Anole, Beast Boy, Bowser, Brainiac 5, Byllemura Ruby-Eye, Green Arrow, Hulk, Loki, Luigi, Pariah, Samirah al-Abbas, Toph Beifong, Yoda
+Beige (3): Adrian Monk, Alan Bradley, Atticus Finch
+Black (16): Agent Venom, Alan Wake, Alfred Pennyworth, Allison Blake, Ally, Amanda Waller, Anton Chigurh, Aphelios, Arthas Menethil, Batman, Bayonetta, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna
+Blue (3): America Chavez, Anti-Monitor, Beast
+Bone White (1): Bastion
+Crimson (3): Amos Kane, Bilbo Baggins, Billy Pilgrim
+Dark Green (2): Aragorn, Bard the Bowman
+Gold (8): Adora, Alexander Luthor Jr., Alice Johnson, Anna Croft, Annabeth Chase, Apollo, Arya, Ashe
+Green (3): Alan Scott, Amadeus Cho, Beast Boy
 Green (Alex Stardew) (1): Alex
-Grey (9): Annie Montrose, Bruce Ng, Captain Nemo, Hope van Dyne, Iroh, Jem Finch, Scout Finch, Ultron, War Machine
-Kerbal-Green (7): Bill Kerman, Bob Kerman, Dr. Bunsen Honeydew, Flayn, Jebediah Kerman, Sothis, Valentina Kerman
-Magenta (1): Iris West
-Military Green (7): Axton, Brick, Captain John H. Miller, Glynnric Manassnass, Kareem Par-Al, Suki, Thorn Harvestar
-Orange (13): Ahsoka Tano, Alex DeLarge, Aquaman, BB-8, Beaker, Beth Johanssen, Candace Flynn, Dr. Chris Beck, Ernie, Juni Cortez, Kalathos Sunstrider, Poe Dameron, Princess Daisy
+Grey (1): Annie Montrose
+Kerbal-Green (1): Bill Kerman
+Military Green (1): Axton
+Orange (4): Ahsoka Tano, Aquaman, BB-8, Beaker
 Orange-Gold (1): Adam Warlock
 Overalls Blue (2): Audrey Ramirez, Baljeet Tjinder
-Pale Blue (2): Amara, Elsa
+Pale Blue (1): Amara
 Pale Orange (Aang) (1): Aang
 Pale Orange (Annette) (1): Annette
-Pale Purple (3): Amethyst, Blaze the Cat, Glimmer
-Pink (10): Abby Cadabby, Alex Fierro, Amy Rose, Araithia Shokta, Blink, Caesar Anthonio Zeppeli, Hilda, Ironheart, Princess Peach, Viv Vision
-Purple (5): Hawkeye, Hippolyta, Mace Windu, Sombra, Thanos
-Red (35): Aerith Gainsborough, Akkar, Akuma, Amy Cahill, Animal, Ann Takamaki, Azula, Barry Allen, Barry Wheeler, Bart Allen, Captain Britain, Captain Marvel, Carol Danvers, Cassie Lang, Doctor Eggman, Edelgard, Falcon, Hank Pym, Iron Lad, Iron Man, Jay Garrick, Kazooie, Ken, Mario, Mary Marvel, Nadia Van Dyne, Red (Pokemon), Ruby Rose, Scarlet Witch, Scott Lang, Spider-Man, Thor, Ty Lee, Vision, Zuko
-Rosalina's Dress (1): Rosalina
-Silver (4): Agatha, Arwen, Athena, Cyborg
-Silver-White (6): Alois, Catherine, Gran'ma Ben, Magneto, R2-D2, Seth
-Turquoise (1): Blitzen
-Weasley Orange (6): Arthur Weasley, Bill Weasley, Breach, Brimstone, Ginny Weasley, Ron Weasley
-White (28): Abraham Van Helsing, Albus Dumbledore, Angel, Arthur Holmwood, Ashley Williams, Aurora, Bentley-23, Brian Robeson, Calypso, Dana Franklin, Fleur Delacour, Fone Bone, Hearthstone, Leia Organa, Luke Skywalker, Medic, Mercedes, Mina Harker, Northstar, Olaf, Phoney Bone, Quincey Morris, Rey, Rhea, Rikk, Ryu, Smiley Bone, Weiss Schnee
-Yellow (16): Akihide Karatsu, Amy Ferrier, Barry B. Benson, Bean, Bert, Big Bird, Booster Gold, Bowser Jr., Cannonball, Captain Kirk, Carmen Cortez, Claude, Janet van Dyne, Scorpion, Wally West, Yang Xiao Long
+Pale Purple (1): Amethyst
+Pink (4): Abby Cadabby, Alex Fierro, Amy Rose, Araithia Shokta
+Red (7): Aerith Gainsborough, Akkar, Amy Cahill, Animal, Azula, Barry Allen, Bart Allen
+Silver (2): Agatha, Athena
+Silver-White (1): Alois
+Weasley Orange (2): Arthur Weasley, Bill Weasley
+White (7): Abraham Van Helsing, Albus Dumbledore, Angel, Arthur Holmwood, Ashley Williams, Aurora, Bentley-23
+Yellow (3): Akihide Karatsu, Bean, Big Bird
 Zemo Purple (1): Baron Zemo

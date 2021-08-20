@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows,Movies
 DC
 Batmobile|Batwing|Batarang
 Black
-
+Detective Skills|Trained|4,Trained Fighter|Superhero|3,Genius|Trained|4,Tactician|Trained|5
 
 Sebastian Polge
-
+Bruce Wayne,Batman
 No

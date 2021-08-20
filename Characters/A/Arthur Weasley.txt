@@ -22,8 +22,8 @@ Books,Movies
 Harry Potter
 
 Weasley Orange
-
-
+Magical Powers|Wizard|5,Scholar|Human Scholar|1
+Classic Modern Books
 Sebastian Polge
 
 No

@@ -22,8 +22,8 @@ Card Game,Books
 Magic: The Gathering
 
 Pink
-
-
+Trained Fighter|Street Ruffian|2,Assassin|Sleeper Agent|2
+Physical Games
 Sebastian Polge
 
 No

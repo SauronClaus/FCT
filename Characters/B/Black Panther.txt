@@ -22,8 +22,8 @@ Superhero Comics,Comics,Movies
 Marvel
 
 Black
-
-
+Trained Fighter|Superhero|3,Genius|Trained|4,Tactician|Trained|4,Enhanced Physical Abilities|Supplement|2
+Disney
 Sebastian Polge
-
+MCU,Comics
 No

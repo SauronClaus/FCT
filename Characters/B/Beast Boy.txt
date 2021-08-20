@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows,Cartoon
 DC
 
 Green
-
-
+Shapeshifter|Super Power|4
+DC
 Sebastian Polge
-
+Comics,DC TV Shows,Teen Titans Go!
 No

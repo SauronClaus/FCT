@@ -22,8 +22,8 @@ Anime,TV Shows
 Pokemon
 Pikachu
 Ash Ketchum Red
-
-
+Pokemon Trainer|Player Character|5
+Nintendo
 Sebastian Polge
-
+Kanto,Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar
 No

@@ -19,11 +19,11 @@ Low
 Alpha Flight,X-Men (Extended)
 
 Superhero Comics,Comics
-Marvel Comics
+Marvel
 
 White
-
-
+Super-Speed|Mutant|5
+Disney
 Sebastian Polge
 
 No

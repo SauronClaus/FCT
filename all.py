@@ -36,7 +36,7 @@ def allPeople():
                 characterInfo = characterFile.read().split("\n")
                 fileName = entry[0:len(entry)-4:]
 
-                if len(characterInfo) == 29:
+                if len(characterInfo) == 29 or len(characterInfo) == 24:
                     characters[fileName] = characterInfo
     return characters
 # Returns a dict of people, with the pair being filename/character info list
