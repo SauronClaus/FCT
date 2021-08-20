@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies
 Marvel
 Mjolnir
 Red
+
+
+Sebastian Polge
+
+No

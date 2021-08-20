@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies,TV Shows
 DC
 Aquaman's Trident
 Orange
+
+
+Sebastian Polge
+
+No

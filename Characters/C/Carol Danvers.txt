@@ -22,3 +22,8 @@ Movies,Superhero Comics,Comics
 Marvel
 
 Red
+
+
+Sebastian Polge
+
+No

@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies
 Marvel
 Captain America's Shield
 Red
+
+
+Sebastian Polge
+
+No
