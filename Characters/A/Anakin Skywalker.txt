@@ -24,6 +24,6 @@ Star Wars
 Anakin Brown
 Trained Fighter|Jedi Knight|3,Force Powers|Jedi|5,Pilot|Trained Pilot|3
 Disney
-Sebastian Polge
+Sebastian
 Child,Jedi Apprentice,Clone Wars
 No

@@ -24,6 +24,6 @@ Harry Potter
 Weasley Orange
 Magical Powers|Wizard|5,Curse Breaker|Trained|2,Archeologist|Magic Archeologist|3
 Classic Modern Books
-Sebastian Polge
+Sebastian
 
 No

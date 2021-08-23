@@ -24,6 +24,6 @@ Band of Fools
 Red
 Trained Fighter|Archer|3,Nature Powers|Inborn Connection|1,Blind Fighter|Inborn|1
 
-Sebastian Polge
+Sebastian
 
 No

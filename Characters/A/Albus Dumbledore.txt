@@ -24,6 +24,6 @@ The Elder Wand
 White
 Magical Powers|Wizard|6,Magical Knowledge|Scholar|5,Scholar|Monster Scholar|3,Scholar|Magic Scholar|5,Wise Man|Old|5
 Modern Classic Books
-Sebastian Polge
+Sebastian
 
 No

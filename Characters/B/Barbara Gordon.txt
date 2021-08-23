@@ -24,6 +24,6 @@ Batarang
 Batgirl Purple
 Detective Skills|Trained|2,Trained Fighter|Superhero|2,Genius|Trained|2,Information Broker|Trained|2,Hacker|Trained|3,Tactician|Trained|1
 DC
-Sebastian Polge
+Sebastian
 Oracle,Batgirl
 No

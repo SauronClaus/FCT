@@ -24,6 +24,6 @@ Star Wars
 Orange
 Hacker|Robot|1,Lightning Manipulation|Robot|1
 Disney
-Sebastian Polge
+Sebastian
 
 No

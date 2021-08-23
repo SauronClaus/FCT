@@ -24,6 +24,6 @@ DC
 Black
 Charisma|Manipulator|2
 DC
-Sebastian Polge
+Sebastian
 
 No

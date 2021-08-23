@@ -24,6 +24,6 @@ Pikachu
 Ash Ketchum Red
 Pokemon Trainer|Player Character|5
 Nintendo
-Sebastian Polge
+Sebastian
 Kanto,Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar
 No

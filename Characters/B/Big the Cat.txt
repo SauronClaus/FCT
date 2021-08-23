@@ -24,6 +24,6 @@ Sonic the Hedgehog
 Austin Purple
 Fisherman|Trained|1
 Sega
-Sebastian Polge
+Sebastian
 
 No
