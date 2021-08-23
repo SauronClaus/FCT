@@ -1,6 +1,8 @@
-1) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1"), variants, creators, company, "Special Tag?".
+1) Minions
+2) Add new franchises to the bot.
+3) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1"), variants, creators, company, "Special Tag?".
     >Replace via powers?
     >Add to people information packets
-2) Artifact replacementing. Fun times.
-3) New files: Variants
-4) New files: Places
+4) Artifact replacementing. Fun times.
+5) New files: Variants
+6) New files: Places

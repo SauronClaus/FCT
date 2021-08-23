@@ -27,7 +27,7 @@ userID = int(tokens[2])
 
 trueToken = testToken
 
-switch = False
+switch = True
 if switch == True:
     trueToken = botToken
 
@@ -43,7 +43,7 @@ async def on_message(message):
     if message.author == client.user:
         return
     if message.author.id == userID:
-        if "*testall" in message.content:
+        if "~testall" in message.content:
             foundName = False
             name = ""
             messageList = message.content.split("-")
@@ -78,14 +78,14 @@ async def on_message(message):
                                 
                             
             print("Completed!")
-        if message.content == "*test artifacts":
+        if message.content == "~test artifacts":
             basepath = 'Artifacts/'
             for entry in os.listdir(basepath):
                 if os.path.isfile(os.path.join(basepath, entry)):
                     if entry != "readMe.txt":
                         embed = infoArtifact(entry[0:len(entry)-4:])
                         await message.channel.send(embed=embed)
-        if message.content == "*test franchises":
+        if message.content == "~test franchises":
 
             alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -100,7 +100,7 @@ async def on_message(message):
                         if len(franchiseInfo) == 16:
                             embed = infoFranchise(entry[0:len(entry)-4:])
                             await message.channel.send(embed=embed)
-        if "*info" in message.content:
+        if "~info" in message.content:
             print("Finding Info!")
             fctPolls = message.channel
             for channel in message.guild.text_channels:
@@ -115,7 +115,7 @@ async def on_message(message):
                 embed = infoPerson(messageParam[1], fctPolls)
                 await message.channel.send(embed=embed)
             print("Completed!")
-        if "*match" in message.content:
+        if "~match" in message.content:
             matchSplit = message.content.split("match ")
             numberOfMatches = 1
             if len(matchSplit) > 1:
