@@ -11,4 +11,4 @@ Weapon|Fishhook
 
 City
 High
-Bone-White
+Bone White

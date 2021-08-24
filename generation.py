@@ -20,7 +20,7 @@ def generate():
                     #print(entry)
                     franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
                     franchiseInfo = franchiseFile.read().split("\n")
-                    if len(franchiseInfo) == 17:
+                    if len(franchiseInfo) == 19:
                         franchises.append(entry[0:len(entry)-4:])
                         if franchiseInfo[15] == "Medium" or franchiseInfo[15] == "High":
                             franchises.append(entry[0:len(entry)-4:])
@@ -46,7 +46,7 @@ def generate():
 
     peopleReplacementOrigs = franchiseInfo[7].split("|") #The original list of people that comes straight from the franchise file.
     antagonistReplacementOrigs = franchiseInfo[8].split("|") #The original list of antagonists that comes straight from the franchise file.
-    artifactReplacementOrigs = franchiseInfo[9].split("|") #The original list of artifacts that comes straight from the franchise file.
+    artifactReplacementOrigs = franchiseInfo[10].split("|") #The original list of artifacts that comes straight from the franchise file.
     
 
     franchiseGroups = allGroups() #a dict of string/list pairs; the string is the group name, the list is the people in the group.

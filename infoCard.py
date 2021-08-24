@@ -93,7 +93,25 @@ def infoPerson(personName, fctPolls):
     if fctPolls != "":
         embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
 
-    embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+    if personInfo[26] != "" and personInfo[26] != "Sebastian":
+        contributorsString = ""
+        contributors = personInfo[26].split(",")
+        if len(contributors) > 2:
+            x = 0
+            print("Length: " + str(len(contributors)))
+            for author in contributors:
+                if x < len(contributors)-1:
+                    contributorsString = contributorsString + author + ", "
+                    x+=1
+                    print("X: " + str(x))
+            contributorsString = contributorsString[0:len(contributorsString)-1:]
+        else:
+            contributorsString = contributors[0]
+            x = 1
+        contributorsString = contributorsString + " and " + contributors[x]
+        embed.set_footer(text="Created by The Invisible Man, with help from " + contributorsString, icon_url="https://i.imgur.com/tce0LOa.jpg")
+    else:
+        embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
 
@@ -178,20 +196,23 @@ def infoFranchise(franchiseName, fctPolls):
     if franchiseInfo[2] != "":
         embed.set_thumbnail(url=franchiseInfo[2])
 
-    embed.color = colors[franchiseInfo[14]]
-    
-    if franchiseInfo[11] != "":
-        embed.add_field(name="Franchise",value=franchiseInfo[11], inline=False)
-
+    embed.color = colors[franchiseInfo[15]]
+    print("Starting Individual Fields.")
     if franchiseInfo[12] != "":
+        embed.add_field(name="Franchise",value=franchiseInfo[12], inline=False)
+        print("Franchise: " + franchiseInfo[12])
+
+    if franchiseInfo[14] != "":
         mediumString = ""
-        for medium in franchiseInfo[12].split(","):
+        for medium in franchiseInfo[14].split(","):
             mediumString = mediumString + medium + ", "
         mediumString = mediumString[0:len(mediumString)-2:]
         embed.add_field(name="Mediums",value=mediumString, inline=True)
+        print("Mediums: " + franchiseInfo[14])
 
-    if franchiseInfo[15] != "":
-        embed.add_field(name="Average Power Level",value=franchiseInfo[15], inline=True)
+    if franchiseInfo[17] != "":
+        embed.add_field(name="Average Power Level",value=franchiseInfo[17], inline=True)
+        print("Average Power Level: " + franchiseInfo[17])
 
     if franchiseInfo[7] != "":
         characterInsertsString = ""
@@ -199,6 +220,7 @@ def infoFranchise(franchiseName, fctPolls):
             characterInsertsString = characterInsertsString + character + ", "
         characterInsertsString = characterInsertsString[0:len(characterInsertsString)-2:]
         embed.add_field(name="Character Inserts",value=characterInsertsString, inline=False)
+        print("Character Inserts: " + characterInsertsString)
 
     if franchiseInfo[8] != "":
         characterInsertsString = ""
@@ -206,22 +228,25 @@ def infoFranchise(franchiseName, fctPolls):
             characterInsertsString = characterInsertsString + character + ", "
         characterInsertsString = characterInsertsString[0:len(characterInsertsString)-2:]
         embed.add_field(name="Antagonist Inserts",value=characterInsertsString, inline=False)
+        print("Antagonist Inserts: " + characterInsertsString)
 
 
-    if franchiseInfo[10] != "":
+
+    if franchiseInfo[11] != "":
         themeSong = "Megalovania|https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL?si=a9791693d4f04223"
-        if len(franchiseInfo[10].split("|")) >= 2:
-            themeSongList = franchiseInfo[10].split(",")
+        if len(franchiseInfo[11].split("|")) >= 2:
+            themeSongList = franchiseInfo[11].split(",")
             RNG = random.randint(0,len(themeSongList)-1)
             themeSong = themeSongList[RNG]
         embed.add_field(name="Theme Song",value="[" + themeSong.split("|")[0] + "](" + themeSong.split("|")[1] + ")")
-
+        print("Theme Song: " + themeSong.split("|")[0])
     if franchiseInfo[4] != "":
         goalsString = ""
         for goal in franchiseInfo[4].split("|"):
             goalsString = goalsString + goal + ", "
         goalsString = goalsString[0:len(goalsString)-2:]
         embed.add_field(name="Normal Goals",value=goalsString, inline=False)
+        print("Normal Goals: " + goalsString)
     
     if franchiseInfo[5] != "":
         goalsString = ""
@@ -229,6 +254,7 @@ def infoFranchise(franchiseName, fctPolls):
             goalsString = goalsString + goal + ", "
         goalsString = goalsString[0:len(goalsString)-2:]
         embed.add_field(name="Stretch Goals",value=goalsString, inline=False)
+        print("Stretch Goals: " + goalsString)
     
     if franchiseInfo[6] != "":
         goalsString = ""
@@ -236,20 +262,42 @@ def infoFranchise(franchiseName, fctPolls):
             goalsString = goalsString + goal + ", "
         goalsString = goalsString[0:len(goalsString)-2:]
         embed.add_field(name="Reach Goals",value=goalsString, inline=False)
+        print("Reach Goals: " + goalsString)
+
     
     if fctPolls != "":
         embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
 
-    embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+    if franchiseInfo[18] != "" and franchiseInfo[18] != "Sebastian":
+        contributorsString = ""
+        contributors = franchiseInfo[18].split(",")
+        if len(contributors) > 2:
+            x = 0
+            print("Length: " + str(len(contributors)))
+            for author in contributors:
+                if x < len(contributors)-1:
+                    contributorsString = contributorsString + author + ", "
+                    x+=1
+                    print("X: " + str(x))
+            contributorsString = contributorsString[0:len(contributorsString)-1:]
+        else:
+            contributorsString = contributors[0]
+            x = 1
+        contributorsString = contributorsString + " and " + contributors[x]
+        embed.set_footer(text="Created by The Invisible Man, with help from " + contributorsString, icon_url="https://i.imgur.com/tce0LOa.jpg")
+    else:
+        embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
 
     return embed
 
-def infoAdjective(adjective):
+def infoAdjective(adjective, fctPolls):
     print("Adjective: " + adjective)
-    if adjective[len(adjective)-1::] != "-":
-        contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
-    else:
-        contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
+    #if adjective[len(adjective)-1::] != "-":
+        #contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
+    #else:
+        #contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
+    
+    contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
     
     contentFull = contentFile.read()
     content = contentFull.split("\n")
@@ -258,7 +306,12 @@ def infoAdjective(adjective):
 
     if not(content[1].startswith("https://www.dictionary.com/")):
         embed.add_field(name="Link",value=content[1], inline=False)
+    if fctPolls != "":
+        embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
+
+    
     embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+    
     return embed
 
 def infoMinions(minionName, fctPolls):

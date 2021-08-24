@@ -16,3 +16,4 @@ Comics,Graphic Novels
 Blue
 Medium
 Modified Human
+Sebastian

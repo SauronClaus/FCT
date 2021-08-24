@@ -108,12 +108,21 @@ async def on_message(message):
                 if channel.name == "fictional-competency-test-polls":
                     print("found #" + channel.name)
                     fctPolls = channel
-            messageParam = message.content[6::].split("-")
-            if messageParam[0] == "artifact" or messageParam[0] == "Artifact":
-                embed = infoArtifact(messageParam[1], fctPolls)
+            info = message.content[6::]
+            if info[0:8:] == "artifact" or info[0:8:] == "Artifact":
+                embed = infoArtifact(info[9:len(info):], "")
                 await message.channel.send(embed=embed)
-            if messageParam[0] == "person" or messageParam[0] == "Person":
-                embed = infoPerson(messageParam[1], fctPolls)
+            if info[0:6:] == "person" or info[0:6:] == "Person":
+                embed = infoPerson(info[7:len(info):], "")
+                await message.channel.send(embed=embed)
+            if info[0:9:] == "franchise" or info[0:9:] == "Franchise":
+                embed = infoFranchise(info[10:len(info):], "")
+                await message.channel.send(embed=embed)
+            if info[0:9:] == "adjective" or info[0:9:] == "Adjective":
+                embed = infoAdjective(info[10:len(info):], "")
+                await message.channel.send(embed=embed)
+            if info[0:7:] == "minions" or info[0:7:] == "Minions":
+                embed = infoMinions(info[8:len(info):], "")
                 await message.channel.send(embed=embed)
             print("Completed!")
         if "~match" in message.content:
@@ -316,7 +325,7 @@ async def on_message(message):
                 if franchiseInfo[2] != "":
                     embed.set_thumbnail(url=franchiseInfo[2])
                 embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
-                embed.color = colors[franchiseInfo[14]]
+                embed.color = colors[franchiseInfo[15]]
 
                 finalMessage = await fctPolls.send(embed=embed)
                 await finalMessage.add_reaction(emoji="✅")
@@ -327,8 +336,6 @@ async def on_message(message):
                 print("Had " + str(len(protagonistAdjectives)) + " adjectives.")
             print("\nCompleted all!")
         if message.content == "~test minions":
-
-
             # List all files in a directory using os.listdir
             basepath = 'Minions/'
             for entry in os.listdir(basepath):

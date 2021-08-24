@@ -1,4 +1,4 @@
-Alright, places! There's 18 lines involved here.
+Alright, places! There's 19 lines involved here.
 
 1. Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
 2. Description- A short description of the franchise, often taken from a wiki or something.
@@ -18,7 +18,7 @@ Alright, places! There's 18 lines involved here.
 16. Color- The color for the franchise embed! Make it purtty. 
 17. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
 18. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
-
+19. Contributors
 
 
 Alright so other important notes: 

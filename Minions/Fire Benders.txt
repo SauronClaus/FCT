@@ -17,7 +17,7 @@ High
 Cartoon,TV Shows
 Avatar (TV Show)
 Crimson
-Pyrokinesis|Fire Bending|4
+Pyrokinesis|Fire Bending|4,Trained Fighters|Industrial Military|2
 Nickelodeon
 Sebastian
 
