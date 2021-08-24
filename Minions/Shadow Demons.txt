@@ -10,7 +10,7 @@ Anti-Monitor
 Horde
 Shadow Demon
 Evil
-Horde,Shadow,Intangible,Anti-Matter
+Horde,Shadow Monsters,Intangible,Anti-Matter
 Modified Human
 Low
 

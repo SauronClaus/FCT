@@ -7,7 +7,7 @@ RWBY
 Weiss Schnee
 Rapier,Sword
 TV Shows,CGI
-Weapons|Rapier
+Weapon|Rapier
 Team RWBY Signature Weapons
 Slightly-Magical
 Low

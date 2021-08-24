@@ -1,11 +1,11 @@
-Beige (1): Avatar The Last Airbender
-Black (2): Crisis on Infinite Earths, Mario Galaxy
-Blue (2): Bone, Harry Potter
-Bone White (1): Kindred (novel)
-Grey (3): Age of Ultron, Avengers I, Captain America Civil War
-Orange (1): Kane Chronicles
-Pale Blue (1): Frozen
-Purple (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-Red (2): Mario 64, RWBY
-White (1): Band of Fools (original)
-Yellow (1): Dracula
+Books (2): Kane Chronicles, Kindred (novel)
+Books,Movies (1): Dracula
+Comics,Graphic Novels (1): Bone
+Dungeons and Dragons (1): Band of Fools (original)
+Movies (3): Age of Ultron, Avengers I, Captain America Civil War
+Movies,Books (1): Harry Potter
+Movies,CGI (1): Frozen
+Superhero Comics,Comics (1): Crisis on Infinite Earths
+TV Shows,CGI (1): RWBY
+TV Shows,Cartoon (1): Avatar The Last Airbender
+Video Games (7): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind), Mario 64, Mario Galaxy

@@ -894,3 +894,5 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
         otherAddedCharacters.append(character)
     print("Completed Generation!\n")
     return [charactersReplacement, reasonSubbing, otherAddedCharacters, peopleAdjectives]
+
+#def genMinions(franchiseName, franchiseInfo):

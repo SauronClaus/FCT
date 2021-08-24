@@ -10,6 +10,7 @@ from infoCard import infoPerson
 from infoCard import infoFranchise
 from infoCard import infoArtifact
 from infoCard import infoAdjective
+from infoCard import infoMinions
 
 from generation import generate
 from colors import colors
@@ -27,7 +28,7 @@ userID = int(tokens[2])
 
 trueToken = testToken
 
-switch = True
+switch = False
 if switch == True:
     trueToken = botToken
 
@@ -325,7 +326,20 @@ async def on_message(message):
                 print("\nCompleted Match #" + str(matchNum) + "!\n")
                 print("Had " + str(len(protagonistAdjectives)) + " adjectives.")
             print("\nCompleted all!")
+        if message.content == "~test minions":
 
+
+            # List all files in a directory using os.listdir
+            basepath = 'Minions/'
+            for entry in os.listdir(basepath):
+                if os.path.isfile(os.path.join(basepath, entry)):
+                    print(entry)
+                    franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
+                    franchiseInfo = franchiseFile.read().split("\n")
+                    if len(franchiseInfo) == 24:
+                        embed = infoMinions(entry[0:len(entry)-4:], message.channel)
+                        await message.channel.send(embed=embed)
+        
 
 
 

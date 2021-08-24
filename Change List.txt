@@ -6,3 +6,4 @@
 4) Artifact replacementing. Fun times.
 5) New files: Variants
 6) New files: Places
+7) New files: Benevolent Organizations (?)

@@ -7,7 +7,7 @@ RWBY
 Yang Xiao Long
 Gauntlet,Ranged,Gun-Hands
 TV Shows,CGI
-Weapons|Gauntlets
+Weapon|Gauntlets
 Team RWBY Signature Weapons
 Slightly Magical
 Low

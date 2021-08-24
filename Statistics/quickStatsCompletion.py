@@ -86,10 +86,10 @@ def quickStatsCompletion():
             if os.path.isfile(os.path.join(basepath, entry)):
                 franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 franchiseInfo = franchiseFile.read().split("\n")
-                if len(franchiseInfo) == 17:
+                if len(franchiseInfo) == 18:
                     completedFranchises.append(entry[0:len(entry)-4:])
                 else:
-                    if len(franchiseInfo) == 7:
+                    if len(franchiseInfo) == 7 or len(franchiseInfo) == 17:
                         needToUpdateFranchises.append(entry[0:len(entry)-4:])
                     else:
                         if len(franchiseInfo) == 2:

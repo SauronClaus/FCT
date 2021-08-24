@@ -1,4 +1,4 @@
-Alright, places! There's 17 lines involved here.
+Alright, places! There's 18 lines involved here.
 
 1. Name- Self explanatory- what the name of the story. Typically, this will also be the file name. 
 2. Description- A short description of the franchise, often taken from a wiki or something.
@@ -9,14 +9,15 @@ Alright, places! There's 17 lines involved here.
 7. Stretch Goals! These goals are the far out ones. Typically, if they're accomplished, the majority of the plot doesn't happen. 
 8. The character inserts! These are splitted with a "|", and just tell the things which characters to replace.
 9. Antagonist Inserts! These are splitted with a "|" as well.
-10. Artifact! The MacGuffin. The "Thing" that everyone wants, be it the Infinity Gauntlet, Loki's Scepter, etc.
-11. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
-12. Franchise- the franchise set. 
-13. Brand- Overarching brand set for the francise.
-14. Medium- What medium is the franchise in?
-15. Color- The color for the franchise embed! Make it purtty. 
-16. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
-17. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
+10. Minion inserts! The minions of the Antagonist. Ya know, that big horde.
+11. Artifact! The MacGuffin. The "Thing" that everyone wants, be it the Infinity Gauntlet, Loki's Scepter, etc.
+12. Theme Song- the theme for the franchise/story. Use the song name|song link from before.
+13. Franchise- the franchise set. 
+14. Brand- Overarching brand set for the francise.
+15. Medium- What medium is the franchise in?
+16. Color- The color for the franchise embed! Make it purtty. 
+17. Popularity (Low, Medium, High)- Be fair here. "Low" is some niche story- a YA novel or some random TV Show, "Medium" is something somewhat known (maybe the name has been heard, if not the properties), and "High" is something extremely well-known, like "Star Wars" or something.
+18. Power Level- What is the average power level of the characters in the franchise? Rough estimate.
 
 
 

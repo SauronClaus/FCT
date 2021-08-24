@@ -7,7 +7,7 @@ RWBY
 Ruby Rose
 Scythe,Gun,Multiple Forms,Tech,Unique
 TV Shows,CGI
-Weapons|Transforming
+Weapon|Transforming
 Team RWBY Signature Weapons
 Slightly-Magical
 Low

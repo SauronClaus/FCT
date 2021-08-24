@@ -1,3 +1,4 @@
-Baseline (3): Dracula, Frozen, Kindred (novel)
-City (9): Age of Ultron, Avatar The Last Airbender, Avengers I, Captain America Civil War, Crisis on Infinite Earths, Harry Potter, Kane Chronicles, Mario 64, Mario Galaxy
-Modified Human (8): Band of Fools (original), Bone, Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind), RWBY
+High (7): Age of Ultron, Avatar The Last Airbender, Avengers I, Captain America Civil War, Dracula, Frozen, Harry Potter
+Low (2): Band of Fools (original), Kindred (novel)
+Medium (6): Bone, Crisis on Infinite Earths, Kane Chronicles, Mario 64, Mario Galaxy, RWBY
+Very Low (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)

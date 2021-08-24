@@ -16,7 +16,7 @@ Female
 Cryokinesis,Disney Princess,Elemental,Ice Powers,Magic User,Musical,Royalty,Siblings|Elsa,Traumatized
 Country
 High
-Frozen Quintent
+Frozen Quintent,Disney Princesses
 Let It Go|https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo?si=f67201ff08134273
 CGI,Movies
 Frozen

@@ -1,10 +1,13 @@
-Video Games (7): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind), Mario 64, Mario Galaxy
-Movies (6): Age of Ultron, Avengers I, Captain America Civil War, Dracula, Frozen, Harry Potter
-Books (4): Dracula, Harry Potter, Kane Chronicles, Kindred (novel)
-TV Shows (2): Avatar The Last Airbender, RWBY
-Comics (2): Bone, Crisis on Infinite Earths
-CGI (2): Frozen, RWBY
-Cartoon (1): Avatar The Last Airbender
-Dungeons and Dragons (1): Band of Fools (original)
-Graphic Novels (1): Bone
-Superhero Comics (1): Crisis on Infinite Earths
+Fire Emblem (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+Marvel (3): Age of Ultron, Avengers I, Captain America Civil War
+Mario (2): Mario 64, Mario Galaxy
+Avatar (TV Show) (1): Avatar The Last Airbender
+Band of Fools (1): Band of Fools (original)
+Bone (1): Bone
+DC (1): Crisis on Infinite Earths
+Dracula (1): Dracula
+Frozen (1): Frozen
+Harry Potter (1): Harry Potter
+Percy Jackson and the Olympians (1): Kane Chronicles
+Kindred (1): Kindred (novel)
+RWBY (1): RWBY
