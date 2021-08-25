@@ -22,8 +22,8 @@ Video Games
 Pokemon
 
 Brock Orange
-
-
+Summoner|Pokemon Trainer|2,Pokemon|Steelix|3,Pokemon|Geodude|3,Pokemon|Crobat|3,Pokemon|Sudowoodo|3,Pokemon|Comfey|3,Pokemon|Croagunk|3
+Nintendo
 Sebastian
 
 No

@@ -22,8 +22,8 @@ Video Games,CGI
 Mario
 
 Yellow
-
-
+Gadget-Man|Inventor|3,Fire Breath|Inborn|1,Magical Powers|Trained|1
+Nintendo
 Sebastian
 
 No

@@ -22,8 +22,8 @@ Movies,Superhero Comics,TV Shows,Comics
 DC
 The Lasso of Truth|Bracelets of Submission
 Crimson
-
-
-Sebastian
+Trained Fighter|Warrior|3,Enhanced Physical Abilities|Blessed by Gods|4,Magical Powers|Inborn|1
+DC
+Sebastian,Ethan
 
 No

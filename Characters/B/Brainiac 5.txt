@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 Legion Flight Ring
 Green
-
-
+Gadget-Man|Inventor|4,Tech Master|Inventor|4,Genius|Inborn|5
+DC
 Sebastian
 
 No

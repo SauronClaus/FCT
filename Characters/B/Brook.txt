@@ -22,8 +22,8 @@ Anime,Manga
 One Piece
 
 Bone White
-
-
+Trained Fighter|Adventurer|2,Swordsman|Pirate|3,Musician|Trained|4,Magical Powers|Musician|1,Immortal|Regenerative|3
+Weekly Shonen Jump
 Sebastian
 
 No

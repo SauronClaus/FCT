@@ -23,7 +23,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     maxPowerLevel = -1
     for powerLevel in powerLevelsDict.values():
         maxPowerLevel = powerLevel
-    print("Max Power Level: " + str(maxPowerLevel))
+    print("Max Power Level: " + str(maxPowerLevel) + "\n")
     franchiseGroups = allGroups() #a dict of string/list pairs; the string is the group name, the list is the people in the group.
     people = allPeople()
     
@@ -54,6 +54,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     # file. 
 
     if groupReplacementRNG == 4 and len(groupsCanReplace) > 0:
+        print("Replacing via groups.")
         groupPowerLevels = {}
         for group in endValidGroups:
             for personGroupMember in franchiseGroups[group]:
@@ -282,6 +283,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     replacedViaTags = []
     for person in peopleReplacementOrigs:
         if charactersReplacement[person] == "Incomplete":
+            x = 1
+            print("Began generating replacements for " + person + ".")
             escapeCharacter = ":("
             while escapeCharacter == ":(":
                 currentPowerLevel = powerLevelsDict[people[person][16]]
@@ -303,13 +306,14 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                 RNGRandomSwapper = random.randint(1,100)
 
                 if RNGRandomSwapper <= 3:
+                    #print("Chose full random")
                     RNG = random.randint(0,len(people)-1)
                     peopleList = []
                     for person2 in people.keys():
                         peopleList.append(person2)
                     if not(peopleList[RNG] in charactersReplacement.values()) and not(peopleList[RNG] in charactersReplacement.keys()) and not(peopleList[RNG] in otherAddedCharacters) and antagonists != True and people[peopleList[RNG]][28] != "No Sub In":
                         charactersReplacement[person] = peopleList[RNG]
-                        print("Subbing " + charactersReplacement[person] + " for " + person + " (full random)")
+                        print("\tSubbing " + charactersReplacement[person] + " for " + person + " (full random)")
                         reasonSubbing[person] = ["Full Random", ""]
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
@@ -358,11 +362,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
                                 if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
-                                    swapList = chooseCharacter(taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
+                                    swapList = chooseCharacter(people, False,  taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
                             if len(swapList) > 0:
                                 RNG = random.randint(0,len(swapList)-1)
                                 charactersReplacement[person] = swapList[RNG]
-                                print("Subbing " + charactersReplacement[person] + " for " + person + " (tags: " + typesOfTags[tagRNG] + ")")
+                                print("\tSubbing " + charactersReplacement[person] + " for " + person + " (tags: " + typesOfTags[tagRNG] + ")")
                                 reasonSubbing[person] = ["Tags", typesOfTags[tagRNG]]
 
                                 subbedPowerLevel = powerLevelsDict[people[swapList[RNG]][16]]
@@ -390,7 +394,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 taggedMatcheePowerLevel = powerLevelsDict[people[taggedMatchee][16]]
                                 if not(taggedMatchee in charactersReplacement.values()) and not(taggedMatchee in charactersReplacement.keys()) and not(taggedMatchee in otherAddedCharacters) and taggedMatcheePowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[taggedMatchee][17]
-                                    swapList = chooseCharacter(taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
+                                    swapList = chooseCharacter(people, False,  taggedMatchee, taggedMatcheePowerLevel, currentPowerLevel, taggedMatchRarity, swapList)
 
                             if len(swapList) > 0:
 
@@ -436,9 +440,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                                     charactersReplacement[finalSecondCharacter] = finalSecondCharacterSub
                                     charactersReplacement[person] = replaceCharacter
-                                    print("Subbing " + charactersReplacement[person] + " for " + person + " (duo tags: " + typesOfDuoTags[tagRNG] + ")")
+                                    print("\tSubbing " + charactersReplacement[person] + " for " + person + " (duo tags: " + typesOfDuoTags[tagRNG] + ")")
 
-                                    print("Subbing " + finalSecondCharacterSub + " for " + finalSecondCharacter + " (second character duo tags: " + typesOfDuoTags[tagRNG] + ")")
+                                    print("\tSubbing " + finalSecondCharacterSub + " for " + finalSecondCharacter + " (second character duo tags: " + typesOfDuoTags[tagRNG] + ")")
                                     escapeCharacter = ":)"
                                     replacedViaTags.append(person)
                                     replacedViaTags.append(finalSecondCharacter)
@@ -493,7 +497,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if people[character][5] == firstName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
+                                        nameSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
                                 if len(nameSharers) >= 1:
                                     RNG = random.randint(0,len(nameSharers)-1)
                                     subCharacter = nameSharers[RNG]
@@ -514,7 +518,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if people[character][6] == lastName and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
+                                        nameSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
 
                                 if len(nameSharers) >= 1:
                                     RNG = random.randint(0,len(nameSharers)-1)
@@ -535,7 +539,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     characterPowerLevel = powerLevelsDict[people[character][16]]
                                     if subAlias in aliases and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                         taggedMatchRarity = people[character][17]
-                                        nameSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
+                                        nameSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, nameSharers)
                             if len(nameSharers) >= 1:
                                 RNG = random.randint(0,len(nameSharers)-1)
                                 subCharacter = nameSharers[RNG]
@@ -547,7 +551,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 namesChecked.remove("Aliases")
                             #print("Alias complete!")
                     if subCharacter != "None":
-                        print("Subbing " + subCharacter + " for " + person + " (names: " + nameShared + ")")
+                        print("\tSubbing " + subCharacter + " for " + person + " (names: " + nameShared + ")")
                         reasonSubbing[person] = ["Names", nameShared]
                         charactersReplacement[person] = subCharacter
 
@@ -566,8 +570,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
-                    else:
-                        print("Names were an ultimate failure.")
+                    #else:
+                        #print("Names were an ultimate failure.")
                 # Names
                 if RNGRandomSwapper > 42 and RNGRandomSwapper <= 49:
                     #print("Replacing " + person + " with actors.")
@@ -584,14 +588,14 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 characterPowerLevel = powerLevelsDict[people[character][16]]
                                 if subActor in actors and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                     taggedMatchRarity = people[character][17]
-                                    actorSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorSharers)
-                                    actorList = chooseCharacter(subActor, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorList)
+                                    actorSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorSharers)
+                                    actorList = chooseCharacter(people, True,  subActor, characterPowerLevel, currentPowerLevel, taggedMatchRarity, actorList)
                     if len(actorSharers) >= 1:
                         RNG = random.randint(0,len(actorSharers)-1)
                         subCharacter = actorSharers[RNG]
                         actorFinal = actorList[RNG]
                     if subCharacter != "None":
-                        print("Subbing " + subCharacter + " for " + person + " (actors: " + actorFinal + ")")
+                        print("\tSubbing " + subCharacter + " for " + person + " (actors: " + actorFinal + ")")
                         reasonSubbing[person] = ["Actors", actorFinal]
                         charactersReplacement[person] = subCharacter
 
@@ -610,8 +614,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
-                    else:
-                        print("Actors were an ultimate failure.")
+                    #else:
+                        #print("Actors were an ultimate failure.")
                 # Actors
                 if RNGRandomSwapper > 49 and RNGRandomSwapper <= 56:
                     #print("Replacing " + person + " with type/occupation.")
@@ -624,11 +628,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][10] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                actorSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
+                                actorSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
                         if len(roleSharers) >= 1:
                             RNG = random.randint(0,len(roleSharers)-1)
                             subCharacter = roleSharers[RNG]
-                            print("Subbing " + subCharacter + " for " + person + " (types: " + role + ")")
+                            print("\tSubbing " + subCharacter + " for " + person + " (types: " + role + ")")
                             reasonSubbing[person] = ["Type", role]
                             
                             charactersReplacement[person] = subCharacter
@@ -658,11 +662,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][13] == role and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                roleSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
+                                roleSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, roleSharers)
                         if len(roleSharers) >= 1:
                             RNG = random.randint(0,len(roleSharers)-1)
                             subCharacter = roleSharers[RNG]
-                            print("Subbing " + subCharacter + " for " + person + " (roles: " + role + ")")
+                            print("\tSubbing " + subCharacter + " for " + person + " (roles: " + role + ")")
                             reasonSubbing[person] = ["Roles", role]
                             charactersReplacement[person] = subCharacter
                             subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -690,11 +694,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][12] == alignment and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                alignmentShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, alignmentShared)
+                                alignmentShared = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, alignmentShared)
                         if len(alignmentShared) >= 1:
                             RNG = random.randint(0,len(alignmentShared)-1)
                             subCharacter = alignmentShared[RNG]
-                            print("Subbing " + subCharacter + " for " + person + " (alignment: " + alignment + ")")
+                            print("\tSubbing " + subCharacter + " for " + person + " (alignment: " + alignment + ")")
                             reasonSubbing[person] = ["Alignment", alignment]
                             charactersReplacement[person] = subCharacter
                             subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -721,11 +725,11 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             characterPowerLevel = powerLevelsDict[people[character][16]]
                             if people[character][14] == gender and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                genderShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, genderShared)
+                                genderShared = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, genderShared)
                         if len(genderShared) >= 1:
                             RNG = random.randint(0,len(genderShared)-1)
                             subCharacter = genderShared[RNG]
-                            print("Subbing " + subCharacter + " for " + person + " (gender: " + gender + ")")
+                            print("\tSubbing " + subCharacter + " for " + person + " (gender: " + gender + ")")
                             reasonSubbing[person] = ["Gender", gender]
                             charactersReplacement[person] = subCharacter
                             subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -753,12 +757,12 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
 
                             if people[character][11] == race and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                raceShared = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, raceShared)
+                                raceShared = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, raceShared)
 
                         if len(raceShared) >= 1:
                             RNG = random.randint(0,len(raceShared)-1)
                             subCharacter = raceShared[RNG]
-                            print("Subbing " + subCharacter + " for " + person + " (race: " + race + ")")
+                            print("\tSubbing " + subCharacter + " for " + person + " (race: " + race + ")")
                             reasonSubbing[person] = ["Race", race]
                             charactersReplacement[person] = subCharacter
                             subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -789,14 +793,14 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             characterPowerLevel = powerLevelsDict[people[character][16]]
                             if subMedium in mediums and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                 taggedMatchRarity = people[character][17]
-                                mediumSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumSharers)
-                                mediumList = chooseCharacter(subMedium, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumList)
+                                mediumSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumSharers)
+                                mediumList = chooseCharacter(people, True, subMedium, characterPowerLevel, currentPowerLevel, taggedMatchRarity, mediumList)
                     if len(mediumSharers) >= 1:
                         RNG = random.randint(0,len(mediumSharers)-1)
                         subCharacter = mediumSharers[RNG]
                         mediumFinal = mediumList[RNG]
                     if subCharacter != "None":
-                        print("Subbing " + subCharacter + " for " + person + " (medium: " + mediumFinal + ")")
+                        print("\tSubbing " + subCharacter + " for " + person + " (medium: " + mediumFinal + ")")
                         reasonSubbing[person] = ["Mediums", mediumFinal]
                         charactersReplacement[person] = subCharacter
                         subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
@@ -812,8 +816,8 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 print("Added " + adjective + "to " + subCharacter + ".")
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
-                    else:
-                        print("Mediums were an ultimate failure.")
+                    #else:
+                        #print("Mediums were an ultimate failure.")
                 # Medium
                 if RNGRandomSwapper > 91 and RNGRandomSwapper <= 98:
                     #print("Replacing " + person + " with age.")
@@ -834,7 +838,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                         characterPowerLevel = powerLevelsDict[people[character][16]]
                                         if people[character][9].split("|")[0] == years and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                             taggedMatchRarity = people[character][17]
-                                            yearsSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, yearsSharers)
+                                            yearsSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, yearsSharers)
 
                                     if len(yearsSharers) >= 1:
                                         RNG = random.randint(0,len(yearsSharers)-1)
@@ -857,7 +861,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                             characterPowerLevel = powerLevelsDict[people[character][16]]
                                             if people[character][9].split("|")[1] == decades and character != person and not(character in charactersReplacement.values()) and not(character in charactersReplacement.keys()) and not(character in otherAddedCharacters) and characterPowerLevel in range(0,currentPowerLevel+2):
                                                 taggedMatchRarity = people[character][17]
-                                                decadeSharers = chooseCharacter(character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, decadeSharers)
+                                                decadeSharers = chooseCharacter(people, False,  character, characterPowerLevel, currentPowerLevel, taggedMatchRarity, decadeSharers)
 
                                     if len(decadeSharers) >= 1:
                                         RNG = random.randint(0,len(decadeSharers)-1)
@@ -871,11 +875,13 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 #print("Last name complete!")
                                     #print("Alias complete!")
                     if subCharacter != "None":
-                        print("Subbing " + subCharacter + " for " + person + " (years: " + ageShared + " (" + ageType + ")" + ")")
+                        print("\tSubbing " + subCharacter + " for " + person + " (years: " + ageShared + " (" + ageType + ")" + ")")
                         reasonSubbing[person] = ["Ages", ageType + "|" + ageShared]
                         charactersReplacement[person] = subCharacter
+                        
                         subbedPowerLevel = powerLevelsDict[people[subCharacter][16]]
                         originalPowerLevel = powerLevelsDict[people[person][16]]
+
                         if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
                             adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
                             if adjectiveIdealValue > 4:
@@ -885,13 +891,14 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 adjective = generateAdjective(adjectiveTier)
                                 peopleAdjectives[subCharacter] = adjective
                                 print("Added " + adjective + "to " + subCharacter + ".")
+
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
-                    else:
-                        print("Ages were an ultimate failure.")
+                    #else:
+                        #print("Ages were an ultimate failure.")
                 # Age
                 if RNGRandomSwapper > 98:
-                    #print(person + " stays the same")
+                    print(person + " stays the same")
 
                     charactersReplacement[person] = person
                     print("Not subbing " + charactersReplacement[person] + " for " + person + " (no change)")
@@ -900,6 +907,9 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     escapeCharacter = ":)"
                     replacedViaTags.append(person)
                 # Static
+                if escapeCharacter == ":(":
+                    print("\tGeneration #" + str(x) + " failed, attempting again.")
+                    x+=1
     for character in charactersReplacement.keys():
         otherAddedCharacters.append(character)
     for character in charactersReplacement.values():
@@ -908,8 +918,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     return [charactersReplacement, reasonSubbing, otherAddedCharacters, peopleAdjectives]
 
 def genMinions(franchiseName, franchiseInfo):
+    print("Generating Minions!")
     origMinions = franchiseInfo[9].split("|")
     minions = allMinions()
+    people = minions
     replacements = {}
     reasonsForSubs = {}
     minionAdjectives = {}
@@ -930,8 +942,8 @@ def genMinions(franchiseName, franchiseInfo):
                 if RNGPicker <= 5:
                     subMinionList = []
                     for subMinion in minions.keys():
-                        if subMinion != origMinion:
-                            subMinionList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], subMinionList)
+                        if subMinion != origMinion and not(subMinion in connectedMinions):
+                            subMinionList = chooseCharacter(people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], subMinionList)
                     
                     RNG = random.randint(0,len(subMinionList)-1)
 
@@ -987,8 +999,8 @@ def genMinions(franchiseName, franchiseInfo):
                         swapList = []
                         for subMinion in tags[chosenTag]:
                             subMinionInfo = minions[subMinion]
-                            if subMinion != origMinion:
-                                swapList = chooseCharacter(subMinion, powerLevelsDict[subMinionInfo[13]], powerLevelsDict[minionsInfo[13]], subMinionInfo[14], swapList)
+                            if subMinion != origMinion and not(subMinion in connectedMinions):
+                                swapList = chooseCharacter(people, False,  subMinion, powerLevelsDict[subMinionInfo[13]], powerLevelsDict[minionsInfo[13]], subMinionInfo[14], swapList)
                         if len(swapList) > 0:
                             if len(swapList) > 1:
                                 RNG = random.randint(0,len(swapList)-1)
@@ -1017,8 +1029,8 @@ def genMinions(franchiseName, franchiseInfo):
                 if RNGPicker > 40 and RNGPicker <= 55:
                     typeList = []
                     for subMinion in minions.keys():
-                        if minions[subMinion][9] == minionsInfo[9] and subMinion != origMinion:
-                            typeList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], typeList)
+                        if minions[subMinion][9] == minionsInfo[9] and subMinion != origMinion and not(subMinion in connectedMinions):
+                            typeList = chooseCharacter(people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], typeList)
 
                     if len(typeList) > 0:
                         if len(typeList) > 1:
@@ -1052,8 +1064,8 @@ def genMinions(franchiseName, franchiseInfo):
                 if RNGPicker > 55 and RNGPicker <= 70:
                     raceList = []
                     for subMinion in minions.keys():
-                        if minions[subMinion][10] == minionsInfo[10] and subMinion != origMinion:
-                            raceList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], raceList)
+                        if minions[subMinion][10] == minionsInfo[10] and subMinion != origMinion and not(subMinion in connectedMinions):
+                            raceList = chooseCharacter(people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], raceList)
                     if len(raceList) > 0:
                         if len(raceList) > 1:
                             RNG = random.randint(0,len(raceList)-1)
@@ -1086,8 +1098,8 @@ def genMinions(franchiseName, franchiseInfo):
                 if RNGPicker > 70 and RNGPicker <= 85:
                     alignList = []
                     for subMinion in minions.keys():
-                        if minions[subMinion][11] == minionsInfo[11] and subMinion != origMinion:
-                            alignList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], alignList)
+                        if minions[subMinion][11] == minionsInfo[11] and subMinion != origMinion and not(subMinion in connectedMinions):
+                            alignList = chooseCharacter(people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], alignList)
 
                     if len(alignList) > 0:
                         if len(alignList) > 1:
@@ -1123,8 +1135,8 @@ def genMinions(franchiseName, franchiseInfo):
                     for medium in minionsInfo[16].split(","):
                         newMediumList = []
                         for subMinion in minions.keys():
-                            if medium in minions[subMinion][16].split(",") and subMinion != origMinion:
-                                newMediumList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], newMediumList)
+                            if medium in minions[subMinion][16].split(",") and subMinion != origMinion and not(subMinion in connectedMinions):
+                                newMediumList = chooseCharacter(people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], newMediumList)
                         mediums[medium] = newMediumList
                     
                     mediers = []
@@ -1170,10 +1182,11 @@ def genMinions(franchiseName, franchiseInfo):
                                     adjective = generateAdjective(adjectiveTier)
                                     minionAdjectives[origMinion] = adjective
                                     print("Added " + adjective + "to " + origMinion + ".")
-                            escapeCharacter = ":)"
-                        
+                            escapeCharacter = ":)"       
                 # Medium
         else:
             replacements[origMinion] = origMinion
             reasonsForSubs[origMinion] = ["No Change"]
+    print("Completed Generation!\n")
+
     return [replacements, reasonsForSubs, minionAdjectives]

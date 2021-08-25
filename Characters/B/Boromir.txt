@@ -22,8 +22,8 @@ Books,Movies
 Lord of the Rings
 
 Aarav Blue
-
-
+Trained Fighter|Warrior|2
+Classic Fantasy Novels
 Sebastian
 
 No

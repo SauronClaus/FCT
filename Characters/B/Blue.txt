@@ -14,7 +14,7 @@ Good
 Rival
 Male
 Champion,Duo|Red (Pokemon),Gym Leader,Kanto,Pokemon Trainer
-Baseline
+City
 High
 Champions (Pokemon),Kanto Gym Leaders
 
@@ -22,8 +22,8 @@ Video Games
 Pokemon
 
 Blue
-
-
+Summoner|Pokemon Trainer|4,Pokemon|Pidgeot|3,Pokemon|Exeggutor|3,Pokemon|Gyarados|3,Pokemon|Alakazam|3,Pokemon|Blastoise|3,Pokemon|Machamp|3
+Nintendo
 Sebastian
 
 No

@@ -22,8 +22,8 @@ Movies,CGI
 Raya and the Last Dragon
 
 Brown
-
-
+Chef|Inborn|2
+Disney
 Sebastian
 
 No

@@ -14,7 +14,7 @@ Good
 Protagonist
 Male
 Animorphic,Duo|Kazooie,Non-Human,Platformer,Super Smash Bros,Super Smash Bros Ultimate DLC
-City
+Modified Human
 Low
 Super Smash Bros,Super Smash Bros DLC
 
@@ -22,8 +22,8 @@ Video Games
 Banjo & Kazooie
 
 Banjo Brown
-
-
+Magical Powers|Allies|2,Enhanced Physical Abilities|Inborn|2
+Rare
 Sebastian
 
 No

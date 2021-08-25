@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Forgotten Hero,Genius,Powerhouse,Ultimates (Team)
+Forgotten Hero,Genius,Powerhouse,Ultimates (Team),African American
 Country
 Low
 Ultimates (Team)
@@ -22,8 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Blue
-
-
+Enhanced Physical Abilities|Superhero|4,Genius|Inborn|4
+Disney
 Sebastian
 
 No

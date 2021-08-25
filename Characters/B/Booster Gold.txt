@@ -22,8 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 Skeets|Legion Flight Ring
 Yellow
-
-
+Time Travel|Artifact|3,Trained Fighter|Superhero|2,Force Field|Artifact|2,Flight|Artifact|2
+DC
 Sebastian
 
 No

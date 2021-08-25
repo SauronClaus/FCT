@@ -80,5 +80,18 @@ def generate():
     info = []
     if franchiseInfo[9] != "":
         info = genMinions(franchiseName, franchiseInfo)
+
+    if len(info) > 1:
+        print("\nFinal Generation Minions: ")
+        for minion in info[0].keys():
+            if len(info[1][minion]) > 1:
+                print(minion + " was substituted with " + info[0][minion] + " via " + info[1][minion][0] + " (" + info[1][minion][1] + ")")
+            else:
+                print(minion + " was substituted with " + info[0][minion] + " via " + info[1][minion][0])
+
+
+
+    
     return[listen, listenAntag, [franchiseName,franchiseInfo], info]
+
     # These are the heavy ones. These are always active, and serve to stick in the people when need be. 

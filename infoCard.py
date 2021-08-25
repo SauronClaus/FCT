@@ -93,7 +93,7 @@ def infoPerson(personName, fctPolls):
     if fctPolls != "":
         embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
 
-    if personInfo[26] != "" and personInfo[26] != "Sebastian":
+    if personInfo[26] != "" and personInfo[26] != "Sebastian" and len(personInfo) > 24:
         contributorsString = ""
         contributors = personInfo[26].split(",")
         if len(contributors) > 2:
@@ -106,9 +106,15 @@ def infoPerson(personName, fctPolls):
                     print("X: " + str(x))
             contributorsString = contributorsString[0:len(contributorsString)-1:]
         else:
-            contributorsString = contributors[0]
-            x = 1
-        contributorsString = contributorsString + " and " + contributors[x]
+            if len(contributors) == 2:
+                contributorsString = contributors[0]
+                x = 1
+            else:
+                x=0
+        if len(contributors) > 1:
+            contributorsString = contributorsString + " and " + contributors[x]
+        else:
+            contributorsString = contributors[x]
         embed.set_footer(text="Created by The Invisible Man, with help from " + contributorsString, icon_url="https://i.imgur.com/tce0LOa.jpg")
     else:
         embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
