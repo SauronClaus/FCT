@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Vampire Hunter,Billionare,Nobility
+Billionare,Monster Hunter,Nobility
 Baseline
 Low
 Dracula Hunters
@@ -22,3 +22,8 @@ Books,Movies
 Dracula
 
 White
+Monster Hunter|Accidental|2
+Classic Books
+Sebastian
+
+No

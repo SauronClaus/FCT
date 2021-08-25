@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Ultimates (Team),African-American,Tech,Nobility,Royalty,King,Genius,Married|Storm,Cat-Themed
+African American,Avengers,Cat-Themed,Genius,King,Married|Storm,Nobility,Royalty,Ruler,Tech,Ultimates (Team)
 Modified Human
 High
 Avengers (Core),Avengers (Extended),Ultimates (Team),Fantastic Four (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies
 Marvel
 
 Black
+Trained Fighter|Superhero|3,Genius|Trained|4,Tactician|Trained|4,Enhanced Physical Abilities|Supplement|2
+Disney
+Sebastian
+MCU,Comics
+No

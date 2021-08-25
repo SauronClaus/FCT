@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Siblings|Psylocke,Country-Themed,Patriotism,Britain-Themed,Captain Britain
+Britain-Themed,Captain Britain,Country-Themed,Patriotism,Siblings|Psylocke
 Country
 Low
 Avengers (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Red
+
+
+Sebastian
+
+No

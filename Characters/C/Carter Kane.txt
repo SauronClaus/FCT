@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Sorcerer,Magic User,Blood of Pharaohs,Eye of Horus
+Blood of Pharaohs,Egyptian Gods,Eye of Horus,Magic User,Romantic Subplot|Zia Rashid,Siblings|Sadie Kane,Sorcerer
 City
 Medium
 Twenty-First Nome,House of Life,Kanes
@@ -22,3 +22,8 @@ Books
 Percy Jackson and the Olympians
 
 Bronze
+
+
+Sebastian
+
+No

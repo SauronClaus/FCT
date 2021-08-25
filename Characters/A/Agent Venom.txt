@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Reformed,Superhero,Symbiote,Guardians of the Galaxy,Avengers,Reformed Villain
+Avengers,Guardians of the Galaxy,Reformed,Superheroes,Symbiote
 City
 Low
 Guardians of the Galaxy (Extended),Avengers (Extended),Symbiote Squad
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 the Venom Symbiote
 Black
+Trained Fighter|Modern Soldier|2,Super Powers|Symbiote|3,Spider-Powers|Symbiote|3
+Disney
+Sebastian
+Agent Venom,Flash Thompson,Flash Thompson (MCU),Venom
+No

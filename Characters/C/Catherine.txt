@@ -1,11 +1,11 @@
-Catherine Rubens Charon
+Catherine
 Fire Emblem: Three Houses
 Catherine is a character from Fire Emblem: Three Houses. She is a Knight of Seiros, and she can train Byleth in the Swords and Brawling skills. She possesses a Major Crest of Charon. She is 27 years old at the start of the game.
 https://static.wikia.nocookie.net/fireemblem/images/f/f7/Catherine_Heroes.png/revision/latest/scale-to-width-down/700?cb=20201019083426
 https://fireemblem.fandom.com/wiki/Catherine
 Catherine
 Charon
-Catherine Charon|Thunder Catherine|Thunderstrike Cassandra
+Catherine Charon|Thunder Catherine|Thunderstrike Cassandra|Catherine Rubens Charon
 Chie Matsuura|Laura Post
 27|2
 Knight
@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Swordsman,Loud,Relic,Knights of Seiros,Yin & Yang|Shamir
+Knights of Seiros (Fire Emblem),Loud,Relic,Swordsman,Yin & Yang|Shamir
 Baseline
 Low
 Knights of Seiros
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 Thunderbrand
 Silver-White
+
+
+Sebastian
+
+No

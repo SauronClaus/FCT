@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Archer,Quiet,Knights of Seiros,Yin & Yang|Catherine
+Archer,Knights of Seiros (Fire Emblem),Quiet,Yin & Yang|Catherine
 Baseline
 Low
 Knights of Seiros
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 
 Black
+
+
+Sebastian
+
+No

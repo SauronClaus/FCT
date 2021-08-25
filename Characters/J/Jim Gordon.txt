@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Police Officer,Parent Child|Barbara Gordon,Police Commissioner,GCPD,Legacy|Batman
+GCPD,Legacy|Batman,Parent Child|Barbara Gordon,Police
 Baseline
 High
 Bat-Family (Extended),GCPD
@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies,TV Shows
 DC
 
 Brown
+
+
+Sebastian
+
+No

@@ -7,13 +7,13 @@ William
 Carter
 William Carter|The Amazing Maxwell
 
-67
+67|6
 Puppet Master
 Human
 Evil
 Playable Character
 Male
-Don't Starve,Survivor,Mastermind
+Don't Starve,Mastermind,Survivor
 Modified Human
 Low
 Survivors of the Constant
@@ -22,3 +22,8 @@ Video Games
 Don't Starve
 The Codex Umbra
 Black
+
+
+Sebastian
+
+No

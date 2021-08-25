@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Angsty,Lances,Nobility,Royalty,Master Servant|Dedue,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),Prince,King
+Angsty,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prideful,Prince,Relic,Royalty,Ruler
 Baseline
 Medium
 Blue Lions,House Leaders (Fire Emblem)
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 Areadbhar
 Blue
+
+
+Sebastian
+
+No

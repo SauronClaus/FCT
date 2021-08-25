@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Interdimensional,Reality Hopping,Multiversal Origin,Exiles (Team),X-Men,Teleporter,Earth-295
+Earth-295,Exiles (Team),Interdimensional,Multiversal Origin,Mutant,Reality Hopping,Teleportation,X-Men
 Modified Human
 Low
 Exiles (Core),X-Men (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Pink
+
+
+Sebastian
+
+No

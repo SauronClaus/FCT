@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Male
-Problem Child,Sociopath
+Problem Child,Psychopath/Sociopath
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books,Movies
 A Clockwork Orange
 
 Orange
+
+Classic Dystopian Books
+Sebastian
+
+No

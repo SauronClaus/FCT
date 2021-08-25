@@ -13,7 +13,7 @@ Human
 Good
 Minor Side Character
 Male
-Weasley,Order of the Pheonix II,Wizard,Married|Fleur Delacour,Gryffindor,Magic Users,Pureblood
+Gryffindor,Magic User,Married|Fleur Delacour,Order of the Pheonix II,Pureblood,Weasley,Wizard
 Modified Human
 Low
 Order of the Pheonix II,Weasley Family
@@ -22,3 +22,8 @@ Books,Movies
 Harry Potter
 
 Weasley Orange
+Magical Powers|Wizard|5,Curse Breaker|Trained|2,Archeologist|Magic Archeologist|3
+Classic Modern Books
+Sebastian
+
+No

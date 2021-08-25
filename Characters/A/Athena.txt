@@ -7,13 +7,13 @@ Athena
 
 Athena
 Carole Ruggier|Erin Torpey
-Immortal
+
 God
 God
 Neutral
 Antagonist
 Female
-Goddess,Omnipotent,Greek
+Goddess,Greek,Omnipotent
 Omnipotent
 Low
 
@@ -22,3 +22,8 @@ Video Games
 God of War
 
 Silver
+Godly Powers|God|10
+
+Sebastian
+
+No

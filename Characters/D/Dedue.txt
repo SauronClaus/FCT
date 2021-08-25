@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Raw Power,Strong,Bodyguard,Master Servant|Dimitri,Big
+Big,Bodyguard,Master Servant|Dimitri,Powerhouse,Servant,Strong
 Baseline
 Low
 Blue Lions
@@ -21,4 +21,9 @@ Blue Lions
 Video Games
 Fire Emblem
 
-Garreg Mach Gold
+Gold
+
+
+Sebastian
+
+No

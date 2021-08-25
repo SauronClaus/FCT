@@ -7,7 +7,7 @@ DC
 Booster Gold
 Sentient,Robot,Companion,Time Traveler
 Superhero Comics,Comics,TV Shows
-Item|Companion Robot
+Robot|Companion Robot
 
 Slightly-Magical
 Medium

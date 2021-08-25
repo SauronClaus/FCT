@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Hitman,Evil,Trained,Psychopath
+Evil,Hitman,Psychopath/Sociopath,Trained
 Baseline
 Medium
 
@@ -22,3 +22,8 @@ Books,Movies
 No Country for Old Men
 
 Black
+Trained Fighter|Hitman|2,Marksman|Trained|3
+Classic Modern Books
+Sebastian
+
+No

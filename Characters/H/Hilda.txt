@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Golden Deer (Fire Emblem),Crest,Lazy,Fashionista
+Crest,Fashionista,Golden Deer (Fire Emblem),Lazy
 Baseline
 Low
 Golden Deer
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 Freikugel
 Pink
+
+
+Sebastian
+
+No

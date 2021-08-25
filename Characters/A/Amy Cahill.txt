@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Genius,Teenager,Introvert
+Genius,Introvert
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books
 39 Clues
 
 Red
+Detective Skills|Trained|2
+Young Adult Books
+Sebastian
+
+No

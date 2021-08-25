@@ -13,7 +13,7 @@ Human
 Good
 Playable Character
 Male
-Commander,Strong Man
+Commander,Strong
 Baseline
 Low
 Valorant Agents
@@ -22,3 +22,8 @@ Video Games
 Valorant
 
 Weasley Orange
+
+
+Sebastian
+
+No

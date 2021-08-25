@@ -4,10 +4,10 @@ The Soul Stone was one of the six Infinity Stones, six powerful stones. The Soul
 https://i.redd.it/kl82t0a0f0811.jpg
 https://en.wikipedia.org/wiki/Infinity_Gems#Description
 Marvel
-Adam Warlock,Thanos
+Adam Warlock|Thanos
 Infinity Stone,Magic Space Rocks
 Movies,Superhero Comics,Comics
-Crystal|Hand-Held Gem
+Crystal|Gem
 The Infinity Stones
 Cosmic
 High

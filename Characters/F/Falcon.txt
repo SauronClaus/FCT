@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Flight,Suit,Captain America,Legacy|Captain America,Bird-Powers,Bird-Themed,African American,Avengers,Legacy|Captain America
+African American,Avengers,Bird-Powers,Bird-Themed,Captain America,Flight,Legacy|Captain America
 Modified Human
 High
-Avengers (Extended),Captain America Corps
+Avengers (Extended),Captain America Corps,Falcon & the Winter Soldier Main Trio
 
 Superhero Comics,Comics,Movies
 Marvel
 Captain America's Shield
 Red
+
+
+Sebastian
+
+No

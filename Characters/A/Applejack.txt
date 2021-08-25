@@ -13,7 +13,7 @@ Pony
 Good
 Protagonist
 Female
-Farmer,Apples,Diligent,Southern Accent,Cowboy
+Apples,Cowboy,Diligent,Farmer,Southern Accent
 City
 Low
 Friendship Main Squad (My Little Pony)
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 My Little Pony
 Element of Honesty (My Little Pony)
 Applejack Orange
+Honesty Powers|Pony|4,Cutie Mark|Earth Pony|4
+
+Sebastian
+
+No

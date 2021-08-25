@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Astral Captain,Space,Explorer,Captain,Star Trek: The Original Series,Star Trek Captains
+Astral Captain,Captain,Explorer,Star Trek Captains,Star Trek: The Original Series
 Baseline
 High
 Star Trek: The Original Series Crew
@@ -22,3 +22,8 @@ Movies,TV Shows
 Star Trek
 
 Yellow
+
+
+Sebastian
+
+No

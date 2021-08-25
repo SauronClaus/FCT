@@ -1,0 +1,56 @@
+Adventurer (3): Bilbo Baggins, Maui, Moana
+Archer (2): Ashe, Bernadetta
+Assassin (1): Aphelios
+Astral Punching (1): Amara
+Astromech Droid (1): BB-8
+Astronaut (1): Bill Kerman
+Barbarian (1): Arthail Consumer of Food
+Baseline Human (2): Abigail, Alex
+Bender (2): Aang, Azula
+Butler (1): Alfred Pennyworth
+Child (1): Austin
+Civilian (1): Big Bird
+Death Knight (1): Arthas Menethil
+Detective (1): Adrian Monk
+Dreamer (1): Alice Johnson
+Engineer (1): Audrey Ramirez
+Explorer (1): Bastion
+Farmer (1): Applejack
+Federal Agent (2): Allison Blake, Annie Montrose
+Fighter (7): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya
+Fisherman (1): Big the Cat
+God (2): Apollo, Athena
+Government Agent (1): Amanda Waller
+Guardian (1): Te Ka
+Hitman (1): Anton Chigurh
+Hoarder (1): Tamatoa
+Huntress (1): Blake Belladonna
+Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
+Knight (1): Alois
+Lab Assistant (1): Beaker
+Lawyer (1): Atticus Finch
+Monster Hunter (1): Alucard
+Musician (1): Animal
+Nerd (1): Baljeet Tjinder
+Pokemon Trainer (1): Ash Ketchum
+Post-Apocalypse Survivor (1): Artyom
+Precog (2): Agatha, Anna Croft
+Princess Warrior (1): Amethyst
+Programmer (1): Alan Bradley
+Ranger (2): Akkar, Aloy
+Rebel Leader (1): Barret Wallace
+Rich Guy (1): Arthur Holmwood
+Rogue (2): Alex Fierro, Araithia Shokta
+Scientist (1): Gordon Freeman
+Soldier (3): Alyx, Ashley Williams, Axton
+Strategist (1): Bean
+Superhero (22): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow
+Supervillain (2): Alexander Luthor Jr., Baron Zemo
+Teenager (1): Amy Cahill
+Time Traveler (1): Billy Pilgrim
+Town Guard (1): Bard the Bowman
+Vampire Hunter (1): Abraham Van Helsing
+Witch (1): Bayonetta
+Wizard (7): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley
+World Destroyer (1): Anti-Monitor
+Writer (1): Alan Wake

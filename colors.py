@@ -48,5 +48,8 @@ colors = {
     "Brock Orange": 0xca7a33,
     "Turquoise": 0x72c5bd,
     "Magenta": 0xf653a6,
-    "Blond": 0xfaf0be
+    "Blond": 0xfaf0be,
+    "Rosalina's Dress": 0x6EADBF,
+    "Copper": 0xB87333,
+    "Purple": 0xCC8899
 }

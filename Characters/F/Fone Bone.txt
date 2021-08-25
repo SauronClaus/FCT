@@ -13,7 +13,7 @@ Bone
 Good
 Protagonist
 Male
-Brave,Bone,Accidental Adventurer
+Accidental Adventurer,Bone,Brave,Cousin|Smiley Bone,Cousin|Phoney Bone,Romantic Subplot|Thorn Harvestar
 Modified Human
 Medium
 Bone Cousins,Bone Main Cast
@@ -22,3 +22,8 @@ Comics,Graphic Novels
 Bone
 
 White
+
+
+Sebastian
+
+No

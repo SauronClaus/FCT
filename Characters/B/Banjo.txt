@@ -13,7 +13,7 @@ Honey Bear
 Good
 Protagonist
 Male
-Non-Human,Animorphic,Duo|Kazooie,Platformer,Super Smash Bros
+Animorphic,Duo|Kazooie,Non-Human,Platformer,Super Smash Bros,Super Smash Bros Ultimate DLC
 City
 Low
 Super Smash Bros,Super Smash Bros DLC
@@ -22,3 +22,8 @@ Video Games
 Banjo & Kazooie
 
 Banjo Brown
+
+
+Sebastian
+
+No

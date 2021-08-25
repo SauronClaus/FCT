@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Captain Falcon,Super Smash Bros,Fire-Powers,Punching,Racer
+Captain Falcon,Fire Powers,Punching,Racer,Super Smash Bros
 Modified Human
 Medium
 Super Smash Bros
@@ -22,3 +22,8 @@ Video Games
 F-Zero
 
 Aarav Blue
+
+
+Sebastian
+
+No

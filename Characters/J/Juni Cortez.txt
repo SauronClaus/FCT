@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Secret Agent,Spy Kids,OSS,Pilot,Martial Artist,Gymnast
+Gymnast,Martial Artist,OSS,Pilot,Secret Agent,Spy,Spy Kids
 Modified Human
 High
 OSS,Cortez Family
@@ -22,3 +22,8 @@ Movie
 Spy Kids
 
 Orange
+
+
+Sebastian
+
+No

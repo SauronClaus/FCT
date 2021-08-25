@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Transforming,Paragon,Chosen One,LGBTQ+,Best Friends Squad,Rebel,The Princess Alliance,Romantic Subplot|Catra
+Best Friends Squad,Chosen One,LGBTQ+,Paragon,Powerhouse,Rebel,Rebellion (She-Ra),Romantic Subplot|Catra,The Princess Alliance,Transforming,Phrase of Power
 Country
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 He-Man
 Sword of Protection
 Gold
+Artifact Transformation|Magic Phrase|4,Super Strength|Magic Transformation|4,Magical Powers|Magical Artifact|3
+Netflix
+Sebastian
+
+No

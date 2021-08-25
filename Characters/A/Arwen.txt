@@ -13,7 +13,7 @@ Half-Elf
 Good
 Love Interest
 Female
-Queen,Royalty,Nobility,Half-Elf,Romantic Subplot|Aragorn
+Half-Elf,Nobility,Queen,Romantic Subplot|Aragorn,Royalty,Ruler
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books,Movies
 Lord of the Rings
 
 Silver
+
+Classic Fantasy Novels
+Sebastian
+
+No

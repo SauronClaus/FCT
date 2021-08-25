@@ -1,0 +1,56 @@
+Superhero (22): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow
+Wizard (7): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley
+Fighter (7): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya
+Soldier (3): Alyx, Ashley Williams, Axton
+Adventurer (3): Bilbo Baggins, Maui, Moana
+Bender (2): Aang, Azula
+Baseline Human (2): Abigail, Alex
+Precog (2): Agatha, Anna Croft
+Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
+Ranger (2): Akkar, Aloy
+Rogue (2): Alex Fierro, Araithia Shokta
+Supervillain (2): Alexander Luthor Jr., Baron Zemo
+Federal Agent (2): Allison Blake, Annie Montrose
+God (2): Apollo, Athena
+Archer (2): Ashe, Bernadetta
+Vampire Hunter (1): Abraham Van Helsing
+Detective (1): Adrian Monk
+Programmer (1): Alan Bradley
+Writer (1): Alan Wake
+Butler (1): Alfred Pennyworth
+Dreamer (1): Alice Johnson
+Knight (1): Alois
+Monster Hunter (1): Alucard
+Government Agent (1): Amanda Waller
+Astral Punching (1): Amara
+Princess Warrior (1): Amethyst
+Teenager (1): Amy Cahill
+Musician (1): Animal
+World Destroyer (1): Anti-Monitor
+Hitman (1): Anton Chigurh
+Assassin (1): Aphelios
+Farmer (1): Applejack
+Barbarian (1): Arthail Consumer of Food
+Death Knight (1): Arthas Menethil
+Rich Guy (1): Arthur Holmwood
+Post-Apocalypse Survivor (1): Artyom
+Pokemon Trainer (1): Ash Ketchum
+Lawyer (1): Atticus Finch
+Engineer (1): Audrey Ramirez
+Child (1): Austin
+Nerd (1): Baljeet Tjinder
+Town Guard (1): Bard the Bowman
+Rebel Leader (1): Barret Wallace
+Explorer (1): Bastion
+Witch (1): Bayonetta
+Astromech Droid (1): BB-8
+Lab Assistant (1): Beaker
+Strategist (1): Bean
+Civilian (1): Big Bird
+Fisherman (1): Big the Cat
+Astronaut (1): Bill Kerman
+Time Traveler (1): Billy Pilgrim
+Huntress (1): Blake Belladonna
+Scientist (1): Gordon Freeman
+Hoarder (1): Tamatoa
+Guardian (1): Te Ka

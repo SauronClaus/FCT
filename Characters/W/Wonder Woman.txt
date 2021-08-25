@@ -7,18 +7,23 @@ Diana
 Prince
 Wonder Woman|Diana Prince|Diana, Princess of the Amazons
 Gal Gadot|Lynda Carter|Lilly Aspell|Emily Carey|Adrianne Palicki|Cobie Smulders|Halsey|Susan Eisenberg
-2000|200
+
 Superhero
 Demigod
 Good
 Protagonist
 Female
-Justice League,Superhero,Amazon,Royalty,Princess,Parent Child|Hippolyta
-World
+Justice League,Superheroes,Amazon,Royalty,Princess,Parent Child|Hippolyta,Paragon,Powerhouse,Superheroes,Nobility
+Country
 High
-Justice League,Amazons
-https://open.spotify.com/track/0oz9ITtPIt3iI1nzdVX9L2?si=edb43b5cf17a45c0
-Movies,Cartoons,Video Games,TV Shows,Comics
-DC Comics
+Justice League (Core),Justice League (Extended),Justice League (film),Justice League Unlimited,Amazons,Trinity (DC),Justice League Founder
+Wonder Woman Main Theme|https://open.spotify.com/track/0oz9ITtPIt3iI1nzdVX9L2?si=edb43b5cf17a45c0
+Movies,Superhero Comics,TV Shows,Comics
+DC
 The Lasso of Truth|Bracelets of Submission
 Crimson
+
+
+Sebastian
+
+No

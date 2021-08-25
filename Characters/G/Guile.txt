@@ -7,13 +7,13 @@ William
 Guile
 Major William F. Guile
 Jean-Claude Van Damme|Travis Willingham|Kirk Thornton|Michael Donovan
-34
+34|3
 Soldier
 Human
 Good
 Protagonist
 Male
-Street Fighter,Stoic,Military,Air Force,United States,Tragic Backstory,Commander,Revenge-Driven
+Street Fighter,Stoic,Military,Air Force,United States,Tragic Backstory,Commander,Revenge-Driven,Soldier
 Modified Human
 Medium
 United States Military
@@ -22,3 +22,8 @@ Video Games
 Street Fighter
 
 Dark Green
+
+
+Sebastian
+
+No

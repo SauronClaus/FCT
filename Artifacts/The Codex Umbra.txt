@@ -1,0 +1,14 @@
+The Codex Umbra
+Don't Starve
+The Codex Umbra is a character-exclusive item that Maxwell starts the game with. When used, it sacrifices 15 health and 55 of maximum sanity to spawn a Shadow Puppet clone of Maxwell. It has infinite durability and requires 2 Nightmare Fuel to be used. For each puppet active, Maxwell's maximum sanity is reduced, similar to how Meat Effigies reduce maximum health. A maximum of 3 puppets can be active at one time and each one will disappear 2.5 days after it was summoned. If a Shadow Puppet is killed or despawns, Maxwell will get the used max sanity back.
+https://static.wikia.nocookie.net/dont-starve-game/images/b/b8/Codex_Umbra.png/revision/latest/scale-to-width-down/128?cb=20131017153701
+https://dontstarve.fandom.com/wiki/Codex_Umbra
+Don't Starve
+Maxwell
+Book,Shadow Book,Cursed,Eldritch Horror
+Video Games
+Item|Evil Book
+
+Country
+Low
+Black

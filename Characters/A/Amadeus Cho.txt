@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Hulk,Gamma,Strong,Raw Power,Green,Genius,Young,Champions (Team)
+Champions (Team),Gamma,Genius,Green,Hulks,Powerhouse,Strong
 City
 Medium
-Champions (Marvel) (Core),Hulks
+Champions (Marvel) (Core),Hulks,Champions (Marvel) (Extended)
 
 Superhero Comics,Comics
 Marvel
 
 Green
+Super Powers|Hulk|7,Genius|Inborn|5,Super Strength|Hulk|7
+Disney
+Sebastian
+Amadeus Cho,The Totally Awesome Hulk
+No

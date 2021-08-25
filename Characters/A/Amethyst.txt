@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Female
-Royalty,Young Justice,Crystal Powers,Magic,Justice League Dark
+Crystal Powers,Justice League Dark,Magic Entity,Royalty,Young Justice
 City
 Low
 Young Justice (Extended)
 
 Superhero Comics,Comics
-DC Comics
+DC
 
 Pale Purple
+Magical Powers|Heritage|3
+DC
+Sebastian
+
+No

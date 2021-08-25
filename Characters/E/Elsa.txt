@@ -7,18 +7,23 @@ Elsa
 
 Queen Elsa|Elsa|The Fifth Spirit|The Snow Queen
 Idina Menzel|Danielle Bisutti|Georgina Haig|Caissie Levy
-Age
+21|2
 Queen
 Human
 Good
 Protagonist
 Female
-Royalty,Musical,Disney Princess,Sibling|Elsa,Ice Powers,Cryokinesis,Traumatic Past,Magic User,Elemental
+Cryokinesis,Disney Princess,Elemental,Ice Powers,Magic User,Musical,Royalty,Siblings|Elsa,Traumatized
 Country
 High
-Frozen Quintent
+Frozen Quintent,Disney Princesses
 Let It Go|https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo?si=f67201ff08134273
 CGI,Movies
 Frozen
 
 Pale Blue
+
+
+Sebastian
+
+No

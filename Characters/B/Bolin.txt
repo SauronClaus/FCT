@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Earth Bender,Team Avatar (Korra),Soldier
+Earth Bender,Soldier,Team Avatar (Korra)
 Modified Human
 Medium
 Team Avatar (Korra)
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 Avatar (TV Show)
 
 Army Brown
+
+
+Sebastian
+
+No

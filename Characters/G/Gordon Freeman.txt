@@ -1,4 +1,29 @@
 Gordon Freeman
 Half-Life
+Dr. Gordon Freeman is the main protagonist of the Half-Life series. Freeman is a theoretical physicist, forced to defend himself and the human race in a conflict against hostile aliens and other enemies after a failed experiment causes a worldwide alien invasion.
+https://static.wikia.nocookie.net/half-life/images/f/f3/Gordon_Freeman_%28Template%29.jpg/revision/latest/scale-to-width-down/700?cb=20191221105246&path-prefix=en
+https://half-life.fandom.com/wiki/Gordon_Freeman
+Gordon
+Freeman
+Gordon Freeman|Dr. Gordon Freeman
 
+27|2
+Scientist
+Human
+Good
+Protagonist
+Male
+Scientist,Adventurer,Chosen One,Player Character,Rebel
+Modified Human
+High
+Resistance (Half-Life)
+To Be a Free Man|https://open.spotify.com/track/2Pz0zh2AxoWAJGmxs2SxQ1?si=e829ba784378438a
+Video Games,CGI
+Half-Life
+Gordon Freeman's Crowbar|HEV Suit
+Orange
+Trained Fighter|Unique|2,Enhanced Physical Abilities|Power Suit|2,Super Strength|Power Suit|2,Scientist|Trained|2
+Valve
+Sebastian
 
+No

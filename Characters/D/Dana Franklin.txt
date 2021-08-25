@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Time Traveler,Civilian,Writer,Accidental Time Travel,African American
+Accidental Time Travel,African American,Civilian,Time Traveler,Writer
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books
 Kindred
 
 White
+
+
+Sebastian
+
+No

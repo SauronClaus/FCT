@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Female
-Rebel,Investigator,Future Tech
+Future Tech,Investigator,Rebel
 Baseline
 Low
-
-
+Detective Skills|Tech|2
+Indie Video Games
 Video Games
 Tacoma
 
 Yellow
+
+
+Sebastian
+
+No

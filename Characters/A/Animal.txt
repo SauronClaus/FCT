@@ -13,7 +13,7 @@ Muppet
 Neutral
 Supporting Protagonist
 Male
-Musician,Muppet,Electric Mayhem
+Electric Mayhem (Muppets),Muppet,Musician
 Baseline
 High
 Electric Mayhem,The Muppet Show
@@ -22,3 +22,8 @@ TV Shows,Muppets
 The Muppets
 
 Red
+Musician|Trained|2
+Jim Henson's Muppets
+Sebastian
+
+No

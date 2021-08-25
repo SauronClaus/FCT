@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Time Traveler,Soldier,WWII
+Soldier,Time Traveler,WWII
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books
 Slaughterhouse-Five
 
 Crimson
+Time Traveler|Accidental|2
+
+Sebastian
+
+No

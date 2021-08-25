@@ -1,4 +1,4 @@
-Rikk
+Rumy
 Fans!
 The martial artist. Rumy has three major passions: romance, comics art, and the fighting arts.
 http://faans.com/news-rumy.gif
@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Married|Ally,Married|Rikk,Polyamory,Leader,Charismatic,Geek,Artist,Martial Artist,Japanese
+Artist,Charismatic,Geek,Japanese,Married|Ally,Married|Rikk,Martial Artist,Polyamory
 Baseline
 Low
 Fans! Cast,Fans! Polyamorous Group
@@ -22,3 +22,8 @@ Webcomics,Comics
 Fans!
 
 Black
+
+
+Sebastian
+
+No

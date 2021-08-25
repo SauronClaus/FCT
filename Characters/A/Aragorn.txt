@@ -1,4 +1,4 @@
-Aragorn II Elessar
+Aragorn
 Lord of the Rings
 Aragorn II, son of Arathorn II and Gilraen, also known as Elessar and Strider, was the 16th and last Chieftain of the Dúnedain of the North; later crowned King Elessar Telcontar (March 1, 2931 - FO 120 or SR 1541), the 26th King of Arnor and 35th King of Gondor - and first High King of Gondor and Arnor since the short reign of Isildur. He was a great ranger and warrior, and as Isildur's heir he bore the shards of Narsil, reforged and renamed Andúril, Flame of the West, in the War of the Ring.
 https://static.wikia.nocookie.net/lotr/images/b/b6/Aragorn_profile.jpg/revision/latest/scale-to-width-down/666?cb=20170121121423
@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Fellowship of the Ring,Royalty,King,Nobility,Outcast,Swordsman
+Fellowship of the Ring,King,Nobility,Outcast,Royalty,Ruler,Swordsman
 Baseline
 High
 Fellowship of the Ring
@@ -22,3 +22,8 @@ Books,Movies
 Lord of the Rings
 Andúril
 Dark Green
+Trained Fighter|Knight|3
+Classic Fantasy Books
+Sebastian
+
+No

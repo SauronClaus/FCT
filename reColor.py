@@ -1,7 +1,9 @@
+# Reads all the colors, tells me if any are missing, and prints them to colors.txt
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 import os
 
-searchColor = "Color"
+searchColor = "--"
 colorList = {}
 
 currentColorsFile = open("colors.txt", "r", encoding='utf8')
@@ -20,7 +22,7 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
-            if len(characterInfo) == 24:
+            if len(characterInfo) == 29:
                 #print(entry + ": " + str(len(characterInfo)))
                 
                 try:

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Lightning Manipulation,Outsiders,Justice League
+African American,Justice League,Lightning,Outsiders
 Modified Human
 Medium
 Outsiders,Justice League (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Black
+Lightning Manipulation|Superhero|4
+DC
+Sebastian
+
+No

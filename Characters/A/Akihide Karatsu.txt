@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Movies,VR (Augumented Reality),Japanese
+Japanese,Movies,VR (Augumented Reality)
 Baseline
 Low
 High Five (Ready Player One)
@@ -22,3 +22,8 @@ Books,Movies
 Ready Player One
 
 Yellow
+Virtual Reality Powers|User|5
+Young Adult Novels
+Sebastian
+
+No

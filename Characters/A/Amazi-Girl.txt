@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Superhero,Nerd,Store Clerk,Shortpacked! Store,Introvert
+Introvert,Nerd,Shortpacked! Store,Store Clerk,Superheroes
 Baseline
 Low
 Shortpacked! Store,Dumbing of Age Main Cast
@@ -22,3 +22,8 @@ Webcomics,Comics
 Walkyverse
 
 Amazi-Girl Yellow
+Trained Fighter|Unique|2
+Webcomics
+Sebastian
+Amber O'Malley,Amazi-Girl
+No

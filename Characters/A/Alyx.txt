@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Hacker,Inventor,Soldier,Cheerful,Rebel
+Cheerful,Hacker,Inventor,Rebel,Soldier,Player Character
 Modified Human
 High
 Resistance (Half-Life)
@@ -22,3 +22,8 @@ Video Games,VR,CGI
 Half-Life
 
 Alyx Brown
+Trained Fighter|Modern Soldier|2
+Valve
+Sebastian
+
+No

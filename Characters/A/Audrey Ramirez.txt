@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Engineer,Teenager,Genius
+Engineer,Genius
 Baseline
 Low
 Atlantis Crew (Disney)
@@ -22,3 +22,8 @@ Movies,Cartoon
 Atlantis: The Lost Empire
 
 Overalls Blue
+Genius|Engineer|2
+Disney
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Titan
 Evil
 Antagonist
 Male
-Marvel,Titan,Black Order
+Black Order,Titan
 Interuniversal
 High
 The Black Order
@@ -22,3 +22,8 @@ Movies,TV Shows,Comics,Cartoons
 Marvel Comics
 The Infinity Gauntlet
 Purple
+
+
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Genius,Best Friends Squad (She-Ra),Rebellion,Rebel Leader,Romantic Subplot|Glimmer
+Archer,Best Friends Squad (She-Ra),Genius,Rebel,Rebellion (She-Ra),Romantic Subplot|Glimmer,The Princess Alliance
 Modified Human
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 He-Man
 
 Gold
+
+
+Sebastian
+
+No

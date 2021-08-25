@@ -13,7 +13,7 @@ Wookie
 Good
 Protagonist
 Male
-Smuggler,Criminal,Pilot,Duo|Han Solo,Wookie,Crossbow,No Words,Resistance (Star Wars),Rebellion (Star Wars)
+Criminal,Crossbow,Duo|Han Solo,No Words,Pilot,Rebellion (Star Wars),Resistance (Star Wars),Smuggler,Wookie
 Modified Human
 High
 Original Trilogy Quintet,Rebel Alliance (Star Wars),The Resistance (Star Wars)
@@ -22,3 +22,8 @@ Movies
 Star Wars
 
 Brown
+
+
+Sebastian
+
+No

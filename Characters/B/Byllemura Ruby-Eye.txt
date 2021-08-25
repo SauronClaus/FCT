@@ -1,5 +1,5 @@
 Byllemura Ruby-Eye
-Band of Fools
+Band of Fools Original
 Byllemura Ruby-Eye was a Rock Gnome Artificer that traveled with the Original Band of Fools, along with the rebooted version. He joined the party after he was the only survivor of a failed expedition to recover the Black Dragon Amulet, before being thrown into the conflict against the old gods. In the reboot, he was among those hired by Aelar Galanodel and Shabroth Nexoc to investigate their missing companions, Bindur Volgoth and Arthas Menethil, before he was thrust suddenly into a multiverse spanning adventure that ended with the death of Ao, the all-god.
 https://media.istockphoto.com/vectors/male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-vector-id1087531642?k=6&m=1087531642&s=170667a&w=0&h=Gh62OWB5xcC3TRjhULs-uu4YP3GCoDow6FVYa56I5pc=
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1200px-Icon-round-Question_mark.svg.png
@@ -13,7 +13,7 @@ Gnome
 Good
 Protagonist
 Male
-D&D,Band of Fools,Band of Fools Redux,Artificer,Gnome
+Artificer,Band of Fools,Band of Fools Redux,D&D,Gnome
 Modified Human
 Low
 Band of Fools (Original),Band of Fools (Redux),Harrison Truscott's Permutations
@@ -22,3 +22,8 @@ Dungeons and Dragons
 Band of Fools
 The Deck of Green Cards|Deck of Illusions
 Green
+
+
+Sebastian
+
+No

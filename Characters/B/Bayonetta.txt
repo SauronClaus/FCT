@@ -13,7 +13,7 @@ Umbra Witch
 Good
 Protagonist
 Female
-Witch,Super Smash Bros,Magic Gunslinger,Demon Hunter
+Magic Gunslinger,Monster Hunter,Super Smash Bros,Witch
 City
 Medium
 Super Smash Bros
@@ -22,3 +22,8 @@ Video Games,CGI
 Bayonetta
 
 Black
+Magical Powers|Inborn|3,Monster Hunter|Trained Monster Hunter|4
+
+Sebastian
+
+No

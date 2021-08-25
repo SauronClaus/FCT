@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Archer,Non-Powered,Avengers,Thunderbolts,Trick Arrows
+Archer,Avengers,Non-Powered,Thunderbolts (Team),Trick Arrows
 Baseline
 High
-Avengers (Core),Avengers (Extended),Thunderbolts,Avengers Original Quintent,West Coast Avengers
+Avengers (Core),Avengers (Extended),Thunderbolts,Avengers Original Quintet,West Coast Avengers
 
 Superhero Comics,Comics,Movies
 Marvel
 
 Purple
+
+
+Sebastian
+
+No

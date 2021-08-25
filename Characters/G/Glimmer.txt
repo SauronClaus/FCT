@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Princess,Photokinesis,Teleportation,Nobility,Royalty,Queen,Best Friends Squad,Rebel,The Princess Alliance,Romantic Subplot|Bow
+Best Friends Squad,Nobility,Photokinesis,Princess,Queen,Rebel,Rebellion (She-Ra),Romantic Subplot|Bow,Royalty,Ruler,Teleportation,The Princess Alliance
 Modified Human
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 He-Man
 
 Pale Purple
+
+
+Sebastian
+
+No

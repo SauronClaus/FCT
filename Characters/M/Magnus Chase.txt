@@ -13,12 +13,17 @@ Demigod
 Good
 Protagonist
 Male
-Demigod,Norse,Einharjar,LGBTQ+,Romantic Subplot|Alex Fierro,Floor 19
+Demigod,Einharjar,Floor 19,LGBTQ+,Norse,Romantic Subplot|Alex Fierro
 Modified Human
 High
-Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan)
+Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang,Magnus Chase First Quintet
 
 Books
 Percy Jackson and the Olympians
 The Sword of Summer (Jack)
 Blond
+
+
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Kerbal
 Good
 Protagonist
 Male
-Scientist,Original Four,Astronaut
+Astronaut,Original Four,Scientist
 Modified Human
 Medium
 Original Four (KSP)
@@ -22,3 +22,8 @@ Video Games,CGI
 Kerbal Space Program
 
 Kerbal-Green
+
+
+Sebastian
+
+No

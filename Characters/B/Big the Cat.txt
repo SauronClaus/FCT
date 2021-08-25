@@ -13,7 +13,7 @@ Cat
 Good
 Supporting Protagonist
 Male
-Fisherman,Big
+Big,Fisherman
 Modified Human
 Low
 Sonic the Hedgehog (Extended Cast)
@@ -22,3 +22,8 @@ Video Games,CGI
 Sonic the Hedgehog
 
 Austin Purple
+Fisherman|Trained|1
+Sega
+Sebastian
+
+No

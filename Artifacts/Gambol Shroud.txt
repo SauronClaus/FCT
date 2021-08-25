@@ -7,7 +7,7 @@ RWBY
 Blake Belladonna
 Katana,Sword,Gun,Multiple Forms
 TV Shows,CGI
-Weapons|Transforming
+Weapon|Transforming
 Team RWBY Signature Weapons
 Slightly-Magical
 Low

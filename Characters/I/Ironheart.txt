@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Genius,Inventor,Armor Suit,African American,Tech,Legacy|Iron Man
+African American,Armor Suit,Genius,Inventor,Legacy|Iron Man,Tech
 City
 Low
 Champions (Marvel) (Extended),Champions (Marvel) (Core),Iron Men Corps
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 Iron Man Suit
 Pink
+
+
+Sebastian
+
+No

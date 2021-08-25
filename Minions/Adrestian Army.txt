@@ -1,0 +1,24 @@
+Adrestian Military
+Fire Emblem: Three Houses
+The Adrestian Empire (アドラステア帝国, Adorasutea-teikoku) is one of three nations on the continent of Fódlan.
+https://static.wikia.nocookie.net/fireemblem/images/0/08/Adrestian_crest.png/revision/latest/scale-to-width-down/200?cb=20210716072353
+https://fireemblem.fandom.com/wiki/Adrestian_Empire
+Edelgard|Hubert
+
+
+
+Army
+Human
+Neutral
+Army,Military
+Baseline
+Low
+
+Video Games
+Fire Emblem
+Crimson
+Trained Fighters|Fantasy Soldier|2
+Nintendo
+Sebastian
+
+No

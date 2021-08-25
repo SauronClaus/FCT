@@ -13,7 +13,7 @@ Togruta
 Good
 Protagonist
 Female
-Jedi Knight,Soldier,CGI,Master Apprentice|Anakin Skywalker
+Apprentice,CGI,Jedi Knight,Master Apprentice|Anakin Skywalker,Soldier
 City
 High
 The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars)
@@ -22,3 +22,8 @@ TV Shows,Cartoon,CGI
 Star Wars
 
 Orange
+Trained Fighter|Jedi Knight|2,Force Powers|Former Jedi|4
+Disney
+Sebastian
+Ahsoka Tano (Clone Wars),Ahsoka Tano (The Mandalorian)
+No

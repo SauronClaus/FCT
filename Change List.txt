@@ -1,0 +1,8 @@
+1) Add new franchises to the bot.
+2) Overhaul of characters; add contributors, powers (and levels: like "Lightning|Tier 1"), variants, creators, company, "Special Tag?".
+    >Replace via powers?
+    >Add to people information packets
+3) Artifact replacementing. Fun times.
+4) New files: Variants
+5) New files: Places
+6) New files: Scenarios

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Jedi Knight,Soldier,Apprentice,Player Character
+Apprentice,Jedi Knight,Player Character,Soldier
 Modified Human
 Medium
 Jedi Order,Stinger Mantis Crew
@@ -22,3 +22,8 @@ Video Games,CGI
 Star Wars
 
 Brown
+
+
+Sebastian
+
+No

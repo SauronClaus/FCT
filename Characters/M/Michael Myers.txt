@@ -17,8 +17,13 @@ Murderer,Evil,Insane,Quiet,Nemesis|Dr. Loomis
 Modified Human
 Medium
 
-https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC?si=84fe02b14d9249ea
+Halloween Theme- Main Title|https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC?si=84fe02b14d9249ea
 Movies
 Halloween
 Kitchen Knife
 Orange
+
+Classic Horror Films
+Ethan,Sebastian
+
+No

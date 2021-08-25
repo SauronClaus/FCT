@@ -7,13 +7,13 @@ Alucard
 Tepes
 Adrian Fahrenheit Tepes
 Robert Belgrade|Yuri Lowenthal|Troy Baker|James Callis|Ryotaro Okiayu|Mamoru Miyano|Taro Tanaka|Shin-ichiro Miki
-Immortal
+
 Monster Hunter
 Human
 Good
 Protagonist
 Male
-Dhampir,Monster Hunter,Vampire Hunter
+Dhampir,Monster Hunter,Monster Hunter
 Modified Human
 Medium
 
@@ -22,3 +22,8 @@ Video Games
 Castlevania
 
 Alucard Yellow-Orange
+Monster Hunter|Trained Monster Hunter|3,Scholar|Monster Scholar|3,Cursed Blood|Dhampir|2
+Nintendo
+Sebastian
+
+No

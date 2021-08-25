@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-X-Men,X-Men First Class,Superhero,Beast,Genius,Mutation
+Beast,Genius,Mutant,Mutation,Superheroes,X-Men,X-Men First Class
 Modified Human
 Medium
 Avengers (Extended),X-Men (Core),X-Men First Class,X-Men (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows,Movies
 Marvel
 
 Blue
+Genius|Inborn|3,Enhanced Physical Abilities|Mutant|2,Bestial Transformation|Scientific Accident|2
+Disney
+Sebastian
+X-Men Movies,Comics,X-Men First Class
+No

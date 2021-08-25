@@ -13,12 +13,17 @@ Human
 Evil
 Antagonist
 Male
-Cosmic,Supervillain,Multiversal Origin,Earth-3
+Cosmic,Earth-3,Multiversal Origin,Supervillains
 Cosmic
 Low
 Survivors of the First Crisis (DC Comics)
 
 Superhero Comics,Comics
-DC Comics
+DC
 
 Gold
+Cosmic Powers|Dimensional Barrier|5
+DC
+Sebastian
+
+No

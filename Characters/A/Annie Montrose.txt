@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Female
-PR Person,NASA
+Government,NASA,PR Person
 Baseline
 Low
 NASA (The Martian)
@@ -22,3 +22,8 @@ Books,Movies
 The Martian
 
 Grey
+Charisma|PR-Person|1
+Young Adult Novels
+Sebastian
+
+No

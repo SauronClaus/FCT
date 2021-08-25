@@ -13,7 +13,7 @@ Fairy
 Good
 Supporting Protagonist
 Female
-Muppet,Sesame Street Residents,Fairies,Magic Users
+Fairies,Magic User,Muppet,Sesame Street
 Baseline
 Low
 Sesame Street Residents
@@ -22,3 +22,8 @@ TV Shows,Children's TV Shows,Muppets
 Sesame Street
 
 Pink
+Magical Powers|Fey Magic|2
+Jim Henson's Muppets
+Sebastian
+
+No

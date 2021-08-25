@@ -13,7 +13,7 @@ Demigod
 Neutral
 Protagonist
 Male
-God,God Slayer,Demigod,Greek,Norse,Parent Child|Atreus,Axe-Wielder
+Axe-Wielder,Demigod,God,God Slayer,Greek,Norse,Parent Child|Atreus
 Country
 High
 
@@ -22,3 +22,8 @@ Video Games
 God of War
 Leviathan Axe
 Bone White
+
+
+Sebastian
+
+No

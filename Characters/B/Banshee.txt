@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-X-Men,Supersonic,Flight
+Flight,Mutant,Supersonic,X-Men
 Baseline
 Low
 X-Men (Extended),Giant Sized X-Men #1 Team
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Banshee Green
+Flight|Sonic Waves|3,Sonic|Sonic Scream|3
+
+Sebastian
+
+No

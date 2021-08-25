@@ -4,7 +4,7 @@ A batarang is a roughly bat-shaped throwing weapon used by the DC Comics superhe
 https://i.imgur.com/cwk5smz.jpg
 https://en.wikipedia.org/wiki/Batarang
 DC
-Batman,Batgirl
+Batman|Batgirl
 Boomerang,Projectile,Ranged,Themed
 Superhero Comics,Comics,TV Shows,Movies
 Weapon|Boomerang

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Superheroes,Speedsters,Justice League,Legacy|Barry Allen,Teen Titans,Young Justice,Sidekick,Aunt Uncle|Iris West,Master Apprentice|Barry Allen
+Aunt Uncle|Iris West,Justice League,Legacy|Barry Allen,Master Apprentice|Barry Allen,Sidekick,Speedsters,Superheroes,Teen Titans,Young Justice
 City
 High
 Justice League (Extended),Flash Family,Justice League Unlimited,Teen Titans Founders,Teen Titans (Extended),Teen Titans (Core),Young Justice (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Yellow
+
+
+Sebastian
+
+No

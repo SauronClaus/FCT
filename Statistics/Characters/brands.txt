@@ -1,0 +1,225 @@
+
+Avatar (TV Show):
+	-Avatar: The Last Airbender (2/2): Aang, Azula
+	-All  (2/103): Aang, Azula
+
+Sesame Street:
+	-Sesame Street (2/2): Abby Cadabby, Big Bird
+	-All  (2/103): Abby Cadabby, Big Bird
+
+Stardew Valley:
+	-Stardew Valley (2/2): Abigail, Alex
+	-All  (2/103): Abigail, Alex
+
+Dracula Hunters:
+	-Dracula (1/1): Abraham Van Helsing
+	-All  (1/103): Abraham Van Helsing
+
+Marvel:
+	-Marvel Comics (10/11): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Beast, Bentley-23, Black Panther, Black Widow
+	-MCU (1/11): Baron Zemo
+	-All  (11/103): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Baron Zemo, Beast, Bentley-23, Black Panther, Black Widow
+
+He-Man:
+	-She-Ra and the Princesses of Power (1/1): Adora
+	-All  (1/103): Adora
+
+Monk:
+	-Monk (1/1): Adrian Monk
+	-All  (1/103): Adrian Monk
+
+Final Fantasy:
+	-Final Fantasy VII (2/2): Aerith Gainsborough, Barret Wallace
+	-All  (2/103): Aerith Gainsborough, Barret Wallace
+
+Minority Report:
+	-Minority Report (1/1): Agatha
+	-All  (1/103): Agatha
+
+Star Wars:
+	-The Clone Wars (1/3): Ahsoka Tano
+	-Star Wars: The Clone Wars (1/3): Anakin Skywalker
+	-Star Wars Sequel Trilogy (1/3): BB-8
+	-All  (3/103): Ahsoka Tano, Anakin Skywalker, BB-8
+
+Ready Player One:
+	-Ready Player One (1/1): Akihide Karatsu
+	-All  (1/103): Akihide Karatsu
+
+Band of Fools:
+	-Band of Fools Original (2/3): Akkar, Arthail Consumer of Food
+	-Band of Fools Reboot (1/3): Arthas Menethil
+	-All  (3/103): Akkar, Arthail Consumer of Food, Arthas Menethil
+
+Tron:
+	-Tron (1/1): Alan Bradley
+	-All  (1/103): Alan Bradley
+
+DC:
+	-DC Comics (13/14): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning
+	-Suicide Squad (1/14): Amanda Waller
+	-All  (14/103): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amanda Waller, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning
+
+Alan Wake:
+	-Alan Wake (1/1): Alan Wake
+	-All  (1/103): Alan Wake
+
+Harry Potter:
+	-Harry Potter (3/3): Albus Dumbledore, Arthur Weasley, Bill Weasley
+	-All  (3/103): Albus Dumbledore, Arthur Weasley, Bill Weasley
+
+Percy Jackson and the Olympians:
+	-Magnus Chase (1/4): Alex Fierro
+	-Kane Chronicles (1/4): Amos Kane
+	-Percy Jackson (2/4): Annabeth Chase, Apollo
+	-All  (4/103): Alex Fierro, Amos Kane, Annabeth Chase, Apollo
+
+A Nightmare on Elm Street:
+	-A Nightmare on Elm Street (1/1): Alice Johnson
+	-All  (1/103): Alice Johnson
+
+Eureka:
+	-Eureka (1/1): Allison Blake
+	-All  (1/103): Allison Blake
+
+Fans!:
+	-Fans! (1/1): Ally
+	-All  (1/103): Ally
+
+Fire Emblem:
+	-Fire Emblem: Three Houses (4/4): Alois, Annette, Ashe, Bernadetta
+	-All  (4/103): Alois, Annette, Ashe, Bernadetta
+
+Horizon Zero Dawn:
+	-Horizon Zero Dawn (1/1): Aloy
+	-All  (1/103): Aloy
+
+Castlevania:
+	-Castlevania (1/1): Alucard
+	-All  (1/103): Alucard
+
+Half-Life:
+	-Half-Life (2/2): Alyx, Gordon Freeman
+	-All  (2/103): Alyx, Gordon Freeman
+
+Borderlands:
+	-Borderlands 3 (1/2): Amara
+	-Borderlands 2 (1/2): Axton
+	-All  (2/103): Amara, Axton
+
+Walkyverse:
+	-Shortpacked (1/1): Amazi-Girl
+	-All  (1/103): Amazi-Girl
+
+39 Clues:
+	-39 Clues (1/1): Amy Cahill
+	-All  (1/103): Amy Cahill
+
+Sonic the Hedgehog:
+	-Sonic (2/2): Amy Rose, Big the Cat
+	-All  (2/103): Amy Rose, Big the Cat
+
+Marvel Comics:
+	-Marvel Comics (2/2): Angel, Armor
+	-All  (2/103): Angel, Armor
+
+The Muppets:
+	-The Muppets (2/2): Animal, Beaker
+	-All  (2/103): Animal, Beaker
+
+Omniscient Reader's Viewpoint:
+	-Omniscient Reader's Viewpoint (1/1): Anna Croft
+	-All  (1/103): Anna Croft
+
+The Martian:
+	-The Martian (1/1): Annie Montrose
+	-All  (1/103): Annie Montrose
+
+No Country for Old Men:
+	-No Country for Old Men (1/1): Anton Chigurh
+	-All  (1/103): Anton Chigurh
+
+League of Legends:
+	-League of Legends (1/1): Aphelios
+	-All  (1/103): Aphelios
+
+My Little Pony:
+	-My Little Pony: Friendship is Magic (1/1): Applejack
+	-All  (1/103): Applejack
+
+Lord of the Rings:
+	-Lord of the Rings (1/3): Aragorn
+	-The Hobbit (2/3): Bard the Bowman, Bilbo Baggins
+	-All  (3/103): Aragorn, Bard the Bowman, Bilbo Baggins
+
+Magic: The Gathering:
+	-Magic: The Gathering (1/1): Araithia Shokta
+	-All  (1/103): Araithia Shokta
+
+Dracula:
+	-Dracula (1/1): Arthur Holmwood
+	-All  (1/103): Arthur Holmwood
+
+Metro:
+	-Metro (1/1): Artyom
+	-All  (1/103): Artyom
+
+Eragon:
+	-Eragon (1/1): Arya
+	-All  (1/103): Arya
+
+Pokemon:
+	-Pokemon Anime (1/1): Ash Ketchum
+	-All  (1/103): Ash Ketchum
+
+Mass Effect:
+	-Mass Effect (1/1): Ashley Williams
+	-All  (1/103): Ashley Williams
+
+God of War:
+	-God of War (1/1): Athena
+	-All  (1/103): Athena
+
+To Kill a Mockingbird:
+	-To Kill a Mockingbird (1/1): Atticus Finch
+	-All  (1/103): Atticus Finch
+
+Atlantis: The Lost Empire:
+	-Atlantis: The Lost Empire (1/1): Audrey Ramirez
+	-All  (1/103): Audrey Ramirez
+
+The Backyardigans:
+	-The Backyardigans (1/1): Austin
+	-All  (1/103): Austin
+
+Phineas and Ferb:
+	-Phineas & Ferb (1/1): Baljeet Tjinder
+	-All  (1/103): Baljeet Tjinder
+
+Overwatch:
+	-Overwatch (1/1): Bastion
+	-All  (1/103): Bastion
+
+Bayonetta:
+	-Bayonetta (1/1): Bayonetta
+	-All  (1/103): Bayonetta
+
+Ender's Game:
+	-Ender's Game (1/1): Bean
+	-All  (1/103): Bean
+
+Kerbal Space Program:
+	-Kerbal Space Program (1/1): Bill Kerman
+	-All  (1/103): Bill Kerman
+
+Slaughterhouse-Five:
+	-Slaughterhouse-Five (1/1): Billy Pilgrim
+	-All  (1/103): Billy Pilgrim
+
+RWBY:
+	-RWBY (1/1): Blake Belladonna
+	-All  (1/103): Blake Belladonna
+
+Moana:
+	-Moana (4/4): Maui, Moana, Tamatoa, Te Ka
+	-All  (4/103): Maui, Moana, Tamatoa, Te Ka

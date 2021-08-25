@@ -13,7 +13,7 @@ Svartalf
 Good
 Supporting Protagonist
 Male
-Demigod,Norse,Dwarf,Crafter,Tailor,Duo|Hearthstone
+Crafter,Demigod,Duo|Hearthstone,Dwarf,Norse,Tailor
 Modified Human
 Medium
 Norse Demigods (Rick Riordan),Magnus Chase First Quintet,Magnus Chase Ragnarok-Halting Gang
@@ -22,3 +22,8 @@ Books
 Percy Jackson and the Olympians
 Expand-o-Duck
 Turquoise
+
+
+Sebastian
+
+No

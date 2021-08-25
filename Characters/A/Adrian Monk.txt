@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Genius,Slightly Insane,Detective,OCD
+Detective,Genius,OCD,Slightly Insane
 Baseline
 Low
 SFPD (Monk)
@@ -22,3 +22,8 @@ TV Shows
 Monk
 
 Beige
+Detective Powers|Detective Training|3
+Real-Life TV Shows
+Sebastian
+
+No

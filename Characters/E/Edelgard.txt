@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Female
-Axes,House Leaders (Fire Embelm),Black Eagles (Fire Emblem),Royalty,Nobility,Heiress to Empire,Empress,Master Servant|Hubert
+Axes,Black Eagles (Fire Emblem),Emperor(ess),Heiress to Empire,House Leaders (Fire Emblem),Master Servant|Hubert,Nobility,Relic,Royalty,Ruler
 Baseline
 Medium
 Black Eagles,House Leaders (Fire Emblem)
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 Aymr
 Red
+
+
+Sebastian
+
+No

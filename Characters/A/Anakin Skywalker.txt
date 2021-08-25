@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Jedi Knight,Commander,Soldier,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Inventor|C3PO,Galactic Republic (Star Wars)
+Apprentice,Commander,Galactic Republic (Star Wars),Inventor|C3PO,Jedi Knight,Jedi Order,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Soldier
 City
 High
-The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars)
+The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars),Skywalkers (Star Wars)
 
 TV Shows,CGI,Movies
 Star Wars
 
 Anakin Brown
+Trained Fighter|Jedi Knight|3,Force Powers|Jedi|5,Pilot|Trained Pilot|3
+Disney
+Sebastian
+Child,Jedi Apprentice,Clone Wars
+No

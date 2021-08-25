@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Young X-Men,LGBTQ+,Green
+Green,LGBTQ+,Young X-Men
 Modified Human
 Low
 Young X-Men,X-Men (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel Comics
 
 Green
+
+Disney
+Sebastian
+
+No

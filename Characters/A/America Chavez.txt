@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Interdimensional,Reality Hopping,Multiversal Origin,Powerhouse,Ultimates (Team),Young Avengers,LGBTQ+
+Interdimensional,LGBTQ+,Multiversal Origin,Powerhouse,Reality Hopping,Ultimates (Team),Young Avengers
 Interuniversal
 Medium
 Ultimates (Team),Young Avengers (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Blue
+Reality Powers|Inborn|6,Cosmic Powers|Dimensional Barrier|5,Teleportation|Dimensional Barrier|5,Super Strength|Inborn|4
+Disney
+Sebastian
+
+No

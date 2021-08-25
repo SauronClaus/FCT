@@ -13,7 +13,7 @@ Muppet
 Good
 Inventor
 Male
-Pyromaniac,Explosion Happy,Inventor,Genius,Doctor,Scientist,Duo|Beaker
+Medical Doctor,Duo|Beaker,Explosion Happy,Genius,Inventor,Pyromaniac,Scientist
 Modified Human
 Medium
 The Muppet Show
@@ -22,3 +22,8 @@ Muppets,TV Shows,Movies
 The Muppets
 
 Kerbal-Green
+
+
+Sebastian
+
+No

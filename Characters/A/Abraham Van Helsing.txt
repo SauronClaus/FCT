@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Vampire Hunter,Old,Genius
+Monster Hunter
 Baseline
 Medium
 Dracula Hunters
@@ -22,3 +22,8 @@ Books,Movies
 Dracula Hunters
 
 White
+Monster Hunter|Trained Monster Hunter|2,Scholar|Monster Scholar|3,Medical Training|Medical Doctor|2
+Literary Classics
+Sebastian
+
+No

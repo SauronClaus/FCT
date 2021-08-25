@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Machine Hunter,Nature,Tribal,Clone,Chosen One
+Chosen One,Clone,Machine Hunter,Nature,Tribal
 Modified Human
 Medium
 
@@ -22,3 +22,8 @@ Video Games,CGI
 Horizon Zero Dawn
 
 Aloy Blue
+Trained Fighter|Wanderer|3
+Guerrilla Games
+Sebastian
+
+No

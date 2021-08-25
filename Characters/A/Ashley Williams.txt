@@ -22,3 +22,8 @@ Video Games,CGI
 Mass Effect
 
 White
+Trained Fighter|Future Soldier|3
+
+Sebastian
+
+No

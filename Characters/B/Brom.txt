@@ -13,7 +13,7 @@ Human
 Good
 Mentor
 Male
-Mentor,Old,Father,Dragon Rider
+Dragon Rider,Father,Mentor,Old
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books,Movies
 Eragon
 
 Brown
+
+
+Sebastian
+
+No

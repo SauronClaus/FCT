@@ -13,12 +13,17 @@ Mutant
 Good
 Protagonist
 Female
-Twins|Northstar,Superhero,Split Personality,Speedsters,Alpha Flight,X-Men
+Alpha Flight,Mutant,Speedsters,Split Personality,Superheroes,Twins|Northstar,X-Men
 City
 Low
 Alpha Flight,X-Men (Extended)
 
 Superhero Comics,Comics
-Marvel Comics
+Marvel
 
 White
+Super-Speed|Mutant|5
+Disney
+Sebastian
+
+No

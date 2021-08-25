@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-X-Men,Mutants,New Mutants,USAvengers
+Mutant,New Mutants,USAvengers,X-Men
 City
 Medium
 X-Men (Extended),New Mutants (Core),New Mutants (Extended),USAvengers
@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies
 Marvel
 
 Yellow
+
+
+Sebastian
+
+No

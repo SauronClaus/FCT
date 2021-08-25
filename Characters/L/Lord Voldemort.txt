@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Harry Potter|Death Eater|Wizard|Megalomaniac
+Harry Potter,Death Eater,Nemesis|Harry Potter,Wizard,Magic User,Undead
 City
 High
 Death Eaters
@@ -22,3 +22,8 @@ Movies
 Harry Potter
 The Elder Wand
 Black
+
+
+Sebastian
+
+No

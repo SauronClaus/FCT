@@ -13,7 +13,7 @@ Siren
 Good
 Protagonist
 Female
-Astral Force,Vault Hunter,Siren (Borderlands)
+Astral Force,Siren (Borderlands),Vault Hunter
 Modified Human
 Low
 Borderlands 3 Vault Hunters,Vault Hunters
@@ -22,3 +22,8 @@ Video Games
 Borderlands
 
 Pale Blue
+Astral Projection|Inborn|3,Trained Fighter|Street Ruffian|2
+2K Games
+Sebastian
+
+No

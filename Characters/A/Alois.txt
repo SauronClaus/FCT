@@ -1,4 +1,4 @@
-Alois Rangeld
+Alois
 Fire Emblem: Three Houses
 Alois is a character from Fire Emblem: Three Houses. He is a commander among the Knights of Seiros. While not an instructor at the Officers Academy, he offers weekend seminars in Axes and Brawling.
 https://static.wikia.nocookie.net/fireemblem/images/1/17/Alois_Portrait.png/revision/latest/scale-to-width-down/700?cb=20190624193150
@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Axe,Heavily Armored,Bad Jokes,Father Figure,Cheerful,Loud,Knights of Seiros
+Axe,Bad Jokes,Cheerful,Father Figure,Heavily Armored,Knights of Seiros (Fire Emblem),Loud
 Baseline
 Low
 Knights of Seiros
@@ -22,3 +22,8 @@ Video Games
 Fire Emblem
 
 Silver-White
+Trained Fighter|Knight|2
+Nintendo
+Sebastian
+
+No

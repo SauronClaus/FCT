@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Reporter,Romantic Subplot|Barry Allen,Aunt Uncle|Wally West,Grandparent|Bart Allen
+Aunt Uncle|Wally West,Grandparent|Bart Allen,Reporter,Romantic Subplot|Barry Allen
 Baseline
 Medium
 
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Magenta
+
+
+Sebastian
+
+No

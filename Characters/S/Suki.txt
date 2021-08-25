@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Non-Powered,Soldier,Fans,Face Paint,Romantic Subplot|Sokka
+Face Paint,Fans (Weapon),Non-Powered,Romantic Subplot|Sokka,Soldier
 Baseline
 Medium
 
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 Avatar (TV Show)
 
 Military Green
+
+
+Sebastian
+
+No

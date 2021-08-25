@@ -1,0 +1,29 @@
+4 (1): Abby Cadabby
+5 (1): BB-8
+6 (2): Bean, Big Bird
+10 (1): Ash Ketchum
+12 (1): Amy Rose
+14 (3): Ahsoka Tano, Amy Cahill, Azula
+16 (4): Alex Fierro, Annette, Araithia Shokta, Ashe
+17 (3): Alice Johnson, Bernadetta, Blake Belladonna
+18 (3): Aloy, Annabeth Chase, Big the Cat
+21 (2): Adora, Bill Weasley
+22 (2): Aerith Gainsborough, Anakin Skywalker
+24 (2): Alyx, Artyom
+25 (1): Ashley Williams
+27 (1): Gordon Freeman
+28 (1): Barry Allen
+30 (3): Annie Montrose, Anton Chigurh, Bastion
+35 (1): Barret Wallace
+37 (1): Allison Blake
+41 (2): Alan Wake, Arthur Weasley
+43 (1): Bard the Bowman
+45 (1): Alois
+50 (1): Adrian Monk
+51 (1): Bilbo Baggins
+54 (1): Adam Warlock
+87 (1): Aragorn
+103 (1): Arya
+112 (1): Aang
+115 (1): Albus Dumbledore
+150 (1): Akkar

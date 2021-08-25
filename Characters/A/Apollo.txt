@@ -7,13 +7,13 @@ Apollo
 
 Apollo|Lester Papadopoulos
 
-Immortal
+
 God
 God
 Good
 Protagonist
 Male
-God,Sun,Poetry,Archer
+Archer,God,Poetry,Sun
 Modified Human
 Medium
 Camp Half-Blood,Trials of Apollo Crew
@@ -22,3 +22,8 @@ Books
 Percy Jackson and the Olympians
 Arrow of Dodona
 Gold
+Trained Fighter|Adventurer|3,Marksman|God|6,Godly Powers|Fallen God|4
+Modern Mythology
+Sebastian
+
+No

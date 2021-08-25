@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Cosmic Power,Omen,Cosmic Historian
+Cosmic,Cosmic Historian,Omen
 Cosmic
 Low
 
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows
 DC
 
 Blue
+
+
+Sebastian
+
+No

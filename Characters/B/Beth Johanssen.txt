@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Female
-Youngest,Astronaut,Romantic Subplot|Dr. Chris Beck,Tech Genius
+Astronaut,NASA,Romantic Subplot|Dr. Chris Beck,Tech Genius
 Baseline
 Low
 Ares III Mission Crew
@@ -22,3 +22,8 @@ Books,Movies
 The Martian
 
 Orange
+
+Young Adult Novels
+Sebastian
+
+No

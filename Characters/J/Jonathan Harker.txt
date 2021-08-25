@@ -1,4 +1,4 @@
-Jonathan Harker 
+Jonathan Harker
 Dracula
 Jonathan Flynn Harker is a fictional character and one of the main protagonists of Bram Stoker's 1897 Gothic horror novel Dracula. His journey to Transylvania and encounter with the vampire Count Dracula and his Brides at Castle Dracula constitutes the dramatic opening scenes in the novel and most of the film adaptations. Stoker appropriated the surname from his friend Joseph Cunningham Harker (1855–1920), a set designer at the Lyceum Theatre[1] and father of actor William Gordon Harker (1885–1967) as well as great-grandfather of actress Polly Adams, whose actress-daughters Susannah Harker and Caroline Harker adopted the Harker surname for their stage names.
 https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Dracula1958-1.jpg/330px-Dracula1958-1.jpg
@@ -6,14 +6,14 @@ https://en.wikipedia.org/wiki/Jonathan_Harker
 Jonathan
 Harker
 Jonathan Harker|Lord Jonathan Flynn Harker
-John Van Eyssen|David Manners|Fred Williams|Murray Brown|Trevor Eve|Keanu Reeves|Rafe Spall|Corey Landis|Unax Ugalde|John Heffernan|Darren Ritchie|Lorenzo Trossello
+Gustav von Wangenheim|David Manners|John Van Eyssen|Fred Williams|Bosco Hogan|Trevor Eve|Bruno Ganz|Murray Brown|Keanu Reeves|Steven Weber|Rafe Spall|Corey Landis|Unax Ugalde|Oliver Jackson-Cohen|John Heffernan
 
 Civilian
 Human
 Good
 Protagonist
 Male
-Vampire Hunter,Estate Agent,Clerk,Fiance|Mina Murray,Romantic Subplot|Mina Murray
+Clerk,Estate Agent,Fiance|Mina Harker,Monster Hunter,Romantic Subplot|Mina Harker
 Baseline
 Low
 Dracula Hunters
@@ -22,3 +22,8 @@ Books,Movies
 Dracula
 
 Blue
+
+
+Sebastian
+
+No

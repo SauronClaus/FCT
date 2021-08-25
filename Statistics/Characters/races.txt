@@ -1,0 +1,27 @@
+Cat (1): Big the Cat
+Crab (1): Tamatoa
+Demigod (3): Alex Fierro, Annabeth Chase, Maui
+Demon (1): Te Ka
+Dragonborn (1): Arthail Consumer of Food
+Elf (2): Akkar, Arya
+Fairy (1): Abby Cadabby
+Faunus (1): Blake Belladonna
+God (2): Apollo, Athena
+Half-Cetra (1): Aerith Gainsborough
+Hedgehog (1): Amy Rose
+Hobbit (1): Bilbo Baggins
+Human (66): Aang, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Agent Venom, Akihide Karatsu, Alan Bradley, Alan Scott, Alan Wake, Albus Dumbledore, Alex, Alexander Luthor Jr., Alfred Pennyworth, Alice Johnson, Allison Blake, Ally, Alois, Aloy, Alucard, Alyx, Amadeus Cho, Amanda Waller, Amazi-Girl, America Chavez, Amethyst, Amos Kane, Amy Cahill, Anakin Skywalker, Anna Croft, Annette, Annie Montrose, Anton Chigurh, Aphelios, Aquaman, Aragorn, Araithia Shokta, Arthur Holmwood, Arthur Weasley, Artyom, Ash Ketchum, Ashe, Ashley Williams, Atticus Finch, Audrey Ramirez, Axton, Azula, Baljeet Tjinder, Barbara Gordon, Bard the Bowman, Baron Zemo, Barret Wallace, Barry Allen, Bart Allen, Batman, Beast Boy, Bentley-23, Bernadetta, Bill Weasley, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Gordon Freeman, Moana
+Human  (1): Adora
+Humans (1): Bean
+Kangaroo (1): Austin
+Kerbal (1): Bill Kerman
+Modified Human (1): Adam Warlock
+Monitor (1): Anti-Monitor
+Muppet (3): Animal, Beaker, Big Bird
+Mutant (5): Angel, Armor, Aurora, Banshee, Beast
+Pony (1): Applejack
+Robot (2): Bastion, BB-8
+Siren (1): Amara
+Skeleton (1): Arthas Menethil
+Togruta (1): Ahsoka Tano
+Umbra Witch (1): Bayonetta

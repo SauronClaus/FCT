@@ -1,0 +1,24 @@
+Knights of Seiros
+Fire Emblem: Three Houses
+The Knights of Seiros (セイロス騎士団 Seirosu-kishidan) are a military organization in Fire Emblem: Three Houses. The Knights of Seiros are an order of knights within the Church of Seiros. Like the Church itself, the knights are headquartered in Garreg Mach Monastery in central Fódlan.
+https://static.wikia.nocookie.net/fireemblem/images/6/6e/Knights_of_Seiros_Banner.png/revision/latest/scale-to-width-down/684?cb=20210716075159
+https://fireemblem.fandom.com/wiki/Knights_of_Seiros
+Rhea|Flayn|Seteth|Catherine|Shamir|Alois
+
+
+
+Army
+Human
+Neutral
+Army,Knights Order,Holy Knights,Religious Organization
+Baseline
+Low
+
+Video Games
+Fire Emblem
+Silver-White
+Trained Fighters|Knight|2
+Nintendo
+Sebastian
+
+No

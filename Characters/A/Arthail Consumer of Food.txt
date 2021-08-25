@@ -13,7 +13,7 @@ Dragonborn
 Neutral
 Protagonist
 Male
-Original Three (Band of Fools),Barbarian,Band of Fools,Band of Fools Redux,D&D
+Band of Fools,Band of Fools Redux,Barbarian,D&D,Original Three (Band of Fools)
 Modified Human
 Low
 Band of Fools (Original),Original Three (Band of Fools),Band of Fools (Redux),Aarav Gupta's Permutations
@@ -22,3 +22,8 @@ Dungeons & Dragons
 Band of Fools
 Wand of Wild Magic|Wand of Wands
 Aarav Blue
+Trained Fighter|Barbarian|3,Lightning Manipulation|Draconic Heritage|2
+Physical Games
+Sebastian
+Band of Fools Original,Band of Fools Reboot
+No

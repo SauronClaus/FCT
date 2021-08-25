@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Bender,Romantic Subplot|Asami Sato,LGBTQ+,Tomboy,Musclehead
+Bender,Earth Bender,Fire Bender,Fire Powers,Ice Powers,LGBTQ+,Musclehead,Romantic Subplot|Asami Sato,Team Avatar (Korra),Tomboy,Water Bender,Water Powers
 City
 Medium
 Team Avatar (Korra),Avatars
@@ -22,3 +22,8 @@ TV Shows
 Avatar (TV Show)
 
 Blue
+
+
+Sebastian
+
+No

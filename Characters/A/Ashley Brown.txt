@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Horror Game Protagonist
+Horror Protagonist
 Baseline
 Low
 Until Dawn Cast
@@ -22,3 +22,8 @@ Video Games,Horror Games
 Until Dawn
 
 Crimson
+
+Horror Video Games
+Sebastian
+
+No

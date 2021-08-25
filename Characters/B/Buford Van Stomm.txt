@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Bully,Strong Man,Frenemy|Baljeet Tjinder,Cartoon
+Bully,Cartoon,Frenemy|Baljeet Tjinder,Strong
 Baseline
 Medium
 Phineas and Ferb Main Child Group
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 Phineas and Ferb
 
 Black
+
+
+Sebastian
+
+No

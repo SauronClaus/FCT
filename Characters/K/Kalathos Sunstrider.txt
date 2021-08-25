@@ -1,5 +1,5 @@
 Kalathos Sunstrider
-Band of Fools
+Band of Fools Original
 Kalathos Sunstrider was an elven evocation wizard (focused in pyromancy) that joined the Band of Fools as a member of the Original Three, before also joining the reboot. He originally joined the campaign as a member of the Original Three hired by Gundren Rockseeker to drive a wagon of supplies to Phandelver, before joining the group as they attempted to stop the Old Gods. In the second campaign, he was hired by Aelar Galanodel and Shabroth Nexoc to investigate the disappearance of their comrades before becoming embroiled in the events surrounding the death of Ao, the All-God.
 https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/05/12/170-cinematic-still-2_feature.jpg
 https://www.dndbeyond.com/characters/6004401/92rKOV
@@ -13,12 +13,17 @@ Elf
 Neutral
 Protagonist
 Male
-Wizard,Magic User,Band of Fools,D&D,Original Three (Band of Fools),Band of Fools Redux,Elf
+Band of Fools,Band of Fools Redux,D&D,Elf,Magic User,Original Three (Band of Fools),Wizard,Wizard
 Modified Human
 Low
 Band of Fools (Original),Original Three (Band of Fools),Ethan Chou's Permutations,Band of Fools (Redux)
 
 Dungeons & Dragons
 Band of Fools
-Ring of Fire Resistance
+Ring of Fire Resistance|Iarno Albrek's Shattered Staff
 Orange
+
+
+Sebastian
+
+No

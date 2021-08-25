@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Powerhouse,Ultimates (Team),Genius,Forgotten Hero
+Forgotten Hero,Genius,Powerhouse,Ultimates (Team)
 Country
-Popularity (Low, Medium, High)
+Low
 Ultimates (Team)
 
 Superhero Comics,Comics
 Marvel
 
 Blue
+
+
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Literary Agent,New Yorker,Allergies
+Allergies,Literary Agent,New Yorker
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Video Games,CGI
 Alan Wake
 
 Red
+
+Horror Video Games
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Human
 Good
 Mentor
 Male
-Wizard,Old,Mentor,Order of the Pheonix I,Order of the Pheonix II,Most Powerful,LGBTQ+,Magic Users,Gryffindor
+Gryffindor,LGBTQ+,Magic User,Mentor,Most Powerful,Old,Order of the Pheonix I,Order of the Pheonix II,Wise,Wizard
 Country
 High
 Order of the Pheonix I,Order of the Pheonix II,Hogwarts Professors
@@ -22,3 +22,8 @@ Books,Movies
 Harry Potter
 The Elder Wand
 White
+Magical Powers|Wizard|6,Magical Knowledge|Scholar|5,Scholar|Monster Scholar|3,Scholar|Magic Scholar|5,Wise Man|Old|5
+Modern Classic Books
+Sebastian
+
+No

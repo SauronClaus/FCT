@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Captain,Slightly Insane,Prosthetic,Peg-Leg,Sailor
+Captain,Peg-Leg,Prosthetic,Sailor,Slightly Insane
 Baseline
 High
 Pequod Crew
@@ -22,3 +22,8 @@ Books
 Moby Dick
 
 Black
+
+
+Sebastian
+
+No

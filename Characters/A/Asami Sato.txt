@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Heiress,Genius,LGBTQ+,Powerless,Romantic Subplot|Korra
+Genius,Heiress,LGBTQ+,Non-Powered,Romantic Subplot|Korra,Team Avatar (Korra)
 Baseline
 Low
 Team Avatar (Korra)
@@ -22,3 +22,8 @@ TV Shows
 Avatar (TV Show)
 
 Crimson
+
+Nickelodeon
+Sebastian
+
+No

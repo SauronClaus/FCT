@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Superhero,Justice League,Romantic Subplot|Green Arrow,Birds of Prey
+Birds of Prey,Justice League,Romantic Subplot|Green Arrow,Superheroes
 Baseline
 Medium
 Justice League (Extended),Birds of Prey (Core),Birds of Prey (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows,Movies
 DC
 
 Black
+Trained Fighter|Superhero|2,Sonic|Sonic Scream|4
+
+Sebastian
+
+No

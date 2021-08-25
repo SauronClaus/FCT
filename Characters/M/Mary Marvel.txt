@@ -6,14 +6,14 @@ https://en.wikipedia.org/wiki/Mary_Marvel
 Mary
 Batson
 Mary Batson|Mary Bromfield|Mary Marvel|Lady Shazam
-
 Tara Strong|Grace Fulton|Michelle Borth
+
 Superhero
 Human
 Good
 Supporting Protagonist
 Female
-Magic Word,Word of Power,Shazam Family,Magic,Transforming,Sibling|Captain Marvel
+Magic Entity,Magic Word,Shazam Family,Siblings|Captain Marvel,Transforming,Phrase of Power
 Country
 Medium
 Shazam Family,Justice League (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies
 DC
 
 Red
+
+
+Sebastian
+
+No

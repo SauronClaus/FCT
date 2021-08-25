@@ -13,7 +13,7 @@ Human
 Good
 Rival
 Male
-Pokemon Trainer,Champion,Kanto,Duo|Red (Pokemon),Gym Leader
+Champion,Duo|Red (Pokemon),Gym Leader,Kanto,Pokemon Trainer
 Baseline
 High
 Champions (Pokemon),Kanto Gym Leaders
@@ -22,3 +22,8 @@ Video Games
 Pokemon
 
 Blue
+
+
+Sebastian
+
+No

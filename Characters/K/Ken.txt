@@ -7,18 +7,23 @@ Ken
 Masters
 Ken Masters
 Steve Blum|Christian Howard|Adam Kasprowicz|Reuben Langdon
-30
+30|3
 Fighter
 Human
 Good
 Playable Character
 Male
-Street Fighter,Martial Artist,Prideful,Hothead,Parent Child|Mel Masters,Spouse|Eliza Masters
+Father,Husband,Martial Artist,Musclehead,Prideful,Street Fighter,Super Smash Bros
 Modified Human
 Medium
-
+Super Smash Bros
 Theme of Ken|https://open.spotify.com/track/7usj87tZmaPwgYm7EmJPgr
 Video Games
 Street Fighter
 
 Red
+
+
+Sebastian
+
+No

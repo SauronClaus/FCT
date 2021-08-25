@@ -1,0 +1,14 @@
+Medi Gun
+Team Fortress 2
+The Medi Gun is the default secondary weapon for the Medic. It is a modified team-colored fire hose nozzle wrapped in black tape and outfitted with a bottom handle, which is connected to the Medic's backpack by a hose. It fires a glowing team-colored beam into the recipient, who will then emit similarly colored cross symbols, similar to a Teleporter trail. When a disguised Spy is over-healed, enemies can also see the team-colored crosses.
+https://wiki.teamfortress.com/w/images/thumb/5/53/RED_Medigun.png/250px-RED_Medigun.png
+https://wiki.teamfortress.com/wiki/Medi_Gun
+Team Fortress
+Medic
+Healing,Healing Gun
+Video Games
+Weapon|Healing
+TF2 Merc Signature Weapons
+City
+High
+Grey

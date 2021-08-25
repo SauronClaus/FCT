@@ -1,0 +1,7 @@
+Baseline (48): Abby Cadabby, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Akihide Karatsu, Alan Bradley, Alan Wake, Alex, Alfred Pennyworth, Alice Johnson, Allison Blake, Ally, Alois, Amanda Waller, Amazi-Girl, Amy Cahill, Animal, Annette, Annie Montrose, Anton Chigurh, Aragorn, Arthur Holmwood, Arthur Weasley, Artyom, Arya, Ashe, Ashley Williams, Atticus Finch, Audrey Ramirez, Austin, Baljeet Tjinder, Banshee, Barbara Gordon, Bard the Bowman, Baron Zemo, BB-8, Beaker, Bean, Bentley-23, Bernadetta, Big Bird, Bilbo Baggins, Billy Pilgrim, Black Canary, Black Widow, Blake Belladonna, Moana
+Modified Human (24): Akkar, Alex Fierro, Aloy, Alucard, Alyx, Amara, Amy Rose, Angel, Annabeth Chase, Apollo, Araithia Shokta, Armor, Arthail Consumer of Food, Ash Ketchum, Axton, Barret Wallace, Bastion, Beast, Big the Cat, Bill Kerman, Bill Weasley, Black Lightning, Black Panther, Gordon Freeman
+City (20): Aang, Aerith Gainsborough, Agent Venom, Ahsoka Tano, Amadeus Cho, Amethyst, Anakin Skywalker, Anna Croft, Aphelios, Applejack, Arthas Menethil, Aurora, Azula, Barry Allen, Bart Allen, Batman, Bayonetta, Beast Boy, Maui, Tamatoa
+Country (5): Adora, Albus Dumbledore, Amos Kane, Aquaman, Te Ka
+Cosmic (3): Adam Warlock, Alan Scott, Alexander Luthor Jr.
+Interuniversal (2): America Chavez, Anti-Monitor
+Omnipotent (1): Athena

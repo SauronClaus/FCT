@@ -13,7 +13,7 @@ Robot
 Neutral
 Protagonist
 Male
-Robot,Against Programming,Turret,Machine Gun
+Against Programming,Robot
 Modified Human
 Medium
 Overwatch Heroes
@@ -22,3 +22,8 @@ Video Games,CGI
 Overwatch
 
 Bone White
+Guns|Robot|3
+Blizzard Games
+Sebastian
+
+No

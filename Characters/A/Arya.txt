@@ -1,4 +1,4 @@
-Arya Dröttning
+Arya
 Eragon
 Arya Dröttning was an elf who succeeded her mother, Queen Islanzadí, as the queen of the elves as well as the Dragon Rider bonded to the green dragon Fírnen. Arya's father was the late King Evandar, who had died in battle years before. Arya was considered stunningly beautiful by Eragon, with long raven-black hair and slanted green eyes and a petite form. Like most elves, she was a master swordswoman and magic user. Eragon expressed his deep feelings for her on many occasions, but she refused him because she feared it would distract Eragon from more pressing matters and because of the large age difference between them. However, in Brisingr, there were some signs that she had began to develop feelings for him. At the end of Inheritance she and Eragon exchange their true names, an ultimate bond of trust, when they meet up in secret with their dragons just before Arya tells the other leaders that she has become a queen and Rider. They speak their true names to one another again just before Fírnen scooped her off the deck of the ship Talita, transporting Eragon and his convoy east. She expresses that it may be possible for their relationship to become romantic in the future if Eragon's feelings do not change, but circumstances still keep Eragon and Arya apart.
 https://static.wikia.nocookie.net/inheritance/images/d/dc/Arya.png/revision/latest/scale-to-width-down/700?cb=20060910174134
@@ -13,7 +13,7 @@ Elf
 Good
 Side Character
 Female
-Queen,Royalty,Nobility,Swordsman,Magic User,Dragon Riders
+Dragon Rider,Magic User,Nobility,Queen,Royalty,Ruler,Swordsman
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books,Movies
 Eragon
 
 Gold
+Dragon Rider|Tamer|4,Trained Fighter|Knight|2
+Classic Fantasy Novel
+Sebastian
+
+No

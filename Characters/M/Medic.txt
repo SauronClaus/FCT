@@ -7,13 +7,13 @@ https://wiki.teamfortress.com/wiki/Medic
 Ludwig
 Dr. Ludwig|The Medic
 Robin Atkin Downes
-45
+45|4
 Medic
 Human
 Neutral
 Playable Character
 Male
-Team Fortress 2,Team Fortress,Psychopath,Doctor,Mercenary,Mysterious Backstory
+Medical Doctor,Mercenary,Mysterious Backstory,Psychopath/Sociopath,Team Fortress 2
 Baseline
 Medium
 Team Fortress
@@ -22,3 +22,8 @@ Video Games
 Team Fortress
 Medi Gun
 White
+
+
+Sebastian
+
+No

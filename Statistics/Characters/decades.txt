@@ -1,0 +1,10 @@
+0 (4): Abby Cadabby, BB-8, Bean, Big Bird
+1 (14): Ahsoka Tano, Alex Fierro, Alice Johnson, Aloy, Amy Cahill, Annabeth Chase, Annette, Araithia Shokta, Ash Ketchum, Ashe, Azula, Bernadetta, Big the Cat, Blake Belladonna
+2 (10): Adora, Aerith Gainsborough, Alyx, Amy Rose, Anakin Skywalker, Artyom, Ashley Williams, Barry Allen, Bill Weasley, Gordon Freeman
+3 (5): Allison Blake, Annie Montrose, Anton Chigurh, Barret Wallace, Bastion
+4 (4): Alan Wake, Alois, Arthur Weasley, Bard the Bowman
+5 (3): Adam Warlock, Adrian Monk, Bilbo Baggins
+8 (1): Aragorn
+10 (1): Arya
+11 (2): Aang, Albus Dumbledore
+15 (1): Akkar

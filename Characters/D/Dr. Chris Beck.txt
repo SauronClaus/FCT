@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Astronaut,Romantic Subplot|Beth Johanssen
+Astronaut,NASA,Romantic Subplot|Beth Johanssen
 Baseline
 Low
 Ares III Mission Crew
@@ -22,3 +22,8 @@ Books,Movies
 The Martian
 
 Orange
+
+
+Sebastian
+
+No

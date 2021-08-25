@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Weasely,Order of the Pheonix II,Wizard
+Order of the Pheonix II,Weasley,Wizard
 Baseline
 Medium
 Order of the Pheonix II,Weasley Family
@@ -22,3 +22,8 @@ Books,Movies
 Harry Potter
 
 Weasley Orange
+Magical Powers|Wizard|5,Scholar|Human Scholar|1
+Classic Modern Books
+Sebastian
+
+No

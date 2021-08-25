@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Writer,Creator,Reality Bending,Horror Games
+Creator,Horror Protagonist,Reality Bending,Writer
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Video Games,Horror Games
 Alan Wake
 
 Black
+Reality Warping|Uncontrollable|3,Reality Warping|Writer|0
+Horror Video Games
+Sebastian
+
+No

@@ -1,3 +1,7 @@
+# Searches through all the franchises. If the character is incomplete and in the franchises listed in 
+# franchiseSearch, it'll write them under neededCharacters.txt. Otherwise, it'll write them under 
+# addBeforeItBreaks.txt.
+
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 
@@ -6,11 +10,19 @@ import os
 groupsLarge = {}
 
 writeFile = open("addBeforeItBreaks.txt","w",encoding='utf8')
-write2File = open("franchiseCharacters.txt","w",encoding='utf8')
+franchiseCharacterFile = open("neededCharacters.txt","w",encoding='utf8')
+
+franchiseSearch = ["Persona 3","Persona 4"]
+franchiseAddCharacters = []
 
 charactersToFind = []
+
+artifactList = []
+artifactsIncomplete = []
+
 print("Start!")
 numberFranchises = 0
+numberOfFranchises = 0
 listFranchises = ""
 # List all files in a directory using os.listdir
 for letter in alphabet:
@@ -19,15 +31,30 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
             franchiseInfo = franchiseFile.read().split("\n")
-            if len(franchiseInfo) == 5:
+            if len(franchiseInfo) >= 8:
+                numberOfFranchises +=1
                 numberFranchises +=1
                 listFranchises = listFranchises + franchiseInfo[0] + ", "
-                characters = franchiseInfo[4].split("|")
+                characters = franchiseInfo[7].split("|")
                 characterString = ""
                 for character in characters:
                     charactersToFind.append(character)
                     characterString = characterString + character + ", "
-                write2File.write(franchiseInfo[0] + ": " + characterString[0:len(characterString)-2:] + "\n")
+                    if franchiseInfo[0] in franchiseSearch:
+                        franchiseAddCharacters.append(character)
+                if len(franchiseInfo) == 17:
+                    if franchiseInfo[8] != "":
+                        antagonists = franchiseInfo[8].split("|")
+                        for antagonist in antagonists:
+                            charactersToFind.append(antagonist)
+                            characterString = characterString + antagonist + ", "
+                            if franchiseInfo[0] in franchiseSearch:
+                                franchiseAddCharacters.append(antagonist)
+                    if franchiseInfo[9] != "":
+                        artifacts = franchiseInfo[9].split("|")
+                        for artifact in artifacts:
+                            artifactList.append(artifact)
+                            artifactsIncomplete.append(artifact)
 
 for letter in alphabet:
     basepath = 'Characters/' + letter
@@ -35,11 +62,23 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
-            if len(characterInfo) == 24:
+            if len(characterInfo) == 29:
                 if entry[0:len(entry)-4:] in charactersToFind:
                     while entry[0:len(entry)-4:] in charactersToFind:
-                        print(entry[0:len(entry)-4:])
+                        #print(entry[0:len(entry)-4:])
                         charactersToFind.remove(entry[0:len(entry)-4:])   
+invalidNum = 0
+basepath = 'Artifacts'
+for entry in os.listdir(basepath):
+    if os.path.isfile(os.path.join(basepath, entry)):
+        try:
+            artifactFile = open(basepath + "/" + entry, "r", encoding='utf8')
+            artifactInfo = artifactFile.read().split("\n")
+            if len(artifactInfo) == 14:
+                artifactsIncomplete.remove(entry[0:len(entry)-4:])
+        except:
+            #print("Incomplete: " + entry[0:len(entry)-4:])
+            invalidNum+=1
 
 singular = []
 charactersToFind.sort()
@@ -49,7 +88,13 @@ for character in charactersToFind:
         singular.append(character)
 
 for character in singular:
-    writeFile.write(character + "\n")
+    if not(character in franchiseAddCharacters):
+        writeFile.write("Character: " + character + "\n")
+
+for character in franchiseAddCharacters:
+    franchiseCharacterFile.write(character + "\n")
+artifactsIncomplete.sort()
+for artifact in artifactsIncomplete:
+    writeFile.write("Artifact: " + artifact + "\n")
 
 print("Completed!")
-print("Franchises (" + str(numberFranchises) + "): " + listFranchises[0:len(listFranchises)-2:])

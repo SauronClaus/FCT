@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Naval Captain,Inspiration|Captain Ahab
+Inspiration|Captain Ahab,Naval Captain
 Baseline
 Low
 Essex Crew
@@ -22,3 +22,8 @@ Books,Movies
 In the Heart of the Sea
 
 Aarav Blue
+
+
+Sebastian
+
+No

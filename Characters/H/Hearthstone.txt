@@ -13,7 +13,7 @@ Elf
 Good
 Supporting Protagonist
 Male
-Elf,Runes,Wizard,Magic User,Duo|Blitzen,Scarf,Deaf
+Deaf,Duo|Blitzen,Elf,Magic User,Runes,Scarf,Wizard
 Modified Human
 Medium
 Magnus Chase First Quintet,Magnus Chase Ragnarok-Halting Gang
@@ -22,3 +22,8 @@ Books
 Percy Jackson and the Olympians
 
 White
+
+
+Sebastian
+
+No

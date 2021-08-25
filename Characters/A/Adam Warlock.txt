@@ -13,7 +13,7 @@ Modified Human
 Good
 Protagonist
 Male
-Schemer,Lab Experiment,Guardians of the Galaxy,Infinity Watch
+Guardians of the Galaxy,Infinity Watch,Lab Experiment,Schemer
 Cosmic
 Low
 Infinity Watch,Guardians of the Galaxy (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel
 The Soul Stone
 Orange-Gold
+Infinity Stone Powers|Soul Gem|7
+Disney
+Sebastian
+
+No

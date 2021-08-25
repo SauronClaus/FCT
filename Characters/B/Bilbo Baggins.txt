@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Ring-Bearer,Hobbit,Reluctant Hero,Thorin and Company
+Hobbit,Reluctant Hero,Ring-Bearer,Thorin and Company
 Baseline
 High
 Thorin and Company
@@ -22,3 +22,8 @@ Books,Movies
 Lord of the Rings
 Sting|the One Ring
 Crimson
+Trained Fighter|Adventurer|1
+Classic Fantasy Novels
+Sebastian
+
+No

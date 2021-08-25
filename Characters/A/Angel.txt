@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Superhero,Flight,Bird Wings,X-Men,X-Men First Class
+Bird Wings,Flight,Mutant,Superheroes,X-Men,X-Men First Class
 Modified Human
 Low
 X-Men First Class,X-Men (Extended)
@@ -22,3 +22,8 @@ Superhero Comics,Comics
 Marvel Comics
 
 White
+Flight|Wings|3,Healing Powers|Inborn|2
+Disney
+Sebastian
+X-Men First Class,Archangel,Classic
+No

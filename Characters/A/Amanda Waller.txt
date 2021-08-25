@@ -13,12 +13,17 @@ Human
 Neutral
 Antagonist
 Female
-Manipulator,Antihero,Government Agent,Suicide Squad
+Antihero,Government,Manipulator,Suicide Squad
 Baseline
 Low
 Suicide Squad (Core),Suicide Squad (Extended)
 
 Superhero Comics,Comics,Movies
-DC Comics
+DC
 
 Black
+Charisma|Manipulator|2
+DC
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Nerd,Genius,Frenemy|Buford Van Stomm,Cartoon
+Cartoon,Frenemy|Buford Van Stomm,Geek,Genius,Nerd
 Baseline
 Medium
 Phineas and Ferb Main Child Group
@@ -22,3 +22,8 @@ TV Shows,Cartoon
 Phineas and Ferb
 
 Overalls Blue
+Genius|Nerd|2
+Disney
+Sebastian
+
+No

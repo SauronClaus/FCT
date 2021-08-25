@@ -13,7 +13,7 @@ Cat
 Good
 Supporting Protagonist
 Female
-Guardian,Interdimensional,Multiversal Origin,Psychic Powers,Royalty,Nobility,Pyrokinesis
+Guardian,Interdimensional,Multiversal Origin,Nobility,Psychic,Pyrokinesis,Royalty
 City
 Low
 Sonic the Hedgehog (Extended Cast)
@@ -22,3 +22,8 @@ Video Games,CGI
 Sonic the Hedgehog
 
 Pale Purple
+
+
+Sebastian
+
+No

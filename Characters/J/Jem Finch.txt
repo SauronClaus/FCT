@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Parent Child|Atticus Finch,Sibling|Scout Finch,Child
+Child,Parent Child|Atticus Finch,Siblings|Scout Finch
 Baseline
 Medium
 Finch Family
@@ -22,3 +22,8 @@ Books,Movies
 To Kill a Mockingbird
 
 Grey
+
+
+Sebastian
+
+No

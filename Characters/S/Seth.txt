@@ -13,12 +13,17 @@ Android
 Evil
 Antagonist
 Male
-Street Fighter,Criminal,Ability Copier,AI,Immortal,Megalomaniac,Shadaloo
+AI,Ability Copier,Criminal,Immortal,Megalomaniac,Shadaloo,Street Fighter
 City
 Low
 Shadaloo
 Theme of Seth|https://open.spotify.com/track/7oCg31JI1HCj7z8nP1ygsb
 Video Games
 Street Fighter
-Tanden Engine
+The Tanden Engine
 Silver-White
+
+
+Sebastian
+
+No

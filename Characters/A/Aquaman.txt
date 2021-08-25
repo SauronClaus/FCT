@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Sea Powers,Water,Ocean,Royalty,King,Justice League
+Justice League,King,Ocean,Royalty,Ruler,Sea Powers,Water Powers
 Country
 High
 Justice League (Extended),Justice League Founder,Justice League (film)
@@ -22,3 +22,8 @@ Superhero Comics,Comics,Movies,TV Shows
 DC
 Aquaman's Trident
 Orange
+Aquakinesis|Atlantean|2,Animal Speaking|Ocean Life|3,Super Strength|Inborn|3,Enhanced Physical Abilities|Atlantean|3
+DC
+Sebastian
+DC Cinematic Universe,Comics
+No

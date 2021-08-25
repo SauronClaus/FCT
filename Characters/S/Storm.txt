@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-X-Men,Superhero,Weather Powers
+Mutant,Superheroes,Weather Powers,X-Men
 Modified Human
 Medium
 X-Men (Core),X-Men (Extended),Fantastic Four (Extended),Giant Sized X-Men #1 Team
@@ -22,3 +22,8 @@ Superhero Comics,Comics,TV Shows,Movies
 Marvel
 
 Black
+
+
+Sebastian
+
+No

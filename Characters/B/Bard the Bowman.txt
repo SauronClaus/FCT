@@ -13,7 +13,7 @@ Human
 Good
 Minor Side Character
 Male
-Dragonslayer|Smaug,Archer,Chosen One,Royalty,Nobility,Town Guard,Peasant
+Archer,Chosen One,Dragonslayer|Smaug,Nobility,Peasant,Royalty,Town Guard
 Baseline
 Low
 
@@ -22,3 +22,8 @@ Books,Movies
 Lord of the Rings
 Black Arrow (LOTR)
 Dark Green
+Trained Fighter|Town Guard|2,Chosen One|Prophecy|4
+Classic Fantasy Novels
+Sebastian
+
+No

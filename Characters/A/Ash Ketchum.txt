@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Cheerful,Naive,Pokemon Trainer,Champion
+Champion,Cheerful,Naive,Pokemon Trainer
 Modified Human
 High
 Pokemon Anime Kanto Trio
@@ -22,3 +22,8 @@ Anime,TV Shows
 Pokemon
 Pikachu
 Ash Ketchum Red
+Pokemon Trainer|Player Character|5
+Nintendo
+Sebastian
+Kanto,Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar
+No

@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Demigod,Greek,Genius,Romantic Subplot|Percy Jackson,Camp Half-Blood
+Camp Half-Blood,Demigod,Genius,Greek,Romantic Subplot|Percy Jackson
 Modified Human
 High
 Heroes of Olympus,Camp Half-Blood,Greek Demigods (Rick Riordan),Original Prophecy
@@ -22,3 +22,8 @@ Books
 Percy Jackson and the Olympians
 Annabeth's Knife
 Gold
+Trained Fighter|Adventurer|3,Genius|Inborn|3
+Modern Mythology
+Sebastian
+
+No

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Magic User,Wizard,Harry Potter Main Trio,Romantic Subplot|Ginny Weasley,Pureblood,Dumbledore's Army,Gryffindor,Chosen One
+Chosen One,Dumbledore's Army,Gryffindor,Harry Potter Main Trio,Iconic,Magic User,Pureblood,Romantic Subplot|Ginny Weasley,Wizard,Nemesis|Lord Voldemort
 City
 High
 Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years)
@@ -22,3 +22,8 @@ Books,Movies
 Harry Potter
 The Invisiblity Cloak
 Black
+
+
+Sebastian
+
+No

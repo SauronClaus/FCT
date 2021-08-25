@@ -13,7 +13,7 @@ Koopa
 Evil
 Antagonist
 Male
-Tech,Prankster,Koopa,Parent Child|Bowser,Royalty,Nobility,Prince,Super Smash Bros
+Koopa,Nobility,Parent Child|Bowser,Prankster,Prince,Royalty,Super Smash Bros,Tech
 Modified Human
 High
 Super Smash Bros,Koopa Troopa
@@ -22,3 +22,8 @@ Video Games,CGI
 Mario
 
 Yellow
+
+
+Sebastian
+
+No

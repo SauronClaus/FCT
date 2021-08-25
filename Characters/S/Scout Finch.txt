@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Parent Child|Atticus Finch,Sibling|Jem Finch,Child,Narrator,Tomboy
+Child,Narrator,Parent Child|Atticus Finch,Siblings|Jem Finch,Tomboy
 Baseline
 High
 Finch Family
@@ -22,3 +22,8 @@ Books,Movies
 To Kill a Mockingbird
 
 Grey
+
+
+Sebastian
+
+No

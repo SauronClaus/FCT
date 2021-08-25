@@ -13,7 +13,7 @@ Kangaroo
 Good
 Protagonist
 Male
-Imaginative,Child
+Child,Imaginative
 Baseline
 Low
 The Backyardigans
@@ -22,3 +22,8 @@ TV Shows,CGI
 The Backyardigans
 
 Austin Purple
+Reality Warping|Child's Imagination|0
+
+Sebastian
+
+No

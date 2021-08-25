@@ -1,0 +1,176 @@
+Ability Copy (1): The Tanden Engine
+Ability Enhancer (1): HEV Suit
+Admantine (1): Aquaman's Trident
+Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
+Annoying (1): Arrow of Dodona
+Armor (2): HEV Suit, Iron Man Suit
+Armored (2): Batmobile, Batwing
+Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
+Bending Augumenter (1): Aang's Glider Staff
+Big (1): The Crown of Horns
+Bludgeoning (1): Gordon Freeman's Crowbar
+Bone (1): Maui's Fishhook
+Book (1): The Codex Umbra
+Boomerang (2): Batarang, Captain America's Shield
+Bow (2): Failnaught, The Inexhaustable
+Bracelets (1): Bracelets of Submission
+Bracers (1): Bracelets of Submission
+Bronze (1): Festus
+Bullet-Deflecting (1): Bracelets of Submission
+Car (1): Batmobile
+Celestial Bronze (2): Annabeth's Knife, Riptide
+Classic Literature (1): The Nautilus
+Cloak (1): The Invisiblity Cloak
+Common Magic Item (1): Wand of Wands
+Companion (1): Skeets
+Construct (1): Alan Scott's Ring
+Crowbar (1): Gordon Freeman's Crowbar
+Cursed (1): The Codex Umbra
+Cursed Weapon (2): Annabeth's Knife, the One Ring
+Dagger (2): Annabeth's Knife, Atreus' Knife
+Deathly Hallows (2): The Elder Wand, The Invisiblity Cloak
+Deck of Cards (2): Deck of Illusions, The Deck of Green Cards
+Demigod Weapons (2): Annabeth's Knife, Riptide
+Distraction (1): Eversmoking Bottle
+Draconic (1): The Crown of Horns
+Dragon (1): Festus
+Duck (1): Expand-o-Duck
+Dwarven Forged (1): Mjolnir
+Dwarven-Forged (1): Leviathan Axe
+Eldritch Horror (1): The Codex Umbra
+Electric Power (1): Pikachu
+Elemental Weapon (1): Mjolnir
+Elements of Harmony (1): Element of Honesty (My Little Pony)
+Elvish-Forged (1): Sting
+Environmental Protection (1): HEV Suit
+Evil (1): the Venom Symbiote
+Exosuit (1): Iron Man Suit
+Experimental Weapon (1): The Starheart (DC Comics)
+Fire (1): Fire Flower
+Fire Resistances (1): Ring of Fire Resistance
+Fishhook (1): Maui's Fishhook
+Flight (1): Aang's Glider Staff
+Floating (1): The Sword of Summer (Jack)
+Fragment (1): Iarno Albrek's Shattered Staff
+Gatling Gun (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
+Gauntlet (2): Ember Celica, The Infinity Gauntlet
+Ghost-Slayer (1): Andúril
+Glass (1): Iarno Albrek's Shattered Staff
+Glider (1): Aang's Glider Staff
+Glowing (1): Sting
+God-Item (1): The Infinity Gauntlet
+Greek (1): Riptide
+Green Lantern Ring (1): Alan Scott's Ring
+Gun (4): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol
+Gun-Hands (1): Ember Celica
+Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
+Hammerspace (1): Piko Piko Hammer
+Hatchet (1): The Hatchet
+Healing (1): Medi Gun
+Healing Gun (1): Medi Gun
+Heriditary (1): Atreus' Knife
+Historical Weapon (1): the One Ring
+Iconic (2): Captain America's Shield, Iron Man Suit
+Illusions (1): Deck of Illusions
+Implant (1): The Tanden Engine
+Improvised Weapon (1): Gordon Freeman's Crowbar
+Inane Weapon (1): Expand-o-Duck
+Infinity Stone (2): Loki's Scepter, The Soul Stone
+Insect Communication (1): Ant-Man Helmet
+Insect-Themed (1): Ant-Man Helmet
+Invisibility (1): The Invisiblity Cloak
+Katana (1): Gambol Shroud
+Knife-Like (1): Kunai
+Lance (1): Areadbhar
+Lantern Corps (1): Alan Scott's Ring
+Lasso (1): The Lasso of Truth
+Legion of Superheroes (1): Legion Flight Ring
+Lightning (1): Mjolnir
+MacGuffin (1): The Infinity Gauntlet
+Magic Space Rocks (1): The Soul Stone
+Magical (5): Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
+Magical Fire (1): The Deck of Green Cards
+Magical Paint (1): Marvelous Pigments
+Magical Quality (1): Element of Honesty (My Little Pony)
+Magical Sword (1): Sword of Protection
+Mechanical (1): The Tanden Engine
+Metal (1): Festus
+Mind Control (1): Loki's Scepter
+Multiple Forms (2): Crescent Rose, Gambol Shroud
+Nearly Useless (1): Wand of Wands
+Necklace (1): Rafail Gem
+Norse (1): Leviathan Axe
+Object (1): The Crown of Horns
+Ocean Themed (1): Aquaman's Trident
+Ocean Vessel (1): The Nautilus
+Omnipotentence (1): The Infinity Gauntlet
+Oversized Mallet (1): Piko Piko Hammer
+Parasite (1): the Venom Symbiote
+Particle (1): Pym Particles
+Plane (1): Batwing
+Pokemon (1): Pikachu
+Power (1): Pym Particles
+Power Suit (1): HEV Suit
+Power-Granting (1): Legion Flight Ring
+Power-Up (1): Fire Flower
+Projectile (1): Batarang
+Prophesized Weapon (2): Annabeth's Knife, Black Arrow (LOTR)
+Prophetic (1): Arrow of Dodona
+Prosthetic (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
+Prosthetic Weapon (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
+Psychic Resistance (1): Magneto's Helmet
+Ranged (2): Batarang, Ember Celica
+Ranged Attack (1): Iron Man Suit
+Rapid-Fire (1): Machine Pistol
+Rapier (1): Myrtenaster
+Relic (Fire Embelm) (1): Rafail Gem
+Relic (Fire Emblem) (7): Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Sword of the Creator, Thunderbrand
+Returning (2): Mjolnir, Riptide
+Ring (3): Alan Scott's Ring, Legion Flight Ring, the One Ring
+Rings (1): Ring of Fire Resistance
+Robot (1): Skeets
+Robot Animal (1): Festus
+Rod (1): Immovable Rod
+Runes (1): The Sword of Summer (Jack)
+Sacred (1): The Crown of Horns
+Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
+Sacred Weapon (Fire Emblem) (2): Caduceus Staff, The Inexhaustable
+Sacred Weapons (Fire Emblem) (1): Spear of Assal
+Scythe (1): Crescent Rose
+Sea God Powered (1): Aquaman's Trident
+Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jack), the Venom Symbiote
+Shadaloo (1): The Tanden Engine
+Shadow Book (1): The Codex Umbra
+Shapeshifting (1): Maui's Fishhook
+Shield (1): Captain America's Shield
+Shortsword (1): Sting
+Size Change (1): Pym Particles
+Size Changing (1): Ant-Man Helmet
+Smoke (1): Eversmoking Bottle
+Space-Based (1): The Starheart (DC Comics)
+Spear (1): Spear of Assal
+Spellcasting Focus (1): Iarno Albrek's Shattered Staff
+Staff (2): Caduceus Staff, Loki's Scepter
+Street Fighter (1): The Tanden Engine
+Sword (9): Andúril, Gambol Shroud, Myrtenaster, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Symbiote (1): the Venom Symbiote
+Tech (2): Crescent Rose, Iron Man Suit
+Themed (3): Batarang, Batmobile, Batwing
+Thing on Chain (1): Kunai
+Time Traveler (1): Skeets
+Tool (1): The Hatchet
+Transformation (1): Sword of Protection
+Transforming (1): Riptide
+Trident (1): Aquaman's Trident
+Truth-Forcing (1): The Lasso of Truth
+Two-Handed (1): Leviathan Axe
+Uncommon Magic Item (1): Wand of Wild Magic
+Unique (1): Crescent Rose
+Vehicle (2): Batmobile, Batwing
+Vibranium (1): Captain America's Shield
+Wands (1): The Elder Wand
+Waterfowl (1): Expand-o-Duck
+Weapon (1): Aang's Glider Staff
+Whip (1): The Lasso of Truth
+Whip-Sword (1): Sword of the Creator
+Worthy (1): Mjolnir

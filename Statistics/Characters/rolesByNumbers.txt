@@ -1,0 +1,8 @@
+Protagonist (58): Aang, Abraham Van Helsing, Adam Warlock, Adora, Adrian Monk, Agatha, Agent Venom, Ahsoka Tano, Akkar, Alan Scott, Alan Wake, Alice Johnson, Ally, Aloy, Alucard, Alyx, Amadeus Cho, Amara, Amazi-Girl, America Chavez, Amethyst, Amy Cahill, Anakin Skywalker, Angel, Annabeth Chase, Aphelios, Apollo, Applejack, Aquaman, Armor, Arthail Consumer of Food, Artyom, Ash Ketchum, Aurora, Austin, Axton, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Bastion, Batman, Bayonetta, Bean, Beast Boy, Beast, Big Bird, Bilbo Baggins, Bill Kerman, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna, Gordon Freeman, Maui, Moana
+Supporting Protagonist (20): Abby Cadabby, Akihide Karatsu, Alan Bradley, Alex Fierro, Alfred Pennyworth, Allison Blake, Amy Rose, Animal, Anna Croft, Aragorn, Araithia Shokta, Arthur Holmwood, Ashley Williams, Atticus Finch, Audrey Ramirez, Baljeet Tjinder, BB-8, Beaker, Bentley-23, Big the Cat
+Antagonist (10): Alexander Luthor Jr., Amanda Waller, Anti-Monitor, Anton Chigurh, Arthas Menethil, Athena, Azula, Baron Zemo, Tamatoa, Te Ka
+Party Member (6): Aerith Gainsborough, Alois, Annette, Ashe, Barret Wallace, Bernadetta
+Side Character (3): Annie Montrose, Arthur Weasley, Arya
+NPC (2): Abigail, Alex
+Mentor (2): Albus Dumbledore, Amos Kane
+Minor Side Character (2): Bard the Bowman, Bill Weasley

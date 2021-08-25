@@ -13,12 +13,17 @@ Human
 Good
 Protagonist
 Male
-Rebel,Rebellion (Star Wars),Force-Sensitive,Parent Child|Darth Vader,Sibling|Leia Organa,Jedi Knight,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Master Apprentice|Kylo Ren,Master Apprentice|Rey
+Force Sensitive,Iconic,Jedi Knight,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Master Apprentice|Kylo Ren,Master Apprentice|Rey,Nemesis|Darth Vader,Parent Child|Darth Vader,Pilot,Rebel,Rebellion (Star Wars),Siblings|Leia Organa
 City
 High
-Original Trilogy Quintet,Rebel Alliance (Star Wars),Jedi Order
+Original Trilogy Quintet,Rebel Alliance (Star Wars),Jedi Order,Skywalkers (Star Wars)
 
 Movies
 Star Wars
 
 White
+
+
+Sebastian
+
+No
