@@ -22,3 +22,8 @@ Video Games
 Street Fighter
 
 Red
+Satsui No Hado|Learned|5,Martial Arts|Trained|2,Super Strength|Trained|5,Enhanced Physical Abilities|Trained|5
+Capcom
+Ethan|Sebastian
+Oni,Shin Akuma
+No
