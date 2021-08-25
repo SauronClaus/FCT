@@ -55,3 +55,16 @@ def allFranchises():
                         franchises[entry[0:len(entry)-4:]] = franchiseInfo
 
 # Returns a dict of franchises, with the pair being filename/franchise info list
+
+def allMinions():
+    minions = {}
+    basepath = 'Minions/'
+    for entry in os.listdir(basepath):
+        if os.path.isfile(os.path.join(basepath, entry)):
+            minionFile = open(basepath + "/" + entry, "r", encoding='utf8')
+            minionInfo = minionFile.read().split("\n")
+            fileName = entry[0:len(entry)-4:]
+            if len(minionInfo) == 24:
+                minions[fileName] = minionInfo
+    return minions
+# Returns a dict of minions, with the pair being filename/minion info list

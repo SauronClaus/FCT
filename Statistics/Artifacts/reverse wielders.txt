@@ -28,6 +28,8 @@ Festus (1): Leo Valdez
 Fire Flower (1): Mario
 Freikugel (1): Hilda
 Gambol Shroud (1): Blake Belladonna
+Gordon Freeman's Crowbar (1): Gordon Freeman
+HEV Suit (1): Gordon Freeman
 Iarno Albrek's Shattered Staff (1): Kalathos Sunstrider
 Immovable Rod (1): Glynnric Manassnass
 Iron Man Suit (3): Iron Man, Ironheart, War Machine
@@ -38,6 +40,7 @@ Loki's Scepter (1): Loki
 Machine Pistol (1): Sombra
 Magneto's Helmet (1): Magneto
 Marvelous Pigments (1): Kareem Par-Al
+Maui's Fishhook (1): Maui
 Medi Gun (1): Medic
 Mjolnir (1): Thor
 Myrtenaster (1): Weiss Schnee

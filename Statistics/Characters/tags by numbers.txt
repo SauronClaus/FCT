@@ -5,18 +5,19 @@ LGBTQ+ (8): Abigail, Adora, Alan Scott, Albus Dumbledore, Alex Fierro, Alex, Ame
 Nobility (8): Annette, Aragorn, Arthur Holmwood, Arya, Azula, Bard the Bowman, Bernadetta, Black Panther
 Magic User (7): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arya, Bill Weasley
 Royalty (7): Amethyst, Aquaman, Aragorn, Arya, Azula, Bard the Bowman, Black Panther
+Chosen One (6): Adora, Aloy, Bard the Bowman, Blake Belladonna, Gordon Freeman, Moana
 Justice League (6): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Black Lightning
 Monster Hunter (5): Abraham Van Helsing, Alucard, Arthur Holmwood, Bayonetta, Blake Belladonna
+Rebel (5): Adora, Alyx, Amy Rose, Barret Wallace, Gordon Freeman
 Soldier (5): Ahsoka Tano, Alyx, Anakin Skywalker, Ashley Williams, Billy Pilgrim
 Archer (5): Akkar, Apollo, Ashe, Bard the Bowman, Bernadetta
 Mutant (5): Angel, Armor, Aurora, Banshee, Beast
 X-Men (5): Angel, Armor, Aurora, Banshee, Beast
-Chosen One (4): Adora, Aloy, Bard the Bowman, Blake Belladonna
 Powerhouse (4): Adora, Amadeus Cho, America Chavez, Armor
-Rebel (4): Adora, Alyx, Amy Rose, Barret Wallace
 Manipulator (4): Amanda Waller, Anna Croft, Baron Zemo, Batman
 Ruler (4): Aquaman, Aragorn, Arya, Black Panther
 Non-Powered (4): Barbara Gordon, Batman, Bentley-23, Black Widow
+Water Powers (3): Aang, Aquaman, Moana
 Muppet (3): Abby Cadabby, Animal, Big Bird
 D&D (3): Akkar, Arthail Consumer of Food, Arthas Menethil
 Hacker (3): Alan Bradley, Alyx, Barbara Gordon
@@ -24,6 +25,7 @@ Green (3): Alan Scott, Amadeus Cho, Beast Boy
 Mentor (3): Albus Dumbledore, Amos Kane, Barry Allen
 Order of the Pheonix II (3): Albus Dumbledore, Arthur Weasley, Bill Weasley
 Wizard (3): Albus Dumbledore, Arthur Weasley, Bill Weasley
+Demigod (3): Alex Fierro, Annabeth Chase, Maui
 Bat-Family (3): Alfred Pennyworth, Barbara Gordon, Batman
 Married (3): Ally (Rikk), Bill Weasley (Fleur Delacour), Black Panther (Storm)
 Cheerful (3): Alois, Alyx, Ash Ketchum
@@ -33,10 +35,11 @@ King (3): Aquaman, Aragorn, Black Panther
 Parent Child (3): Atticus Finch (Scout Finch), Azula (Ozai), Barbara Gordon (Jim Gordon)
 Speedsters (3): Aurora, Barry Allen, Bart Allen
 African American (3): Barret Wallace, Black Lightning, Black Panther
+Duo (3): Beaker (Dr. Bunsen Honeydew), Maui (Moana), Moana (Maui)
+Musical (3): Maui, Moana, Tamatoa
 Bender (2): Aang, Azula
 Fire Bender (2): Aang, Azula
 Fire Powers (2): Aang, Azula
-Water Powers (2): Aang, Aquaman
 Sesame Street (2): Abby Cadabby, Big Bird
 Pixelated (2): Abigail, Alex
 Guardians of the Galaxy (2): Adam Warlock, Agent Venom
@@ -55,13 +58,14 @@ WWII (2): Alan Scott, Billy Pilgrim
 Horror Protagonist (2): Alan Wake, Alice Johnson
 Gryffindor (2): Albus Dumbledore, Bill Weasley
 Most Powerful (2): Albus Dumbledore, Amos Kane
-Demigod (2): Alex Fierro, Annabeth Chase
 Shape Shifter (2): Alex Fierro, Beast Boy
 Cosmic (2): Alexander Luthor Jr., Anti-Monitor
 Multiversal Origin (2): Alexander Luthor Jr., America Chavez
 Supervillains (2): Alexander Luthor Jr., Baron Zemo
+Scientist (2): Allison Blake, Gordon Freeman
 Clone (2): Aloy, Bentley-23
 Inventor (2): Alyx, Anakin Skywalker (C3PO)
+Player Character (2): Alyx, Gordon Freeman
 Government (2): Amanda Waller, Annie Montrose
 Vault Hunter (2): Amara, Axton
 Nerd (2): Amazi-Girl, Baljeet Tjinder
@@ -140,7 +144,6 @@ Dream Powers (1): Alice Johnson
 Medical Doctor (1): Allison Blake
 Federal Agent (1): Allison Blake
 PhD (1): Allison Blake
-Scientist (1): Allison Blake
 Overly Sexualized (1): Ally
 Polyamory (1): Ally
 Axe (1): Alois
@@ -267,7 +270,6 @@ Cute (1): BB-8
 Droids (1): BB-8
 Orange (1): BB-8
 Comedically Invulnerable (1): Beaker
-Duo (1): Beaker (Dr. Bunsen Honeydew)
 Hapless Assistant (1): Beaker
 Strategist (1): Bean
 Prankster (1): Beast Boy
@@ -299,3 +301,19 @@ SHIELD (Marvel) (1): Black Widow
 Spy (1): Black Widow
 Animal-Person (1): Blake Belladonna
 Chainsaw (1): Blake Belladonna
+Adventurer (1): Gordon Freeman
+Shapeshifter (1): Maui
+Hero (1): Maui
+Mythical Hero (1): Maui
+Raw Power (1): Maui
+Vain (1): Maui
+Disney Princess (1): Moana
+Crab (1): Tamatoa
+Hoarder (1): Tamatoa
+Kleptomaniac (1): Tamatoa
+Bioluminescent (1): Tamatoa
+Demon of Earth and Fire (1): Te Ka
+Guardian (1): Te Ka
+Redemption Arc (1): Te Ka
+Corrupted (1): Te Ka
+Lava Monster (1): Te Ka

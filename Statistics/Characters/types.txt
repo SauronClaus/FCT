@@ -1,4 +1,4 @@
-Adventurer (1): Bilbo Baggins
+Adventurer (3): Bilbo Baggins, Maui, Moana
 Archer (2): Ashe, Bernadetta
 Assassin (1): Aphelios
 Astral Punching (1): Amara
@@ -21,7 +21,9 @@ Fighter (7): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Ar
 Fisherman (1): Big the Cat
 God (2): Apollo, Athena
 Government Agent (1): Amanda Waller
+Guardian (1): Te Ka
 Hitman (1): Anton Chigurh
+Hoarder (1): Tamatoa
 Huntress (1): Blake Belladonna
 Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
 Knight (1): Alois
@@ -39,6 +41,7 @@ Ranger (2): Akkar, Aloy
 Rebel Leader (1): Barret Wallace
 Rich Guy (1): Arthur Holmwood
 Rogue (2): Alex Fierro, Araithia Shokta
+Scientist (1): Gordon Freeman
 Soldier (3): Alyx, Ashley Williams, Axton
 Strategist (1): Bean
 Superhero (22): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow

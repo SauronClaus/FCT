@@ -15,6 +15,7 @@ The Clone Wars Primary Trio (2): Ahsoka Tano, Anakin Skywalker
 Jedi Order (2): Ahsoka Tano, Anakin Skywalker
 501st Legion (Star Wars) (2): Ahsoka Tano, Anakin Skywalker
 Band of Fools (Original) (2): Akkar, Arthail Consumer of Food
+Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Vault Hunters (2): Amara, Axton
 Ultimates (Team) (2): America Chavez, Black Panther
 Young Justice (Extended) (2): Amethyst, Bart Allen
@@ -31,6 +32,7 @@ Flash Family (2): Barry Allen, Bart Allen
 Outsiders (2): Batman, Black Lightning
 Fantastic Four (Extended) (2): Bentley-23, Black Panther
 Avengers (Core) (2): Black Panther, Black Widow
+Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 The Gaang (1): Aang
 Avatars (1): Aang
 Stardew Valley Trio (1): Abigail
@@ -59,7 +61,6 @@ Eureka! Citizens (1): Allison Blake
 Fans! Cast (1): Ally
 Fans! Polyamorous Group (1): Ally
 Knights of Seiros (1): Alois
-Resistance (Half-Life) (1): Alyx
 Champions (Marvel) (Core) (1): Amadeus Cho
 Hulks (1): Amadeus Cho
 Champions (Marvel) (Extended) (1): Amadeus Cho
@@ -121,3 +122,4 @@ Original Four (KSP) (1): Bill Kerman
 Avengers Original Quintet (1): Black Widow
 SHIELD (Marvel) (1): Black Widow
 Team RWBY (1): Blake Belladonna
+Disney Princesses (1): Moana

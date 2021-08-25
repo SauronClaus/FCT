@@ -28,6 +28,8 @@ Festus
 Fire Flower
 Freikugel
 Gambol Shroud
+Gordon Freeman's Crowbar
+HEV Suit
 Iarno Albrek's Shattered Staff
 Immovable Rod
 Iron Man Suit
@@ -38,6 +40,7 @@ Loki's Scepter
 Machine Pistol
 Magneto's Helmet
 Marvelous Pigments
+Maui's Fishhook
 Medi Gun
 Mjolnir
 Myrtenaster

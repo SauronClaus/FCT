@@ -176,7 +176,6 @@ Giovanni
 Glob Herman
 Godric Gryffindor
 Gonzo
-Gordon Freeman
 Gortys
 Gramma Tala
 Grandpa
@@ -393,7 +392,6 @@ Marvel Boy
 Master Chief
 Master Sergeant Farell
 Matt Taylor
-Maui
 Max
 Max Brass
 Max Mercury
@@ -423,7 +421,6 @@ Miranda Lawson
 Miss Fortune
 Miss Piggy
 Misty Knight
-Moana
 Moaning Myrtle
 Molly Weasley
 Monkey D. Luffy
@@ -687,7 +684,6 @@ Sylvain
 Tails Prower
 Taka
 Tali'Zorah
-Tamatoa
 Tasha
 Teal'c
 Ted Grant

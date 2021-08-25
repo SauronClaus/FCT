@@ -5,6 +5,7 @@ import os
 from all import allFranchises
 from all import allGroups
 from all import allPeople
+from all import allMinions
 
 from generateAdjective import generateAdjective
 
@@ -275,7 +276,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                     adjective = generateAdjective(adjectiveTier)
                     peopleAdjectives[chosenCharacter] = adjective
-                    print("Added " + adjective + " to " + chosenCharacter + ".")
+                    print("Added " + adjective + "to " + chosenCharacter + ".")
 
             print("Using groups, generated " + chosenCharacter + " for " + validPeople + " (" + franchiseGroupEnd[validPeople] + ")")
     replacedViaTags = []
@@ -306,12 +307,13 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     peopleList = []
                     for person2 in people.keys():
                         peopleList.append(person2)
-                    if not(peopleList[RNG] in charactersReplacement.values()) and not(peopleList[RNG] in charactersReplacement.keys()) and not(peopleList[RNG] in otherAddedCharacters) and antagonists != True:
+                    if not(peopleList[RNG] in charactersReplacement.values()) and not(peopleList[RNG] in charactersReplacement.keys()) and not(peopleList[RNG] in otherAddedCharacters) and antagonists != True and people[peopleList[RNG]][28] != "No Sub In":
                         charactersReplacement[person] = peopleList[RNG]
                         print("Subbing " + charactersReplacement[person] + " for " + person + " (full random)")
                         reasonSubbing[person] = ["Full Random", ""]
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
+                # Full random
                 if RNGRandomSwapper > 3 and RNGRandomSwapper <= 35:
                     #print("Replacing " + person + " with tags.")
                     rawTagList = people[person][15].split(",")
@@ -374,7 +376,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                         adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                         adjective = generateAdjective(adjectiveTier)
                                         peopleAdjectives[swapList[RNG]] = adjective
-                                        print("Added " + adjective + " to " + swapList[RNG] + ".")
+                                        print("Added " + adjective + "to " + swapList[RNG] + ".")
 
                                 escapeCharacter = ":)"
                                 replacedViaTags.append(person)
@@ -454,7 +456,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                             adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                             adjective = generateAdjective(adjectiveTier)
                                             peopleAdjectives[charactersReplacement[person]] = adjective
-                                            print("Added " + adjective + " to " + charactersReplacement[person] + ".")
+                                            print("Added " + adjective + "to " + charactersReplacement[person] + ".")
 
                                     subbedPowerLevel = powerLevelsDict[people[finalSecondCharacterSub][16]]
                                     originalPowerLevel = powerLevelsDict[people[finalSecondCharacter][16]]
@@ -467,11 +469,12 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                             adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                             adjective = generateAdjective(adjectiveTier)
                                             peopleAdjectives[finalSecondCharacterSub] = adjective
-                                            print("Added " + adjective + " to " + finalSecondCharacterSub + ".")
+                                            print("Added " + adjective + "to " + finalSecondCharacterSub + ".")
 
                     
                     #if escapeCharacter != ":)":
                         #print("Tags failed (" + tagName + " had no matches.)")
+                # Tags
                 if RNGRandomSwapper > 35 and RNGRandomSwapper <= 42:
                     #print("Replacing " + person + " with names.")
 
@@ -559,12 +562,13 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                 adjective = generateAdjective(adjectiveTier)
                                 peopleAdjectives[subCharacter] = adjective
-                                print("Added " + adjective + " to " + subCharacter + ".")
+                                print("Added " + adjective + "to " + subCharacter + ".")
 
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
                     else:
                         print("Names were an ultimate failure.")
+                # Names
                 if RNGRandomSwapper > 42 and RNGRandomSwapper <= 49:
                     #print("Replacing " + person + " with actors.")
 
@@ -602,12 +606,13 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                 adjective = generateAdjective(adjectiveTier)
                                 peopleAdjectives[subCharacter] = adjective
-                                print("Added " + adjective + " to " + subCharacter + ".")
+                                print("Added " + adjective + "to " + subCharacter + ".")
 
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
                     else:
                         print("Actors were an ultimate failure.")
+                # Actors
                 if RNGRandomSwapper > 49 and RNGRandomSwapper <= 56:
                     #print("Replacing " + person + " with type/occupation.")
                     
@@ -638,9 +643,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                     adjective = generateAdjective(adjectiveTier)
                                     peopleAdjectives[subCharacter] = adjective
-                                    print("Added " + adjective + " to " + subCharacter + ".")
+                                    print("Added " + adjective + "to " + subCharacter + ".")
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
+                # Type
                 if RNGRandomSwapper > 56 and RNGRandomSwapper <= 63:
                     #print("Replacing " + person + " with role.")
                     
@@ -669,9 +675,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                     adjective = generateAdjective(adjectiveTier)
                                     peopleAdjectives[subCharacter] = adjective
-                                    print("Added " + adjective + " to " + subCharacter + ".")
+                                    print("Added " + adjective + "to " + subCharacter + ".")
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
+                # Role
                 if RNGRandomSwapper > 63 and RNGRandomSwapper <= 70:
                     #print("Replacing " + person + " with alignment.")
                     
@@ -700,9 +707,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                     adjective = generateAdjective(adjectiveTier)
                                     peopleAdjectives[subCharacter] = adjective
-                                    print("Added " + adjective + " to " + subCharacter + ".")
+                                    print("Added " + adjective + "to " + subCharacter + ".")
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
+                # Alignment
                 if RNGRandomSwapper > 70 and RNGRandomSwapper <= 77:
                     #print("Replacing " + person + " with gender.")
                     
@@ -730,9 +738,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                     adjective = generateAdjective(adjectiveTier)
                                     peopleAdjectives[subCharacter] = adjective
-                                    print("Added " + adjective + " to " + subCharacter + ".")
+                                    print("Added " + adjective + "to " + subCharacter + ".")
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
+                # Gender
                 if RNGRandomSwapper > 77 and RNGRandomSwapper <= 84:
                     #print("Replacing " + person + " with race.")
                     
@@ -762,9 +771,10 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                     adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                     adjective = generateAdjective(adjectiveTier)
                                     peopleAdjectives[subCharacter] = adjective
-                                    print("Added " + adjective + " to " + subCharacter + ".")
+                                    print("Added " + adjective + "to " + subCharacter + ".")
                             escapeCharacter = ":)"
                             replacedViaTags.append(person)
+                # Race
                 if RNGRandomSwapper > 84 and RNGRandomSwapper <= 91:
                     #print("Replacing " + person + " with medium.")
 
@@ -799,11 +809,12 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                 adjective = generateAdjective(adjectiveTier)
                                 peopleAdjectives[subCharacter] = adjective
-                                print("Added " + adjective + " to " + subCharacter + ".")
+                                print("Added " + adjective + "to " + subCharacter + ".")
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
                     else:
                         print("Mediums were an ultimate failure.")
+                # Medium
                 if RNGRandomSwapper > 91 and RNGRandomSwapper <= 98:
                     #print("Replacing " + person + " with age.")
                     namesChecked = ["Years", "Decades"]
@@ -873,11 +884,12 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                                 adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
                                 adjective = generateAdjective(adjectiveTier)
                                 peopleAdjectives[subCharacter] = adjective
-                                print("Added " + adjective + " to " + subCharacter + ".")
+                                print("Added " + adjective + "to " + subCharacter + ".")
                         escapeCharacter = ":)"
                         replacedViaTags.append(person)
                     else:
                         print("Ages were an ultimate failure.")
+                # Age
                 if RNGRandomSwapper > 98:
                     #print(person + " stays the same")
 
@@ -887,7 +899,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                     
                     escapeCharacter = ":)"
                     replacedViaTags.append(person)
-    
+                # Static
     for character in charactersReplacement.keys():
         otherAddedCharacters.append(character)
     for character in charactersReplacement.values():
@@ -895,4 +907,273 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
     print("Completed Generation!\n")
     return [charactersReplacement, reasonSubbing, otherAddedCharacters, peopleAdjectives]
 
-#def genMinions(franchiseName, franchiseInfo):
+def genMinions(franchiseName, franchiseInfo):
+    origMinions = franchiseInfo[9].split("|")
+    minions = allMinions()
+    replacements = {}
+    reasonsForSubs = {}
+    minionAdjectives = {}
+    for origMinion in origMinions:
+        replacements[origMinion] = ";)"
+    for origMinion in origMinions: 
+        RNG = random.randint(1,4)
+        if RNG == 4:
+            escapeCharacter = ":("
+            while escapeCharacter == ":(":
+                minionsInfo = minions[origMinion]
+                connectedMinions = []
+                if minionsInfo[6] != "":
+                    for connectedGroup in minionsInfo[6].split("|"):
+                        connectedMinions.append(connectedGroup)
+
+                RNGPicker = random.randint(1,100)
+                if RNGPicker <= 5:
+                    subMinionList = []
+                    for subMinion in minions.keys():
+                        if subMinion != origMinion:
+                            subMinionList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], subMinionList)
+                    
+                    RNG = random.randint(0,len(subMinionList)-1)
+
+                    replacements[origMinion] = subMinionList[RNG]
+                    reasonsForSubs[origMinion] = ["Full Random"]
+                    subMinionInfo = minions[subMinionList[RNG]]
+
+                    subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                    originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                    if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                        adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                        if adjectiveIdealValue > 4:
+                            print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                        else:
+                            adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                            adjective = generateAdjective(adjectiveTier)
+                            minionAdjectives[origMinion] = adjective
+                            print("Added " + adjective + "to " + origMinion + ".")
+
+                    escapeCharacter = ":)"
+                # Full Random
+                if RNGPicker > 5 and RNGPicker <= 40:
+                    tags = {}
+                    tagList = minionsInfo[12].split(",")
+                    for tag in tagList:
+                        tags[tag] = []
+                    
+                    x = 0
+                    for subMinion in minions.keys():
+                        subMinionTags = minions[subMinion][12].split(",")
+                        for subTag in subMinionTags:
+                            try:
+                                tags[subTag].append(subMinion)
+                            except:
+                                x+=1
+                                
+                    
+                    for tag in tags:
+                        if len(tags[tag]) == 0:
+                            del(tags[tag])
+                    
+                    #print("Tags: " + str(tags))
+                    if len(tags.keys()) > 0:
+                        RNG = 0
+                        if len(tags.keys()) > 1:
+                            RNG = random.randint(0,len(tags.keys())-1)
+                        tagList = []
+                        for tag in tags.keys():
+                            tagList.append(tag)
+                        
+                        chosenTag = tagList[RNG]
+                        swapList = []
+                        for subMinion in tags[chosenTag]:
+                            subMinionInfo = minions[subMinion]
+                            if subMinion != origMinion:
+                                swapList = chooseCharacter(subMinion, powerLevelsDict[subMinionInfo[13]], powerLevelsDict[minionsInfo[13]], subMinionInfo[14], swapList)
+                        if len(swapList) > 0:
+                            if len(swapList) > 1:
+                                RNG = random.randint(0,len(swapList)-1)
+                            else:
+                                RNG = 0
+                            chosenMinion = swapList[RNG]
+                            print("Tags: substituting " + chosenMinion + " for " + origMinion + " (" + chosenTag + ")")
+                            replacements[origMinion] = chosenMinion
+                            reasonsForSubs[origMinion] = ["Tags", chosenTag]
+
+                            subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                            originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                            if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                                adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                                if adjectiveIdealValue > 4:
+                                    print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                                else:
+                                    adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                                    adjective = generateAdjective(adjectiveTier)
+                                    minionAdjectives[origMinion] = adjective
+                                    print("Added " + adjective + "to " + origMinion + ".")
+
+                            escapeCharacter = ":)"
+                # Tags
+                if RNGPicker > 40 and RNGPicker <= 55:
+                    typeList = []
+                    for subMinion in minions.keys():
+                        if minions[subMinion][9] == minionsInfo[9] and subMinion != origMinion:
+                            typeList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], typeList)
+
+                    if len(typeList) > 0:
+                        if len(typeList) > 1:
+                            RNG = random.randint(0,len(typeList)-1)
+                        else: 
+                            RNG = 0
+
+                        subMinionList = []
+                        for subMinion in minions.keys():
+                            subMinionList.append(subMinion)
+
+                        replacements[origMinion] = typeList[RNG]
+                        reasonsForSubs[origMinion] = ["Types", minionsInfo[9]]
+                        subMinionInfo = minions[typeList[RNG]]
+
+                        subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                        originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                        if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                            adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                            if adjectiveIdealValue > 4:
+                                print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                            else:
+                                adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                                adjective = generateAdjective(adjectiveTier)
+                                minionAdjectives[origMinion] = adjective
+                                print("Added " + adjective + "to " + origMinion + ".")
+
+                        escapeCharacter = ":)"                
+                # Type
+                if RNGPicker > 55 and RNGPicker <= 70:
+                    raceList = []
+                    for subMinion in minions.keys():
+                        if minions[subMinion][10] == minionsInfo[10] and subMinion != origMinion:
+                            raceList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], raceList)
+                    if len(raceList) > 0:
+                        if len(raceList) > 1:
+                            RNG = random.randint(0,len(raceList)-1)
+                        else: 
+                            RNG = 0
+
+                        subMinionList = []
+                        for subMinion in minions.keys():
+                            subMinionList.append(subMinion)
+
+                        replacements[origMinion] = raceList[RNG]
+                        reasonsForSubs[origMinion] = ["Races", minionsInfo[10]]
+                        subMinionInfo = minions[raceList[RNG]]
+
+                        subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                        originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                        if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                            adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                            if adjectiveIdealValue > 4:
+                                print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                            else:
+                                adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                                adjective = generateAdjective(adjectiveTier)
+                                minionAdjectives[origMinion] = adjective
+                                print("Added " + adjective + "to " + origMinion + ".")
+
+                        escapeCharacter = ":)"                   
+                # Race
+                if RNGPicker > 70 and RNGPicker <= 85:
+                    alignList = []
+                    for subMinion in minions.keys():
+                        if minions[subMinion][11] == minionsInfo[11] and subMinion != origMinion:
+                            alignList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], alignList)
+
+                    if len(alignList) > 0:
+                        if len(alignList) > 1:
+                            RNG = random.randint(0,len(alignList)-1)
+                        else:
+                            RNG = 0
+
+                        subMinionList = []
+                        for subMinion in minions.keys():
+                            subMinionList.append(subMinion)
+
+                        replacements[origMinion] = alignList[RNG]
+                        reasonsForSubs[origMinion] = ["Alignment", minionsInfo[11]]
+                        subMinionInfo = minions[alignList[RNG]]
+
+                        subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                        originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                        if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                            adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                            if adjectiveIdealValue > 4:
+                                print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                            else:
+                                adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                                adjective = generateAdjective(adjectiveTier)
+                                minionAdjectives[origMinion] = adjective
+                                print("Added " + adjective + "to " + origMinion + ".")
+
+                        escapeCharacter = ":)"                    
+                # Alignment
+                if RNGPicker > 85 and RNGPicker <= 100:
+                    mediums = {}
+                    for medium in minionsInfo[16].split(","):
+                        newMediumList = []
+                        for subMinion in minions.keys():
+                            if medium in minions[subMinion][16].split(",") and subMinion != origMinion:
+                                newMediumList = chooseCharacter(subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], newMediumList)
+                        mediums[medium] = newMediumList
+                    
+                    mediers = []
+                    for medB in mediums.keys():
+                        mediers.append(medB)
+
+                    for medium in mediers:
+                        if len(mediums[medium]) > 1:
+                            del mediums[medium]
+
+                    listOfMediums = []
+                    for medium in mediums.keys():
+                        listOfMediums.append(medium)
+                    
+                    if len(listOfMediums) > 0:
+                        if len(listOfMediums) > 1:
+                            RNG = random.randint(0,len(listOfMediums)-1)
+                        else:
+                            RNG = 0
+                        chosenMedium = listOfMediums[RNG]
+
+                        personList = mediums[chosenMedium]
+                        if len(personList) > 0:
+                            if len(personList) > 1:
+                                RNG = random.randint(0,len(personList)-1)
+                            else:
+                                RNG = 0
+                            chosenPerson = personList[RNG]
+
+                            replacements[origMinion] = chosenPerson
+                            reasonsForSubs[origMinion] = ["Medium", chosenMedium]
+                            subMinionInfo = minions[chosenPerson]
+
+                            subbedPowerLevel = powerLevelsDict[subMinionInfo[13]]
+                            originalPowerLevel = powerLevelsDict[minionsInfo[13]]
+
+                            if subbedPowerLevel < originalPowerLevel and originalPowerLevel-subbedPowerLevel > 1:
+                                adjectiveIdealValue = originalPowerLevel-subbedPowerLevel
+                                if adjectiveIdealValue > 4:
+                                    print("Failed substitution due to the power level difference being " + str(adjectiveIdealValue) + "! Send help please!")
+                                else:
+                                    adjectiveTier = additionalPowerLevels[adjectiveIdealValue]
+                                    adjective = generateAdjective(adjectiveTier)
+                                    minionAdjectives[origMinion] = adjective
+                                    print("Added " + adjective + "to " + origMinion + ".")
+                            escapeCharacter = ":)"
+                        
+                # Medium
+        else:
+            replacements[origMinion] = origMinion
+            reasonsForSubs[origMinion] = ["No Change"]
+    return [replacements, reasonsForSubs, minionAdjectives]

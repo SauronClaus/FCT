@@ -1,4 +1,5 @@
 Adopted (1): Ashe
+Adventurer (1): Gordon Freeman
 African American (3): Barret Wallace, Black Lightning, Black Panther
 Against Programming (1): Bastion
 Alpha Flight (1): Aurora
@@ -26,6 +27,7 @@ Best Friends Squad (1): Adora
 Big (1): Big the Cat
 Billionaire (1): Batman
 Billionare (1): Arthur Holmwood
+Bioluminescent (1): Tamatoa
 Bird (1): Big Bird
 Bird Wings (1): Angel
 Birds of Prey (2): Barbara Gordon, Black Canary
@@ -44,27 +46,31 @@ Chaotic (1): Alex Fierro
 Cheerful (3): Alois, Alyx, Ash Ketchum
 Child (2): Austin, Big Bird
 Childhood Friends (1): Annette (Mercedes)
-Chosen One (4): Adora, Aloy, Bard the Bowman, Blake Belladonna
+Chosen One (6): Adora, Aloy, Bard the Bowman, Blake Belladonna, Gordon Freeman, Moana
 Clone (2): Aloy, Bentley-23
 Comedically Invulnerable (1): Beaker
 Commander (1): Anakin Skywalker
+Corrupted (1): Te Ka
 Cosmic (2): Alexander Luthor Jr., Anti-Monitor
 Cowboy (1): Applejack
+Crab (1): Tamatoa
 Creator (1): Alan Wake
 Crest (2): Annette, Bernadetta
 Crystal Powers (1): Amethyst
 Cute (1): BB-8
 D&D (3): Akkar, Arthail Consumer of Food, Arthas Menethil
 Death Knight (1): Arthas Menethil
-Demigod (2): Alex Fierro, Annabeth Chase
+Demigod (3): Alex Fierro, Annabeth Chase, Maui
+Demon of Earth and Fire (1): Te Ka
 Detective (2): Adrian Monk, Batman
 Dhampir (1): Alucard
 Diligent (1): Applejack
+Disney Princess (1): Moana
 Dragon Rider (1): Arya
 Dragonslayer (1): Bard the Bowman (Smaug)
 Dream Powers (1): Alice Johnson
 Droids (1): BB-8
-Duo (1): Beaker (Dr. Bunsen Honeydew)
+Duo (3): Beaker (Dr. Bunsen Honeydew), Maui (Moana), Moana (Maui)
 Earth Bender (1): Aang
 Earth-2 (1): Alan Scott
 Earth-3 (1): Alexander Luthor Jr.
@@ -111,12 +117,15 @@ Green (3): Alan Scott, Amadeus Cho, Beast Boy
 Green Beret (1): Alfred Pennyworth
 Green Lantern (1): Alan Scott
 Gryffindor (2): Albus Dumbledore, Bill Weasley
+Guardian (1): Te Ka
 Guardians of the Galaxy (2): Adam Warlock, Agent Venom
 Gun-Arm (1): Barret Wallace
 Hacker (3): Alan Bradley, Alyx, Barbara Gordon
 Hapless Assistant (1): Beaker
 Heavily Armored (1): Alois
+Hero (1): Maui
 Hitman (1): Anton Chigurh
+Hoarder (1): Tamatoa
 Hobbit (1): Bilbo Baggins
 Horror Protagonist (2): Alan Wake, Alice Johnson
 Hulks (1): Amadeus Cho
@@ -137,12 +146,14 @@ Justice League Dark (1): Amethyst
 Justice League International (1): Batman
 Justice Society of America (1): Alan Scott
 King (3): Aquaman, Aragorn, Black Panther
+Kleptomaniac (1): Tamatoa
 Knight (1): Ashe
 Knights of Seiros (Fire Emblem) (1): Alois
 LGBTQ+ (8): Abigail, Adora, Alan Scott, Albus Dumbledore, Alex Fierro, Alex, America Chavez, Blake Belladonna
 Lab Experiment (1): Adam Warlock
 Large Bird (1): Big Bird
 Last of Kind (1): Aerith Gainsborough
+Lava Monster (1): Te Ka
 Lawyer (1): Atticus Finch
 Leader (2): Barret Wallace, Batman
 League of Legends (1): Aphelios
@@ -166,9 +177,11 @@ Most Powerful (2): Albus Dumbledore, Amos Kane
 Movies (1): Akihide Karatsu
 Multiversal Origin (2): Alexander Luthor Jr., America Chavez
 Muppet (3): Abby Cadabby, Animal, Big Bird
+Musical (3): Maui, Moana, Tamatoa
 Musician (1): Animal
 Mutant (5): Angel, Armor, Aurora, Banshee, Beast
 Mutation (1): Beast
+Mythical Hero (1): Maui
 NASA (1): Annie Montrose
 Naive (1): Ash Ketchum
 Nature (1): Aloy
@@ -202,6 +215,7 @@ Pink (1): Amy Rose
 Pixelated (2): Abigail, Alex
 Planeswalker (1): Araithia Shokta
 Platformer (1): Amy Rose
+Player Character (2): Alyx, Gordon Freeman
 Poetry (1): Apollo
 Pokemon Trainer (1): Ash Ketchum
 Police (1): Barry Allen
@@ -218,10 +232,12 @@ Pureblood (1): Bill Weasley
 Queen (1): Arya
 Quiet (1): Bernadetta
 Ranger (2): Akkar, Artyom
+Raw Power (1): Maui
 Reality Bending (1): Alan Wake
 Reality Hopping (1): America Chavez
-Rebel (4): Adora, Alyx, Amy Rose, Barret Wallace
+Rebel (5): Adora, Alyx, Amy Rose, Barret Wallace, Gordon Freeman
 Rebellion (She-Ra) (1): Adora
+Redemption Arc (1): Te Ka
 Reformed (1): Agent Venom
 Reincarnation (1): Aang
 Relic (1): Annette
@@ -235,11 +251,12 @@ Ruler (4): Aquaman, Aragorn, Arya, Black Panther
 Russian (1): Black Widow
 SHIELD (Marvel) (1): Black Widow
 Schemer (2): Adam Warlock, Batman
-Scientist (1): Allison Blake
+Scientist (2): Allison Blake, Gordon Freeman
 Sea Powers (1): Aquaman
 Servant (1): Alfred Pennyworth
 Sesame Street (2): Abby Cadabby, Big Bird
 Shape Shifter (2): Alex Fierro, Beast Boy
+Shapeshifter (1): Maui
 Shortpacked! Store (1): Amazi-Girl
 Siblings (1): Azula (Zuko)
 Siren (Borderlands) (1): Amara
@@ -282,10 +299,11 @@ Twins (1): Aurora (Northstar)
 Ultimates (Team) (2): America Chavez, Black Panther
 Uncle (1): Amos Kane
 VR (Augumented Reality) (1): Akihide Karatsu
+Vain (1): Maui
 Vault Hunter (2): Amara, Axton
 WWII (2): Alan Scott, Billy Pilgrim
 Water Bender (1): Aang
-Water Powers (2): Aang, Aquaman
+Water Powers (3): Aang, Aquaman, Moana
 Weasley (2): Arthur Weasley, Bill Weasley
 Webtoon (1): Anna Croft
 Weelchair (1): Barbara Gordon

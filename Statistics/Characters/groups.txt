@@ -22,6 +22,7 @@ Borderlands 3 Vault Hunters (1): Amara
 Camp Half-Blood (2): Annabeth Chase, Apollo
 Champions (Marvel) (Core) (1): Amadeus Cho
 Champions (Marvel) (Extended) (1): Amadeus Cho
+Disney Princesses (1): Moana
 Doom Patrol (Extended) (1): Beast Boy
 Dracula Hunters (2): Abraham Van Helsing, Arthur Holmwood
 Dumbing of Age Main Cast (1): Amazi-Girl
@@ -75,7 +76,7 @@ Outsiders (2): Batman, Black Lightning
 Overwatch Heroes (1): Bastion
 Phineas and Ferb Main Child Group (1): Baljeet Tjinder
 Pokemon Anime Kanto Trio (1): Ash Ketchum
-Resistance (Half-Life) (1): Alyx
+Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Resistance (Sonic) (1): Amy Rose
 SFPD (Monk) (1): Adrian Monk
 SHIELD (Marvel) (1): Black Widow
@@ -95,6 +96,7 @@ Suicide Squad (Extended) (1): Amanda Waller
 Super Smash Bros (1): Bayonetta
 Survivors of the First Crisis (DC Comics) (1): Alexander Luthor Jr.
 Symbiote Squad (1): Agent Venom
+Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 Team RWBY (1): Blake Belladonna
 Teen Titans (Core) (1): Beast Boy
 Teen Titans (Extended) (1): Bart Allen

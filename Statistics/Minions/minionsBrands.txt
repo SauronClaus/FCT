@@ -1,0 +1,32 @@
+
+Avatar (TV Show):
+	-Avatar: The Last Airbender (2/2): Fire Benders, Fire Nation Army
+	-All  (2/11): Fire Benders, Fire Nation Army
+
+Bone:
+	-Bone (1/1): Rat Creature Horde
+	-All  (1/11): Rat Creature Horde
+
+DC:
+	-DC Comics (1/1): Shadow Demons
+	-All  (1/11): Shadow Demons
+
+Fire Emblem:
+	-Fire Emblem: Three Houses (2/2): Adrestian Army, Knights of Seiros
+	-All  (2/11): Adrestian Army, Knights of Seiros
+
+Harry Potter:
+	-Harry Potter (1/1): Death Eaters
+	-All  (1/11): Death Eaters
+
+Marvel:
+	-MCU (2/2): Chitauri, Ultron Sentries
+	-All  (2/11): Chitauri, Ultron Sentries
+
+RWBY:
+	-RWBY (1/1): Creatures of Grimm
+	-All  (1/11): Creatures of Grimm
+
+Star Wars:
+	-Star Wars Original Trilogy (1/1): Stormtroopers
+	-All  (1/11): Stormtroopers

@@ -1,0 +1,27 @@
+Alien (1): Chitauri
+Alien Horde (1): Chitauri
+Animals (1): Creatures of Grimm
+Anonymous (1): Death Eaters
+Anti-Matter (1): Shadow Demons
+Army (5): Adrestian Army, Fire Benders, Fire Nation Army, Knights of Seiros, Stormtroopers
+Beasts (2): Creatures of Grimm, Rat Creature Horde
+Evil Army (3): Fire Benders, Fire Nation Army, Stormtroopers
+Evil God Spawn (1): Creatures of Grimm
+Fire Benders (1): Fire Benders
+Flight (1): Ultron Sentries
+Hive Mind (2): Chitauri, Ultron Sentries
+Holy Knights (1): Knights of Seiros
+Horde (2): Rat Creature Horde, Shadow Demons
+Industrial Army (2): Fire Benders, Fire Nation Army
+Intangible (1): Shadow Demons
+Invading Army (1): Chitauri
+Knights Order (1): Knights of Seiros
+Lasers (2): Stormtroopers, Ultron Sentries
+Magic Users (1): Death Eaters
+Masked (1): Death Eaters
+Military (4): Adrestian Army, Fire Benders, Fire Nation Army, Stormtroopers
+Monsters (1): Creatures of Grimm
+Racist (1): Death Eaters
+Religious Organization (1): Knights of Seiros
+Robots (1): Ultron Sentries
+Shadow Monsters (2): Creatures of Grimm, Shadow Demons

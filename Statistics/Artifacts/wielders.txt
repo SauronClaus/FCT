@@ -39,6 +39,7 @@ Edelgard (1): Aymr
 Flayn (1): Caduceus Staff
 Frodo Baggins (1): Sting
 Glynnric Manassnass (2): Eversmoking Bottle, Immovable Rod
+Gordon Freeman (2): Gordon Freeman's Crowbar, HEV Suit
 Hank Pym (2): Ant-Man Helmet, Pym Particles
 Harry Potter (1): The Invisiblity Cloak
 Hilda (1): Freikugel
@@ -56,6 +57,7 @@ Lord Voldemort (1): The Elder Wand
 Magneto (1): Magneto's Helmet
 Magnus Chase (1): The Sword of Summer (Jack)
 Mario (1): Fire Flower
+Maui (1): Maui's Fishhook
 Maxwell (1): The Codex Umbra
 Medic (1): Medi Gun
 Mercedes (1): Rafail Gem

@@ -17,6 +17,7 @@ Beige (3): Adrian Monk, Alan Bradley, Atticus Finch
 Black (16): Agent Venom, Alan Wake, Alfred Pennyworth, Allison Blake, Ally, Amanda Waller, Anton Chigurh, Aphelios, Arthas Menethil, Batman, Bayonetta, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna
 Blue (3): America Chavez, Anti-Monitor, Beast
 Bone White (1): Bastion
+Brown (1): Maui
 Crimson (3): Amos Kane, Bilbo Baggins, Billy Pilgrim
 Dark Green (2): Aragorn, Bard the Bowman
 Gold (8): Adora, Alexander Luthor Jr., Alice Johnson, Anna Croft, Annabeth Chase, Apollo, Arya, Ashe
@@ -25,15 +26,15 @@ Green (Alex Stardew) (1): Alex
 Grey (1): Annie Montrose
 Kerbal-Green (1): Bill Kerman
 Military Green (1): Axton
-Orange (4): Ahsoka Tano, Aquaman, BB-8, Beaker
+Orange (5): Ahsoka Tano, Aquaman, BB-8, Beaker, Gordon Freeman
 Orange-Gold (1): Adam Warlock
 Overalls Blue (2): Audrey Ramirez, Baljeet Tjinder
 Pale Blue (1): Amara
 Pale Orange (Aang) (1): Aang
 Pale Orange (Annette) (1): Annette
-Pale Purple (1): Amethyst
+Pale Purple (2): Amethyst, Tamatoa
 Pink (4): Abby Cadabby, Alex Fierro, Amy Rose, Araithia Shokta
-Red (7): Aerith Gainsborough, Akkar, Amy Cahill, Animal, Azula, Barry Allen, Bart Allen
+Red (9): Aerith Gainsborough, Akkar, Amy Cahill, Animal, Azula, Barry Allen, Bart Allen, Moana, Te Ka
 Silver (2): Agatha, Athena
 Silver-White (1): Alois
 Weasley Orange (2): Arthur Weasley, Bill Weasley

@@ -292,13 +292,13 @@ def infoFranchise(franchiseName, fctPolls):
 
 def infoAdjective(adjective, fctPolls):
     print("Adjective: " + adjective)
-    #if adjective[len(adjective)-1::] != "-":
-        #contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
-    #else:
-        #contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
-    
-    contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
-    
+    if adjective[len(adjective)-1::] != "-" and adjective[len(adjective)-1::] != " ":
+        adjective = adjective + " "
+    if adjective[len(adjective)-1::] != "-":
+        contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
+    else:
+        contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
+        
     contentFull = contentFile.read()
     content = contentFull.split("\n")
 

@@ -2,6 +2,7 @@ Superhero (22): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, 
 Wizard (7): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley
 Fighter (7): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya
 Soldier (3): Alyx, Ashley Williams, Axton
+Adventurer (3): Bilbo Baggins, Maui, Moana
 Bender (2): Aang, Azula
 Baseline Human (2): Abigail, Alex
 Precog (2): Agatha, Anna Croft
@@ -47,7 +48,9 @@ Lab Assistant (1): Beaker
 Strategist (1): Bean
 Civilian (1): Big Bird
 Fisherman (1): Big the Cat
-Adventurer (1): Bilbo Baggins
 Astronaut (1): Bill Kerman
 Time Traveler (1): Billy Pilgrim
 Huntress (1): Blake Belladonna
+Scientist (1): Gordon Freeman
+Hoarder (1): Tamatoa
+Guardian (1): Te Ka

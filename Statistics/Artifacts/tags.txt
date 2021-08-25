@@ -1,12 +1,15 @@
 Ability Copy (1): The Tanden Engine
+Ability Enhancer (1): HEV Suit
 Admantine (1): Aquaman's Trident
 Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
 Annoying (1): Arrow of Dodona
-Armor (1): Iron Man Suit
+Armor (2): HEV Suit, Iron Man Suit
 Armored (2): Batmobile, Batwing
 Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
 Bending Augumenter (1): Aang's Glider Staff
 Big (1): The Crown of Horns
+Bludgeoning (1): Gordon Freeman's Crowbar
+Bone (1): Maui's Fishhook
 Book (1): The Codex Umbra
 Boomerang (2): Batarang, Captain America's Shield
 Bow (2): Failnaught, The Inexhaustable
@@ -21,6 +24,7 @@ Cloak (1): The Invisiblity Cloak
 Common Magic Item (1): Wand of Wands
 Companion (1): Skeets
 Construct (1): Alan Scott's Ring
+Crowbar (1): Gordon Freeman's Crowbar
 Cursed (1): The Codex Umbra
 Cursed Weapon (2): Annabeth's Knife, the One Ring
 Dagger (2): Annabeth's Knife, Atreus' Knife
@@ -38,11 +42,13 @@ Electric Power (1): Pikachu
 Elemental Weapon (1): Mjolnir
 Elements of Harmony (1): Element of Honesty (My Little Pony)
 Elvish-Forged (1): Sting
+Environmental Protection (1): HEV Suit
 Evil (1): the Venom Symbiote
 Exosuit (1): Iron Man Suit
 Experimental Weapon (1): The Starheart (DC Comics)
 Fire (1): Fire Flower
 Fire Resistances (1): Ring of Fire Resistance
+Fishhook (1): Maui's Fishhook
 Flight (1): Aang's Glider Staff
 Floating (1): The Sword of Summer (Jack)
 Fragment (1): Iarno Albrek's Shattered Staff
@@ -67,6 +73,7 @@ Historical Weapon (1): the One Ring
 Iconic (2): Captain America's Shield, Iron Man Suit
 Illusions (1): Deck of Illusions
 Implant (1): The Tanden Engine
+Improvised Weapon (1): Gordon Freeman's Crowbar
 Inane Weapon (1): Expand-o-Duck
 Infinity Stone (2): Loki's Scepter, The Soul Stone
 Insect Communication (1): Ant-Man Helmet
@@ -81,7 +88,7 @@ Legion of Superheroes (1): Legion Flight Ring
 Lightning (1): Mjolnir
 MacGuffin (1): The Infinity Gauntlet
 Magic Space Rocks (1): The Soul Stone
-Magical (4): Leviathan Axe, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
+Magical (5): Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
 Magical Fire (1): The Deck of Green Cards
 Magical Paint (1): Marvelous Pigments
 Magical Quality (1): Element of Honesty (My Little Pony)
@@ -103,6 +110,7 @@ Particle (1): Pym Particles
 Plane (1): Batwing
 Pokemon (1): Pikachu
 Power (1): Pym Particles
+Power Suit (1): HEV Suit
 Power-Granting (1): Legion Flight Ring
 Power-Up (1): Fire Flower
 Projectile (1): Batarang
@@ -133,6 +141,7 @@ Sea God Powered (1): Aquaman's Trident
 Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jack), the Venom Symbiote
 Shadaloo (1): The Tanden Engine
 Shadow Book (1): The Codex Umbra
+Shapeshifting (1): Maui's Fishhook
 Shield (1): Captain America's Shield
 Shortsword (1): Sting
 Size Change (1): Pym Particles

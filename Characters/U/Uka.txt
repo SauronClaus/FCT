@@ -1,0 +1,29 @@
+Uka
+Raya and the Last Dragon 
+Dyan, Pan, and Uka are supporting characters in Disney’s 2021 animated feature film, Raya and the Last Dragon. They are a trio of thieving Ongis (half-monkey, half-catfish creatures) from Kumandra’s Talon Land. When a toddler named Noi lost her family to the Druun, the Ongis worked together to raise and protect her. To get by, they formulated a hustle ring to rob the people of Talon blind of their valuables.
+https://static.wikia.nocookie.net/disney/images/5/57/Profile_-_Ongis.jpeg/revision/latest/scale-to-width-down/1031?cb=20210128104513
+https://disney.fandom.com/wiki/Ongis
+Uka
+
+Uka
+
+
+Con Artist
+Ongi
+Neutral
+Supporting Protagonist
+Male
+Animorphic,Con Artist,Thief
+Baseline
+Low
+Raya's Band of Wanderers,Noi's Family
+
+Movies,CGI
+Raya and the Last Dragon
+
+White
+Thief|Learned|3,Con Artist|Learned|2,Nimble|Inborn|3
+Disney
+Sebastian
+
+No

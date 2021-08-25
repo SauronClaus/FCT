@@ -5,6 +5,7 @@ from all import allFranchises
 from all import allGroups
 from all import allPeople
 from generateAllPeople import genAllPeople
+from generateAllPeople import genMinions
 
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -76,6 +77,8 @@ def generate():
         print("\nFinal Generation Antagonists: ")
         for person in antagReplacement.keys():
             print(person + " was substituted with " + antagReplacement[person] + " via " + antagReasonSubbing[person][0] + " (" + antagReasonSubbing[person][1] + ")")                     
-
-    return[listen, listenAntag, [franchiseName,franchiseInfo]]
+    info = []
+    if franchiseInfo[9] != "":
+        info = genMinions(franchiseName, franchiseInfo)
+    return[listen, listenAntag, [franchiseName,franchiseInfo], info]
     # These are the heavy ones. These are always active, and serve to stick in the people when need be. 

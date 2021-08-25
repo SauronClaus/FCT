@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Cheerful,Hacker,Inventor,Rebel,Soldier
+Cheerful,Hacker,Inventor,Rebel,Soldier,Player Character
 Modified Human
 High
 Resistance (Half-Life)

@@ -11,6 +11,7 @@
 22 (2): Aerith Gainsborough, Anakin Skywalker
 24 (2): Alyx, Artyom
 25 (1): Ashley Williams
+27 (1): Gordon Freeman
 28 (1): Barry Allen
 30 (3): Annie Montrose, Anton Chigurh, Bastion
 35 (1): Barret Wallace
