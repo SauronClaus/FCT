@@ -1,13 +1,10 @@
-Carol Danvers, Spectrum
-Martian Manhunter, Hal Jordan
-Squee, Eldon “Spark” Turen
+Eldon “Spark” Turen
 
 Mallory Keen, Halfborn Gunderson, Thomas Jefferson Jr.
 Felix, Sylvain, Ingrid
-John Stewart, Hawkgirl, Martian Manhunter
 
 Reed Richards, Susan Storm, Johnny Storm, Benjamin Grimm
-Ms. Marvel, Miles Morales, Sam Alexander, Young Cyclops
+Miles Morales, Sam Alexander, Young Cyclops
 Jason Grace, Piper McLean, Hazel Levesque, Frank Zhang
 Manuela, Hanneman, Cyril, Jeralt
 
@@ -22,3 +19,4 @@ Raphael, Ignatz, Lysithea, Marianne, Leonie, Lorenz
 Cyclops, Sunfire, Nightcrawler, Colossus, Thunderbird, Wolverines
 
 Gandalf, Frodo Baggins, Sam Gamgee, Gimli, Legolas, Pippin Took, Merry Brandybuck
+Reithen Keiros, Yekkon, Lorana, ICK, Garrik, Arrolys, Fedora

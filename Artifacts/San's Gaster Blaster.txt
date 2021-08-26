@@ -1,0 +1,14 @@
+San's Gaster Blaster
+Undertale
+Sans's Gaster Blaster is a weapon used by Sans during his boss fight in Undertale.
+https://static.wikia.nocookie.net/testsubject-s1/images/9/9d/Gaster_blaster.png/revision/latest?cb=20190310125958
+https://undertale.fandom.com/wiki/Sans/In_Battle#Patterns
+Undertale
+Sans
+Gun,Laser,Skull
+Video Games,Pixelated
+Weapon|Laser
+
+City
+Medium
+White

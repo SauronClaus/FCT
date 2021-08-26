@@ -13,7 +13,7 @@ Android
 Good
 Protagonist
 Female
-Android,Artificial,Champions,Density-Powers,LGBTQ+,Parent Child|Vision
+Android,Artificial,Champions (Team),Density-Powers,LGBTQ+,Parent Child|Vision,Superheroes
 Country
 High
 Champions (Marvel) (Core),Champions (Marvel) (Extended)
@@ -22,8 +22,8 @@ Superhero Comics,Comics
 Marvel
 
 Pink
-
-
+Flight|Robot|3,Density Manipulation|Robot|4,Enhanced Physical Abilities|Inborn|4
+Disney
 Sebastian
 
 No

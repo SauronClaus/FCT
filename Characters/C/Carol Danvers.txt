@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Avengers,Cosmic,Alpha Flight,Soldier,Ultimates (Team),Powerhouse
+Avengers,Cosmic,Alpha Flight,Soldier,Ultimates (Team),Powerhouse,Superheroes
 Cosmic
 High
 Avengers (Core),Avengers (Extended),Ultimates (Team),Guardians of the Galaxy (Extended),Alpha Flight
@@ -23,7 +23,7 @@ Marvel
 
 Red
 
-
+Disney
 Sebastian
 
 No
