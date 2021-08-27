@@ -16,7 +16,7 @@ Male
 Angsty,Blue Lions (Fire Emblem),Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prideful,Prince,Relic,Royalty,Ruler
 Baseline
 Medium
-Blue Lions,House Leaders (Fire Emblem)
+Blue Lions,House Leaders (Fire Emblem),Royal Childhood Friends (Blue Lions)
 
 Video Games
 Fire Emblem

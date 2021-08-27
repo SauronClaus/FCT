@@ -18,7 +18,7 @@ alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 powerLevelsDict = {"Baseline": 0, "Modified Human": 1, "City": 2, "Country": 3, "World": 4, "Cosmic": 5, "Interuniversal": 6, "Omnipotent": 7}
 additionalPowerLevels = {4: "Tier 1", 3: "Tier 2", 2: "Tier 3", 1: "Tier 4"}
 
-def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, antagonists, guildID):
+def genAllPeople(guildID, peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, antagonists):
     print("People Replace: " + str(peopleReplacementOrigs))
     maxPowerLevel = -1
     for powerLevel in powerLevelsDict.values():
@@ -319,7 +319,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         replacedViaTags.append(person)
                 # Full random
                 if RNGRandomSwapper > 3 and RNGRandomSwapper <= 35:
-                    #print("Replacing " + person + " with tags.")
+                    print("Replacing " + person + " with tags.")
                     rawTagList = people[person][15].split(",")
                     duoTagList = {}
                     typesOfDuoTags = []
@@ -480,7 +480,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         #print("Tags failed (" + tagName + " had no matches.)")
                 # Tags
                 if RNGRandomSwapper > 35 and RNGRandomSwapper <= 42:
-                    #print("Replacing " + person + " with names.")
+                    print("Replacing " + person + " with names.")
 
                     namesChecked = ["First", "Last", "Aliases"]
                     subCharacter = "None"
@@ -574,7 +574,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         #print("Names were an ultimate failure.")
                 # Names
                 if RNGRandomSwapper > 42 and RNGRandomSwapper <= 49:
-                    #print("Replacing " + person + " with actors.")
+                    print("Replacing " + person + " with actors.")
 
                     actors = people[person][8].split("|")
                     actorSharers = []
@@ -618,7 +618,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         #print("Actors were an ultimate failure.")
                 # Actors
                 if RNGRandomSwapper > 49 and RNGRandomSwapper <= 56:
-                    #print("Replacing " + person + " with type/occupation.")
+                    print("Replacing " + person + " with type/occupation.")
                     
                     role = people[person][10]
                     if role != "":
@@ -652,7 +652,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             replacedViaTags.append(person)
                 # Type
                 if RNGRandomSwapper > 56 and RNGRandomSwapper <= 63:
-                    #print("Replacing " + person + " with role.")
+                    print("Replacing " + person + " with role.")
                     
                     role = people[person][13]
                     if role != "":
@@ -684,7 +684,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             replacedViaTags.append(person)
                 # Role
                 if RNGRandomSwapper > 63 and RNGRandomSwapper <= 70:
-                    #print("Replacing " + person + " with alignment.")
+                    print("Replacing " + person + " with alignment.")
                     
                     alignment = people[person][12]
                     if alignment != "":
@@ -716,7 +716,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             replacedViaTags.append(person)
                 # Alignment
                 if RNGRandomSwapper > 70 and RNGRandomSwapper <= 77:
-                    #print("Replacing " + person + " with gender.")
+                    print("Replacing " + person + " with gender.")
                     
                     gender = people[person][14]
                     if gender != "":
@@ -747,7 +747,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             replacedViaTags.append(person)
                 # Gender
                 if RNGRandomSwapper > 77 and RNGRandomSwapper <= 84:
-                    #print("Replacing " + person + " with race.")
+                    print("Replacing " + person + " with race.")
                     
                     race = people[person][11]
                     if race != "":
@@ -780,7 +780,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                             replacedViaTags.append(person)
                 # Race
                 if RNGRandomSwapper > 84 and RNGRandomSwapper <= 91:
-                    #print("Replacing " + person + " with medium.")
+                    print("Replacing " + person + " with medium.")
 
                     mediums = people[person][20].split(",")
                     mediumSharers = []
@@ -820,7 +820,7 @@ def genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, an
                         #print("Mediums were an ultimate failure.")
                 # Medium
                 if RNGRandomSwapper > 91 and RNGRandomSwapper <= 98:
-                    #print("Replacing " + person + " with age.")
+                    print("Replacing " + person + " with age.")
                     namesChecked = ["Years", "Decades"]
                     subCharacter = "None"
                     ageShared = ""
@@ -925,8 +925,10 @@ def genMinions(franchiseName, franchiseInfo, guildID):
     replacements = {}
     reasonsForSubs = {}
     minionAdjectives = {}
+
     for origMinion in origMinions:
         replacements[origMinion] = ";)"
+
     for origMinion in origMinions: 
         RNG = random.randint(1,4)
         if RNG == 4:
@@ -944,8 +946,10 @@ def genMinions(franchiseName, franchiseInfo, guildID):
                     for subMinion in minions.keys():
                         if subMinion != origMinion and not(subMinion in connectedMinions):
                             subMinionList = chooseCharacter(guildID, people, False,  subMinion, powerLevelsDict[minions[subMinion][13]], powerLevelsDict[minionsInfo[13]], minions[subMinion][14], subMinionList)
-                    
-                    RNG = random.randint(0,len(subMinionList)-1)
+                    print("Length of subMinionList: " + str(len(subMinionList)))
+                    RNG = 0
+                    if len(subMinionList) > 1:
+                        RNG = random.randint(0,len(subMinionList)-1)
 
                     replacements[origMinion] = subMinionList[RNG]
                     reasonsForSubs[origMinion] = ["Full Random"]

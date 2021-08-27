@@ -15,7 +15,7 @@ Supporting Protagonist
 Genderfluid
 Chaotic,Demigod,Einharjar,Floor 19,Genderfluid,LGBTQ+,Norse,Romantic Subplot|Magnus Chase,Shape Shifter
 Modified Human
-Medium
+Low
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang
 
 Books

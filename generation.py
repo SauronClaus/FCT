@@ -53,7 +53,7 @@ def generate(guildID):
     franchiseGroups = allGroups() #a dict of string/list pairs; the string is the group name, the list is the people in the group.
     people = allPeople()    
     otherAddedCharacters = []
-    listen = genAllPeople(peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, False)
+    listen = genAllPeople(guildID, peopleReplacementOrigs, franchiseInfo, otherAddedCharacters, False)
     charactersReplacement = listen[0]
     charactersReasonSubbing = listen[1]
     otherAddedCharacters = listen[2]
@@ -63,7 +63,7 @@ def generate(guildID):
     listenAntag = []
     if len(antagonistReplacementOrigs) > 1 or antagonistReplacementOrigs[0] != "":
         print("Antag Replace Orig: " + str(antagonistReplacementOrigs) + "/" + str(len(antagonistReplacementOrigs)))
-        listenAntag = genAllPeople(antagonistReplacementOrigs, franchiseInfo, otherAddedCharacters, True)
+        listenAntag = genAllPeople(guildID, antagonistReplacementOrigs, franchiseInfo, otherAddedCharacters, True)
         antagReplacement = listenAntag[0]
         antagReasonSubbing = listenAntag[1]
         otherAddedCharacters = listenAntag[2]
@@ -79,7 +79,7 @@ def generate(guildID):
             print(person + " was substituted with " + antagReplacement[person] + " via " + antagReasonSubbing[person][0] + " (" + antagReasonSubbing[person][1] + ")")                     
     info = []
     if franchiseInfo[9] != "":
-        info = genMinions(franchiseName, franchiseInfo)
+        info = genMinions(franchiseName, franchiseInfo, guildID)
 
     if len(info) > 1:
         print("\nFinal Generation Minions: ")
