@@ -16,6 +16,7 @@ Black Arrow (LOTR) (1): Bard the Bowman
 Bracelets of Submission (2): Wonder Woman, Hippolyta
 Caduceus Staff (1): Flayn
 Captain America's Shield (3): Captain America, Bucky Barnes, Sam Wilson
+Combat Jacket (Edge of Tomorrow) (2): William Cage, Rita Vrataski
 Crescent Rose (1): Ruby Rose
 Crusher (Fire Emblem) (1): Annette
 Deck of Illusions (1): Byllemura Ruby-Eye
@@ -29,7 +30,9 @@ Fire Flower (1): Mario
 Freikugel (1): Hilda
 Gambol Shroud (1): Blake Belladonna
 Gordon Freeman's Crowbar (1): Gordon Freeman
+Green Lantern Ring (1): Hal Jordan
 HEV Suit (1): Gordon Freeman
+Human SOUL (3): Frisk (Pacifist Route), Frisk (Neutral Route), Frisk (Genocide Route)
 Iarno Albrek's Shattered Staff (1): Kalathos Sunstrider
 Immovable Rod (1): Glynnric Manassnass
 Iron Man Suit (3): Iron Man, Ironheart, War Machine
@@ -48,8 +51,10 @@ Pikachu (1): Ash Ketchum
 Piko Piko Hammer (1): Amy Rose
 Pym Particles (6): Hank Pym, Cassie Lang, Scott Lang, Hope van Dyne, Janet van Dyne, Nadia van Dyne
 Rafail Gem (1): Mercedes
+Raya's Whip Sword (1): Raya
 Ring of Fire Resistance (1): Kalathos Sunstrider
 Riptide (1): Percy Jackson
+San's Gaster Blaster (1): Sans
 Skeets (1): Booster Gold
 Spear of Assal (1): Seteth
 Sting (2): Frodo Baggins, Bilbo Baggins

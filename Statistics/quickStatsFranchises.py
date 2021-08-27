@@ -26,7 +26,7 @@ def quickStatsFranchise():
                         if len(franchiseInfo) == 2:
                             undoneFranchises.append(entry[0:len(entry)-4:])
                         else:
-                            print(entry[0:len(entry)-4] + ": " + str(len(franchiseInfo)))
+                            #print(entry[0:len(entry)-4] + ": " + str(len(franchiseInfo)))
                             weirdFranchises.append(entry[0:len(entry)-4:])
                 allFranchises.append(entry[0:len(entry)-4:])
 

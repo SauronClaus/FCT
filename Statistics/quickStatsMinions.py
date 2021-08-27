@@ -707,6 +707,3 @@ def quickStatsMinions():
         powerString = powerString + "\n" + powerSet
         
     powersFile.write(powerString)
-
-
-quickStatsMinions()

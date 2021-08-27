@@ -1,27 +1,72 @@
-Cat (1): Big the Cat
+Amazon (1): Hippolyta
+Android (3): Seth, Vision, Viv Vision
+Asgardian (2): Loki, Thor
+Bee (1): Barry B. Benson
+Bob-omb (1): Bobby
+Bone (4): Fone Bone, Phoney Bone, Smiley Bone, Thorn Harvestar
+Breegull (1): Kazooie
+Cat (2): Big the Cat, Blaze the Cat
+Coluan (1): Brainiac 5
 Crab (1): Tamatoa
-Demigod (3): Alex Fierro, Annabeth Chase, Maui
+Cyborg (1): Cyborg
+Deity (1): Sothis
+Demigod (10): Alex Fierro, Annabeth Chase, Atreus, Kratos, Leo Valdez, Magnus Chase, Maui, Percy Jackson, Samirah al-Abbas, Wonder Woman
 Demon (1): Te Ka
-Dragonborn (1): Arthail Consumer of Food
-Elf (2): Akkar, Arya
+Dinosaur (1): Alphys
+Dragon (1): Smaug
+Dragonborn (2): Arthail Consumer of Food, Nahara
+Earth Dragon (1): Seteth
+Elf (4): Akkar, Arya, Hearthstone, Kalathos Sunstrider
 Fairy (1): Abby Cadabby
 Faunus (1): Blake Belladonna
+Flower (1): Flowey
+Former God (1): Calypso
+Genasi (1): Ruby Rider
+Gnome (1): Byllemura Ruby-Eye
+Goat Monster (2): Asgore, Toriel
+Goblin (1): Squee
 God (2): Apollo, Athena
 Half-Cetra (1): Aerith Gainsborough
-Hedgehog (1): Amy Rose
+Half-Elf (3): Arwen, Glynnric Manassnass, Kareem Par-Al
+Half-Gnome (1): Eldon Spark Turen
+Hedgehog (2): Amy Rose, Sonic the Hedgehog
 Hobbit (1): Bilbo Baggins
-Human (66): Aang, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Agent Venom, Akihide Karatsu, Alan Bradley, Alan Scott, Alan Wake, Albus Dumbledore, Alex, Alexander Luthor Jr., Alfred Pennyworth, Alice Johnson, Allison Blake, Ally, Alois, Aloy, Alucard, Alyx, Amadeus Cho, Amanda Waller, Amazi-Girl, America Chavez, Amethyst, Amos Kane, Amy Cahill, Anakin Skywalker, Anna Croft, Annette, Annie Montrose, Anton Chigurh, Aphelios, Aquaman, Aragorn, Araithia Shokta, Arthur Holmwood, Arthur Weasley, Artyom, Ash Ketchum, Ashe, Ashley Williams, Atticus Finch, Audrey Ramirez, Axton, Azula, Baljeet Tjinder, Barbara Gordon, Bard the Bowman, Baron Zemo, Barret Wallace, Barry Allen, Bart Allen, Batman, Beast Boy, Bentley-23, Bernadetta, Bill Weasley, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Gordon Freeman, Moana
+Honey Bear (1): Banjo
+Human (226): Aang, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Agent Venom, Akihide Karatsu, Akuma, Alan Bradley, Alan Scott, Alan Wake, Albus Dumbledore, Alex DeLarge, Alex, Alexander Luthor Jr., Alfred Pennyworth, Alice Johnson, Allison Blake, Ally, Alois, Aloy, Alucard, Alyx, Amadeus Cho, Amanda Waller, Amazi-Girl, America Chavez, Amethyst, Amos Kane, Amy Cahill, Amy Ferrier, Anakin Skywalker, Ann Takamaki, Anna Croft, Anna, Annette, Annie Montrose, Anton Chigurh, Aphelios, Aquaman, Aragorn, Araithia Shokta, Arthur Holmwood, Arthur Weasley, Artyom, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Ashley Williams, Atticus Finch, Audrey Ramirez, Axton, Azula, Baljeet Tjinder, Barbara Gordon, Bard the Bowman, Baron Zemo, Barret Wallace, Barry Allen, Barry Wheeler, Bart Allen, Batman, Beast Boy, Bentley-23, Bernadetta, Beth Johanssen, Bill Weasley, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Blue Marvel, Blue, Bolin, Booster Gold, Boromir, Boun, Bow, Breach, Brian Robeson, Brick, Brimstone, Brock, Brom, Bruce Ng, Bucky Barnes, Buford Van Stomm, Byleth, Caesar Anthonio Zeppeli, Cal Kestis, Candace Flynn, Captain Ahab, Captain America, Captain Boomerang, Captain Britain, Captain Falcon, Captain George Pollard Jr., Captain John H. Miller, Captain Kirk, Captain Marvel Jr., Captain Marvel, Captain Nemo, Carmen Cortez, Carol Danvers, Carter Kane, Cassie Lang, Catherine, Chara, Chun-Li, Claude, Colin Frazer, Dana Franklin, Darth Vader, Dedue, Dimitri, Doctor Eggman, Dr. Chris Beck, Dr. Loomis, Edelgard, Elsa, Ethan Chou, Falcon, Finn, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Ginny Weasley, Glimmer, Gordon Freeman, Gran'ma Ben, Green Arrow, Guile, Hal Jordan, Han Solo, Hank Pym, Harbringer, Harrison Truscott, Harry Potter, Hawkeye, Hermione Granger, Hilda, Hope van Dyne, Hubert, Hulk, Iris West, Iroh, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, Jem Finch, Jim Gordon, John Seward, John Stewart, Jonathan Harker, Jono Jenkins, Juni Cortez, Katara, Ken, Korra, Kristoff, Kylo Ren, Laurie Strode, Leia Organa, Lord Voldemort, Luigi, Luke Skywalker, M. Bison, Mace Windu, Mai, Mario, Mary Marvel, Maxwell, Medic, Mercedes, Michael Myers, Mina Harker, Misty, Moana, Nadia Van Dyne, Namaari, Noi, Obi-Wan Kenobi, Ozai, Pariah, Poe Dameron, Princess Daisy, Princess Peach, Qui-Gon Jinn, Quincey Morris, Raya, Red (Pokemon), Rey, Rikk, Rita Vrataski, Ron Weasley, Rosalina, Ruby Rose, Rumy, Ryu, Sadie Kane, Scott Lang, Scout Finch, Sebastian Polge, Shamir, Sokka, Sombra, Spider-Man, Suki, Ted Kord, Tong, Toph Beifong, Ty Lee, Vikram Kommareddi, Wally West, Walt Stone, War Machine, Weiss Schnee, William Cage, Yang Xiao Long, Zach Wiebe, Zia Rashid, Zuko
 Human  (1): Adora
 Humans (1): Bean
+Inhuman (2): Monica Rambeau, Ms. Marvel
 Kangaroo (1): Austin
-Kerbal (1): Bill Kerman
+Kerbal (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
+Koopa (2): Bowser Jr., Bowser
+Kor (1): Jori-En Blurred
+Kryptonian (4): Kal-L, Superboy Prime, Supergirl, Superman
+Light Dragon (1): Flayn
+Martian (1): Martian Manhunter
+Mermaid (1): Undyne
+Mimic (Alien) (1): Omega (Edge of Tomorrow)
 Modified Human (1): Adam Warlock
 Monitor (1): Anti-Monitor
-Muppet (3): Animal, Beaker, Big Bird
-Mutant (5): Angel, Armor, Aurora, Banshee, Beast
+Muppet (6): Animal, Beaker, Bert, Big Bird, Dr. Bunsen Honeydew, Ernie
+Mutant (14): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm
+Ongi (3): Dyan, Pan, Uka
+Part-Veela (1): Fleur Delacour
 Pony (1): Applejack
-Robot (2): Bastion, BB-8
+Rat Creature (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Reindeer (1): Sven
+Robot (6): Bastion, BB-8, C3PO, Mettaton EX, R2-D2, Ultron
 Siren (1): Amara
-Skeleton (1): Arthas Menethil
+Skeleton (4): Arthas Menethil, Brook, Papyrus, Sans
+Sky Dragon (1): Rhea
+Snowman (1): Olaf
+Spectre (1): Scorpion
+Svartalf (1): Blitzen
+Thanagarian (1): Hawkgirl
+Titan (1): Thanos
 Togruta (1): Ahsoka Tano
 Umbra Witch (1): Bayonetta
+Unknown Cat Species (1): Catra
+Vampire (1): Dracula
+Water Dragon (1): Sisu
+Wookie (1): Chewbacca
+Yoda's Species (1): Yoda

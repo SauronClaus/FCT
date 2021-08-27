@@ -37,9 +37,13 @@ Claude (1): Failnaught
 Dimitri (1): Areadbhar
 Edelgard (1): Aymr
 Flayn (1): Caduceus Staff
+Frisk (Genocide Route) (1): Human SOUL
+Frisk (Neutral Route) (1): Human SOUL
+Frisk (Pacifist Route) (1): Human SOUL
 Frodo Baggins (1): Sting
 Glynnric Manassnass (2): Eversmoking Bottle, Immovable Rod
 Gordon Freeman (2): Gordon Freeman's Crowbar, HEV Suit
+Hal Jordan (1): Green Lantern Ring
 Hank Pym (2): Ant-Man Helmet, Pym Particles
 Harry Potter (1): The Invisiblity Cloak
 Hilda (1): Freikugel
@@ -63,8 +67,11 @@ Medic (1): Medi Gun
 Mercedes (1): Rafail Gem
 Nadia van Dyne (1): Pym Particles
 Percy Jackson (1): Riptide
+Raya (1): Raya's Whip Sword
+Rita Vrataski (1): Combat Jacket (Edge of Tomorrow)
 Ruby Rose (1): Crescent Rose
 Sam Wilson (1): Captain America's Shield
+Sans (1): San's Gaster Blaster
 Scorpion (1): Kunai
 Scott Lang (2): Ant-Man Helmet, Pym Particles
 Seteth (1): Spear of Assal
@@ -76,5 +83,6 @@ Thor (1): Mjolnir
 Venom (1): the Venom Symbiote
 War Machine (1): Iron Man Suit
 Weiss Schnee (1): Myrtenaster
+William Cage (1): Combat Jacket (Edge of Tomorrow)
 Wonder Woman (2): Bracelets of Submission, The Lasso of Truth
 Yang Xiao Long (1): Ember Celica

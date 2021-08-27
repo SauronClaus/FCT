@@ -1,14 +1,18 @@
 
+Ability:
+	-Soul (1/1): Human SOUL
+	-All  (1/82): Human SOUL
+
 Accessory:
-	-Ring (4/7): Alan Scott's Ring, Legion Flight Ring, Ring of Fire Resistance, the One Ring
-	-Necklace (2/7): Element of Honesty (My Little Pony), Rafail Gem
-	-Power-Up (1/7): Fire Flower
-	-All  (7/76): Alan Scott's Ring, Element of Honesty (My Little Pony), Fire Flower, Legion Flight Ring, Rafail Gem, Ring of Fire Resistance, the One Ring
+	-Ring (5/8): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, Ring of Fire Resistance, the One Ring
+	-Necklace (2/8): Element of Honesty (My Little Pony), Rafail Gem
+	-Power-Up (1/8): Fire Flower
+	-All  (8/82): Alan Scott's Ring, Element of Honesty (My Little Pony), Fire Flower, Green Lantern Ring, Legion Flight Ring, Rafail Gem, Ring of Fire Resistance, the One Ring
 
 Animal:
 	-Pokemon (1/2): Pikachu
 	-Alien Parasite (1/2): the Venom Symbiote
-	-All  (2/76): Pikachu, the Venom Symbiote
+	-All  (2/82): Pikachu, the Venom Symbiote
 
 Armor:
 	-Helmet (2/7): Ant-Man Helmet, Magneto's Helmet
@@ -17,67 +21,73 @@ Armor:
 	-Power Suit (1/7): HEV Suit
 	-Suit of Armor (1/7): Iron Man Suit
 	-Cloak (1/7): The Invisiblity Cloak
-	-All  (7/76): Ant-Man Helmet, Bracelets of Submission, Captain America's Shield, HEV Suit, Iron Man Suit, Magneto's Helmet, The Invisiblity Cloak
+	-All  (7/82): Ant-Man Helmet, Bracelets of Submission, Captain America's Shield, HEV Suit, Iron Man Suit, Magneto's Helmet, The Invisiblity Cloak
 
 Crystal:
-	-Gem (1/2): The Soul Stone
-	-Meteor (1/2): The Starheart (DC Comics)
-	-All  (2/76): The Soul Stone, The Starheart (DC Comics)
+	-Orb (1/3): Dragon Gem
+	-Gem (1/3): The Soul Stone
+	-Meteor (1/3): The Starheart (DC Comics)
+	-All  (3/82): Dragon Gem, The Soul Stone, The Starheart (DC Comics)
 
 Implant:
 	-Machine (1/1): The Tanden Engine
-	-All  (1/76): The Tanden Engine
+	-All  (1/82): The Tanden Engine
 
 Item:
 	-Bottle (1/4): Eversmoking Bottle
 	-Magic Paint (1/4): Marvelous Pigments
 	-Particle (1/4): Pym Particles
 	-Evil Book (1/4): The Codex Umbra
-	-All  (4/76): Eversmoking Bottle, Marvelous Pigments, Pym Particles, The Codex Umbra
+	-All  (4/82): Eversmoking Bottle, Marvelous Pigments, Pym Particles, The Codex Umbra
+
+Mech Suit:
+	-Partial Mech (1/1): Combat Jacket (Edge of Tomorrow)
+	-All  (1/82): Combat Jacket (Edge of Tomorrow)
 
 Object:
 	-Sacred Object (1/1): The Crown of Horns
-	-All  (1/76): The Crown of Horns
+	-All  (1/82): The Crown of Horns
 
 Robot:
 	-Dragon (1/2): Festus
 	-Companion Robot (1/2): Skeets
-	-All  (2/76): Festus, Skeets
+	-All  (2/82): Festus, Skeets
 
 Vehicle:
 	-Car (1/3): Batmobile
 	-Plane (1/3): Batwing
 	-Submarine (1/3): The Nautilus
-	-All  (3/76): Batmobile, Batwing, The Nautilus
+	-All  (3/82): Batmobile, Batwing, The Nautilus
 
 Weapon:
-	-Staff (2/47): Aang's Glider Staff, Caduceus Staff
-	-Sword (6/47): Andúril, Riptide, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
-	-Dagger (1/47): Annabeth's Knife
-	-Trident (1/47): Aquaman's Trident
-	-Lance (1/47): Areadbhar
-	-Arrow (2/47): Arrow of Dodona, Black Arrow (LOTR)
-	-Knife (1/47): Atreus' Knife
-	-Axe (3/47): Aymr, Freikugel, Leviathan Axe
-	-Gun (2/47): Barret's Gatling Gun-Arm (Final Fantasy VII), Machine Pistol
-	-Boomerang (1/47): Batarang
-	-Transforming (2/47): Crescent Rose, Gambol Shroud
-	-Hammer (3/47): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
-	-Deck of Cards (2/47): Deck of Illusions, The Deck of Green Cards
-	-Gauntlets (1/47): Ember Celica
-	-Inane Weapon (1/47): Expand-o-Duck
-	-Bow (2/47): Failnaught, The Inexhaustable
-	-Crowbar (1/47): Gordon Freeman's Crowbar
-	-Wand (4/47): Iarno Albrek's Shattered Staff, The Elder Wand, Wand of Wands, Wand of Wild Magic
-	-Rod (1/47): Immovable Rod
-	-Thing-on-Chain (1/47): Kunai
-	-Scepter (1/47): Loki's Scepter
-	-Fishhook (1/47): Maui's Fishhook
-	-Healing (1/47): Medi Gun
-	-Rapier (1/47): Myrtenaster
-	-Spear (1/47): Spear of Assal
-	-Shortsword (1/47): Sting
-	-Hatchet (1/47): The Hatchet
-	-Gauntlet (1/47): The Infinity Gauntlet
-	-Lasso (1/47): The Lasso of Truth
-	-All  (47/76): Aang's Glider Staff, Andúril, Annabeth's Knife, Aquaman's Trident, Areadbhar, Arrow of Dodona, Atreus' Knife, Aymr, Barret's Gatling Gun-Arm (Final Fantasy VII), Batarang, Black Arrow (LOTR), Caduceus Staff, Crescent Rose, Crusher (Fire Emblem), Deck of Illusions, Ember Celica, Expand-o-Duck, Failnaught, Freikugel, Gambol Shroud, Gordon Freeman's Crowbar, Iarno Albrek's Shattered Staff, Immovable Rod, Kunai, Leviathan Axe, Loki's Scepter, Machine Pistol, Maui's Fishhook, Medi Gun, Mjolnir, Myrtenaster, Piko Piko Hammer, Riptide, Spear of Assal, Sting, Sword of Protection, Sword of the Creator, The Deck of Green Cards, The Elder Wand, The Hatchet, The Inexhaustable, The Infinity Gauntlet, The Lasso of Truth, The Sword of Summer (Jack), Thunderbrand, Wand of Wands, Wand of Wild Magic
+	-Staff (2/49): Aang's Glider Staff, Caduceus Staff
+	-Sword (7/49): Andúril, Raya's Whip Sword, Riptide, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+	-Dagger (1/49): Annabeth's Knife
+	-Trident (1/49): Aquaman's Trident
+	-Lance (1/49): Areadbhar
+	-Arrow (2/49): Arrow of Dodona, Black Arrow (LOTR)
+	-Knife (1/49): Atreus' Knife
+	-Axe (3/49): Aymr, Freikugel, Leviathan Axe
+	-Gun (2/49): Barret's Gatling Gun-Arm (Final Fantasy VII), Machine Pistol
+	-Boomerang (1/49): Batarang
+	-Transforming (2/49): Crescent Rose, Gambol Shroud
+	-Hammer (3/49): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
+	-Deck of Cards (2/49): Deck of Illusions, The Deck of Green Cards
+	-Gauntlets (1/49): Ember Celica
+	-Inane Weapon (1/49): Expand-o-Duck
+	-Bow (2/49): Failnaught, The Inexhaustable
+	-Crowbar (1/49): Gordon Freeman's Crowbar
+	-Wand (4/49): Iarno Albrek's Shattered Staff, The Elder Wand, Wand of Wands, Wand of Wild Magic
+	-Rod (1/49): Immovable Rod
+	-Thing-on-Chain (1/49): Kunai
+	-Scepter (1/49): Loki's Scepter
+	-Fishhook (1/49): Maui's Fishhook
+	-Healing (1/49): Medi Gun
+	-Rapier (1/49): Myrtenaster
+	-Laser (1/49): San's Gaster Blaster
+	-Spear (1/49): Spear of Assal
+	-Shortsword (1/49): Sting
+	-Hatchet (1/49): The Hatchet
+	-Gauntlet (1/49): The Infinity Gauntlet
+	-Lasso (1/49): The Lasso of Truth
+	-All  (49/82): Aang's Glider Staff, Andúril, Annabeth's Knife, Aquaman's Trident, Areadbhar, Arrow of Dodona, Atreus' Knife, Aymr, Barret's Gatling Gun-Arm (Final Fantasy VII), Batarang, Black Arrow (LOTR), Caduceus Staff, Crescent Rose, Crusher (Fire Emblem), Deck of Illusions, Ember Celica, Expand-o-Duck, Failnaught, Freikugel, Gambol Shroud, Gordon Freeman's Crowbar, Iarno Albrek's Shattered Staff, Immovable Rod, Kunai, Leviathan Axe, Loki's Scepter, Machine Pistol, Maui's Fishhook, Medi Gun, Mjolnir, Myrtenaster, Piko Piko Hammer, Raya's Whip Sword, Riptide, San's Gaster Blaster, Spear of Assal, Sting, Sword of Protection, Sword of the Creator, The Deck of Green Cards, The Elder Wand, The Hatchet, The Inexhaustable, The Infinity Gauntlet, The Lasso of Truth, The Sword of Summer (Jack), Thunderbrand, Wand of Wands, Wand of Wild Magic

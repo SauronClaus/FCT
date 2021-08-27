@@ -18,10 +18,7 @@ def quickStatsCharacters():
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
                 if len(characterInfo) == 29:
-                    if characterInfo[24] != "":
-                        completedCharacters.append(entry[0:len(entry)-4:])
-                    else:
-                        needToUpdateCharacters.append(entry[0:len(entry)-4:])
+                    completedCharacters.append(entry[0:len(entry)-4:])
                 else:
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])

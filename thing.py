@@ -18,8 +18,11 @@ from colors import colors
 from all import allMinions
 from all import allPeople
 from all import allFranchises
+from all import allGroups
 
 from generateAllPeople import genMinions
+numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
@@ -83,7 +86,7 @@ async def on_message(message):
                             
                                 
                             
-            print("Completed!")
+            print("Completed!\n")
         if message.content == "~test artifacts":
             basepath = 'Artifacts/'
             for entry in os.listdir(basepath):
@@ -115,21 +118,53 @@ async def on_message(message):
                     fctPolls = channel
             info = message.content[6::]
             if info[0:8:] == "artifact" or info[0:8:] == "Artifact":
-                embed = infoArtifact(info[9:len(info):], "")
-                await message.channel.send(embed=embed)
-            if info[0:6:] == "person" or info[0:6:] == "Person":
-                embed = infoPerson(info[7:len(info):], "")
-                await message.channel.send(embed=embed)
+                try:
+                    artifactFile = open("Artifacts\\" + info[9:len(info):] + ".txt", "r", encoding='utf8')
+                    embed = infoArtifact(info[9:len(info):], "")
+                    await message.channel.send(embed=embed)
+                except:
+                    await message.channel.send("Couldn't find artifact " + info[9:len(info):] + ".")
+            if info[0:6:] == "person" or info[0:6:] == "Person" or info[0:6:] == "People" or info[0:6:] == "people":
+                try:
+                    firstChar = info[7:8:]
+                    if firstChar in numbers:
+                        firstChar = "#"
+                    personFile = open("Characters\\" + firstChar + "\\" + info[7:len(info)] + ".txt", "r", encoding='utf8')
+                    embed = infoPerson(info[7:len(info):], "")
+                    await message.channel.send(embed=embed)
+                except:
+                    await message.channel.send("Couldn't find person " + info[7:len(info):] + ".")
             if info[0:9:] == "franchise" or info[0:9:] == "Franchise":
-                embed = infoFranchise(info[10:len(info):], "")
-                await message.channel.send(embed=embed)
+                try:
+                    firstChar = info[10:11:]
+                    if firstChar in numbers:
+                        firstChar = "#"
+                    personFile = open("Franchises\\" + firstChar + "\\" + info[10:len(info):] + ".txt", "r", encoding='utf8')
+                    embed = infoFranchise(info[10:len(info):], "")
+                    await message.channel.send(embed=embed)
+                except:
+                    await message.channel.send("Couldn't find franchise " + info[10:len(info):] + ".")
             if info[0:9:] == "adjective" or info[0:9:] == "Adjective":
-                embed = infoAdjective(info[10:len(info):], "")
-                await message.channel.send(embed=embed)
-            if info[0:7:] == "minions" or info[0:7:] == "Minions":
-                embed = infoMinions(info[8:len(info):], "")
-                await message.channel.send(embed=embed)
-            print("Completed!")
+                try:
+                    adjective = info[10:len(info):]
+                    if adjective[len(adjective)-1::] != "-" and adjective[len(adjective)-1::] != " ":
+                        adjective = adjective + " "
+                    if adjective[len(adjective)-1::] != "-":
+                        contentFile = open("Adjectives\\Descriptions\\" + adjective[:len(adjective)-1:] + ".txt", "r")
+                    else:
+                        contentFile = open("Adjectives\\Descriptions\\" + adjective + ".txt", "r")
+                    embed = infoAdjective(info[10:len(info):], "")
+                    await message.channel.send(embed=embed)
+                except:
+                    await message.channel.send("Couldn't find adjective " + info[10:len(info):] + ".")
+            if info[0:7:] == "minions" or info[0:7:] == "Minions" or info[0:7:] == "minion" or info[0:7:] == "Minion":
+                try:
+                    artifactFile = open("Minions\\" + info[8:len(info):] + ".txt", "r", encoding='utf8')
+                    embed = infoMinions(info[8:len(info):], "")
+                    await message.channel.send(embed=embed)
+                except:
+                    await message.channel.send("Couldn't find minion " + info[8:len(info):] + ".")
+            print("Completed!\n")
         if "~match" in message.content:
             matchSplit = message.content.split("match ")
             numberOfMatches = 1
@@ -137,7 +172,7 @@ async def on_message(message):
                 numberOfMatches = int(matchSplit[1])
             for matchNum in range(1,numberOfMatches+1):
                 print("Generating match!")
-                replacement = generate()
+                replacement = generate(message.guild.id)
                 
                 people = allPeople()
                 franchises = allFranchises()
@@ -441,31 +476,13 @@ async def on_message(message):
                     if len(franchiseInfo) == 24:
                         embed = infoMinions(entry[0:len(entry)-4:], message.channel)
                         await message.channel.send(embed=embed)
-        
-        if message.content == "'":
-            minions = allMinions()
-            RNG = random.randint(0,len(minions)-1)
-            minionList = []
-            for minion in minions:
-                minionList.append(minion)
-            ranMinion = minionList[RNG]
-            print(str(ranMinion))
-            fakeFranchise = [1, 2, 3, 4, 5, 6, 7, 8, 9, ranMinion, 11, 12, 13, 14, 15, 16, 17, 18, 19]
-            information = genMinions("Test", fakeFranchise)
+        if "~group" in message.content:
+            groupName = message.content[7:len(message.content):]
+            groups = allGroups()
+            for person in groups[groupName]:
+                print("Found " + person + "!")
+                embed = infoPerson(person, "")
+                await message.channel.send(embed=embed)
+            print("Completed!\n")
 
-            replacements = information[0]
-            reasonsForSubs = information[1]
-            minionAdjectives = information[2]
-
-            if len(minionAdjectives.keys()) < 1:
-                if len(reasonsForSubs[ranMinion]) > 1:
-                    await message.channel.send(ranMinion + " replaced with " + replacements[ranMinion] + " via " + reasonsForSubs[ranMinion][0] + " (" + reasonsForSubs[ranMinion][1] + ")")
-                else:
-                    await message.channel.send(ranMinion + " replaced with " + replacements[ranMinion] + " via " + reasonsForSubs[ranMinion][0])
-            else:
-                if len(reasonsForSubs[ranMinion]) > 1:
-                    await message.channel.send(ranMinion + " replaced with " + minionAdjectives[ranMinion] + " " + replacements[ranMinion] + " via " + reasonsForSubs[ranMinion][0] + " (" + reasonsForSubs[ranMinion][1] + ")")
-                else:
-                    await message.channel.send(ranMinion + " replaced with " + minionAdjectives[ranMinion] + " " + replacements[ranMinion] + " via " + reasonsForSubs[ranMinion][0])
-            
 client.run(trueToken)

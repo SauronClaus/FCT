@@ -28,7 +28,6 @@ def infoPerson(personName, fctPolls):
 
     if personInfo[21] != "":    
         embed.add_field(name="Franchise",value=personInfo[21], inline=False)
-    
 
     if personInfo[8] != "":
         actorString = ""
@@ -92,33 +91,40 @@ def infoPerson(personName, fctPolls):
 
     if fctPolls != "":
         embed.add_field(name="Return to Poll",value="[Here](" + "https://discord.com/channels/" + str(fctPolls.guild.id) + "/" + str(fctPolls.id) + ")")
-
-    if personInfo[26] != "" and personInfo[26] != "Sebastian" and len(personInfo) > 24:
-        contributorsString = ""
-        contributors = personInfo[26].split(",")
-        if len(contributors) > 2:
-            x = 0
-            print("Length: " + str(len(contributors)))
-            for author in contributors:
-                if x < len(contributors)-1:
-                    contributorsString = contributorsString + author + ", "
-                    x+=1
-                    print("X: " + str(x))
-            contributorsString = contributorsString[0:len(contributorsString)-1:]
-        else:
-            if len(contributors) == 2:
-                contributorsString = contributors[0]
-                x = 1
+    if len(personInfo) == 29:
+        if personInfo[26] != "" and personInfo[26] != "Sebastian":
+            contributorsString = ""
+            contributors = personInfo[26].split(",")
+            if len(contributors) > 2:
+                x = 0
+                print("Length: " + str(len(contributors)))
+                for author in contributors:
+                    if x < len(contributors)-1:
+                        contributorsString = contributorsString + author + ", "
+                        x+=1
+                        print("X: " + str(x))
+                contributorsString = contributorsString[0:len(contributorsString)-1:]
             else:
-                x=0
-        if len(contributors) > 1:
-            contributorsString = contributorsString + " and " + contributors[x]
+                if len(contributors) == 2:
+                    contributorsString = contributors[0]
+                    x = 1
+                else:
+                    x=0
+            if len(contributors) > 1:
+                contributorsString = contributorsString + " and " + contributors[x]
+            else:
+                contributorsString = contributors[x]
+            embed.set_footer(text="Created by The Invisible Man, with help from " + contributorsString, icon_url="https://i.imgur.com/tce0LOa.jpg")
         else:
-            contributorsString = contributors[x]
-        embed.set_footer(text="Created by The Invisible Man, with help from " + contributorsString, icon_url="https://i.imgur.com/tce0LOa.jpg")
-    else:
-        embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
-
+            embed.set_footer(text="Created by The Invisible Man", icon_url="https://i.imgur.com/tce0LOa.jpg")
+        if personInfo[28] != "" and personInfo[28] != "No":
+            personInfoTest = personInfo[28].split("|")
+            if len(personInfoTest) > 1:
+                if personInfoTest[0] == "Guild Only":
+                    embed.add_field(name="Restrictions", value="Restricted to guild: " + personInfoTest[1])
+            if personInfo[28] == "No Sub In":
+                embed.add_field(name="Restrictions", value="No Substituting In",inline=False)
+            
     return embed
 
 def infoArtifact(artifactName, fctPolls):

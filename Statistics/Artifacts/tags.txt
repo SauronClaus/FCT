@@ -1,5 +1,5 @@
 Ability Copy (1): The Tanden Engine
-Ability Enhancer (1): HEV Suit
+Ability Enhancer (2): Combat Jacket (Edge of Tomorrow), HEV Suit
 Admantine (1): Aquaman's Trident
 Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
 Annoying (1): Arrow of Dodona
@@ -23,7 +23,7 @@ Classic Literature (1): The Nautilus
 Cloak (1): The Invisiblity Cloak
 Common Magic Item (1): Wand of Wands
 Companion (1): Skeets
-Construct (1): Alan Scott's Ring
+Construct (2): Alan Scott's Ring, Green Lantern Ring
 Crowbar (1): Gordon Freeman's Crowbar
 Cursed (1): The Codex Umbra
 Cursed Weapon (2): Annabeth's Knife, the One Ring
@@ -51,6 +51,7 @@ Fire Resistances (1): Ring of Fire Resistance
 Fishhook (1): Maui's Fishhook
 Flight (1): Aang's Glider Staff
 Floating (1): The Sword of Summer (Jack)
+Force (1): Human SOUL
 Fragment (1): Iarno Albrek's Shattered Staff
 Gatling Gun (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
 Gauntlet (2): Ember Celica, The Infinity Gauntlet
@@ -60,8 +61,8 @@ Glider (1): Aang's Glider Staff
 Glowing (1): Sting
 God-Item (1): The Infinity Gauntlet
 Greek (1): Riptide
-Green Lantern Ring (1): Alan Scott's Ring
-Gun (4): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol
+Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
+Gun (5): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, San's Gaster Blaster
 Gun-Hands (1): Ember Celica
 Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
 Hammerspace (1): Piko Piko Hammer
@@ -70,6 +71,7 @@ Healing (1): Medi Gun
 Healing Gun (1): Medi Gun
 Heriditary (1): Atreus' Knife
 Historical Weapon (1): the One Ring
+Human-Trait (1): Human SOUL
 Iconic (2): Captain America's Shield, Iron Man Suit
 Illusions (1): Deck of Illusions
 Implant (1): The Tanden Engine
@@ -82,7 +84,8 @@ Invisibility (1): The Invisiblity Cloak
 Katana (1): Gambol Shroud
 Knife-Like (1): Kunai
 Lance (1): Areadbhar
-Lantern Corps (1): Alan Scott's Ring
+Lantern Corps (2): Alan Scott's Ring, Green Lantern Ring
+Laser (1): San's Gaster Blaster
 Lasso (1): The Lasso of Truth
 Legion of Superheroes (1): Legion Flight Ring
 Lightning (1): Mjolnir
@@ -93,6 +96,7 @@ Magical Fire (1): The Deck of Green Cards
 Magical Paint (1): Marvelous Pigments
 Magical Quality (1): Element of Honesty (My Little Pony)
 Magical Sword (1): Sword of Protection
+Mech Suit (1): Combat Jacket (Edge of Tomorrow)
 Mechanical (1): The Tanden Engine
 Metal (1): Festus
 Mind Control (1): Loki's Scepter
@@ -110,7 +114,7 @@ Particle (1): Pym Particles
 Plane (1): Batwing
 Pokemon (1): Pikachu
 Power (1): Pym Particles
-Power Suit (1): HEV Suit
+Power Suit (2): Combat Jacket (Edge of Tomorrow), HEV Suit
 Power-Granting (1): Legion Flight Ring
 Power-Up (1): Fire Flower
 Projectile (1): Batarang
@@ -126,7 +130,7 @@ Rapier (1): Myrtenaster
 Relic (Fire Embelm) (1): Rafail Gem
 Relic (Fire Emblem) (7): Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Sword of the Creator, Thunderbrand
 Returning (2): Mjolnir, Riptide
-Ring (3): Alan Scott's Ring, Legion Flight Ring, the One Ring
+Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
 Rings (1): Ring of Fire Resistance
 Robot (1): Skeets
 Robot Animal (1): Festus
@@ -146,13 +150,15 @@ Shield (1): Captain America's Shield
 Shortsword (1): Sting
 Size Change (1): Pym Particles
 Size Changing (1): Ant-Man Helmet
+Skull (1): San's Gaster Blaster
 Smoke (1): Eversmoking Bottle
+Soul (1): Human SOUL
 Space-Based (1): The Starheart (DC Comics)
 Spear (1): Spear of Assal
 Spellcasting Focus (1): Iarno Albrek's Shattered Staff
 Staff (2): Caduceus Staff, Loki's Scepter
 Street Fighter (1): The Tanden Engine
-Sword (9): Andúril, Gambol Shroud, Myrtenaster, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Sword (11): Andúril, Dragon Gem, Gambol Shroud, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Symbiote (1): the Venom Symbiote
 Tech (2): Crescent Rose, Iron Man Suit
 Themed (3): Batarang, Batmobile, Batwing
@@ -172,5 +178,5 @@ Wands (1): The Elder Wand
 Waterfowl (1): Expand-o-Duck
 Weapon (1): Aang's Glider Staff
 Whip (1): The Lasso of Truth
-Whip-Sword (1): Sword of the Creator
+Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
 Worthy (1): Mjolnir

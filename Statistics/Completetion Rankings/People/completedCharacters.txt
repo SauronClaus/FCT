@@ -24,6 +24,7 @@ Allison Blake
 Ally
 Alois
 Aloy
+Alphys
 Alucard
 Alyx
 Amadeus Cho
@@ -57,6 +58,7 @@ Arthur Holmwood
 Arthur Weasley
 Artyom
 Arya
+Asgore
 Ash Ketchum
 Ashe
 Ashley Williams
@@ -69,6 +71,7 @@ Axton
 Azula
 BB-8
 Baljeet Tjinder
+Banjo
 Banshee
 Barbara Gordon
 Bard the Bowman
@@ -96,8 +99,58 @@ Black Lightning
 Black Panther
 Black Widow
 Blake Belladonna
+Blaze the Cat
+Blink
+Blitzen
+Blue
+Blue Marvel
+Blue Stupid Rat Creature
+Bob Kerman
+Bobby
+Bolin
+Booster Gold
+Boromir
+Boun
+Bow
+Bowser
+Bowser Jr.
+Brainiac 5
+Breach
+Brian Robeson
+Brick
+Brimstone
+Brock
+Brom
+Brook
+Brown Stupid Rat Creature
+Chara
+Dyan
+Flowey
+Frisk (Genocide Route)
+Frisk (Neutral Route)
+Frisk (Pacifist Route)
 Gordon Freeman
+Hal Jordan
+John Stewart
 Maui
 Moana
+Ms. Marvel
+Namaari
+Noi
+Omega (Edge of Tomorrow)
+Pan
+Papyrus
+Raya
+Rita Vrataski
+Ryu
+Sans
+Sisu
 Tamatoa
 Te Ka
+Tong
+Toriel
+Uka
+Undyne
+Viv Vision
+William Cage
+Wonder Woman

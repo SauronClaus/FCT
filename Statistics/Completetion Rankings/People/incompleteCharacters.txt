@@ -103,7 +103,6 @@ Ed Tom Bell
 El Diablo
 Elasti-Girl
 Elastigirl
-Eldon Spark Turen
 Eleven
 Elias Stork
 Elise
@@ -186,14 +185,12 @@ Grover Underwood
 Grumpy Bear
 Grunt
 Hades
-Hal Jordan
 Halfborn Gunderson
 Handsome Jack
 Hanzo
 Harley Quinn
 Harold Finch
 Haru Okumura
-Hawkgirl
 Hawkman
 Hazel Levesque
 Heavy
@@ -269,7 +266,6 @@ John Glanton
 John Hammond
 John Rambo
 John Reese
-John Stewart
 Johnathan Kent
 Johnny Thunder
 Joker
@@ -352,7 +348,6 @@ Link
 Linus
 Lionel Fusco
 Little Mac
-Little Noi
 Llewelyn Moss
 Lopez the Heavy
 Lora Baines
@@ -386,7 +381,6 @@ Marion Ravenwood
 Mark Watney
 Markus
 Marth
-Martian Manhunter
 Maru
 Marvel Boy
 Master Chief
@@ -445,12 +439,10 @@ Mr. Resetti
 Mr. Scratch
 Mr. Snuffleupagus
 Mr. Terrific
-Ms. Marvel
 Murgath
 Myr-Getakksis
 Mythra
 Nabooru
-Namaari
 Nami
 Namor the Sub-Mariner
 Nana
@@ -555,7 +547,6 @@ Randy Disher
 Raphael
 Rarity
 Raven
-Raya
 Raze
 Red (Band of Fools)
 Red Hulk
@@ -647,7 +638,6 @@ Simon Baz
 Simon Belmont
 Sir Ambrosius Goldenloin
 Sirius Black
-Sisu
 Slippy Toad
 Sniper
 Snoopy
@@ -665,7 +655,6 @@ Spider-Punk
 Spider-Woman
 Spring-Man
 Spy
-Squee
 Star Lord
 Starfire
 Stargirl
@@ -718,7 +707,6 @@ Timothy
 Tina Goldstein
 Toad
 Tom Nook
-Tong
 Tony Tony Chopper
 Tracer
 Trevor Belmont

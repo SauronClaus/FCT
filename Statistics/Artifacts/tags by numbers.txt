@@ -1,13 +1,17 @@
-Sword (9): Andúril, Gambol Shroud, Myrtenaster, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Sword (11): Andúril, Dragon Gem, Gambol Shroud, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Relic (Fire Emblem) (7): Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Sword of the Creator, Thunderbrand
 Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jack), the Venom Symbiote
+Gun (5): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, San's Gaster Blaster
 Magical (5): Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
+Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
 Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
-Gun (4): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol
-Ring (3): Alan Scott's Ring, Legion Flight Ring, the One Ring
 Themed (3): Batarang, Batmobile, Batwing
 Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
 Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
+Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
+Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
+Construct (2): Alan Scott's Ring, Green Lantern Ring
+Lantern Corps (2): Alan Scott's Ring, Green Lantern Ring
 Celestial Bronze (2): Annabeth's Knife, Riptide
 Cursed Weapon (2): Annabeth's Knife, the One Ring
 Prophesized Weapon (2): Annabeth's Knife, Black Arrow (LOTR)
@@ -21,6 +25,8 @@ Armored (2): Batmobile, Batwing
 Sacred Weapon (Fire Emblem) (2): Caduceus Staff, The Inexhaustable
 Staff (2): Caduceus Staff, Loki's Scepter
 Iconic (2): Captain America's Shield, Iron Man Suit
+Power Suit (2): Combat Jacket (Edge of Tomorrow), HEV Suit
+Ability Enhancer (2): Combat Jacket (Edge of Tomorrow), HEV Suit
 Multiple Forms (2): Crescent Rose, Gambol Shroud
 Tech (2): Crescent Rose, Iron Man Suit
 Deck of Cards (2): Deck of Illusions, The Deck of Green Cards
@@ -34,9 +40,6 @@ Flight (1): Aang's Glider Staff
 Weapon (1): Aang's Glider Staff
 Glider (1): Aang's Glider Staff
 Bending Augumenter (1): Aang's Glider Staff
-Green Lantern Ring (1): Alan Scott's Ring
-Construct (1): Alan Scott's Ring
-Lantern Corps (1): Alan Scott's Ring
 Ghost-Slayer (1): Andúril
 Insect-Themed (1): Ant-Man Helmet
 Insect Communication (1): Ant-Man Helmet
@@ -60,6 +63,7 @@ Bracelets (1): Bracelets of Submission
 Bullet-Deflecting (1): Bracelets of Submission
 Shield (1): Captain America's Shield
 Vibranium (1): Captain America's Shield
+Mech Suit (1): Combat Jacket (Edge of Tomorrow)
 Scythe (1): Crescent Rose
 Unique (1): Crescent Rose
 Illusions (1): Deck of Illusions
@@ -81,9 +85,10 @@ Katana (1): Gambol Shroud
 Crowbar (1): Gordon Freeman's Crowbar
 Improvised Weapon (1): Gordon Freeman's Crowbar
 Bludgeoning (1): Gordon Freeman's Crowbar
-Power Suit (1): HEV Suit
 Environmental Protection (1): HEV Suit
-Ability Enhancer (1): HEV Suit
+Soul (1): Human SOUL
+Force (1): Human SOUL
+Human-Trait (1): Human SOUL
 Spellcasting Focus (1): Iarno Albrek's Shattered Staff
 Glass (1): Iarno Albrek's Shattered Staff
 Fragment (1): Iarno Albrek's Shattered Staff
@@ -124,6 +129,8 @@ Rings (1): Ring of Fire Resistance
 Fire Resistances (1): Ring of Fire Resistance
 Transforming (1): Riptide
 Greek (1): Riptide
+Laser (1): San's Gaster Blaster
+Skull (1): San's Gaster Blaster
 Robot (1): Skeets
 Companion (1): Skeets
 Time Traveler (1): Skeets
@@ -134,7 +141,6 @@ Shortsword (1): Sting
 Glowing (1): Sting
 Transformation (1): Sword of Protection
 Magical Sword (1): Sword of Protection
-Whip-Sword (1): Sword of the Creator
 Book (1): The Codex Umbra
 Shadow Book (1): The Codex Umbra
 Cursed (1): The Codex Umbra

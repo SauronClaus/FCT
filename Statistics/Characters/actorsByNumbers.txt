@@ -1,6 +1,86 @@
-Eric Bauza (2): Adam Warlock, Amadeus Cho
+Nolan North (6): Beast Boy, Hal Jordan, Hank Pym, Hawkeye, Iron Man, Magneto
+Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psylocke, Supergirl
+Tara Strong (5): Barbara Gordon, Blink, Janet van Dyne, Mary Marvel, Scarlet Witch
+Fred Tatasciore (5): Beast, Hulk, Magneto, Qui-Gon Jinn, Ultron
+Travis Willingham (5): Booster Gold, Captain Britain, Guile, Hulk, Thor
+Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
+Bumper Robinson (4): Black Lightning, Cyborg, Falcon, War Machine
+James Arnold Taylor (4): Bucky Barnes, Green Arrow, Magneto, Obi-Wan Kenobi
+Tom Kane (4): Jim Gordon, Magneto, Ultron, Yoda
+Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
+David Kaye (3): Akuma, Ultron, Vision
+Yuri Lowenthal (3): Alucard, Northstar, Spider-Man
+Troy Baker (3): Alucard, Hawkeye, Loki
+Frank Oz (3): Bert, Yoda, Yoda
+Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
+Roger Craig Smith (3): Captain America, Kylo Ren, Sonic the Hedgehog
+Jennifer Hale (3): Carol Danvers, Iris West, Scarlet Witch
+Colin Frazer (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
+Josh Keaton (3): Hal Jordan, Scott Lang, Spider-Man
+Jason Spisak (3): Hal Jordan, Loki, Wally West
+Matthew Mercer (3): Hawkeye, Iron Man, Luke Skywalker
+Crispin Freeman (3): Loki, Martian Manhunter, Scott Lang
+Kirk Thornton (2): Adam Warlock, Guile
 Matt Lanter (2): Agent Venom, Anakin Skywalker
 Rosario Dawson (2): Ahsoka Tano, Barbara Gordon
+Zach Wiebe (2): Akkar, Zach Wiebe
+Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
 Michael Gough (2): Alfred Pennyworth, Arthur Holmwood
-Grey DeLisle (2): Azula, Black Canary
+Jeremy Irons (2): Alfred Pennyworth, Brom
+Ralph Fiennes (2): Alfred Pennyworth, Lord Voldemort
+Ashly Burch (2): Aloy, Ms. Marvel
+Hayden Christensen (2): Anakin Skywalker, Darth Vader
+Jake Lloyd (2): Anakin Skywalker, Darth Vader
+Tom Kenny (2): Anti-Monitor, Ultron
+Sebastian Polge (2): Arthas Menethil, Sebastian Polge
+Kimberly Brooks (2): Ashley Williams, Psylocke
+Gregory Peck (2): Atticus Finch, Captain Ahab
+Mae Whitman (2): Barbara Gordon, Katara
+Neil Patrick Harris (2): Barry Allen, Spider-Man
+Alan Tudyk (2): Barry Allen, Green Arrow
+John Wesley Shipp (2): Barry Allen, Jay Garrick
+Dwight Schultz (2): Barry Allen, Magneto
+Steve Whitmire (2): Beaker, Ernie
+George Buza (2): Beast, Magneto
 Vanessa Marshall (2): Black Canary, Black Widow
+Khary Payton (2): Black Lightning, Cyborg
+Billy Kametz (2): Blue, Iron Lad
+Steve Blum (2): Brimstone, Ken
+Benedict Wong (2): Bruce Ng, Tong
+Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
+Scott Menville (2): Bucky Barnes, Quicksilver
+Harrison Truscott (2): Byllemura Ruby-Eye, Harrison Truscott
+Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
+Brian Bloom (2): Captain America, Cyborg
+April Stewart (2): Carol Danvers, Psylocke
+Colleen O'Shaughnessey (2): Cassie Lang, Janet van Dyne
+Hidenori Takahashi (2): Dedue, Dimitri
+Ben Lepley (2): Dedue, Dimitri
+Ethan Chou (2): Ethan Chou, Kalathos Sunstrider
+Wendy Tremont King (2): Gran'ma Ben, Thorn Harvestar
+Michael Donovan (2): Guile, Hulk
+Lex Lang (2): Han Solo, Poe Dameron
+Wally Wingert (2): Hank Pym, Ultron
+Adrian Pasdar (2): Hawkeye, Iron Man
+Sam Riegel (2): Hawkeye, Spider-Man
+Kari Wahlgren (2): Hope van Dyne, Janet van Dyne
+Robbie Daymond (2): Hubert, Spider-Man
+Paul Soles (2): Hulk, Spider-Man
+Lou Ferrigno (2): Hulk, Hulk
+Sebastian Spence (2): Hulk, Ted Kord
+Armen Taylor (2): Hulk, Jay Garrick
+Phil LaMarr (2): John Stewart, War Machine
+Ike Amadi (2): John Stewart, Martian Manhunter
+Kaeshev Alapati (2): Jori-En Blurred, Squee
+Terrence C. Carson (2): Kratos, Mace Windu
+Christopher Judge (2): Kratos, Magneto
+Jonathan Groff (2): Kristoff, Sven
+Danny Wells (2): Luigi, Luigi
+Charles Martinet (2): Luigi, Mario
+Marc Graue (2): Luigi, Mario
+Julien Bardakoff (2): Luigi, Luigi
+Mark Hamill (2): Luke Skywalker, Ozai
+Lou Albano (2): Mario, Mario
+Dorian Harewood (2): Martian Manhunter, War Machine
+Jessica Chisum (2): Princess Daisy, Princess Peach
+Jen Taylor (2): Princess Daisy, Princess Peach

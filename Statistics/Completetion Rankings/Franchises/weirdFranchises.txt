@@ -6,6 +6,7 @@ Bone
 Captain America Civil War
 Crisis on Infinite Earths
 Dracula
+Edge of Tomorrow (film)
 Fire Emblem Three Houses (Azure Moon)
 Fire Emblem Three Houses (Crimson Flower)
 Fire Emblem Three Houses (Golden Route)
@@ -24,3 +25,7 @@ Persona 3
 Persona 4
 Persona 5
 RWBY
+Raya and the Last Dragon
+Undertale (Genocide Route)
+Undertale (Neutral Route)
+Undertale (Pacifist Route)

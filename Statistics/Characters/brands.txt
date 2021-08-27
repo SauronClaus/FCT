@@ -1,225 +1,358 @@
 
 Avatar (TV Show):
-	-Avatar: The Last Airbender (2/2): Aang, Azula
-	-All  (2/103): Aang, Azula
+	-Avatar: The Last Airbender (11/14): Aang, Azula, Iroh, Katara, Mai, Ozai, Sokka, Suki, Toph Beifong, Ty Lee, Zuko
+	-The Legend of Korra (3/14): Asami Sato, Bolin, Korra
+	-All  (14/359): Aang, Asami Sato, Azula, Bolin, Iroh, Katara, Korra, Mai, Ozai, Sokka, Suki, Toph Beifong, Ty Lee, Zuko
 
 Sesame Street:
-	-Sesame Street (2/2): Abby Cadabby, Big Bird
-	-All  (2/103): Abby Cadabby, Big Bird
+	-Sesame Street (4/4): Abby Cadabby, Bert, Big Bird, Ernie
+	-All  (4/359): Abby Cadabby, Bert, Big Bird, Ernie
 
 Stardew Valley:
 	-Stardew Valley (2/2): Abigail, Alex
-	-All  (2/103): Abigail, Alex
+	-All  (2/359): Abigail, Alex
 
 Dracula Hunters:
 	-Dracula (1/1): Abraham Van Helsing
-	-All  (1/103): Abraham Van Helsing
+	-All  (1/359): Abraham Van Helsing
 
 Marvel:
-	-Marvel Comics (10/11): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Beast, Bentley-23, Black Panther, Black Widow
-	-MCU (1/11): Baron Zemo
-	-All  (11/103): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Baron Zemo, Beast, Bentley-23, Black Panther, Black Widow
+	-Marvel Comics (43/44): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Beast, Bentley-23, Black Panther, Black Widow, Blink, Blue Marvel, Bucky Barnes, Cannonball, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Loki, Magneto, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Thor, Ultron, Vision, Viv Vision, War Machine
+	-MCU (1/44): Baron Zemo
+	-All  (44/359): Adam Warlock, Agent Venom, Amadeus Cho, America Chavez, Aurora, Banshee, Baron Zemo, Beast, Bentley-23, Black Panther, Black Widow, Blink, Blue Marvel, Bucky Barnes, Cannonball, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Loki, Magneto, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Psylocke, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Storm, Thor, Ultron, Vision, Viv Vision, War Machine
 
 He-Man:
-	-She-Ra and the Princesses of Power (1/1): Adora
-	-All  (1/103): Adora
+	-She-Ra and the Princesses of Power (4/4): Adora, Bow, Catra, Glimmer
+	-All  (4/359): Adora, Bow, Catra, Glimmer
 
 Monk:
 	-Monk (1/1): Adrian Monk
-	-All  (1/103): Adrian Monk
+	-All  (1/359): Adrian Monk
 
 Final Fantasy:
 	-Final Fantasy VII (2/2): Aerith Gainsborough, Barret Wallace
-	-All  (2/103): Aerith Gainsborough, Barret Wallace
+	-All  (2/359): Aerith Gainsborough, Barret Wallace
 
 Minority Report:
 	-Minority Report (1/1): Agatha
-	-All  (1/103): Agatha
+	-All  (1/359): Agatha
 
 Star Wars:
-	-The Clone Wars (1/3): Ahsoka Tano
-	-Star Wars: The Clone Wars (1/3): Anakin Skywalker
-	-Star Wars Sequel Trilogy (1/3): BB-8
-	-All  (3/103): Ahsoka Tano, Anakin Skywalker, BB-8
+	-The Clone Wars (1/19): Ahsoka Tano
+	-Star Wars: The Clone Wars (3/19): Anakin Skywalker, Obi-Wan Kenobi, Yoda
+	-Star Wars Sequel Trilogy (5/19): BB-8, Finn, Kylo Ren, Poe Dameron, Rey
+	-Star Wars Original Trilogy (6/19): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, R2-D2
+	-Fallen Order (1/19): Cal Kestis
+	-Star Wars (Original Trilogy) (1/19): Darth Vader
+	-Star Wars (1/19): Mace Windu
+	-Star Wars Prequel Trilogy (1/19): Qui-Gon Jinn
+	-All  (19/359): Ahsoka Tano, Anakin Skywalker, BB-8, C3PO, Cal Kestis, Chewbacca, Darth Vader, Finn, Han Solo, Kylo Ren, Leia Organa, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Poe Dameron, Qui-Gon Jinn, R2-D2, Rey, Yoda
 
 Ready Player One:
 	-Ready Player One (1/1): Akihide Karatsu
-	-All  (1/103): Akihide Karatsu
+	-All  (1/359): Akihide Karatsu
 
 Band of Fools:
-	-Band of Fools Original (2/3): Akkar, Arthail Consumer of Food
-	-Band of Fools Reboot (1/3): Arthas Menethil
-	-All  (3/103): Akkar, Arthail Consumer of Food, Arthas Menethil
+	-Band of Fools Original (7/12): Akkar, Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
+	-Band of Fools Reboot (2/12): Arthas Menethil, Eldon Spark Turen
+	-Band of Fools Both (1/12): Byllemura Ruby-Eye
+	-Band of Fools Redux (2/12): Jori-En Blurred, Squee
+	-All  (12/359): Akkar, Arthail Consumer of Food, Arthas Menethil, Byllemura Ruby-Eye, Eldon Spark Turen, Glynnric Manassnass, Jori-En Blurred, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider, Squee
+
+Street Fighter:
+	-Street Fighter (7/7): Akuma, Chun-Li, Guile, Ken, M. Bison, Ryu, Seth
+	-All  (7/359): Akuma, Chun-Li, Guile, Ken, M. Bison, Ryu, Seth
 
 Tron:
 	-Tron (1/1): Alan Bradley
-	-All  (1/103): Alan Bradley
+	-All  (1/359): Alan Bradley
 
 DC:
-	-DC Comics (13/14): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning
-	-Suicide Squad (1/14): Amanda Waller
-	-All  (14/103): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amanda Waller, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning
+	-DC Comics (37/39): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning, Booster Gold, Brainiac 5, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hal Jordan, Harbringer, Hawkgirl, Hippolyta, Iris West, Jay Garrick, Jim Gordon, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Pariah, Superboy Prime, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
+	-Suicide Squad (2/39): Amanda Waller, Captain Boomerang
+	-All  (39/359): Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amanda Waller, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning, Booster Gold, Brainiac 5, Captain Boomerang, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hal Jordan, Harbringer, Hawkgirl, Hippolyta, Iris West, Jay Garrick, Jim Gordon, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Pariah, Superboy Prime, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
 
 Alan Wake:
-	-Alan Wake (1/1): Alan Wake
-	-All  (1/103): Alan Wake
+	-Alan Wake (2/2): Alan Wake, Barry Wheeler
+	-All  (2/359): Alan Wake, Barry Wheeler
 
 Harry Potter:
-	-Harry Potter (3/3): Albus Dumbledore, Arthur Weasley, Bill Weasley
-	-All  (3/103): Albus Dumbledore, Arthur Weasley, Bill Weasley
+	-Harry Potter (9/9): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Lord Voldemort, Ron Weasley
+	-All  (9/359): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Lord Voldemort, Ron Weasley
+
+A Clockwork Orange:
+	-A Clockwork Orange (1/1): Alex DeLarge
+	-All  (1/359): Alex DeLarge
 
 Percy Jackson and the Olympians:
-	-Magnus Chase (1/4): Alex Fierro
-	-Kane Chronicles (1/4): Amos Kane
-	-Percy Jackson (2/4): Annabeth Chase, Apollo
-	-All  (4/103): Alex Fierro, Amos Kane, Annabeth Chase, Apollo
+	-Magnus Chase (5/15): Alex Fierro, Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
+	-Kane Chronicles (5/15): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+	-Percy Jackson (5/15): Annabeth Chase, Apollo, Calypso, Leo Valdez, Percy Jackson
+	-All  (15/359): Alex Fierro, Amos Kane, Annabeth Chase, Apollo, Blitzen, Calypso, Carter Kane, Hearthstone, Leo Valdez, Magnus Chase, Percy Jackson, Sadie Kane, Samirah al-Abbas, Walt Stone, Zia Rashid
 
 A Nightmare on Elm Street:
 	-A Nightmare on Elm Street (1/1): Alice Johnson
-	-All  (1/103): Alice Johnson
+	-All  (1/359): Alice Johnson
 
 Eureka:
 	-Eureka (1/1): Allison Blake
-	-All  (1/103): Allison Blake
+	-All  (1/359): Allison Blake
 
 Fans!:
-	-Fans! (1/1): Ally
-	-All  (1/103): Ally
+	-Fans! (3/3): Ally, Rikk, Rumy
+	-All  (3/359): Ally, Rikk, Rumy
 
 Fire Emblem:
-	-Fire Emblem: Three Houses (4/4): Alois, Annette, Ashe, Bernadetta
-	-All  (4/103): Alois, Annette, Ashe, Bernadetta
+	-Fire Emblem: Three Houses (18/18): Alois, Annette, Ashe, Bernadetta, Byleth, Catherine, Claude, Dedue, Dimitri, Edelgard, Flayn, Hilda, Hubert, Mercedes, Rhea, Seteth, Shamir, Sothis
+	-All  (18/359): Alois, Annette, Ashe, Bernadetta, Byleth, Catherine, Claude, Dedue, Dimitri, Edelgard, Flayn, Hilda, Hubert, Mercedes, Rhea, Seteth, Shamir, Sothis
 
 Horizon Zero Dawn:
 	-Horizon Zero Dawn (1/1): Aloy
-	-All  (1/103): Aloy
+	-All  (1/359): Aloy
+
+Undertale:
+	-Undertale (12/12): Alphys, Asgore, Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Mettaton EX, Papyrus, Sans, Toriel, Undyne
+	-All  (12/359): Alphys, Asgore, Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Mettaton EX, Papyrus, Sans, Toriel, Undyne
 
 Castlevania:
 	-Castlevania (1/1): Alucard
-	-All  (1/103): Alucard
+	-All  (1/359): Alucard
 
 Half-Life:
 	-Half-Life (2/2): Alyx, Gordon Freeman
-	-All  (2/103): Alyx, Gordon Freeman
+	-All  (2/359): Alyx, Gordon Freeman
 
 Borderlands:
-	-Borderlands 3 (1/2): Amara
-	-Borderlands 2 (1/2): Axton
-	-All  (2/103): Amara, Axton
+	-Borderlands 3 (1/3): Amara
+	-Borderlands 2 (1/3): Axton
+	-Borderlands 1 (1/3): Brick
+	-All  (3/359): Amara, Axton, Brick
 
 Walkyverse:
 	-Shortpacked (1/1): Amazi-Girl
-	-All  (1/103): Amazi-Girl
+	-All  (1/359): Amazi-Girl
 
 39 Clues:
 	-39 Clues (1/1): Amy Cahill
-	-All  (1/103): Amy Cahill
+	-All  (1/359): Amy Cahill
+
+Tacoma:
+	-Tacoma (1/1): Amy Ferrier
+	-All  (1/359): Amy Ferrier
 
 Sonic the Hedgehog:
-	-Sonic (2/2): Amy Rose, Big the Cat
-	-All  (2/103): Amy Rose, Big the Cat
+	-Sonic (5/5): Amy Rose, Big the Cat, Blaze the Cat, Doctor Eggman, Sonic the Hedgehog
+	-All  (5/359): Amy Rose, Big the Cat, Blaze the Cat, Doctor Eggman, Sonic the Hedgehog
 
 Marvel Comics:
-	-Marvel Comics (2/2): Angel, Armor
-	-All  (2/103): Angel, Armor
+	-Marvel Comics (4/5): Angel, Anole, Armor, Northstar
+	-Avengers (1/5): Thanos
+	-All  (5/359): Angel, Anole, Armor, Northstar, Thanos
 
 The Muppets:
-	-The Muppets (2/2): Animal, Beaker
-	-All  (2/103): Animal, Beaker
+	-The Muppets (3/3): Animal, Beaker, Dr. Bunsen Honeydew
+	-All  (3/359): Animal, Beaker, Dr. Bunsen Honeydew
+
+Persona:
+	-Persona 5 (1/1): Ann Takamaki
+	-All  (1/359): Ann Takamaki
 
 Omniscient Reader's Viewpoint:
 	-Omniscient Reader's Viewpoint (1/1): Anna Croft
-	-All  (1/103): Anna Croft
+	-All  (1/359): Anna Croft
+
+Frozen:
+	-Frozen (5/5): Anna, Elsa, Kristoff, Olaf, Sven
+	-All  (5/359): Anna, Elsa, Kristoff, Olaf, Sven
 
 The Martian:
-	-The Martian (1/1): Annie Montrose
-	-All  (1/103): Annie Montrose
+	-The Martian (4/4): Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck
+	-All  (4/359): Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck
 
 No Country for Old Men:
 	-No Country for Old Men (1/1): Anton Chigurh
-	-All  (1/103): Anton Chigurh
+	-All  (1/359): Anton Chigurh
 
 League of Legends:
 	-League of Legends (1/1): Aphelios
-	-All  (1/103): Aphelios
+	-All  (1/359): Aphelios
 
 My Little Pony:
 	-My Little Pony: Friendship is Magic (1/1): Applejack
-	-All  (1/103): Applejack
+	-All  (1/359): Applejack
 
 Lord of the Rings:
-	-Lord of the Rings (1/3): Aragorn
-	-The Hobbit (2/3): Bard the Bowman, Bilbo Baggins
-	-All  (3/103): Aragorn, Bard the Bowman, Bilbo Baggins
+	-Lord of the Rings (3/6): Aragorn, Arwen, Boromir
+	-The Hobbit (3/6): Bard the Bowman, Bilbo Baggins, Smaug
+	-All  (6/359): Aragorn, Arwen, Bard the Bowman, Bilbo Baggins, Boromir, Smaug
 
 Magic: The Gathering:
 	-Magic: The Gathering (1/1): Araithia Shokta
-	-All  (1/103): Araithia Shokta
+	-All  (1/359): Araithia Shokta
 
 Dracula:
-	-Dracula (1/1): Arthur Holmwood
-	-All  (1/103): Arthur Holmwood
+	-Dracula (6/6): Arthur Holmwood, Dracula, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+	-All  (6/359): Arthur Holmwood, Dracula, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
 
 Metro:
 	-Metro (1/1): Artyom
-	-All  (1/103): Artyom
+	-All  (1/359): Artyom
 
 Eragon:
-	-Eragon (1/1): Arya
-	-All  (1/103): Arya
+	-Eragon (2/2): Arya, Brom
+	-All  (2/359): Arya, Brom
 
 Pokemon:
-	-Pokemon Anime (1/1): Ash Ketchum
-	-All  (1/103): Ash Ketchum
+	-Pokemon Anime (1/5): Ash Ketchum
+	-Pokemon (4/5): Blue, Brock, Misty, Red (Pokemon)
+	-All  (5/359): Ash Ketchum, Blue, Brock, Misty, Red (Pokemon)
+
+Until Dawn:
+	-Until Dawn (1/1): Ashley Brown
+	-All  (1/359): Ashley Brown
 
 Mass Effect:
 	-Mass Effect (1/1): Ashley Williams
-	-All  (1/103): Ashley Williams
+	-All  (1/359): Ashley Williams
 
 God of War:
-	-God of War (1/1): Athena
-	-All  (1/103): Athena
+	-God of War (3/3): Athena, Atreus, Kratos
+	-All  (3/359): Athena, Atreus, Kratos
 
 To Kill a Mockingbird:
-	-To Kill a Mockingbird (1/1): Atticus Finch
-	-All  (1/103): Atticus Finch
+	-To Kill a Mockingbird (3/3): Atticus Finch, Jem Finch, Scout Finch
+	-All  (3/359): Atticus Finch, Jem Finch, Scout Finch
 
 Atlantis: The Lost Empire:
 	-Atlantis: The Lost Empire (1/1): Audrey Ramirez
-	-All  (1/103): Audrey Ramirez
+	-All  (1/359): Audrey Ramirez
 
 The Backyardigans:
 	-The Backyardigans (1/1): Austin
-	-All  (1/103): Austin
+	-All  (1/359): Austin
 
 Phineas and Ferb:
-	-Phineas & Ferb (1/1): Baljeet Tjinder
-	-All  (1/103): Baljeet Tjinder
+	-Phineas & Ferb (3/3): Baljeet Tjinder, Buford Van Stomm, Candace Flynn
+	-All  (3/359): Baljeet Tjinder, Buford Van Stomm, Candace Flynn
+
+Banjo & Kazooie:
+	-Banjo & Kazooie (2/2): Banjo, Kazooie
+	-All  (2/359): Banjo, Kazooie
+
+The Bee Movie:
+	-The Bee Movie (1/1): Barry B. Benson
+	-All  (1/359): Barry B. Benson
 
 Overwatch:
-	-Overwatch (1/1): Bastion
-	-All  (1/103): Bastion
+	-Overwatch (2/2): Bastion, Sombra
+	-All  (2/359): Bastion, Sombra
 
 Bayonetta:
 	-Bayonetta (1/1): Bayonetta
-	-All  (1/103): Bayonetta
+	-All  (1/359): Bayonetta
 
 Ender's Game:
 	-Ender's Game (1/1): Bean
-	-All  (1/103): Bean
+	-All  (1/359): Bean
 
 Kerbal Space Program:
-	-Kerbal Space Program (1/1): Bill Kerman
-	-All  (1/103): Bill Kerman
+	-Kerbal Space Program (4/4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
+	-All  (4/359): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 
 Slaughterhouse-Five:
 	-Slaughterhouse-Five (1/1): Billy Pilgrim
-	-All  (1/103): Billy Pilgrim
+	-All  (1/359): Billy Pilgrim
 
 RWBY:
-	-RWBY (1/1): Blake Belladonna
-	-All  (1/103): Blake Belladonna
+	-RWBY (4/4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+	-All  (4/359): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+
+Bone:
+	-Bone (7/7): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+	-All  (7/359): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+
+Mario:
+	-Paper Mario (1/8): Bobby
+	-Mario (7/8): Bowser Jr., Bowser, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina
+	-All  (8/359): Bobby, Bowser Jr., Bowser, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina
+
+Raya and the Last Dragon:
+	-Raya and the Last Dragon (1/9): Boun
+	-Raya and the Last Dragon  (8/9): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
+	-All  (9/359): Boun, Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
+
+Valorant:
+	-Valorant (2/2): Breach, Brimstone
+	-All  (2/359): Breach, Brimstone
+
+Hatchet:
+	-Hatchet (1/1): Brian Robeson
+	-All  (1/359): Brian Robeson
+
+One Piece:
+	-One Piece (1/1): Brook
+	-All  (1/359): Brook
+
+Jojo's Bizarre Adventure:
+	-JoJo's Bizarre Adventure: Battle Tendency (1/1): Caesar Anthonio Zeppeli
+	-All  (1/359): Caesar Anthonio Zeppeli
+
+Moby Dick:
+	-Moby Dick (1/1): Captain Ahab
+	-All  (1/359): Captain Ahab
+
+F-Zero:
+	-F-Zero (1/1): Captain Falcon
+	-All  (1/359): Captain Falcon
+
+In the Heart of the Sea:
+	-In the Heart of the Sea (1/1): Captain George Pollard Jr.
+	-All  (1/359): Captain George Pollard Jr.
+
+Saving Private Ryan:
+	-Saving Private Ryan (1/1): Captain John H. Miller
+	-All  (1/359): Captain John H. Miller
+
+Star Trek:
+	-Star Trek: The Original Series (1/1): Captain Kirk
+	-All  (1/359): Captain Kirk
+
+Twenty Thousand Leagues Under the Sea:
+	-Twenty Thousand Leagues Under the Sea (1/1): Captain Nemo
+	-All  (1/359): Captain Nemo
+
+Spy Kids:
+	-Spy Kids (2/2): Carmen Cortez, Juni Cortez
+	-All  (2/359): Carmen Cortez, Juni Cortez
+
+Real Life:
+	-Real Life (7/7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
+	-All  (7/359): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
+
+Kindred:
+	-Kindred (1/1): Dana Franklin
+	-All  (1/359): Dana Franklin
+
+Halloween:
+	-Halloween (3/3): Dr. Loomis, Laurie Strode, Michael Myers
+	-All  (3/359): Dr. Loomis, Laurie Strode, Michael Myers
 
 Moana:
 	-Moana (4/4): Maui, Moana, Tamatoa, Te Ka
-	-All  (4/103): Maui, Moana, Tamatoa, Te Ka
+	-All  (4/359): Maui, Moana, Tamatoa, Te Ka
+
+Don't Starve:
+	-Don't Starve (1/1): Maxwell
+	-All  (1/359): Maxwell
+
+Team Fortress:
+	-Team Fortress 2 (1/1): Medic
+	-All  (1/359): Medic
+
+Edge of Tomorrow:
+	-Edge of Tomorrow (3/3): Omega (Edge of Tomorrow), Rita Vrataski, William Cage
+	-All  (3/359): Omega (Edge of Tomorrow), Rita Vrataski, William Cage
+
+Mortal Kombat:
+	-Mortal Kombat (1/1): Scorpion
+	-All  (1/359): Scorpion
