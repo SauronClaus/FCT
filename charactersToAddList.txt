@@ -1,9 +1,5 @@
-Sylvain
-Miles Morales, Sam Alexander, Young Cyclops
-
 Reed Richards, Susan Storm, Johnny Storm, Benjamin Grimm
-Jason Grace, Piper McLean, Hazel Levesque, Frank Zhang
-Manuela, Hanneman, Cyril, Jeralt
+Damian Wayne,Dick Greyson,Tim Drake,Jason Todd
 
 Ferdinand, Linhardt, Caspar, Dorothea, Petra
 Elliot, Harvey, Sam, Sebastian, Shane
@@ -16,3 +12,5 @@ Cyclops, Sunfire, Nightcrawler, Colossus, Thunderbird, Wolverines
 
 Gandalf, Frodo Baggins, Sam Gamgee, Gimli, Legolas, Pippin Took, Merry Brandybuck
 Reithen Keiros, Yekkon, Lorana, ICK, Garrik, Arrolys, Fedora
+
+Demoman, Engineer, Heavy, Pyro, Scout, Sniper, Soldier, Spy

@@ -11,11 +11,13 @@ Agent Venom
 Ahsoka Tano
 Akihide Karatsu
 Akkar
+Akuma
 Alan Bradley
 Alan Scott
 Alan Wake
 Albus Dumbledore
 Alex
+Alex DeLarge
 Alex Fierro
 Alexander Luthor Jr.
 Alfred Pennyworth
@@ -35,14 +37,18 @@ America Chavez
 Amethyst
 Amos Kane
 Amy Cahill
+Amy Ferrier
 Amy Rose
 Anakin Skywalker
 Angel
 Animal
+Ann Takamaki
+Anna
 Anna Croft
 Annabeth Chase
 Annette
 Annie Montrose
+Anole
 Anti-Monitor
 Anton Chigurh
 Aphelios
@@ -57,12 +63,16 @@ Arthas Menethil
 Arthur Holmwood
 Arthur Weasley
 Artyom
+Arwen
 Arya
+Asami Sato
 Asgore
 Ash Ketchum
 Ashe
+Ashley Brown
 Ashley Williams
 Athena
+Atreus
 Atticus Finch
 Audrey Ramirez
 Aurora
@@ -78,6 +88,8 @@ Bard the Bowman
 Baron Zemo
 Barret Wallace
 Barry Allen
+Barry B. Benson
+Barry Wheeler
 Bart Allen
 Bastion
 Batman
@@ -88,6 +100,8 @@ Beast
 Beast Boy
 Bentley-23
 Bernadetta
+Bert
+Beth Johanssen
 Big Bird
 Big the Cat
 Bilbo Baggins
@@ -123,34 +137,237 @@ Brock
 Brom
 Brook
 Brown Stupid Rat Creature
+Bruce Ng
+Bucky Barnes
+Buford Van Stomm
+Byleth
+Byllemura Ruby-Eye
+C3PO
+Caesar Anthonio Zeppeli
+Cal Kestis
+Calypso
+Candace Flynn
+Cannonball
+Captain Ahab
+Captain America
+Captain Boomerang
+Captain Britain
+Captain Falcon
+Captain George Pollard Jr.
+Captain John H. Miller
+Captain Kirk
+Captain Marvel
+Captain Marvel Jr.
+Captain Nemo
+Carmen Cortez
+Carol Danvers
+Carter Kane
+Cassie Lang
+Catherine
+Catra
 Chara
+Chewbacca
+Chun-Li
+Claude
+Colin Frazer
+Cyborg
+Dana Franklin
+Darth Vader
+Dedue
+Dimitri
+Doctor Eggman
+Dr. Bunsen Honeydew
+Dr. Chris Beck
+Dr. Loomis
+Dracula
 Dyan
+Edelgard
+Eldon Spark Turen
+Elsa
+Ernie
+Ethan Chou
+Falcon
+Felix
+Finn
+Flayn
+Fleur Delacour
 Flowey
+Fone Bone
+Frank Zhang
 Frisk (Genocide Route)
 Frisk (Neutral Route)
 Frisk (Pacifist Route)
+Ginny Weasley
+Glimmer
+Glynnric Manassnass
 Gordon Freeman
+Gran'ma Ben
+Green Arrow
+Guile
 Hal Jordan
+Halfborn Gunderson
+Han Solo
+Hank Pym
+Harbringer
+Harrison Truscott
+Harrison Truscott (Evil)
+Harry Potter
+Hawkeye
+Hawkgirl
+Hazel Levesque
+Hearthstone
+Hermione Granger
+Hilda
+Hippolyta
+Hope van Dyne
+Hubert
+Hulk
+Ingrid
+Iris West
+Iroh
+Iron Lad
+Iron Man
+Ironheart
+Janet van Dyne
+Jason Grace
+Jay Garrick
+Jebediah Kerman
+Jem Finch
+Jim Gordon
+John Seward
 John Stewart
+Jonathan Harker
+Jono Jenkins
+Jori-En Blurred
+Juni Cortez
+Kal-L
+Kalathos Sunstrider
+Kareem Par-Al
+Katara
+Kazooie
+Ken
+Korra
+Kratos
+Kristoff
+Kylo Ren
+Laurie Strode
+Leia Organa
+Leo Valdez
+Loki
+Lord Voldemort
+Luigi
+Luke Skywalker
+M. Bison
+Mace Windu
+Magneto
+Magnus Chase
+Mai
+Mallory Keen
+Mario
+Martian Manhunter
+Mary Marvel
 Maui
+Maxwell
+Medic
+Mercedes
+Mettaton EX
+Michael Myers
+Miles Morales
+Mina Harker
+Misty
 Moana
+Monica Rambeau
 Ms. Marvel
+Nadia Van Dyne
+Nahara
 Namaari
 Noi
+Northstar
+Obi-Wan Kenobi
+Olaf
 Omega (Edge of Tomorrow)
+Ozai
 Pan
 Papyrus
+Pariah
+Percy Jackson
+Phoney Bone
+Piper McLean
+Poe Dameron
+Princess Daisy
+Princess Peach
+Psylocke
+Qui-Gon Jinn
+Quicksilver
+Quincey Morris
+R2-D2
 Raya
+Red (Pokemon)
+Rey
+Rhea
+Rikk
 Rita Vrataski
+Ron Weasley
+Rosalina
+Ruby Rider
+Ruby Rose
+Rumy
 Ryu
+Sadie Kane
+Sam Alexander
+Samirah al-Abbas
 Sans
+Scarlet Witch
+Scorpion
+Scott Lang
+Scout Finch
+Sebastian Polge
+Seteth
+Seth
+Shamir
 Sisu
+Smaug
+Smiley Bone
+Sokka
+Sombra
+Sonic the Hedgehog
+Sothis
+Spider-Man
+Squee
+Storm
+Suki
+Superboy Prime
+Supergirl
+Superman
+Sven
+Sylvain
 Tamatoa
 Te Ka
+Ted Kord
+Thanos
+Thomas Jefferson Jr.
+Thor
+Thorn Harvestar
 Tong
+Toph Beifong
 Toriel
+Ty Lee
 Uka
+Ultron
 Undyne
+Valentina Kerman
+Vikram Kommareddi
+Vision
 Viv Vision
+Wally West
+Walt Stone
+War Machine
+Weiss Schnee
 William Cage
 Wonder Woman
+Yang Xiao Long
+Yoda
+Young Cyclops
+Zach Wiebe
+Zia Rashid
+Zuko

@@ -1,13 +1,19 @@
-Avengers (Extended) (24): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
+Avengers (Extended) (26): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Miles Morales, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
 Justice League (Extended) (22): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Black Lightning, Booster Gold, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hal Jordan, Hawkgirl, Hippolyta, John Stewart, Martian Manhunter, Mary Marvel, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
-X-Men (Extended) (14): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm
+X-Men (Extended) (15): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Young Cyclops
 Super Smash Bros (13): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
 Jedi Order (9): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
+Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 Band of Fools (Original) (8): Akkar, Arthail Consumer of Food, Byllemura Ruby-Eye, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
+Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 The Resistance (Star Wars) (8): BB-8, C3PO, Chewbacca, Finn, Leia Organa, Poe Dameron, R2-D2, Rey
 Raya's Band of Wanderers (8): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
+Norse Demigods (Rick Riordan) (7): Alex Fierro, Blitzen, Halfborn Gunderson, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 Knights of Seiros (7): Alois, Byleth, Catherine, Flayn, Rhea, Seteth, Shamir
+Champions (Marvel) (Core) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
+Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
+Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean
 Justice League Founder (7): Aquaman, Barry Allen, Batman, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League (Core) (7): Barry Allen, Batman, Cyborg, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League Unlimited (7): Batman, Hawkgirl, John Stewart, Martian Manhunter, Superman, Wally West, Wonder Woman
@@ -15,7 +21,6 @@ Rebel Alliance (Star Wars) (7): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Sky
 IRL People (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
 Undertale Pacifist Friends (6): Alphys, Frisk (Pacifist Route), Papyrus, Sans, Toriel, Undyne
-Blue Lions (6): Annette, Ashe, Byleth, Dedue, Dimitri, Mercedes
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
 Band of Fools (Redux) (6): Arthail Consumer of Food, Byllemura Ruby-Eye, Eldon Spark Turen, Jori-En Blurred, Kalathos Sunstrider, Squee
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
@@ -23,13 +28,15 @@ Original Trilogy Quintet (6): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywa
 Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
 Contributors (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
-Magnus Chase Ragnarok-Halting Gang (5): Alex Fierro, Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
+Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
+Einharjar (Magnus Chase) (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Royal Guardsmen (Undertale) (5): Alphys, Mettaton EX, Papyrus, Sans, Undyne
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Skywalkers (Star Wars) (5): Anakin Skywalker, Kylo Ren, Leia Organa, Luke Skywalker, Rey
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
+Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
 Teen Titans (Extended) (5): Bart Allen, Captain Marvel Jr., Cyborg, Supergirl, Wally West
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
@@ -38,12 +45,9 @@ Best Friends Squad (4): Adora, Bow, Catra, Glimmer
 The Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
 Justice Society of America (Extended) (4): Alan Scott, Hippolyta, Jay Garrick, Kal-L
 Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour
-Norse Demigods (Rick Riordan) (4): Alex Fierro, Blitzen, Magnus Chase, Samirah al-Abbas
 Bat-Family (Extended) (4): Alfred Pennyworth, Barbara Gordon, Batman, Jim Gordon
-Champions (Marvel) (Core) (4): Amadeus Cho, Ironheart, Ms. Marvel, Viv Vision
-Champions (Marvel) (Extended) (4): Amadeus Cho, Ironheart, Ms. Marvel, Viv Vision
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
-Camp Half-Blood (4): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson
+Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Flash Family (4): Barry Allen, Bart Allen, Jay Garrick, Wally West
 Sequel Trilogy Main Cast (4): BB-8, Finn, Poe Dameron, Rey
@@ -52,6 +56,7 @@ Black Eagles (4): Bernadetta, Byleth, Edelgard, Hubert
 Original Four (KSP) (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Team RWBY (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
 Magnus Chase First Quintet (4): Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
+Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
 Noi's Family (4): Dyan, Noi, Pan, Uka
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
@@ -70,8 +75,6 @@ Young Justice (Extended) (3): Amethyst, Bart Allen, Wally West
 Kanes (3): Amos Kane, Carter Kane, Sadie Kane
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
 Disney Princesses (3): Anna, Elsa, Moana
-Heroes of Olympus (3): Annabeth Chase, Leo Valdez, Percy Jackson
-Greek Demigods (Rick Riordan) (3): Annabeth Chase, Leo Valdez, Percy Jackson
 Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
 Pokemon Anime Kanto Trio (3): Ash Ketchum, Brock, Misty
@@ -86,6 +89,7 @@ X-Men (Core) (3): Beast, Psylocke, Storm
 Kanto Gym Leaders (3): Blue, Brock, Misty
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
 Golden Deer (3): Byleth, Claude, Hilda
+Harrison Truscott's Permutations (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Big Three (Marvel) (3): Captain America, Iron Man, Thor
 Shazam Family (3): Captain Marvel Jr., Captain Marvel, Mary Marvel
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
@@ -93,6 +97,8 @@ Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manas
 Server Owners (3): Colin Frazer, Jono Jenkins, Zach Wiebe
 Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
+Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
+Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
 Avatars (2): Aang, Korra
@@ -101,8 +107,6 @@ Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
 501st Legion (Star Wars) (2): Ahsoka Tano, Anakin Skywalker
 Zach Wiebe's Permutations (2): Akkar, Zach Wiebe
 Justice Society of America (Core) (2): Alan Scott, Jay Garrick
-Floor 19 (2): Alex Fierro, Magnus Chase
-Einharjar (Magnus Chase) (2): Alex Fierro, Magnus Chase
 Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Hulks (2): Amadeus Cho, Hulk
 Suicide Squad (Core) (2): Amanda Waller, Captain Boomerang
@@ -128,7 +132,6 @@ Champions (Pokemon) (2): Blue, Red (Pokemon)
 Koopa Troopa (2): Bowser Jr., Bowser
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
 Valorant Agents (2): Breach, Brimstone
-Harrison Truscott's Permutations (2): Byllemura Ruby-Eye, Harrison Truscott
 Star Wars Droid Duo (2): C3PO, R2-D2
 OSS (2): Carmen Cortez, Juni Cortez
 Cortez Family (2): Carmen Cortez, Juni Cortez
@@ -139,6 +142,7 @@ Exiles (2): Iron Lad, Psylocke
 Kaeshev Alapati's Permutations (2): Jori-En Blurred, Squee
 Shadaloo (2): M. Bison, Seth
 Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
+Spider-People (2): Miles Morales, Spider-Man
 Superman Family (2): Supergirl, Superman
 Stardew Valley Trio (1): Abigail
 Stardew Valley Bachelorettes (1): Abigail
@@ -220,12 +224,13 @@ Abby Smetana's Permutations (1): Nahara
 Excalibur (Marvel) (1): Psylocke
 Player Characters (Pokemon) (1): Red (Pokemon)
 Jack Noland's Permutations (1): Ruby Rider
+Nova Corps (1): Sam Alexander
 Shirai Ryu (1): Scorpion
 Sebastian Polge's Permutations (1): Sebastian Polge
 Talon (1): Sombra
-Spider-People (1): Spider-Man
 The Black Order (1): Thanos
 Asgardians (Marvel) (1): Thor
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 Teen Titans Founders (1): Wally West
 J-Squad (Edge of Tomorrow) (1): William Cage
+Time Displaced X-Men (1): Young Cyclops

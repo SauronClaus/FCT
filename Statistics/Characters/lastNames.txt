@@ -19,6 +19,7 @@ Stone: Cyborg, Walt Stone
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo, Kylo Ren
+Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 West: Iris West, Wally West
 Harker: Jonathan Harker, Mina Harker

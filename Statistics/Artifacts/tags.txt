@@ -18,7 +18,7 @@ Bracers (1): Bracelets of Submission
 Bronze (1): Festus
 Bullet-Deflecting (1): Bracelets of Submission
 Car (1): Batmobile
-Celestial Bronze (2): Annabeth's Knife, Riptide
+Celestial Bronze (3): Annabeth's Knife, Katoptris, Riptide
 Classic Literature (1): The Nautilus
 Cloak (1): The Invisiblity Cloak
 Common Magic Item (1): Wand of Wands
@@ -27,10 +27,10 @@ Construct (2): Alan Scott's Ring, Green Lantern Ring
 Crowbar (1): Gordon Freeman's Crowbar
 Cursed (1): The Codex Umbra
 Cursed Weapon (2): Annabeth's Knife, the One Ring
-Dagger (2): Annabeth's Knife, Atreus' Knife
+Dagger (3): Annabeth's Knife, Atreus' Knife, Katoptris
 Deathly Hallows (2): The Elder Wand, The Invisiblity Cloak
 Deck of Cards (2): Deck of Illusions, The Deck of Green Cards
-Demigod Weapons (2): Annabeth's Knife, Riptide
+Demigod Weapons (4): Annabeth's Knife, Juno's Gladius, Katoptris, Riptide
 Distraction (1): Eversmoking Bottle
 Draconic (1): The Crown of Horns
 Dragon (1): Festus
@@ -60,7 +60,7 @@ Glass (1): Iarno Albrek's Shattered Staff
 Glider (1): Aang's Glider Staff
 Glowing (1): Sting
 God-Item (1): The Infinity Gauntlet
-Greek (1): Riptide
+Greek (2): Katoptris, Riptide
 Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
 Gun (5): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, San's Gaster Blaster
 Gun-Hands (1): Ember Celica
@@ -74,6 +74,7 @@ Historical Weapon (1): the One Ring
 Human-Trait (1): Human SOUL
 Iconic (2): Captain America's Shield, Iron Man Suit
 Illusions (1): Deck of Illusions
+Imperial Gold (1): Juno's Gladius
 Implant (1): The Tanden Engine
 Improvised Weapon (1): Gordon Freeman's Crowbar
 Inane Weapon (1): Expand-o-Duck
@@ -91,7 +92,7 @@ Legion of Superheroes (1): Legion Flight Ring
 Lightning (1): Mjolnir
 MacGuffin (1): The Infinity Gauntlet
 Magic Space Rocks (1): The Soul Stone
-Magical (5): Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
+Magical (7): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
 Magical Fire (1): The Deck of Green Cards
 Magical Paint (1): Marvelous Pigments
 Magical Quality (1): Element of Honesty (My Little Pony)
@@ -128,13 +129,14 @@ Ranged Attack (1): Iron Man Suit
 Rapid-Fire (1): Machine Pistol
 Rapier (1): Myrtenaster
 Relic (Fire Embelm) (1): Rafail Gem
-Relic (Fire Emblem) (7): Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Sword of the Creator, Thunderbrand
+Relic (Fire Emblem) (10): Aegis Shield, Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand
 Returning (2): Mjolnir, Riptide
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
 Rings (1): Ring of Fire Resistance
 Robot (1): Skeets
 Robot Animal (1): Festus
 Rod (1): Immovable Rod
+Roman (1): Juno's Gladius
 Runes (1): The Sword of Summer (Jack)
 Sacred (1): The Crown of Horns
 Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
@@ -146,7 +148,7 @@ Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jac
 Shadaloo (1): The Tanden Engine
 Shadow Book (1): The Codex Umbra
 Shapeshifting (1): Maui's Fishhook
-Shield (1): Captain America's Shield
+Shield (2): Aegis Shield, Captain America's Shield
 Shortsword (1): Sting
 Size Change (1): Pym Particles
 Size Changing (1): Ant-Man Helmet
@@ -154,11 +156,11 @@ Skull (1): San's Gaster Blaster
 Smoke (1): Eversmoking Bottle
 Soul (1): Human SOUL
 Space-Based (1): The Starheart (DC Comics)
-Spear (1): Spear of Assal
+Spear (3): Lance of Ruin, Luin, Spear of Assal
 Spellcasting Focus (1): Iarno Albrek's Shattered Staff
 Staff (2): Caduceus Staff, Loki's Scepter
 Street Fighter (1): The Tanden Engine
-Sword (11): Andúril, Dragon Gem, Gambol Shroud, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Sword (12): Andúril, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Symbiote (1): the Venom Symbiote
 Tech (2): Crescent Rose, Iron Man Suit
 Themed (3): Batarang, Batmobile, Batwing
@@ -166,7 +168,7 @@ Thing on Chain (1): Kunai
 Time Traveler (1): Skeets
 Tool (1): The Hatchet
 Transformation (1): Sword of Protection
-Transforming (1): Riptide
+Transforming (2): Juno's Gladius, Riptide
 Trident (1): Aquaman's Trident
 Truth-Forcing (1): The Lasso of Truth
 Two-Handed (1): Leviathan Axe
@@ -174,6 +176,7 @@ Uncommon Magic Item (1): Wand of Wild Magic
 Unique (1): Crescent Rose
 Vehicle (2): Batmobile, Batwing
 Vibranium (1): Captain America's Shield
+Visions of Future (1): Katoptris
 Wands (1): The Elder Wand
 Waterfowl (1): Expand-o-Duck
 Weapon (1): Aang's Glider Staff

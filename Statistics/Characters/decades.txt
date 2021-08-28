@@ -1,15 +1,16 @@
 0 (8): Abby Cadabby, BB-8, Bean, Big Bird, Noi, Olaf, Scout Finch, Seth
-1 (70): Ahsoka Tano, Alex DeLarge, Alex Fierro, Alice Johnson, Aloy, Amy Cahill, Ann Takamaki, Anna, Annabeth Chase, Annette, Araithia Shokta, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Azula, Bernadetta, Big the Cat, Blake Belladonna, Blaze the Cat, Blue, Bolin, Boun, Bow, Brian Robeson, Brock, Candace Flynn, Carter Kane, Catra, Claude, Colin Frazer, Dedue, Dimitri, Edelgard, Ethan Chou, Fleur Delacour, Ginny Weasley, Harrison Truscott, Harry Potter, Hermione Granger, Hilda, Jem Finch, Jono Jenkins, Katara, Korra, Laurie Strode, Leia Organa, Leo Valdez, Luke Skywalker, Magnus Chase, Mai, Misty, Percy Jackson, Raya, Red (Pokemon), Rey, Ron Weasley, Ruby Rose, Sadie Kane, Sebastian Polge, Sokka, Sonic the Hedgehog, Sven, Toph Beifong, Vikram Kommareddi, Weiss Schnee, Yang Xiao Long, Zach Wiebe, Zia Rashid, Zuko
+1 (77): Ahsoka Tano, Alex DeLarge, Alex Fierro, Alice Johnson, Aloy, Amy Cahill, Ann Takamaki, Anna, Annabeth Chase, Annette, Araithia Shokta, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Azula, Bernadetta, Big the Cat, Blake Belladonna, Blaze the Cat, Blue, Bolin, Boun, Bow, Brian Robeson, Brock, Candace Flynn, Carter Kane, Catra, Claude, Colin Frazer, Dedue, Dimitri, Edelgard, Ethan Chou, Felix, Fleur Delacour, Frank Zhang, Ginny Weasley, Harrison Truscott (Evil), Harrison Truscott, Harry Potter, Hermione Granger, Hilda, Ingrid, Jason Grace, Jem Finch, Jono Jenkins, Katara, Korra, Laurie Strode, Leia Organa, Leo Valdez, Luke Skywalker, Magnus Chase, Mai, Misty, Percy Jackson, Piper McLean, Raya, Red (Pokemon), Rey, Ron Weasley, Ruby Rose, Sadie Kane, Sebastian Polge, Sokka, Sonic the Hedgehog, Sven, Sylvain, Toph Beifong, Vikram Kommareddi, Weiss Schnee, Yang Xiao Long, Zach Wiebe, Zia Rashid, Zuko
 2 (26): Adora, Aerith Gainsborough, Alyx, Amy Rose, Anakin Skywalker, Artyom, Ashley Williams, Barry Allen, Beth Johanssen, Bill Weasley, Blitzen, Byleth, Caesar Anthonio Zeppeli, Captain George Pollard Jr., Captain Kirk, Catherine, Chun-Li, Elsa, Finn, Gordon Freeman, Hubert, Kristoff, Kylo Ren, Mercedes, Michael Myers, Shamir
 3 (15): Allison Blake, Annie Montrose, Anton Chigurh, Barret Wallace, Barry Wheeler, Bastion, C3PO, Dr. Chris Beck, Guile, Han Solo, Ken, Obi-Wan Kenobi, Poe Dameron, Ryu, Sombra
 4 (8): Alan Wake, Alois, Arthur Weasley, Bard the Bowman, Boromir, Captain Nemo, Darth Vader, Medic
-5 (5): Adam Warlock, Adrian Monk, Bilbo Baggins, Dr. Loomis, Scorpion
+5 (6): Adam Warlock, Adrian Monk, Bilbo Baggins, Dr. Loomis, Mallory Keen, Scorpion
 6 (2): Maxwell, Qui-Gon Jinn
 7 (1): Lord Voldemort
 8 (2): Aragorn, Brook
+9 (1): Hazel Levesque
 10 (1): Arya
 11 (3): Aang, Albus Dumbledore, Kalathos Sunstrider
-12 (1): Brom
+12 (2): Brom, Halfborn Gunderson
 15 (1): Akkar
 20 (1): Chewbacca
 89 (1): Yoda

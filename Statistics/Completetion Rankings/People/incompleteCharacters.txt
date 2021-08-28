@@ -127,7 +127,6 @@ FL4K
 Faith Connors
 Falco Lombardi
 Fandral
-Felix
 Fen'Sthern
 Ferb Fletcher
 Ferdinand
@@ -140,7 +139,6 @@ Fluttershy
 Fox McCloud
 Fozzie Bear
 Frank Moses
-Frank Zhang
 Frankenstein's monster
 Franklin Clinton
 Franklin Delano Donut
@@ -185,14 +183,12 @@ Grover Underwood
 Grumpy Bear
 Grunt
 Hades
-Halfborn Gunderson
 Handsome Jack
 Hanzo
 Harley Quinn
 Harold Finch
 Haru Okumura
 Hawkman
-Hazel Levesque
 Heavy
 Hedwig
 Heimer
@@ -212,7 +208,6 @@ Ignatz
 Ike
 Impa
 Indiana Jones
-Ingrid
 Ireena Kolyana
 Iron Fist
 Isaac Clarke
@@ -240,7 +235,6 @@ James Vega
 Jane Foster
 Janice
 Jason Chesterfield
-Jason Grace
 Jason Todd
 Javik
 Jean Gray
@@ -374,7 +368,6 @@ Mako
 Makoto Niijima
 Makoto Yuki
 Malcolm Beech
-Mallory Keen
 Mantis
 Marianne
 Marion Ravenwood
@@ -406,7 +399,6 @@ Mighty the Armadillo
 Mike Munroe
 Mike Warner
 Mike Wheeler
-Miles Morales
 Milo Thatch
 Min-Min
 Minerva McGonagall
@@ -428,7 +420,6 @@ Morpheus
 Morris
 Mouse Finbar
 Moze
-Mr. Fantastic
 Mr. Game and Watch
 Mr. Hooper
 Mr. Incredible
@@ -515,7 +506,6 @@ Pigsy
 Pikachu
 Pinkie Pie
 Pip the Troll
-Piper McLean
 Pippin Took
 Pit
 Pixie
@@ -594,7 +584,6 @@ Sage
 Sal Walkerton
 Sallah Mohammed Faisel el-Kahir
 Salvador
-Sam Alexander
 Sam Eagle
 Sam Giddings
 Samantha Carter
@@ -669,7 +658,6 @@ Superior Spider-Man
 Swamp Thing
 Swarm
 Swedish Chef
-Sylvain
 Tails Prower
 Taka
 Tali'Zorah
@@ -696,7 +684,6 @@ The Predator
 The Silver Surfer
 The Thing
 The kid
-Thomas Jefferson Jr.
 Thomas Nickerson
 Thorin Oakenshield
 Thorn
@@ -777,7 +764,6 @@ Yoo Sangah
 Yori
 Yoshi
 Yosuke Hanamura
-Young Cyclops
 Yu Narukami
 Yuffie Kisaragi
 Yukiko Amagi

@@ -24,10 +24,7 @@ def quickStatsCompletion():
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
                 if len(characterInfo) == 29:
-                    if characterInfo[24] != "":
-                        completedCharacters.append(entry[0:len(entry)-4:])
-                    else:
-                        newCharacterRankings.append(entry[0:len(entry)-4:])
+                    completedCharacters.append(entry[0:len(entry)-4:])
                 else:
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])
@@ -86,10 +83,10 @@ def quickStatsCompletion():
             if os.path.isfile(os.path.join(basepath, entry)):
                 franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 franchiseInfo = franchiseFile.read().split("\n")
-                if len(franchiseInfo) == 18:
+                if len(franchiseInfo) == 19:
                     completedFranchises.append(entry[0:len(entry)-4:])
                 else:
-                    if len(franchiseInfo) == 7 or len(franchiseInfo) == 17:
+                    if len(franchiseInfo) == 7 or len(franchiseInfo) == 17 or len(franchiseInfo) == 18:
                         needToUpdateFranchises.append(entry[0:len(entry)-4:])
                     else:
                         if len(franchiseInfo) == 2:
@@ -191,7 +188,7 @@ def quickStatsCompletion():
 
     completionFile = open("Statistics\\Completetion Rankings\\completion rankings.txt", "w", encoding='utf8')
     completionFile.write("Characters (" + str(round(len(completedCharacters)/len(allCharacters),4)*100) + "%):\n   -" + str(len(completedCharacters)) + " completed characters.\n   -" + str(len(undoneCharacters)) + " incomplete characters.\n   -" + str(len(needToUpdateCharacters)) + " unupdated characters.\n   -" + str(len(weirdCharacters)) + " weird characters.\n   -" + str(len(allCharacters)) + " total characters.\n")
-    completionFile.write("Franchises: (" + str(round(len(completedFranchises)/len(allFranchises),4)*100) + "%):\n   -" + str(len(completedFranchises)) + " completed franchises.\n   -" + str(len(undoneFranchises)) + " incomplete franchises.\n   -" + str(len(needToUpdateFranchises)) + " unupdated franchises\n   -" + str(len(weirdFranchises)) + " weird franchises.\n   -" + str(len(allFranchises)) + " total franchises.\n")
+    completionFile.write("Franchises: (" + str(round(len(completedFranchises)/len(allFranchises),4)*100) + "%):\n   -" + str(len(completedFranchises)) + " completed franchises.\n   -" + str(len(undoneFranchises)) + " incomplete franchises.\n   -" + str(len(needToUpdateFranchises)) + " unupdated franchises.\n   -" + str(len(weirdFranchises)) + " weird franchises.\n   -" + str(len(allFranchises)) + " total franchises.\n")
     completionFile.write("Artifacts: (" + str(round(len(completedArtifacts)/len(allArtifacts),4)*100) + "%):\n   -" + str(len(completedArtifacts)) + " completed artifacts.\n   -" + str(len(undoneArtifacts)) + " incomplete artifacts.\n   -" + str(len(needToUpdateArtifacts)) + " unupdated artifacts.\n   -" + str(len(weirdArtifacts)) + " weird artifacts.\n   -" + str(len(allArtifacts)) + " total artifacts.\n")
     completionFile.write("Adjectives: (" + str(round(len(completedAdjectives)/len(allAdjectives),4)*100) + "%):\n   -" + str(len(completedAdjectives)) + " completed adjectives.\n   -" + str(len(undoneAdjectives)) + " incomplete adjectives.\n   -" + str(len(needToUpdateAdjectives)) + " unupdated adjectives.\n   -" + str(len(weirdAdjectives)) + " weird adjectives.\n   -" + str(len(allAdjectives)) + " total adjectives.")
 

@@ -1,22 +1,24 @@
-Sword (11): Andúril, Dragon Gem, Gambol Shroud, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
-Relic (Fire Emblem) (7): Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Sword of the Creator, Thunderbrand
+Sword (12): Andúril, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Relic (Fire Emblem) (10): Aegis Shield, Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand
+Magical (7): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
 Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jack), the Venom Symbiote
 Gun (5): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, San's Gaster Blaster
-Magical (5): Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
+Demigod Weapons (4): Annabeth's Knife, Juno's Gladius, Katoptris, Riptide
 Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
+Celestial Bronze (3): Annabeth's Knife, Katoptris, Riptide
+Dagger (3): Annabeth's Knife, Atreus' Knife, Katoptris
 Themed (3): Batarang, Batmobile, Batwing
 Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
 Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
 Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
+Spear (3): Lance of Ruin, Luin, Spear of Assal
+Shield (2): Aegis Shield, Captain America's Shield
 Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
 Construct (2): Alan Scott's Ring, Green Lantern Ring
 Lantern Corps (2): Alan Scott's Ring, Green Lantern Ring
-Celestial Bronze (2): Annabeth's Knife, Riptide
 Cursed Weapon (2): Annabeth's Knife, the One Ring
 Prophesized Weapon (2): Annabeth's Knife, Black Arrow (LOTR)
-Dagger (2): Annabeth's Knife, Atreus' Knife
-Demigod Weapons (2): Annabeth's Knife, Riptide
 Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
 Boomerang (2): Batarang, Captain America's Shield
 Ranged (2): Batarang, Ember Celica
@@ -33,6 +35,8 @@ Deck of Cards (2): Deck of Illusions, The Deck of Green Cards
 Gauntlet (2): Ember Celica, The Infinity Gauntlet
 Bow (2): Failnaught, The Inexhaustable
 Armor (2): HEV Suit, Iron Man Suit
+Transforming (2): Juno's Gladius, Riptide
+Greek (2): Katoptris, Riptide
 Infinity Stone (2): Loki's Scepter, The Soul Stone
 Returning (2): Mjolnir, Riptide
 Deathly Hallows (2): The Elder Wand, The Invisiblity Cloak
@@ -61,7 +65,6 @@ Plane (1): Batwing
 Bracers (1): Bracelets of Submission
 Bracelets (1): Bracelets of Submission
 Bullet-Deflecting (1): Bracelets of Submission
-Shield (1): Captain America's Shield
 Vibranium (1): Captain America's Shield
 Mech Suit (1): Combat Jacket (Edge of Tomorrow)
 Scythe (1): Crescent Rose
@@ -95,6 +98,9 @@ Fragment (1): Iarno Albrek's Shattered Staff
 Rod (1): Immovable Rod
 Ranged Attack (1): Iron Man Suit
 Exosuit (1): Iron Man Suit
+Roman (1): Juno's Gladius
+Imperial Gold (1): Juno's Gladius
+Visions of Future (1): Katoptris
 Thing on Chain (1): Kunai
 Knife-Like (1): Kunai
 Power-Granting (1): Legion Flight Ring
@@ -127,15 +133,12 @@ Necklace (1): Rafail Gem
 Relic (Fire Embelm) (1): Rafail Gem
 Rings (1): Ring of Fire Resistance
 Fire Resistances (1): Ring of Fire Resistance
-Transforming (1): Riptide
-Greek (1): Riptide
 Laser (1): San's Gaster Blaster
 Skull (1): San's Gaster Blaster
 Robot (1): Skeets
 Companion (1): Skeets
 Time Traveler (1): Skeets
 Sacred Weapons (Fire Emblem) (1): Spear of Assal
-Spear (1): Spear of Assal
 Elvish-Forged (1): Sting
 Shortsword (1): Sting
 Glowing (1): Sting

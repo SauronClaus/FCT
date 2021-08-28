@@ -36,6 +36,7 @@ Catherine (1): Thunderbrand
 Claude (1): Failnaught
 Dimitri (1): Areadbhar
 Edelgard (1): Aymr
+Felix (1): Aegis Shield
 Flayn (1): Caduceus Staff
 Frisk (Genocide Route) (1): Human SOUL
 Frisk (Neutral Route) (1): Human SOUL
@@ -49,9 +50,11 @@ Harry Potter (1): The Invisiblity Cloak
 Hilda (1): Freikugel
 Hippolyta (1): Bracelets of Submission
 Hope van Dyne (1): Pym Particles
+Ingrid (1): Luin
 Iron Man (1): Iron Man Suit
 Ironheart (1): Iron Man Suit
 Janet van Dyne (1): Pym Particles
+Jason Grace (1): Juno's Gladius
 Kalathos Sunstrider (2): Iarno Albrek's Shattered Staff, Ring of Fire Resistance
 Kareem Par-Al (1): Marvelous Pigments
 Kratos (1): Leviathan Axe
@@ -67,6 +70,7 @@ Medic (1): Medi Gun
 Mercedes (1): Rafail Gem
 Nadia van Dyne (1): Pym Particles
 Percy Jackson (1): Riptide
+Piper McLean (1): Katoptris
 Raya (1): Raya's Whip Sword
 Rita Vrataski (1): Combat Jacket (Edge of Tomorrow)
 Ruby Rose (1): Crescent Rose
@@ -78,6 +82,7 @@ Seteth (1): Spear of Assal
 Seth (1): The Tanden Engine
 Sombra (1): Machine Pistol
 Spider-Man (1): the Venom Symbiote
+Sylvain (1): Lance of Ruin
 Thanos (2): The Infinity Gauntlet, The Soul Stone
 Thor (1): Mjolnir
 Venom (1): the Venom Symbiote

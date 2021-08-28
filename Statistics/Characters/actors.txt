@@ -26,7 +26,7 @@ Fred Tatasciore (5): Beast, Hulk, Magneto, Qui-Gon Jinn, Ultron
 George Buza (2): Beast, Magneto
 Gregory Peck (2): Atticus Finch, Captain Ahab
 Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
-Harrison Truscott (2): Byllemura Ruby-Eye, Harrison Truscott
+Harrison Truscott (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Hayden Christensen (2): Anakin Skywalker, Darth Vader
 Hidenori Takahashi (2): Dedue, Dimitri
 Ike Amadi (2): John Stewart, Martian Manhunter
@@ -48,8 +48,10 @@ Kimberly Brooks (2): Ashley Williams, Psylocke
 Kirk Thornton (2): Adam Warlock, Guile
 Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psylocke, Supergirl
 Lex Lang (2): Han Solo, Poe Dameron
+Logan Miller (2): Agent Venom, Sam Alexander
 Lou Albano (2): Mario, Mario
 Lou Ferrigno (2): Hulk, Hulk
+Lucien Dodge (2): Blue, Felix
 Mae Whitman (2): Barbara Gordon, Katara
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
 Marc Graue (2): Luigi, Mario

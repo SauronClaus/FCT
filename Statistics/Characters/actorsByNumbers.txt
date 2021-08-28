@@ -13,6 +13,7 @@ Yuri Lowenthal (3): Alucard, Northstar, Spider-Man
 Troy Baker (3): Alucard, Hawkeye, Loki
 Frank Oz (3): Bert, Yoda, Yoda
 Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
+Harrison Truscott (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Roger Craig Smith (3): Captain America, Kylo Ren, Sonic the Hedgehog
 Jennifer Hale (3): Carol Danvers, Iris West, Scarlet Witch
 Colin Frazer (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
@@ -22,6 +23,7 @@ Matthew Mercer (3): Hawkeye, Iron Man, Luke Skywalker
 Crispin Freeman (3): Loki, Martian Manhunter, Scott Lang
 Kirk Thornton (2): Adam Warlock, Guile
 Matt Lanter (2): Agent Venom, Anakin Skywalker
+Logan Miller (2): Agent Venom, Sam Alexander
 Rosario Dawson (2): Ahsoka Tano, Barbara Gordon
 Zach Wiebe (2): Akkar, Zach Wiebe
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
@@ -44,12 +46,12 @@ Steve Whitmire (2): Beaker, Ernie
 George Buza (2): Beast, Magneto
 Vanessa Marshall (2): Black Canary, Black Widow
 Khary Payton (2): Black Lightning, Cyborg
+Lucien Dodge (2): Blue, Felix
 Billy Kametz (2): Blue, Iron Lad
 Steve Blum (2): Brimstone, Ken
 Benedict Wong (2): Bruce Ng, Tong
 Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
 Scott Menville (2): Bucky Barnes, Quicksilver
-Harrison Truscott (2): Byllemura Ruby-Eye, Harrison Truscott
 Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
 Brian Bloom (2): Captain America, Cyborg
 April Stewart (2): Carol Danvers, Psylocke

@@ -12,7 +12,7 @@ Ashleigh Smith's Permutations (1): Kareem Par-Al
 Atlantis Crew (Disney) (1): Audrey Ramirez
 Avatars (2): Aang, Korra
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
-Avengers (Extended) (24): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Quicksilver, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
+Avengers (Extended) (26): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Miles Morales, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Thor, Vision, War Machine
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
 Azula's Capture-the-Avatar Gang (3): Azula, Mai, Ty Lee
@@ -26,18 +26,19 @@ Big Three (Marvel) (3): Captain America, Iron Man, Thor
 Birds of Prey (Core) (2): Barbara Gordon, Black Canary
 Birds of Prey (Extended) (2): Barbara Gordon, Black Canary
 Black Eagles (4): Bernadetta, Byleth, Edelgard, Hubert
-Blue Lions (6): Annette, Ashe, Byleth, Dedue, Dimitri, Mercedes
+Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
 Borderlands 1 Vault Hunters (1): Brick
 Borderlands 2 Vault Hunters (1): Axton
 Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
-Camp Half-Blood (4): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson
+Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
+Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
 Champions (Extended) (1): Nadia Van Dyne
-Champions (Marvel) (Core) (4): Amadeus Cho, Ironheart, Ms. Marvel, Viv Vision
-Champions (Marvel) (Extended) (4): Amadeus Cho, Ironheart, Ms. Marvel, Viv Vision
+Champions (Marvel) (Core) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
+Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
 Champions (Pokemon) (2): Blue, Red (Pokemon)
 Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
@@ -51,7 +52,7 @@ Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan
 Dumbing of Age Main Cast (1): Amazi-Girl
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 ENCOM (1): Alan Bradley
-Einharjar (Magnus Chase) (2): Alex Fierro, Magnus Chase
+Einharjar (Magnus Chase) (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Electric Mayhem (1): Animal
 Ender's Jeesh (1): Bean
 Essex Crew (1): Captain George Pollard Jr.
@@ -69,7 +70,7 @@ Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
 Finch Family (3): Atticus Finch, Jem Finch, Scout Finch
 First Order (Star Wars) (1): Kylo Ren
 Flash Family (4): Barry Allen, Bart Allen, Jay Garrick, Wally West
-Floor 19 (2): Alex Fierro, Magnus Chase
+Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Flynn-Fletcher Family (1): Candace Flynn
 Friendship Main Squad (My Little Pony) (1): Applejack
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
@@ -78,13 +79,13 @@ GCPD (1): Jim Gordon
 Galactic Empire (1): Darth Vader
 Giant Sized X-Men #1 Team (2): Banshee, Storm
 Golden Deer (3): Byleth, Claude, Hilda
-Greek Demigods (Rick Riordan) (3): Annabeth Chase, Leo Valdez, Percy Jackson
+Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Guardians of the Galaxy (Extended) (3): Adam Warlock, Agent Venom, Carol Danvers
-Harrison Truscott's Permutations (2): Byllemura Ruby-Eye, Harrison Truscott
+Harrison Truscott's Permutations (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
-Heroes of Olympus (3): Annabeth Chase, Leo Valdez, Percy Jackson
+Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean
 High Five (Ready Player One) (1): Akihide Karatsu
 Hogwarts Professors (1): Albus Dumbledore
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
@@ -117,13 +118,14 @@ League of Legends Champions (1): Aphelios
 Legion of Superheroes (Core) (1): Brainiac 5
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
 Magnus Chase First Quintet (4): Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
-Magnus Chase Ragnarok-Halting Gang (5): Alex Fierro, Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
+Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
 New Mutants (Core) (1): Cannonball
 New Mutants (Extended) (1): Cannonball
 Noi's Family (4): Dyan, Noi, Pan, Uka
-Norse Demigods (Rick Riordan) (4): Alex Fierro, Blitzen, Magnus Chase, Samirah al-Abbas
+Norse Demigods (Rick Riordan) (7): Alex Fierro, Blitzen, Halfborn Gunderson, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
+Nova Corps (1): Sam Alexander
 OSS (2): Carmen Cortez, Juni Cortez
 Order of the Pheonix I (1): Albus Dumbledore
 Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour
@@ -145,6 +147,8 @@ Raya's Band of Wanderers (8): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
 Rebel Alliance (Star Wars) (7): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
 Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
+Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
+Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
 Royal Guardsmen (Undertale) (5): Alphys, Mettaton EX, Papyrus, Sans, Undyne
 SFPD (Monk) (1): Adrian Monk
 SHIELD (Marvel) (1): Black Widow
@@ -162,7 +166,7 @@ Sith Lords (1): Kylo Ren
 Skywalkers (Star Wars) (5): Anakin Skywalker, Kylo Ren, Leia Organa, Luke Skywalker, Rey
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
 Sonic the Hedgehog (Main Cast) (2): Amy Rose, Sonic the Hedgehog
-Spider-People (1): Spider-Man
+Spider-People (2): Miles Morales, Spider-Man
 Star Trek: The Original Series Crew (1): Captain Kirk
 Star Wars Droid Duo (2): C3PO, R2-D2
 Star Wars Droids (3): BB-8, C3PO, R2-D2
@@ -203,6 +207,7 @@ The Resistance (Star Wars) (8): BB-8, C3PO, Chewbacca, Finn, Leia Organa, Poe Da
 The Rogues (Flash) (1): Captain Boomerang
 Thorin and Company (1): Bilbo Baggins
 Thunderbolts (1): Hawkeye
+Time Displaced X-Men (1): Young Cyclops
 Titans (Rick Riordan) (1): Calypso
 Trials of Apollo Crew (1): Apollo
 Trinity (DC) (3): Batman, Superman, Wonder Woman
@@ -220,7 +225,7 @@ Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 West Coast Avengers (1): Hawkeye
 X-Men (Core) (3): Beast, Psylocke, Storm
-X-Men (Extended) (14): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm
+X-Men (Extended) (15): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Magneto, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Young Cyclops
 X-Men First Class (2): Angel, Beast
 Young Avengers (Extended) (3): America Chavez, Cassie Lang, Iron Lad
 Young Avengers Founders (1): Iron Lad
