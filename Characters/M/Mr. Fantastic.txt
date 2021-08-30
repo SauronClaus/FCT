@@ -7,18 +7,23 @@ Reed
 Richards
 Reed Richards|Mr. Fantastic|Brains|Stretcho|Stretch|Doctor Richards
 Gerald Mohr|Mike Road|Beau Weaver|Alex Hyde-White|Ioan Gruffudd|Miles Teller|David Naughton|Matthew Kaminsky|Robert Clotworthy|Dee Bradley Baker|Wally Wingert
-Age
-Type
-Race
-Alignment
-Role
-Gender
-Tags
-Power Level
-Popularity
-Groups
-Theme Song
-Medium
-Brand
-Signature Weapon
-Color
+
+Superhero
+Human
+Good
+Protagonist
+Male
+Fantastic Four,Avengers,Scientist,Genius,Stretching,Polymorph,Married|The Invisible Woman
+City
+High
+Fantastic Four (Core),Marvel's First Family,Avengers (Extended),Fantastic Four (Extended)
+
+Superhero Comics,Comics
+Marvel
+
+Blue
+
+Disney
+Sebastian
+
+No

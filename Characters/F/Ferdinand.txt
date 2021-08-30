@@ -1,4 +1,29 @@
 Ferdinand
 Fire Emblem: Three Houses
+Ferdinand is a playable character in Fire Emblem: Three Houses. He is a student at the Officers Academy who hails from the Adrestian Empire and is a member of the Black Eagles. He possesses a Minor Crest of Cichol, and is 17 years old at the start of the game.
+https://static.wikia.nocookie.net/fireemblem/images/9/9c/Ferdinand_Heroes.png/revision/latest/scale-to-width-down/700?cb=20200305144945
+https://fireemblem.fandom.com/wiki/Ferdinand
+Ferdinand
+von Aeigr
+Ferdinand von Aeigr|Ferdie
+Taito Ban|Billy Kametz
+17|1
+Knight
+Human
+Good
+Party Member
+Male
+Spearman,Black Eagles (Fire Emblem),Crest,Nobility,Loud,Boisterous
+Baseline
+Low
+Black Eagles
 
+Video Games
+Fire Emblem
+Spear of Assal
+Gold
+Trained Fighter|Knight|2
+Nintendo
+Sebastian
 
+No

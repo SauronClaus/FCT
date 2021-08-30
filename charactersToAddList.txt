@@ -1,9 +1,5 @@
-Reed Richards, Susan Storm, Johnny Storm, Benjamin Grimm
-Damian Wayne,Dick Greyson,Tim Drake,Jason Todd
-
-Ferdinand, Linhardt, Caspar, Dorothea, Petra
-Elliot, Harvey, Sam, Sebastian, Shane
 Emily, Haley, Leah, Maru, Penny
+Elliot, Harvey, Sam, Sebastian, Shane
 Max Mercury, Jesse Chambers, Iris West, Jai West, Wally West II
 Captain Atom, Jamie Reyes, Fire, Ice, Rocket Red
 
@@ -14,3 +10,6 @@ Gandalf, Frodo Baggins, Sam Gamgee, Gimli, Legolas, Pippin Took, Merry Brandybuc
 Reithen Keiros, Yekkon, Lorana, ICK, Garrik, Arrolys, Fedora
 
 Demoman, Engineer, Heavy, Pyro, Scout, Sniper, Soldier, Spy
+
+Ms. Martian
+Doomguy
