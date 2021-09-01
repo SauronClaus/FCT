@@ -162,6 +162,7 @@ Captain Nemo
 Carmen Cortez
 Carol Danvers
 Carter Kane
+Caspar
 Cassie Lang
 Catherine
 Catra
@@ -170,12 +171,18 @@ Chewbacca
 Chun-Li
 Claude
 Colin Frazer
+Colossus
 Cyborg
+Cyclops
+Damian Wayne
 Dana Franklin
 Darth Vader
 Dedue
+Demoman
+Dick Grayson
 Dimitri
 Doctor Eggman
+Dorothea
 Dr. Bunsen Honeydew
 Dr. Chris Beck
 Dr. Loomis
@@ -183,11 +190,15 @@ Dracula
 Dyan
 Edelgard
 Eldon Spark Turen
+Elliot
 Elsa
+Emily
+Engineer
 Ernie
 Ethan Chou
 Falcon
 Felix
+Ferdinand
 Finn
 Flayn
 Fleur Delacour
@@ -205,6 +216,7 @@ Gran'ma Ben
 Green Arrow
 Guile
 Hal Jordan
+Haley
 Halfborn Gunderson
 Han Solo
 Hank Pym
@@ -212,10 +224,12 @@ Harbringer
 Harrison Truscott
 Harrison Truscott (Evil)
 Harry Potter
+Harvey
 Hawkeye
 Hawkgirl
 Hazel Levesque
 Hearthstone
+Heavy
 Hermione Granger
 Hilda
 Hippolyta
@@ -223,16 +237,20 @@ Hope van Dyne
 Hubert
 Hulk
 Ingrid
+Irey West
 Iris West
 Iroh
 Iron Lad
 Iron Man
 Ironheart
+Jai West
 Janet van Dyne
 Jason Grace
+Jason Todd
 Jay Garrick
 Jebediah Kerman
 Jem Finch
+Jesse Quick
 Jim Gordon
 John Seward
 John Stewart
@@ -251,8 +269,10 @@ Kratos
 Kristoff
 Kylo Ren
 Laurie Strode
+Leah
 Leia Organa
 Leo Valdez
+Linhardt
 Loki
 Lord Voldemort
 Luigi
@@ -265,8 +285,10 @@ Mai
 Mallory Keen
 Mario
 Martian Manhunter
+Maru
 Mary Marvel
 Maui
+Max Mercury
 Maxwell
 Medic
 Mercedes
@@ -277,10 +299,12 @@ Mina Harker
 Misty
 Moana
 Monica Rambeau
+Mr. Fantastic
 Ms. Marvel
 Nadia Van Dyne
 Nahara
 Namaari
+Nightcrawler
 Noi
 Northstar
 Obi-Wan Kenobi
@@ -290,13 +314,16 @@ Ozai
 Pan
 Papyrus
 Pariah
+Penny
 Percy Jackson
+Petra (Fire Emblem)
 Phoney Bone
 Piper McLean
 Poe Dameron
 Princess Daisy
 Princess Peach
 Psylocke
+Pyro
 Qui-Gon Jinn
 Quicksilver
 Quincey Morris
@@ -314,25 +341,32 @@ Ruby Rose
 Rumy
 Ryu
 Sadie Kane
+Sam
 Sam Alexander
 Samirah al-Abbas
 Sans
 Scarlet Witch
 Scorpion
 Scott Lang
+Scout
 Scout Finch
+Sebastian
 Sebastian Polge
 Seteth
 Seth
 Shamir
+Shane
 Sisu
 Smaug
 Smiley Bone
+Sniper
 Sokka
+Soldier
 Sombra
 Sonic the Hedgehog
 Sothis
 Spider-Man
+Spy
 Squee
 Storm
 Suki
@@ -345,9 +379,13 @@ Tamatoa
 Te Ka
 Ted Kord
 Thanos
+The Human Torch
+The Invisible Woman
+The Thing
 Thomas Jefferson Jr.
 Thor
 Thorn Harvestar
+Tim Drake
 Tong
 Toph Beifong
 Toriel
@@ -360,6 +398,7 @@ Vikram Kommareddi
 Vision
 Viv Vision
 Wally West
+Wally West II
 Walt Stone
 War Machine
 Weiss Schnee

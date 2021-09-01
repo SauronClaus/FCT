@@ -1,13 +1,4 @@
-Black (5): Crisis on Infinite Earths, Mario Galaxy, Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-Purple (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-Grey (4): Age of Ultron, Avengers I, Captain America Civil War, Edge of Tomorrow (film)
-Blue (2): Bone, Harry Potter
-Pale Blue (2): Frozen, Moana
-Orange (2): Halloween, Kane Chronicles
-Red (2): Mario 64, RWBY
-Beige (1): Avatar The Last Airbender
-White (1): Band of Fools (original)
-Yellow (1): Dracula
-Artyom Orange (1): Half Life 2
-Bone White (1): Kindred (novel)
-Crimson (1): Raya and the Last Dragon
+Medium (13): Bone, Crisis on Infinite Earths, Edge of Tomorrow (film), Half Life 2, Halloween, Kane Chronicles, Mario 64, Mario Galaxy, RWBY, Raya and the Last Dragon, Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+High (8): Age of Ultron, Avatar The Last Airbender, Avengers I, Captain America Civil War, Dracula, Frozen, Harry Potter, Moana
+Very Low (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+Low (2): Band of Fools (original), Kindred (novel)

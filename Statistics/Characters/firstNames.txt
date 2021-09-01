@@ -14,12 +14,18 @@ Michael: Booster Gold, Michael Myers
 Bowser: Bowser Jr., Bowser
 Brian: Brian Robeson, Captain Britain
 James: Bucky Barnes, Captain Kirk, Jim Gordon, War Machine
+Sam: Cannonball, Sam
 John: Captain John H. Miller, John Seward, John Stewart
 Carter: Carter Kane, Sadie Kane
+Scott: Cyclops, Scott Lang, Young Cyclops
 Samuel: Dr. Loomis, Falcon, Sam Alexander
 Frisk: Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
 William: Guile, Maxwell, William Cage
 Harrison: Harrison Truscott (Evil), Harrison Truscott
+Iris: Irey West, Iris West
+Jason: Jason Grace, Jason Todd
+Jonathan: Jonathan Harker, The Human Torch
 Kal: Kal-L, Superboy Prime, Superman
 Ruby: Ruby Rider, Ruby Rose
-Scott: Scott Lang, Young Cyclops
+Sebastian: Sebastian Polge, Sebastian
+Wallace: Wally West II, Wally West

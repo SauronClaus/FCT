@@ -1,4 +1,29 @@
 Scout
 Team Fortress 2
+Born and raised in Boston, Massachusetts, USA, the Scout is a fast-running scrapper with a baseball bat and a snarky "in-your-face" attitude. The youngest of eight boys from the south side of Boston, the Scout learned early how to solve problems with his fists. With seven older brothers on his side, fights tended to end before the runt of the litter could maneuver into punching distance, so the Scout trained himself to run. He ran everywhere, all the time, until he could beat his pack of mad dog siblings to the fray.
+https://wiki.teamfortress.com/wiki/File:Scout.png
+https://wiki.teamfortress.com/wiki/Scout
+Jeremy
 
+Scout|Jeremy
+Nathan Vetterlein
 
+Soldier
+Human
+Neutral
+Playable Character
+Male
+Mercenary,Team Fortress 2,Youngest,Fast,Speedster
+Baseline
+Medium
+Team Fortress Mercs
+
+Video Games
+Team Fortress
+
+Red
+
+Valve
+Sebastian
+
+No

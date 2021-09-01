@@ -1,26 +1,37 @@
-Nolan North (6): Beast Boy, Hal Jordan, Hank Pym, Hawkeye, Iron Man, Magneto
+Nolan North (10): Beast Boy, Colossus, Cyclops, Engineer, Hal Jordan, Hank Pym, Hawkeye, Iron Man, Magneto, Nightcrawler
+Tara Strong (7): Barbara Gordon, Blink, Janet van Dyne, Mary Marvel, Scarlet Witch, The Invisible Woman, Tim Drake
+James Arnold Taylor (7): Bucky Barnes, Damian Wayne, Dick Grayson, Green Arrow, Magneto, Obi-Wan Kenobi, Tim Drake
+Josh Keaton (7): Cyclops, Dick Grayson, Hal Jordan, Jason Todd, Scott Lang, Spider-Man, The Human Torch
+Yuri Lowenthal (6): Alucard, Jason Todd, Nightcrawler, Northstar, Spider-Man, Tim Drake
+Troy Baker (6): Alucard, Dick Grayson, Hawkeye, Jason Todd, Loki, Tim Drake
 Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psylocke, Supergirl
-Tara Strong (5): Barbara Gordon, Blink, Janet van Dyne, Mary Marvel, Scarlet Witch
+Travis Willingham (6): Booster Gold, Captain Britain, Guile, Hulk, The Human Torch, Thor
 Fred Tatasciore (5): Beast, Hulk, Magneto, Qui-Gon Jinn, Ultron
-Travis Willingham (5): Booster Gold, Captain Britain, Guile, Hulk, Thor
+Matthew Mercer (5): Dick Grayson, Hawkeye, Iron Man, Luke Skywalker, Tim Drake
 Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
 Bumper Robinson (4): Black Lightning, Cyborg, Falcon, War Machine
-James Arnold Taylor (4): Bucky Barnes, Green Arrow, Magneto, Obi-Wan Kenobi
+Scott Menville (4): Bucky Barnes, Dick Grayson, Quicksilver, Tim Drake
+Scott Porter (4): Bucky Barnes, Cyclops, Damian Wayne, Dick Grayson
+Trevor Devall (4): Captain America, Colossus, Cyclops, Nightcrawler
+Crispin Freeman (4): Colossus, Loki, Martian Manhunter, Scott Lang
+Jason Spisak (4): Hal Jordan, Jason Todd, Loki, Wally West
 Tom Kane (4): Jim Gordon, Magneto, Ultron, Yoda
 Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
 David Kaye (3): Akuma, Ultron, Vision
-Yuri Lowenthal (3): Alucard, Northstar, Spider-Man
-Troy Baker (3): Alucard, Hawkeye, Loki
+Tom Kenny (3): Anti-Monitor, Colossus, Ultron
+Ethan Chou (3): Arthas Menethil, Ethan Chou, Kalathos Sunstrider
+Neil Patrick Harris (3): Barry Allen, Dick Grayson, Spider-Man
+Charlie Schlatter (3): Barry Allen, Damian Wayne, Tim Drake
 Frank Oz (3): Bert, Yoda, Yoda
 Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
+Billy Kametz (3): Blue, Ferdinand, Iron Lad
 Harrison Truscott (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Roger Craig Smith (3): Captain America, Kylo Ren, Sonic the Hedgehog
 Jennifer Hale (3): Carol Danvers, Iris West, Scarlet Witch
 Colin Frazer (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
-Josh Keaton (3): Hal Jordan, Scott Lang, Spider-Man
-Jason Spisak (3): Hal Jordan, Loki, Wally West
-Matthew Mercer (3): Hawkeye, Iron Man, Luke Skywalker
-Crispin Freeman (3): Loki, Martian Manhunter, Scott Lang
+Wally Wingert (3): Hank Pym, Mr. Fantastic, Ultron
+Dee Bradley Baker (3): Hank Pym, Mr. Fantastic, Nightcrawler
+Kari Wahlgren (3): Hope van Dyne, Janet van Dyne, The Invisible Woman
 Kirk Thornton (2): Adam Warlock, Guile
 Matt Lanter (2): Agent Venom, Anakin Skywalker
 Logan Miller (2): Agent Venom, Sam Alexander
@@ -33,44 +44,58 @@ Ralph Fiennes (2): Alfred Pennyworth, Lord Voldemort
 Ashly Burch (2): Aloy, Ms. Marvel
 Hayden Christensen (2): Anakin Skywalker, Darth Vader
 Jake Lloyd (2): Anakin Skywalker, Darth Vader
-Tom Kenny (2): Anti-Monitor, Ultron
+John DiMaggio (2): Aquaman, Colossus
 Sebastian Polge (2): Arthas Menethil, Sebastian Polge
 Kimberly Brooks (2): Ashley Williams, Psylocke
 Gregory Peck (2): Atticus Finch, Captain Ahab
 Mae Whitman (2): Barbara Gordon, Katara
-Neil Patrick Harris (2): Barry Allen, Spider-Man
 Alan Tudyk (2): Barry Allen, Green Arrow
 John Wesley Shipp (2): Barry Allen, Jay Garrick
 Dwight Schultz (2): Barry Allen, Magneto
 Steve Whitmire (2): Beaker, Ernie
 George Buza (2): Beast, Magneto
+Kate Mara (2): Beth Johanssen, The Invisible Woman
 Vanessa Marshall (2): Black Canary, Black Widow
 Khary Payton (2): Black Lightning, Cyborg
 Lucien Dodge (2): Blue, Felix
-Billy Kametz (2): Blue, Iron Lad
+Liam O'Brien (2): Brainiac 5, Nightcrawler
 Steve Blum (2): Brimstone, Ken
 Benedict Wong (2): Bruce Ng, Tong
 Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
-Scott Menville (2): Bucky Barnes, Quicksilver
 Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
+Chris Evans (2): Captain America, The Human Torch
 Brian Bloom (2): Captain America, Cyborg
 April Stewart (2): Carol Danvers, Psylocke
+Benjamin Diskin (2): Caspar, Spider-Man
 Colleen O'Shaughnessey (2): Cassie Lang, Janet van Dyne
+Phil Morris (2): Colossus, Martian Manhunter
+Chris Cox (2): Colossus, Hawkeye
+Michael B. Jordan (2): Cyborg, The Human Torch
+Michael Bell (2): Cyclops, Hulk
+Kirby Morrow (2): Cyclops, The Human Torch
+Mark Hildreth (2): Cyclops, Quicksilver
+Robin Atkin Downes (2): Cyclops, Medic
+Neal McDonough (2): Damian Wayne, Hulk
 Hidenori Takahashi (2): Dedue, Dimitri
 Ben Lepley (2): Dedue, Dimitri
-Ethan Chou (2): Ethan Chou, Kalathos Sunstrider
+Gary Schwartz (2): Demoman, Heavy
+Loren Lester (2): Dick Grayson, Dick Grayson
+Jack DeSena (2): Dick Grayson, Sokka
+Allegra Clark (2): Dorothea, Shamir
 Wendy Tremont King (2): Gran'ma Ben, Thorn Harvestar
 Michael Donovan (2): Guile, Hulk
+Gerald Mohr (2): Hal Jordan, Mr. Fantastic
+Neil Ross (2): Han Solo, Nightcrawler
 Lex Lang (2): Han Solo, Poe Dameron
-Wally Wingert (2): Hank Pym, Ultron
 Adrian Pasdar (2): Hawkeye, Iron Man
 Sam Riegel (2): Hawkeye, Spider-Man
-Kari Wahlgren (2): Hope van Dyne, Janet van Dyne
 Robbie Daymond (2): Hubert, Spider-Man
 Paul Soles (2): Hulk, Spider-Man
 Lou Ferrigno (2): Hulk, Hulk
 Sebastian Spence (2): Hulk, Ted Kord
 Armen Taylor (2): Hulk, Jay Garrick
+Cameron Bowen (2): Jason Todd, Tim Drake
+David Naughton (2): Jay Garrick, Mr. Fantastic
 Phil LaMarr (2): John Stewart, War Machine
 Ike Amadi (2): John Stewart, Martian Manhunter
 Kaeshev Alapati (2): Jori-En Blurred, Squee
@@ -86,3 +111,9 @@ Lou Albano (2): Mario, Mario
 Dorian Harewood (2): Martian Manhunter, War Machine
 Jessica Chisum (2): Princess Daisy, Princess Peach
 Jen Taylor (2): Princess Daisy, Princess Peach
+Dennis Bateman (2): Pyro, Spy
+John Patrick Lowrie (2): Sniper, Soldier
+Quinton Flynn (2): Spider-Man, The Human Torch
+Wil Wheaton (2): Ted Kord, Tim Drake
+David Kaufman (2): The Human Torch, The Human Torch
+Dave Boat (2): The Thing, Thor

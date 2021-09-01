@@ -1,4 +1,29 @@
 Sniper
 Team Fortress 2
+Hailing from the lost country of New Zealand and raised in the unforgiving Australian outback, the Sniper is a tough and ready crack shot. Half rugged outdoorsman, half alien observer, this taciturn strip of beef jerky has spent the better part of his life alone in the bush, slow baking under the Australian sun.
+https://wiki.teamfortress.com/wiki/File:Sniper.png
+https://wiki.teamfortress.com/wiki/Sniper
 
+Mundy
+Sniper|Mr. Mundy
+John Patrick Lowrie
 
+Mercenary
+Human
+Neutral
+Playable Character
+Male
+Mercenary,Team Fortress 2,Detatched,Assassin,Veteran,Australian
+Baseline
+Medium
+Team Fortress Mercs
+
+Video Games
+Team Fortress
+
+Red
+
+Valve
+Sebastian
+
+No

@@ -15,7 +15,7 @@ Batmobile (1): Batman
 Batwing (1): Batman
 Black Arrow (LOTR) (1): Bard the Bowman
 Bracelets of Submission (2): Wonder Woman, Hippolyta
-Caduceus Staff (1): Flayn
+Caduceus Staff (2): Flayn, Linhardt
 Captain America's Shield (3): Captain America, Bucky Barnes, Sam Wilson
 Combat Jacket (Edge of Tomorrow) (2): William Cage, Rita Vrataski
 Crescent Rose (1): Ruby Rose
@@ -61,7 +61,7 @@ Ring of Fire Resistance (1): Kalathos Sunstrider
 Riptide (1): Percy Jackson
 San's Gaster Blaster (1): Sans
 Skeets (1): Booster Gold
-Spear of Assal (1): Seteth
+Spear of Assal (2): Seteth, Ferdinand
 Sting (2): Frodo Baggins, Bilbo Baggins
 Sword of Protection (1): Adora
 Sword of the Creator (1): Byleth

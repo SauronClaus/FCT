@@ -7,13 +7,13 @@ Thanos
 
 Thanos|The Mad Titan
 Josh Brolin|Isaac C. Singleton Jr.|Jim Cummings
-4000|400
+
 Titan
 Titan
-Evil
+Neutral
 Antagonist
 Male
-Black Order,Titan
+Black Order,Titan,Powerhouse,Iconic
 Interuniversal
 High
 The Black Order

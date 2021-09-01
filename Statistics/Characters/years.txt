@@ -8,10 +8,10 @@
 12 (2): Amy Rose, Toph Beifong
 13 (1): Brian Robeson
 14 (8): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Sadie Kane, Zia Rashid
-15 (7): Brock, Carter Kane, Mai, Ruby Rose, Sokka, Sonic the Hedgehog, Sven
-16 (11): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Jason Grace, Leo Valdez, Magnus Chase, Piper McLean, Vikram Kommareddi, Zuko
-17 (19): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Frank Zhang, Ingrid, Korra, Laurie Strode, Sebastian Polge, Weiss Schnee, Yang Xiao Long
-18 (15): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Fleur Delacour, Harrison Truscott (Evil), Harrison Truscott, Hilda, Percy Jackson, Raya, Zach Wiebe
+15 (8): Brock, Carter Kane, Mai, Petra (Fire Emblem), Ruby Rose, Sokka, Sonic the Hedgehog, Sven
+16 (13): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Piper McLean, Vikram Kommareddi, Zuko
+17 (20): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Ingrid, Korra, Laurie Strode, Sebastian Polge, Weiss Schnee, Yang Xiao Long
+18 (16): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Dorothea, Fleur Delacour, Harrison Truscott (Evil), Harrison Truscott, Hilda, Percy Jackson, Raya, Zach Wiebe
 19 (5): Jono Jenkins, Leia Organa, Luke Skywalker, Rey, Sylvain
 20 (4): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert
 21 (5): Adora, Bill Weasley, Elsa, Kristoff, Michael Myers
@@ -55,4 +55,3 @@
 1250 (1): Sothis
 2777 (1): Arwen
 3568 (1): Calypso
-4000 (1): Thanos

@@ -45,10 +45,10 @@ def quickStatsFranchise():
             firstLetter = "#"
         franchiseFile = open("Franchises\\" + firstLetter + "\\" + franchise + ".txt", "r", encoding='utf8')
         franchiseInfo = franchiseFile.read().split("\n")
-        searchFranchise = ""
+        searchFranchise = "------------------"
 
-        franchiseBrand = franchiseInfo[12]
-        franchiseFranchise = franchiseInfo[11]
+        franchiseBrand = franchiseInfo[13]
+        franchiseFranchise = franchiseInfo[12]
         if franchiseFranchise == searchFranchise:
             print("-" + franchiseInfo[0] + " (" + franchise + ") is in " + franchiseBrand + ": " + franchiseFranchise + " (Franchise)")
         try:
@@ -74,14 +74,14 @@ def quickStatsFranchise():
 
     brandString = ""
     for brandName in franchiseBrandList:
-        brandSet = brandName + ":\n"
+        brandSet = brandName + " (" + str(len(franchiseBrands[brandName]["Total"])) + "/" + str(len(completedFranchises)) + "):\n"
         for franchiseName in franchiseBrands[brandName].keys():
             if franchiseName != "Total":
                 brandSet = brandSet + "\t-" + franchiseName + " (" + str(len(franchiseBrands[brandName][franchiseName])) + "/" + str(len(franchiseBrands[brandName]["Total"])) + "): "
                 for person in franchiseBrands[brandName][franchiseName]:
                     brandSet = brandSet + person + ", "
                 brandSet = brandSet[0:len(brandSet)-2:] + "\n"
-        brandSet = brandSet + "\t-All " + " (" + str(len(franchiseBrands[brandName]["Total"])) + "/" + str(len(completedFranchises)) + "): "
+        brandSet = brandSet + "\t-All (" + str(len(franchiseBrands[brandName]["Total"])) + "/" + str(len(completedFranchises)) + "): "
         for person in franchiseBrands[brandName]["Total"]:
             brandSet = brandSet + person + ", "
         brandSet = brandSet[0:len(brandSet)-2:] + "\n"
@@ -252,8 +252,8 @@ def quickStatsFranchise():
         franchiseInfo = franchiseFile.read().split("\n")
 
         mediumSearch = "----"
-        if franchiseInfo[13] != "":
-            mediumList = franchiseInfo[13].split(",")
+        if franchiseInfo[14] != "":
+            mediumList = franchiseInfo[14].split(",")
             for medium in mediumList:
                 if mediumSearch == medium:
                     print("Mediums Match: " + franchiseInfo[0] + " (" + franchise + ")")
@@ -311,7 +311,7 @@ def quickStatsFranchise():
         franchiseInfo = franchiseFile.read().split("\n")
 
         colorSearch = "-----"
-        color = franchiseInfo[14]
+        color = franchiseInfo[15]
         if colorSearch == color:
             print("Color Match: " + franchiseInfo[0] + " (" + franchise + ")")
         try:
@@ -369,7 +369,7 @@ def quickStatsFranchise():
         franchiseInfo = franchiseFile.read().split("\n")
 
         powerLevelSearch = "----"
-        powerLevel = franchiseInfo[16]
+        powerLevel = franchiseInfo[17]
         if powerLevelSearch == powerLevel:
             print("Power Level Match: " + franchiseInfo[0] + " (" + franchise + ")")
         try:
@@ -426,7 +426,7 @@ def quickStatsFranchise():
         franchiseInfo = franchiseFile.read().split("\n")
 
         popularitySearch = "-----"
-        popularity = franchiseInfo[15]
+        popularity = franchiseInfo[16]
         if popularitySearch == popularity:
             print("Popularity Match: " + franchiseInfo[0] + " (" + franchise + ")")
         try:

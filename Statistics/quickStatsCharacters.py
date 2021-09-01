@@ -159,7 +159,9 @@ def quickStatsCharacters():
                 lastNames[characterLastName] = [character]
 
     firstNameFile = open("Statistics\\Characters\\firstNames.txt", "w",encoding='utf8')
-    lastNameFile = open("Statistics\\Characters\\lastNames.txt", "w",encoding='utf8')\
+    lastNameFile = open("Statistics\\Characters\\lastNames.txt", "w",encoding='utf8')
+    lastNamesByNumbers = open("Statistics\\Characters\\lastNamesByNumbers.txt", "w", encoding='utf8')
+    firstNamesByNumbers = open("Statistics\\Characters\\firstNamesByNumbers.txt", "w", encoding='utf8')
 
     for firstName in firstNames.keys():
         if len(firstNames[firstName]) >= 2:
@@ -175,6 +177,50 @@ def quickStatsCharacters():
                 lastNameString = lastNameString + person + ", "
             lastNameString = lastNameString[0:len(lastNameString)-2:]
             lastNameFile.write(lastNameString + "\n")
+
+    highNumber = -1
+    for characterList in lastNames.values():
+        if len(characterList) > highNumber:
+            highNumber = len(characterList)
+
+    typesByValues = {}
+    for x in reversed(range(highNumber + 1)):
+        for characterList in lastNames.keys():
+            if len(lastNames[characterList]) == x:
+                try:
+                    typesByValues[x].append(characterList)
+                except:
+                    typesByValues[x] = [characterList]
+
+    for number in typesByValues.keys():
+        for typeName in typesByValues[number]:
+            typeString = typeName + " (" + str(number) + "): "
+            for character in lastNames[typeName]:
+                typeString = typeString + character + ", "
+            typeString = typeString[0:len(typeString)-2:]
+            lastNamesByNumbers.write(typeString + "\n")
+
+    highNumber = -1
+    for characterList in firstNames.values():
+        if len(characterList) > highNumber:
+            highNumber = len(characterList)
+
+    typesByValues = {}
+    for x in reversed(range(highNumber + 1)):
+        for characterList in firstNames.keys():
+            if len(firstNames[characterList]) == x:
+                try:
+                    typesByValues[x].append(characterList)
+                except:
+                    typesByValues[x] = [characterList]
+
+    for number in typesByValues.keys():
+        for typeName in typesByValues[number]:
+            typeString = typeName + " (" + str(number) + "): "
+            for character in firstNames[typeName]:
+                typeString = typeString + character + ", "
+            typeString = typeString[0:len(typeString)-2:]
+            firstNamesByNumbers.write(typeString + "\n")
 
     actors = {}
     for character in completedCharacters:

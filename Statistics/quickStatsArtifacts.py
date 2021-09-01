@@ -74,7 +74,7 @@ def quickStatsArtifacts():
 
     brandString = ""
     for brandName in artifactBrandList:
-        brandSet = brandName + ":\n"
+        brandSet = brandName + " (" + str(len(artifactBrands[brandName]["Total"])) + "/" + str(len(completedArtifacts)) + "):\n"
         for franchiseName in artifactBrands[brandName].keys():
             if franchiseName != "Total":
                 brandSet = brandSet + "\t-" + franchiseName + " (" + str(len(artifactBrands[brandName][franchiseName])) + "/" + str(len(artifactBrands[brandName]["Total"])) + "): "

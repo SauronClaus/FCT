@@ -1,4 +1,29 @@
 Nightcrawler
 Marvel Comics
+Nightcrawler (Kurt Wagner) is a fictional superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Len Wein and artist Dave Cockrum, he debuted in the comic book Giant-Size X-Men #1 (May 1975). Nightcrawler is a member of a fictional subspecies of humanity known as mutants, who are born with superhuman abilities. Nightcrawler possesses superhuman agility, the ability to teleport, and adhesive hands and feet. His physical mutations include indigo-colored velvety fur which allows him to become nearly invisible in shadows, two-toed feet, and three-fingered hands, yellow eyes, pointed ears and a prehensile tail. In Nightcrawler's earlier comic book appearances, he is depicted as being a happy-go-lucky practical joker and teaser, and a fan of swashbuckling fiction. Nightcrawler is a Catholic, and while this is not emphasized as much in his earlier comic book appearances, in later depictions Nightcrawler is more vocal about his faith.
+https://upload.wikimedia.org/wikipedia/en/2/26/Colossus-AvX_Consequences.jpg
+https://en.wikipedia.org/wiki/Nightcrawler_(character)
+Kurt
+Wagner
+Nightcrawler|Elf|Kurt Wagner|Fuzzy Elf
+Stanley Jones|Neil Ross|Adrian Hough|Brad Swaile|Liam O'Brien|Nolan North|Trevor Devall|Alan Cumming|Kodi Smit-McPhee|Dee Bradley Baker|Yuri Lowenthal
 
+Superheroes
+Mutant
+Good
+Protagonist
+Male
+Mutant,Superheroes,X-Men,Teleportation,Demonic,Infernal,German,Religious
+City
+High
+X-Men (Core),X-Men (Extended),Giant Sized X-Men #1 Team
 
+Superhero Comics,Comics
+Marvel
+
+Blue
+
+Disney
+Sebastian
+
+No

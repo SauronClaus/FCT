@@ -20,7 +20,10 @@ def infoPerson(personName, fctPolls):
 
     if personInfo[2] != "":
         #print(str(len(personInfo[2])) + ", truncated to " + str(len(personInfo[2][0:250:])))
-        embed = discord.Embed(title=personInfo[0], description=personInfo[2][0:250:] + "[. . .](" + personInfo[4] + ")")
+        if personInfo[4] != "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1200px-Icon-round-Question_mark.svg.png":
+            embed = discord.Embed(title=personInfo[0], description=personInfo[2][0:650:] + "[. . .](" + personInfo[4] + ")")
+        else:
+            embed = discord.Embed(title=personInfo[0], description=personInfo[2][0:1024:])
     else:
         embed = discord.Embed(title=personInfo[0])
 

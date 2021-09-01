@@ -10,7 +10,7 @@ Hiroyuki Sanada|Chris Casamassa|Ed Boon|Patrick Seitz|Ian Anthony Dale|Ron Yuan|
 52|5
 Ninja
 Spectre
-Depends
+Neutral
 Playable Character
 Male
 Mortal Kombat,Tragic Backstory,Ninja,Undead,Merciless,Shirai Ryu

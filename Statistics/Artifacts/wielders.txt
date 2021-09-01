@@ -37,6 +37,7 @@ Claude (1): Failnaught
 Dimitri (1): Areadbhar
 Edelgard (1): Aymr
 Felix (1): Aegis Shield
+Ferdinand (1): Spear of Assal
 Flayn (1): Caduceus Staff
 Frisk (Genocide Route) (1): Human SOUL
 Frisk (Neutral Route) (1): Human SOUL
@@ -59,6 +60,7 @@ Kalathos Sunstrider (2): Iarno Albrek's Shattered Staff, Ring of Fire Resistance
 Kareem Par-Al (1): Marvelous Pigments
 Kratos (1): Leviathan Axe
 Leo Valdez (1): Festus
+Linhardt (1): Caduceus Staff
 Loki (1): Loki's Scepter
 Lord Voldemort (1): The Elder Wand
 Magneto (1): Magneto's Helmet

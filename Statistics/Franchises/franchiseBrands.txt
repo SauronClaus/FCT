@@ -1,78 +1,73 @@
 
-Avatar: The Last Airbender:
-	- (1/1): Avatar The Last Airbender
-	-All  (1/28): Avatar The Last Airbender
+Avatar (TV Show) (1/28):
+	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
+	-All (1/28): Avatar The Last Airbender
 
-Band of Fools Original:
-	- (1/1): Band of Fools (original)
-	-All  (1/28): Band of Fools (original)
+Band of Fools (1/28):
+	-Band of Fools Original (1/1): Band of Fools (original)
+	-All (1/28): Band of Fools (original)
 
-Bone:
-	- (1/1): Bone
-	-All  (1/28): Bone
+Bone (1/28):
+	-Bone (1/1): Bone
+	-All (1/28): Bone
 
-DC Comics:
-	- (1/1): Crisis on Infinite Earths
-	-All  (1/28): Crisis on Infinite Earths
+DC (1/28):
+	-DC Comics (1/1): Crisis on Infinite Earths
+	-All (1/28): Crisis on Infinite Earths
 
-Dracula:
-	- (1/1): Dracula
-	-All  (1/28): Dracula
+Disney (2/28):
+	-Moana (1/2): Moana
+	-Raya and the Last Dragon (1/2): Raya and the Last Dragon
+	-All (2/28): Moana, Raya and the Last Dragon
 
-Edge of Tomorrow:
-	- (1/1): Edge of Tomorrow (film)
-	-All  (1/28): Edge of Tomorrow (film)
+Dracula (1/28):
+	-Dracula (1/1): Dracula
+	-All (1/28): Dracula
 
-Fire Emblem: Three Houses:
-	-Edge of Dawn|https://open.spotify.com/track/5l6kKRl8SEA2nPzHE0ByAf?si=9d8e87bd70d24e92 (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All  (5/28): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+Edge of Tomorrow (1/28):
+	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
+	-All (1/28): Edge of Tomorrow (film)
 
-Frozen:
-	-Frozen Heart|https://open.spotify.com/track/3xDVJcvcKedshWlT3qGSHk?si=29a507b127cd4dda (1/1): Frozen
-	-All  (1/28): Frozen
+Fire Emblem (5/28):
+	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/28): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Half-Life:
-	- (1/1): Half Life 2
-	-All  (1/28): Half Life 2
+Frozen (1/28):
+	-Frozen (1/1): Frozen
+	-All (1/28): Frozen
 
-Halloween:
-	-Halloween Theme- Main Title|https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC?si=84fe02b14d9249ea (1/1): Halloween
-	-All  (1/28): Halloween
+Halloween (1/28):
+	-Halloween (1/1): Halloween
+	-All (1/28): Halloween
 
-Harry Potter:
-	-Hedwig's Theme|https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF?si=b0e8b0a8c62c408a (1/1): Harry Potter
-	-All  (1/28): Harry Potter
+Harry Potter (1/28):
+	-Harry Potter (1/1): Harry Potter
+	-All (1/28): Harry Potter
 
-Kane Chronicles:
-	- (1/1): Kane Chronicles
-	-All  (1/28): Kane Chronicles
+Indie Video Games (3/28):
+	-Undertale (3/3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (3/28): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Kindred:
-	- (1/1): Kindred (novel)
-	-All  (1/28): Kindred (novel)
+Kindred (1/28):
+	-Kindred (1/1): Kindred (novel)
+	-All (1/28): Kindred (novel)
 
-MCU:
-	- (2/3): Age of Ultron, Captain America Civil War
-	-The Avengers|https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR?si=0ff41e475fdc4cc1 (1/3): Avengers I
-	-All  (3/28): Age of Ultron, Avengers I, Captain America Civil War
+Mario (2/28):
+	-Mario (2/2): Mario 64, Mario Galaxy
+	-All (2/28): Mario 64, Mario Galaxy
 
-Mario:
-	-Title Theme|https://open.spotify.com/track/2ZbxXIAU2zrRgWGfOOhsTd?si=79d1145838524e2e (1/2): Mario 64
-	-Comet Observatory|https://open.spotify.com/track/4r5K7qfNPz6l6oPDRjRFEV?si=e2d4a4fa83a040ca (1/2): Mario Galaxy
-	-All  (2/28): Mario 64, Mario Galaxy
+Marvel (3/28):
+	-MCU (3/3): Age of Ultron, Avengers I, Captain America Civil War
+	-All (3/28): Age of Ultron, Avengers I, Captain America Civil War
 
-Moana:
-	-How Far I'll Go|https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd?si=84af8e0d30a24d70 (1/1): Moana
-	-All  (1/28): Moana
+Percy Jackson and the Olympians (1/28):
+	-Kane Chronicles (1/1): Kane Chronicles
+	-All (1/28): Kane Chronicles
 
-RWBY:
-	-Red Like Roses (Red Trailer)|https://open.spotify.com/track/4UXquZeCjJrA4WZ1tgdqMJ?si=179bb9a5233f46ea (1/1): RWBY
-	-All  (1/28): RWBY
+RWBY (1/28):
+	-RWBY (1/1): RWBY
+	-All (1/28): RWBY
 
-Raya and the Last Dragon:
-	- (1/1): Raya and the Last Dragon
-	-All  (1/28): Raya and the Last Dragon
-
-Undertale:
-	-Undertale|https://open.spotify.com/track/2FZ99j224ohiGLavqjijza?si=17f9fea1ee2b4cc2 (3/3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All  (3/28): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+Valve (1/28):
+	-Half-Life (1/1): Half Life 2
+	-All (1/28): Half Life 2

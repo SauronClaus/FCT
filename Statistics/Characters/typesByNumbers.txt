@@ -1,27 +1,29 @@
-Superhero (75): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Jay Garrick, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Miles Morales, Monica Rambeau, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, Thor, Vision, Viv Vision, Wally West, War Machine, Wonder Woman, Young Cyclops
+Superhero (88): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
 Adventurer (24): Bilbo Baggins, Blitzen, Bobby, Calypso, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Glynnric Manassnass, Hazel Levesque, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Smiley Bone
+Soldier (20): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Finn, Guile, Heavy, Leia Organa, Mai, Pyro, Rita Vrataski, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Fighter (17): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya, Banjo, Boromir, Chun-Li, Glimmer, Kazooie, Ken, Mallory Keen, Rikk, Rumy, Ryu
-Soldier (17): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Finn, Guile, Leia Organa, Mai, Rita Vrataski, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Civilian (17): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Ernie, Ethan Chou, Harrison Truscott, Jem Finch, Jonathan Harker, Jono Jenkins, Mina Harker, Quincey Morris, Scout Finch, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Wizard (14): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hearthstone, Hermione Granger, Lord Voldemort, Ron Weasley
+Baseline Human (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane
 Bender (8): Aang, Azula, Bolin, Iroh, Katara, Korra, Toph Beifong, Zuko
 Jedi (7): Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
 Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
+Knight (6): Alois, Caspar, Catherine, Ferdinand, Ingrid, Sylvain
+Princess (6): Anna, Petra (Fire Emblem), Princess Daisy, Princess Peach, Rosalina, Thorn Harvestar
 Astronaut (6): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Valentina Kerman
 Warrior (6): Hilda, Kratos, Magnus Chase, Namaari, Percy Jackson, Sokka
-Princess (5): Anna, Princess Daisy, Princess Peach, Rosalina, Thorn Harvestar
 Pokemon Trainer (5): Ash Ketchum, Blue, Brock, Misty, Red (Pokemon)
 Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
-Knight (4): Alois, Catherine, Ingrid, Sylvain
 Explorer (4): Bastion, Captain Nemo, Kristoff, Sven
 Huntress (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
 Guardian (4): Blaze the Cat, Sisu, Te Ka, Toriel
 Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Con Artist (4): Dyan, Noi, Pan, Uka
+Superheroes (3): Colossus, Cyclops, Nightcrawler
 Inventor (3): Doctor Eggman, Dr. Bunsen Honeydew, Leo Valdez
 Queen (3): Elsa, Gran'ma Ben, Hippolyta
 Guardsman (3): Papyrus, Sans, Undyne
-Baseline Human (2): Abigail, Alex
+Mercenary (3): Sniper, Soldier, Spy
 Precog (2): Agatha, Anna Croft
 Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
 Ranger (2): Akkar, Aloy
@@ -33,6 +35,7 @@ Musician (2): Animal, Brook
 God (2): Apollo, Athena
 Barbarian (2): Arthail Consumer of Food, Tong
 Evil King (2): Asgore, Bowser
+Engineer (2): Audrey Ramirez, Engineer
 Astromech Droid (2): BB-8, R2-D2
 Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Berserker (2): Brick, Halfborn Gunderson
@@ -64,7 +67,6 @@ Nobility (1): Arwen
 Businesswoman (1): Asami Sato
 Horror Game Character (1): Ashley Brown
 Lawyer (1): Atticus Finch
-Engineer (1): Audrey Ramirez
 Child (1): Austin
 Nerd (1): Baljeet Tjinder
 Town Guard (1): Bard the Bowman
@@ -94,7 +96,9 @@ Space Captain (1): Captain Kirk
 Spirit (1): Chara
 Sith Lord (1): Darth Vader
 Bodyguard (1): Dedue
+Explosions Expert (1): Demoman
 Prince (1): Dimitri
+Singer (1): Dorothea
 Psychiatrist (1): Dr. Loomis
 Vampire Lord (1): Dracula
 Empress (1): Edelgard
@@ -108,6 +112,7 @@ Police Officer (1): Jim Gordon
 Doctor (1): John Seward
 Sith (1): Kylo Ren
 Survivor (1): Laurie Strode
+Scholar (1): Linhardt
 Dictator (1): M. Bison
 Puppet Master (1): Maxwell
 Medic (1): Medic

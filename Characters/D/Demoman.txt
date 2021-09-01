@@ -1,4 +1,29 @@
 Demoman
 Team Fortress 2
+The Demoman is a self-described black Scottish cyclops and a scrumpy-swilling demolitions expert from Ullapool, Scotland, who is one of the most versatile members of the team.	A fierce temper, a fascination with all things explosive, and a terrible plan to kill the Loch Ness Monster cost the six year old Demoman his original set of adoptive parents. Later, at the Crypt Grammar School for Orphans near Ullapool in the Scottish Highlands, the boy's bomb-making skills improved dramatically. His disposition and total number of intact eyeballs, however, did not. Word of his proficiency with explosives spread, and it was not long before Crypt Grammar received two visitors; the Demoman's real parents, who lovingly explained that all Demomen are abandoned at birth until their skills manifest themselves, a long-standing, cruel, and wholly unnecessary tradition among the Highland Demolition Men. His unhappy childhood had ended, but his training had just begun.
+https://wiki.teamfortress.com/wiki/File:Demoman.png
+https://wiki.teamfortress.com/wiki/Demoman
+Tavish
+DeGroot
+The Demoman|Tavish Finnegan DeGroot
+Gary Schwartz
 
+Explosions Expert
+Human
+Neutral
+Playable Character
+Male
+Mercenary,Team Fortress 2,Explosions,Alcoholic,Insane,Scottish
+Baseline
+Medium
+Team Fortress Mercs
 
+Video Games
+Team Fortress
+
+Black
+
+Valve
+Sebastian
+
+No

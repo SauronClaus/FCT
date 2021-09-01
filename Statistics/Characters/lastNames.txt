@@ -8,6 +8,7 @@ Finch: Atticus Finch, Jem Finch, Scout Finch
 Beaubier: Aurora, Northstar
 Gordon: Barbara Gordon, Jim Gordon
 Allen: Barry Allen, Bart Allen
+Wayne: Batman, Damian Wayne
 Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Carter: Booster Gold, Maxwell
 Braddock: Captain Britain, Psylocke
@@ -16,12 +17,14 @@ Batson: Captain Marvel, Mary Marvel
 Cortez: Carmen Cortez, Juni Cortez
 Lang: Cassie Lang, Scott Lang
 Stone: Cyborg, Walt Stone
+Summers: Cyclops, Young Cyclops
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo, Kylo Ren
 Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
-West: Iris West, Wally West
+West: Irey West, Iris West, Jai West, Wally West II, Wally West
+Richards: Iron Lad, Mr. Fantastic, The Invisible Woman
 Harker: Jonathan Harker, Mina Harker
 Mario: Luigi, Mario
 Maximoff: Quicksilver, Scarlet Witch

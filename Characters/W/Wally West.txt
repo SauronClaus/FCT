@@ -1,7 +1,7 @@
 Wally West
 DC Comics
 Wallace Rudolph "Wally" West is a fictional superhero appearing in American comic books published by DC Comics as the original Kid Flash and the third Flash. His power consists mainly of superhuman speed. The nephew of Barry Allen, the second Flash, he first appeared in Flash #110 (1959), which depicted his transformation into Kid Flash. Under the mantle of Kid Flash, Wally was depicted as a teenage sidekick to his uncle and a founding member of the Teen Titans. After Barry's death in Crisis on Infinite Earths in 1985, Wally took on the role of the Flash from 1986 to 2009 in DC's main lineup until Barry returned in The Flash: Rebirth. Even so, Wally is the fastest character to ever hold the mantle of the Flash and a fan favorite. He would later return as the main Flash since 2021, as part of the Infinite Frontier relaunch.
-https://upload.wikimedia.org/wikipedia/en/a/aa/Flash207.jpg
+https://static.wikia.nocookie.net/marvel_dc/images/0/03/Flash_Wally_West_0188.jpg/revision/latest/scale-to-width-down/658?cb=20160807234252
 https://en.wikipedia.org/wiki/Wally_West
 Wallace
 West
@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Aunt Uncle|Iris West,Justice League,Legacy|Barry Allen,Master Apprentice|Barry Allen,Sidekick,Speedsters,Superheroes,Teen Titans,Young Justice
+Aunt Uncle|Iris West,Justice League,Legacy|Barry Allen,Master Apprentice|Barry Allen,Sidekick,Speedsters,Superheroes,Teen Titans,Young Justice,Parent Child|Irey West,Parent Child|Jai West
 City
 High
 Justice League (Extended),Flash Family,Justice League Unlimited,Teen Titans Founders,Teen Titans (Extended),Teen Titans (Core),Young Justice (Extended)
@@ -21,9 +21,9 @@ Justice League (Extended),Flash Family,Justice League Unlimited,Teen Titans Foun
 Superhero Comics,Comics,TV Shows
 DC
 
-Yellow
+Red
 
-
+DC
 Sebastian
 
 No

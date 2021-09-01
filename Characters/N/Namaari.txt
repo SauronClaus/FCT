@@ -10,7 +10,7 @@ Gemma Chan
 
 Warrior
 Human
-Neutal
+Neutral
 Antagonist
 Female
 Princess,Nobility,Royalty,Nemesis|Raya,Soldier,Warrior,Traitor,Redemption Arc,Redeemed
