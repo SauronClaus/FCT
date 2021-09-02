@@ -172,6 +172,7 @@ Chun-Li
 Claude
 Colin Frazer
 Colossus
+Culverton Smith
 Cyborg
 Cyclops
 Damian Wayne
@@ -182,6 +183,7 @@ Demoman
 Dick Grayson
 Dimitri
 Doctor Eggman
+Doom Guy
 Dorothea
 Dr. Bunsen Honeydew
 Dr. Chris Beck
@@ -196,6 +198,7 @@ Emily
 Engineer
 Ernie
 Ethan Chou
+Extortionist Hobo
 Falcon
 Felix
 Ferdinand
@@ -237,6 +240,7 @@ Hope van Dyne
 Hubert
 Hulk
 Ingrid
+Inspector Lestrade
 Irey West
 Iris West
 Iroh
@@ -244,6 +248,7 @@ Iron Lad
 Iron Man
 Ironheart
 Jai West
+James Moriarty
 Janet van Dyne
 Jason Grace
 Jason Todd
@@ -254,6 +259,7 @@ Jesse Quick
 Jim Gordon
 John Seward
 John Stewart
+John Watson
 Jonathan Harker
 Jono Jenkins
 Jori-En Blurred
@@ -269,6 +275,7 @@ Kratos
 Kristoff
 Kylo Ren
 Laurie Strode
+LeBron
 Leah
 Leia Organa
 Leo Valdez
@@ -301,6 +308,7 @@ Moana
 Monica Rambeau
 Mr. Fantastic
 Ms. Marvel
+Mycroft Holmes
 Nadia Van Dyne
 Nahara
 Namaari
@@ -356,6 +364,7 @@ Seteth
 Seth
 Shamir
 Shane
+Sherlock Holmes
 Sisu
 Smaug
 Smiley Bone
@@ -403,6 +412,7 @@ Walt Stone
 War Machine
 Weiss Schnee
 William Cage
+Wolverine
 Wonder Woman
 Yang Xiao Long
 Yoda

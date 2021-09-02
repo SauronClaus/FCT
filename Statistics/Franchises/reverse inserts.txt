@@ -23,6 +23,7 @@ Mario Galaxy (3): Mario (protagonist), Rosalina (protagonist), Bowser (antagonis
 Moana (4): Maui (protagonist), Moana (protagonist), Tamatoa (antagonist), Te Ka (antagonist)
 RWBY (4): Ruby Rose (protagonist), Weiss Schnee (protagonist), Blake Belladonna (protagonist), Yang Xiao Long (protagonist)
 Raya and the Last Dragon (9): Raya (protagonist), Sisu (protagonist), Boun (protagonist), Tong (protagonist), Noi (protagonist), Dyan (protagonist), Pan (protagonist), Uka (protagonist), Namaari (antagonist)
+Sherlock (5): Sherlock Holmes (protagonist), John Watson (protagonist), Inspector Lestrad (protagonist), Mycroft Holmes (protagonist), James Moriarty (antagonist)
 Undertale (Genocide Route) (10): Frisk (Genocide Route) (protagonist), Chara (protagonist), Toriel (antagonist), Papyrus (antagonist), Undyne (antagonist), Mettaton EX (antagonist), Sans (antagonist), Alphys (antagonist), Asgore (antagonist), Flowey (antagonist)
-Undertale (Neutral Route) (9): Frisk (Neutral Route) (protagonist), Toriel (protagonist), Sans (protagonist), Papyrus (antagonist), Undyne (antagonist), Mettaton EX (antagonist), Asgore (antagonist), Flowey (antagonist), Alphys (antagonist)
+Undertale (Neutral Route) (9): Frisk (Neutral Route) (protagonist), Toriel (protagonist), Sans (protagonist), Papyrus (antagonist), Undyne (antagonist), Mettaton EX (antagonist), Alphys (antagonist), Asgore (antagonist), Flowey (antagonist)
 Undertale (Pacifist Route) (9): Frisk (Pacifist Route) (protagonist), Toriel (protagonist), Papyrus (protagonist), Undyne (protagonist), Mettaton EX (protagonist), Sans (protagonist), Alphys (protagonist), Asgore (antagonist), Flowey (antagonist)

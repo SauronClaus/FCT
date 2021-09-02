@@ -1,6 +1,6 @@
 Avengers (Extended) (30): Agent Venom, Beast, Black Panther, Black Widow, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Janet van Dyne, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, The Human Torch, The Invisible Woman, The Thing, Thor, Vision, War Machine
 Justice League (Extended) (22): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Black Lightning, Booster Gold, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hal Jordan, Hawkgirl, Hippolyta, John Stewart, Martian Manhunter, Mary Marvel, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
-X-Men (Extended) (18): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Young Cyclops
+X-Men (Extended) (19): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Wolverine, Young Cyclops
 Super Smash Bros (13): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
@@ -25,6 +25,7 @@ Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace,
 Justice League Founder (7): Aquaman, Barry Allen, Batman, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League (Core) (7): Barry Allen, Batman, Cyborg, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League Unlimited (7): Batman, Hawkgirl, John Stewart, Martian Manhunter, Superman, Wally West, Wonder Woman
+X-Men (Core) (7): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm, Wolverine
 Rebel Alliance (Star Wars) (7): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
 IRL People (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
@@ -33,7 +34,7 @@ Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam, Sebastian, Shane
 Undertale Pacifist Friends (6): Alphys, Frisk (Pacifist Route), Papyrus, Sans, Toriel, Undyne
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
 Band of Fools (Redux) (6): Arthail Consumer of Food, Byllemura Ruby-Eye, Eldon Spark Turen, Jori-En Blurred, Kalathos Sunstrider, Squee
-X-Men (Core) (6): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm
+Giant Sized X-Men #1 Team (6): Banshee, Colossus, Cyclops, Nightcrawler, Storm, Wolverine
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
 Original Trilogy Quintet (6): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, R2-D2
 Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
@@ -49,7 +50,6 @@ Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashi
 Skywalkers (Star Wars) (5): Anakin Skywalker, Kylo Ren, Leia Organa, Luke Skywalker, Rey
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
-Giant Sized X-Men #1 Team (5): Banshee, Colossus, Cyclops, Nightcrawler, Storm
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
 Sesame Street Residents (4): Abby Cadabby, Bert, Big Bird, Ernie
@@ -60,6 +60,7 @@ Young Justice (Extended) (4): Amethyst, Bart Allen, Tim Drake, Wally West
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
 Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
+Alpha Flight (4): Aurora, Carol Danvers, Northstar, Wolverine
 Sequel Trilogy Main Cast (4): BB-8, Finn, Poe Dameron, Rey
 Original Four (KSP) (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Team RWBY (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
@@ -69,6 +70,7 @@ Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
 Noi's Family (4): Dyan, Noi, Pan, Uka
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
+Sherlock (TV Show) Cast (4): Inspector Lestrade, John Watson, Mycroft Holmes, Sherlock Holmes
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 Fantastic Four (Core) (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Marvel's First Family (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
@@ -90,7 +92,6 @@ Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnas
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
 Pokemon Anime Kanto Trio (3): Ash Ketchum, Brock, Misty
 Finch Family (3): Atticus Finch, Jem Finch, Scout Finch
-Alpha Flight (3): Aurora, Carol Danvers, Northstar
 Azula's Capture-the-Avatar Gang (3): Azula, Mai, Ty Lee
 Falcon & the Winter Soldier Main Trio (3): Baron Zemo, Bucky Barnes, Falcon
 Trinity (DC) (3): Batman, Superman, Wonder Woman
@@ -145,6 +146,7 @@ OSS (2): Carmen Cortez, Juni Cortez
 Cortez Family (2): Carmen Cortez, Juni Cortez
 Teen Titans Founders (2): Dick Grayson, Wally West
 Ethan Chou's Permutations (2): Ethan Chou, Kalathos Sunstrider
+Door Monster Creations (2): Extortionist Hobo, LeBron
 Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Amazons (2): Hippolyta, Wonder Woman
 Exiles (2): Iron Lad, Psylocke
@@ -238,4 +240,5 @@ Marvel's Floating Super-Hero Poker Game (1): The Thing
 Asgardians (Marvel) (1): Thor
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 J-Squad (Edge of Tomorrow) (1): William Cage
+Wolverines (1): Wolverine
 Time Displaced X-Men (1): Young Cyclops

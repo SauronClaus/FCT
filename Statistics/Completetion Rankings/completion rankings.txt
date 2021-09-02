@@ -1,15 +1,15 @@
-Characters (35.18%):
-   -412 completed characters.
-   -756 incomplete characters.
+Characters (35.82%):
+   -422 completed characters.
+   -753 incomplete characters.
    -3 unupdated characters.
    -0 weird characters.
-   -1171 total characters.
-Franchises: (16.470000000000002%):
-   -28 completed franchises.
+   -1178 total characters.
+Franchises: (16.96%):
+   -29 completed franchises.
    -136 incomplete franchises.
    -3 unupdated franchises.
    -3 weird franchises.
-   -170 total franchises.
+   -171 total franchises.
 Artifacts: (100.0%):
    -87 completed artifacts.
    -0 incomplete artifacts.

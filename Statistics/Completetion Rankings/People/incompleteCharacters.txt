@@ -73,7 +73,6 @@ Doctor Doom
 Doctor Strange
 Donkey Kong
 Donna Troy
-Doom Guy
 Doomfist
 Douglas Fargo
 Dr. Alan Grant
@@ -113,7 +112,6 @@ Ethan Hunt
 Ethan Siegal
 Eva Turthin
 Experiment-01
-Extortionist Hobo
 Ezio Auditore da Firenze
 FL4K
 Faith Connors
@@ -727,7 +725,6 @@ Wilson
 Winston
 Winston Smith
 Wolf O'Donnell
-Wolverine
 Wonder Girl
 Worf
 Wormwood

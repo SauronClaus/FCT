@@ -1,7 +1,7 @@
 501st Legion (Star Wars) (2): Ahsoka Tano, Anakin Skywalker
 Aarav Gupta's Permutations (1): Arthail Consumer of Food
 Abby Smetana's Permutations (1): Nahara
-Alpha Flight (3): Aurora, Carol Danvers, Northstar
+Alpha Flight (4): Aurora, Carol Danvers, Northstar, Wolverine
 Amazons (2): Hippolyta, Wonder Woman
 Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
 Ares III Mission Crew (2): Beth Johanssen, Dr. Chris Beck
@@ -48,6 +48,7 @@ Death Eaters (1): Lord Voldemort
 Detective Skills|Tech|2 (1): Amy Ferrier
 Disney Princesses (3): Anna, Elsa, Moana
 Doom Patrol (Extended) (1): Beast Boy
+Door Monster Creations (2): Extortionist Hobo, LeBron
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
 Dumbing of Age Main Cast (1): Amazi-Girl
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
@@ -78,7 +79,7 @@ Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Future Foundation (1): Bentley-23
 GCPD (1): Jim Gordon
 Galactic Empire (1): Darth Vader
-Giant Sized X-Men #1 Team (5): Banshee, Colossus, Cyclops, Nightcrawler, Storm
+Giant Sized X-Men #1 Team (6): Banshee, Colossus, Cyclops, Nightcrawler, Storm, Wolverine
 Golden Deer (3): Byleth, Claude, Hilda
 Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
@@ -164,6 +165,7 @@ Sesame Street Residents (4): Abby Cadabby, Bert, Big Bird, Ernie
 Seven Soldiers of Victory (1): Green Arrow
 Shadaloo (2): M. Bison, Seth
 Shazam Family (3): Captain Marvel Jr., Captain Marvel, Mary Marvel
+Sherlock (TV Show) Cast (4): Inspector Lestrade, John Watson, Mycroft Holmes, Sherlock Holmes
 Shirai Ryu (1): Scorpion
 Shortpacked! Store (1): Amazi-Girl
 Sith Lord (1): Darth Vader
@@ -229,8 +231,9 @@ Vault Hunters (3): Amara, Axton, Brick
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 West Coast Avengers (1): Hawkeye
-X-Men (Core) (6): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm
-X-Men (Extended) (18): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Young Cyclops
+Wolverines (1): Wolverine
+X-Men (Core) (7): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm, Wolverine
+X-Men (Extended) (19): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Wolverine, Young Cyclops
 X-Men First Class (3): Angel, Beast, Cyclops
 Young Avengers (Extended) (3): America Chavez, Cassie Lang, Iron Lad
 Young Avengers Founders (1): Iron Lad

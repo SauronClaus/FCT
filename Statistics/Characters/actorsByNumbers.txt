@@ -8,6 +8,7 @@ Laura Bailey (6): Black Widow, Blaze the Cat, Carol Danvers, Cassie Lang, Psyloc
 Travis Willingham (6): Booster Gold, Captain Britain, Guile, Hulk, The Human Torch, Thor
 Fred Tatasciore (5): Beast, Hulk, Magneto, Qui-Gon Jinn, Ultron
 Matthew Mercer (5): Dick Grayson, Hawkeye, Iron Man, Luke Skywalker, Tim Drake
+David Kaye (4): Akuma, Ultron, Vision, Wolverine
 Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
 Bumper Robinson (4): Black Lightning, Cyborg, Falcon, War Machine
 Scott Menville (4): Bucky Barnes, Dick Grayson, Quicksilver, Tim Drake
@@ -17,7 +18,6 @@ Crispin Freeman (4): Colossus, Loki, Martian Manhunter, Scott Lang
 Jason Spisak (4): Hal Jordan, Jason Todd, Loki, Wally West
 Tom Kane (4): Jim Gordon, Magneto, Ultron, Yoda
 Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
-David Kaye (3): Akuma, Ultron, Vision
 Tom Kenny (3): Anti-Monitor, Colossus, Ultron
 Ethan Chou (3): Arthas Menethil, Ethan Chou, Kalathos Sunstrider
 Neil Patrick Harris (3): Barry Allen, Dick Grayson, Spider-Man
@@ -25,18 +25,24 @@ Charlie Schlatter (3): Barry Allen, Damian Wayne, Tim Drake
 Frank Oz (3): Bert, Yoda, Yoda
 Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
 Billy Kametz (3): Blue, Ferdinand, Iron Lad
+Steve Blum (3): Brimstone, Ken, Wolverine
 Harrison Truscott (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
+Bryce Papenbrook (3): Caesar Anthonio Zeppeli, Doom Guy, Red (Pokemon)
 Roger Craig Smith (3): Captain America, Kylo Ren, Sonic the Hedgehog
 Jennifer Hale (3): Carol Danvers, Iris West, Scarlet Witch
 Colin Frazer (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
 Wally Wingert (3): Hank Pym, Mr. Fantastic, Ultron
 Dee Bradley Baker (3): Hank Pym, Mr. Fantastic, Nightcrawler
 Kari Wahlgren (3): Hope van Dyne, Janet van Dyne, The Invisible Woman
+Mark Hamill (3): Luke Skywalker, Ozai, Wolverine
+Peter Cushing (2): Abraham Van Helsing, Sherlock Holmes
+Hugh Jackman (2): Abraham Van Helsing, Wolverine
 Kirk Thornton (2): Adam Warlock, Guile
 Matt Lanter (2): Agent Venom, Anakin Skywalker
 Logan Miller (2): Agent Venom, Sam Alexander
 Rosario Dawson (2): Ahsoka Tano, Barbara Gordon
 Zach Wiebe (2): Akkar, Zach Wiebe
+Jude Law (2): Albus Dumbledore, John Watson
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
 Michael Gough (2): Alfred Pennyworth, Arthur Holmwood
 Jeremy Irons (2): Alfred Pennyworth, Brom
@@ -55,14 +61,14 @@ Dwight Schultz (2): Barry Allen, Magneto
 Steve Whitmire (2): Beaker, Ernie
 George Buza (2): Beast, Magneto
 Kate Mara (2): Beth Johanssen, The Invisible Woman
+Martin Freeman (2): Bilbo Baggins, John Watson
+Andrew Scott (2): Billy Pilgrim, James Moriarty
 Vanessa Marshall (2): Black Canary, Black Widow
 Khary Payton (2): Black Lightning, Cyborg
 Lucien Dodge (2): Blue, Felix
 Liam O'Brien (2): Brainiac 5, Nightcrawler
-Steve Blum (2): Brimstone, Ken
 Benedict Wong (2): Bruce Ng, Tong
 Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
-Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
 Chris Evans (2): Captain America, The Human Torch
 Brian Bloom (2): Captain America, Cyborg
 April Stewart (2): Carol Danvers, Psylocke
@@ -82,11 +88,13 @@ Gary Schwartz (2): Demoman, Heavy
 Loren Lester (2): Dick Grayson, Dick Grayson
 Jack DeSena (2): Dick Grayson, Sokka
 Allegra Clark (2): Dorothea, Shamir
+Christopher Lee (2): Dracula, Mycroft Holmes
 Wendy Tremont King (2): Gran'ma Ben, Thorn Harvestar
 Michael Donovan (2): Guile, Hulk
 Gerald Mohr (2): Hal Jordan, Mr. Fantastic
 Neil Ross (2): Han Solo, Nightcrawler
 Lex Lang (2): Han Solo, Poe Dameron
+Tony Daniels (2): Hawkeye, Wolverine
 Adrian Pasdar (2): Hawkeye, Iron Man
 Sam Riegel (2): Hawkeye, Spider-Man
 Robbie Daymond (2): Hubert, Spider-Man
@@ -94,6 +102,7 @@ Paul Soles (2): Hulk, Spider-Man
 Lou Ferrigno (2): Hulk, Hulk
 Sebastian Spence (2): Hulk, Ted Kord
 Armen Taylor (2): Hulk, Jay Garrick
+Robert Downey Jr. (2): Iron Man, Sherlock Holmes
 Cameron Bowen (2): Jason Todd, Tim Drake
 David Naughton (2): Jay Garrick, Mr. Fantastic
 Phil LaMarr (2): John Stewart, War Machine
@@ -106,12 +115,13 @@ Danny Wells (2): Luigi, Luigi
 Charles Martinet (2): Luigi, Mario
 Marc Graue (2): Luigi, Mario
 Julien Bardakoff (2): Luigi, Luigi
-Mark Hamill (2): Luke Skywalker, Ozai
 Lou Albano (2): Mario, Mario
 Dorian Harewood (2): Martian Manhunter, War Machine
 Jessica Chisum (2): Princess Daisy, Princess Peach
 Jen Taylor (2): Princess Daisy, Princess Peach
 Dennis Bateman (2): Pyro, Spy
+Benedict Cumberbatch (2): Sherlock Holmes, Smaug
+Henry Cavill (2): Sherlock Holmes, Superman
 John Patrick Lowrie (2): Sniper, Soldier
 Quinton Flynn (2): Spider-Man, The Human Torch
 Wil Wheaton (2): Ted Kord, Tim Drake

@@ -7,5 +7,5 @@ Graphic Novels (1): Bone
 Movies (10): Age of Ultron, Avengers I, Captain America Civil War, Dracula, Edge of Tomorrow (film), Frozen, Halloween, Harry Potter, Moana, Raya and the Last Dragon
 Pixelated (3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 Superhero Comics (1): Crisis on Infinite Earths
-TV Shows (2): Avatar The Last Airbender, RWBY
+TV Shows (3): Avatar The Last Airbender, RWBY, Sherlock
 Video Games (11): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind), Half Life 2, Mario 64, Mario Galaxy, Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)

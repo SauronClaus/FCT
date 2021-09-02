@@ -22,11 +22,13 @@ Cortez (2): Carmen Cortez, Juni Cortez
 Lang (2): Cassie Lang, Scott Lang
 Stone (2): Cyborg, Walt Stone
 Summers (2): Cyclops, Young Cyclops
+Howlett (2): Doom Guy, Wolverine
 Harvestar (2): Gran'ma Ben, Thorn Harvestar
 Solo (2): Han Solo, Kylo Ren
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
 Harker (2): Jonathan Harker, Mina Harker
 Mario (2): Luigi, Mario
+Holmes (2): Mycroft Holmes, Sherlock Holmes
 Maximoff (2): Quicksilver, Scarlet Witch
 El (2): Superboy Prime, Superman
 Cadabby (1): Abby Cadabby
@@ -125,6 +127,7 @@ Li (1): Chun-Li
 von Riegan (1): Claude
 Frazer (1): Colin Frazer
 Rasputin (1): Colossus
+Smith (1): Culverton Smith
 Franklin (1): Dana Franklin
 Molinaro (1): Dedue
 DeGroot (1): Demoman
@@ -162,13 +165,16 @@ Goneril (1): Hilda
 von Vestra (1): Hubert
 Banner (1): Hulk
 Galatea (1): Ingrid
+Lestrade (1): Inspector Lestrade
 Stark (1): Iron Man
+Moriarty (1): James Moriarty
 Grace (1): Jason Grace
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
 Chambers (1): Jesse Quick
 Seward (1): John Seward
 Stewart (1): John Stewart
+Watson (1): John Watson
 Jenkins (1): Jono Jenkins
 L (1): Kal-L
 Sunstrider (1): Kalathos Sunstrider

@@ -18,6 +18,7 @@ Cortez: Carmen Cortez, Juni Cortez
 Lang: Cassie Lang, Scott Lang
 Stone: Cyborg, Walt Stone
 Summers: Cyclops, Young Cyclops
+Howlett: Doom Guy, Wolverine
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo, Kylo Ren
@@ -27,5 +28,6 @@ West: Irey West, Iris West, Jai West, Wally West II, Wally West
 Richards: Iron Lad, Mr. Fantastic, The Invisible Woman
 Harker: Jonathan Harker, Mina Harker
 Mario: Luigi, Mario
+Holmes: Mycroft Holmes, Sherlock Holmes
 Maximoff: Quicksilver, Scarlet Witch
 El: Superboy Prime, Superman

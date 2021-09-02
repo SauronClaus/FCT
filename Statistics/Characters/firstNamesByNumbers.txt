@@ -1,10 +1,10 @@
-James (4): Bucky Barnes, Captain Kirk, Jim Gordon, War Machine
+James (7): Bucky Barnes, Captain Kirk, Doom Guy, James Moriarty, Jim Gordon, War Machine, Wolverine
+John (4): Captain John H. Miller, John Seward, John Stewart, John Watson
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
 Amy (3): Amethyst, Amy Cahill, Amy Rose
 Arthur (3): Aquaman, Arthur Holmwood, Arthur Weasley
 Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
-John (3): Captain John H. Miller, John Seward, John Stewart
 Scott (3): Cyclops, Scott Lang, Young Cyclops
 Samuel (3): Dr. Loomis, Falcon, Sam Alexander
 Frisk (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
@@ -160,6 +160,7 @@ Chun (1): Chun-Li
 Claude (1): Claude
 Colin (1): Colin Frazer
 Piotr (1): Colossus
+Culverton (1): Culverton Smith
 Damian (1): Damian Wayne
 Dana (1): Dana Franklin
 Dedue (1): Dedue
@@ -265,6 +266,7 @@ Moana (1): Moana
 Monica (1): Monica Rambeau
 Reed (1): Mr. Fantastic
 Kamala (1): Ms. Marvel
+Mycroft (1): Mycroft Holmes
 Nadia (1): Nadia Van Dyne
 Nahara (1): Nahara
 Namaari (1): Namaari
@@ -309,6 +311,7 @@ Seteth (1): Seteth
 Seth (1): Seth
 Shamir (1): Shamir
 Shane (1): Shane
+Sherlock (1): Sherlock Holmes
 Sisu (1): Sisu
 Smaug (1): Smaug
 Smiley (1): Smiley Bone

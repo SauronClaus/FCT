@@ -1,15 +1,17 @@
 Adrian Pasdar (2): Hawkeye, Iron Man
 Alan Tudyk (2): Barry Allen, Green Arrow
 Allegra Clark (2): Dorothea, Shamir
+Andrew Scott (2): Billy Pilgrim, James Moriarty
 April Stewart (2): Carol Danvers, Psylocke
 Armen Taylor (2): Hulk, Jay Garrick
 Ashly Burch (2): Aloy, Ms. Marvel
 Ben Lepley (2): Dedue, Dimitri
+Benedict Cumberbatch (2): Sherlock Holmes, Smaug
 Benedict Wong (2): Bruce Ng, Tong
 Benjamin Diskin (2): Caspar, Spider-Man
 Billy Kametz (3): Blue, Ferdinand, Iron Lad
 Brian Bloom (2): Captain America, Cyborg
-Bryce Papenbrook (2): Caesar Anthonio Zeppeli, Red (Pokemon)
+Bryce Papenbrook (3): Caesar Anthonio Zeppeli, Doom Guy, Red (Pokemon)
 Bumper Robinson (4): Black Lightning, Cyborg, Falcon, War Machine
 Cameron Bowen (2): Jason Todd, Tim Drake
 Charles Martinet (2): Luigi, Mario
@@ -17,13 +19,14 @@ Charlie Schlatter (3): Barry Allen, Damian Wayne, Tim Drake
 Chris Cox (2): Colossus, Hawkeye
 Chris Evans (2): Captain America, The Human Torch
 Christopher Judge (2): Kratos, Magneto
+Christopher Lee (2): Dracula, Mycroft Holmes
 Colin Frazer (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
 Colleen O'Shaughnessey (2): Cassie Lang, Janet van Dyne
 Crispin Freeman (4): Colossus, Loki, Martian Manhunter, Scott Lang
 Danny Wells (2): Luigi, Luigi
 Dave Boat (2): The Thing, Thor
 David Kaufman (2): The Human Torch, The Human Torch
-David Kaye (3): Akuma, Ultron, Vision
+David Kaye (4): Akuma, Ultron, Vision, Wolverine
 David Naughton (2): Jay Garrick, Mr. Fantastic
 Dee Bradley Baker (3): Hank Pym, Mr. Fantastic, Nightcrawler
 Dennis Bateman (2): Pyro, Spy
@@ -41,7 +44,9 @@ Gregory Peck (2): Atticus Finch, Captain Ahab
 Grey DeLisle (4): Azula, Black Canary, Carol Danvers, Psylocke
 Harrison Truscott (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Hayden Christensen (2): Anakin Skywalker, Darth Vader
+Henry Cavill (2): Sherlock Holmes, Superman
 Hidenori Takahashi (2): Dedue, Dimitri
+Hugh Jackman (2): Abraham Van Helsing, Wolverine
 Ike Amadi (2): John Stewart, Martian Manhunter
 Jack DeSena (2): Dick Grayson, Sokka
 Jake Lloyd (2): Anakin Skywalker, Darth Vader
@@ -56,6 +61,7 @@ John Patrick Lowrie (2): Sniper, Soldier
 John Wesley Shipp (2): Barry Allen, Jay Garrick
 Jonathan Groff (2): Kristoff, Sven
 Josh Keaton (7): Cyclops, Dick Grayson, Hal Jordan, Jason Todd, Scott Lang, Spider-Man, The Human Torch
+Jude Law (2): Albus Dumbledore, John Watson
 Julien Bardakoff (2): Luigi, Luigi
 Kaeshev Alapati (2): Jori-En Blurred, Squee
 Kari Wahlgren (3): Hope van Dyne, Janet van Dyne, The Invisible Woman
@@ -75,8 +81,9 @@ Lucien Dodge (2): Blue, Felix
 Mae Whitman (2): Barbara Gordon, Katara
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
 Marc Graue (2): Luigi, Mario
-Mark Hamill (2): Luke Skywalker, Ozai
+Mark Hamill (3): Luke Skywalker, Ozai, Wolverine
 Mark Hildreth (2): Cyclops, Quicksilver
+Martin Freeman (2): Bilbo Baggins, John Watson
 Matt Lanter (2): Agent Venom, Anakin Skywalker
 Matthew Mercer (5): Dick Grayson, Hawkeye, Iron Man, Luke Skywalker, Tim Drake
 Michael B. Jordan (2): Cyborg, The Human Torch
@@ -88,11 +95,13 @@ Neil Patrick Harris (3): Barry Allen, Dick Grayson, Spider-Man
 Neil Ross (2): Han Solo, Nightcrawler
 Nolan North (10): Beast Boy, Colossus, Cyclops, Engineer, Hal Jordan, Hank Pym, Hawkeye, Iron Man, Magneto, Nightcrawler
 Paul Soles (2): Hulk, Spider-Man
+Peter Cushing (2): Abraham Van Helsing, Sherlock Holmes
 Phil LaMarr (2): John Stewart, War Machine
 Phil Morris (2): Colossus, Martian Manhunter
 Quinton Flynn (2): Spider-Man, The Human Torch
 Ralph Fiennes (2): Alfred Pennyworth, Lord Voldemort
 Robbie Daymond (2): Hubert, Spider-Man
+Robert Downey Jr. (2): Iron Man, Sherlock Holmes
 Robin Atkin Downes (2): Cyclops, Medic
 Roger Craig Smith (3): Captain America, Kylo Ren, Sonic the Hedgehog
 Rosario Dawson (2): Ahsoka Tano, Barbara Gordon
@@ -102,12 +111,13 @@ Scott Porter (4): Bucky Barnes, Cyclops, Damian Wayne, Dick Grayson
 Sebastian Polge (2): Arthas Menethil, Sebastian Polge
 Sebastian Spence (2): Hulk, Ted Kord
 Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
-Steve Blum (2): Brimstone, Ken
+Steve Blum (3): Brimstone, Ken, Wolverine
 Steve Whitmire (2): Beaker, Ernie
 Tara Strong (7): Barbara Gordon, Blink, Janet van Dyne, Mary Marvel, Scarlet Witch, The Invisible Woman, Tim Drake
 Terrence C. Carson (2): Kratos, Mace Windu
 Tom Kane (4): Jim Gordon, Magneto, Ultron, Yoda
 Tom Kenny (3): Anti-Monitor, Colossus, Ultron
+Tony Daniels (2): Hawkeye, Wolverine
 Travis Willingham (6): Booster Gold, Captain Britain, Guile, Hulk, The Human Torch, Thor
 Trevor Devall (4): Captain America, Colossus, Cyclops, Nightcrawler
 Troy Baker (6): Alucard, Dick Grayson, Hawkeye, Jason Todd, Loki, Tim Drake

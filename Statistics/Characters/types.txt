@@ -22,16 +22,17 @@ Castaway (1): Brian Robeson
 Chef (1): Boun
 Child (1): Austin
 Chosen One (1): Byleth
-Civilian (17): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Ernie, Ethan Chou, Harrison Truscott, Jem Finch, Jonathan Harker, Jono Jenkins, Mina Harker, Quincey Morris, Scout Finch, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
+Civilian (18): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Ernie, Ethan Chou, Harrison Truscott, Jem Finch, Jonathan Harker, Jono Jenkins, LeBron, Mina Harker, Quincey Morris, Scout Finch, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Cleric (1): Mercedes
 Con Artist (4): Dyan, Noi, Pan, Uka
 Conman (1): Phoney Bone
+Criminal (1): James Moriarty
 Dark Mage (1): Hubert
 Death Knight (1): Arthas Menethil
-Detective (1): Adrian Monk
+Detective (4): Adrian Monk, Inspector Lestrade, Mycroft Holmes, Sherlock Holmes
 Dictator (1): M. Bison
 Director (1): Bruce Ng
-Doctor (1): John Seward
+Doctor (2): John Seward, John Watson
 Dragon (1): Smaug
 Dragon Rider (1): Brom
 Dreamer (1): Alice Johnson
@@ -57,6 +58,7 @@ Hero (1): Sonic the Hedgehog
 Hitman (1): Anton Chigurh
 Hive Mind Primary (1): Omega (Edge of Tomorrow)
 Hoarder (1): Tamatoa
+Hobo (1): Extortionist Hobo
 Hooligan (1): Alex DeLarge
 Horror Game Character (1): Ashley Brown
 Huntress (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
@@ -104,13 +106,14 @@ Saintess (1): Flayn
 Scholar (1): Linhardt
 Scientist (2): Alphys, Gordon Freeman
 Secret Agent (2): Carmen Cortez, Juni Cortez
+Serial Killer (1): Culverton Smith
 Showman (1): Mettaton EX
 Singer (1): Dorothea
 Sith (1): Kylo Ren
 Sith Lord (1): Darth Vader
 Slasher (1): Michael Myers
 Smuggler (2): Chewbacca, Han Solo
-Soldier (20): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Finn, Guile, Heavy, Leia Organa, Mai, Pyro, Rita Vrataski, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
+Soldier (21): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Doom Guy, Finn, Guile, Heavy, Leia Organa, Mai, Pyro, Rita Vrataski, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Space Captain (1): Captain Kirk
 Spirit (1): Chara
@@ -118,7 +121,7 @@ Strategist (1): Bean
 Super Hero (1): Bucky Barnes
 Super Villain (1): Captain Boomerang
 Superhero (88): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
-Superheroes (3): Colossus, Cyclops, Nightcrawler
+Superheroes (4): Colossus, Cyclops, Nightcrawler, Wolverine
 Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
 Survivor (1): Laurie Strode
 Swordsman (1): Felix

@@ -19,12 +19,12 @@
 23 (1): Finn
 24 (2): Alyx, Artyom
 25 (2): Ashley Williams, Shamir
-27 (3): Captain Kirk, Catherine, Gordon Freeman
+27 (4): Captain Kirk, Catherine, Gordon Freeman, Sherlock Holmes
 28 (2): Barry Allen, Chun-Li
-29 (3): Beth Johanssen, Captain George Pollard Jr., Kylo Ren
+29 (4): Beth Johanssen, Captain George Pollard Jr., John Watson, Kylo Ren
 30 (7): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Ken, Ryu, Sombra
 32 (3): C3PO, Han Solo, Poe Dameron
-34 (1): Guile
+34 (2): Guile, Mycroft Holmes
 35 (2): Barret Wallace, Obi-Wan Kenobi
 36 (1): Dr. Chris Beck
 37 (1): Allison Blake

@@ -1,3 +1,3 @@
-Baseline (5): Dracula, Frozen, Halloween, Kindred (novel), Raya and the Last Dragon
+Baseline (6): Dracula, Frozen, Halloween, Kindred (novel), Raya and the Last Dragon, Sherlock
 City (9): Age of Ultron, Avatar The Last Airbender, Avengers I, Captain America Civil War, Crisis on Infinite Earths, Harry Potter, Kane Chronicles, Mario 64, Mario Galaxy
 Modified Human (14): Band of Fools (original), Bone, Edge of Tomorrow (film), Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind), Half Life 2, Moana, RWBY, Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
