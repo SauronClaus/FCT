@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Determination,Emotional Spectrum,Green,Green Lantern,Justice League,Paragon,Pilot,Soldier,Superheroes
+Determination,Emotional Spectrum,Green,Green Lantern,Justice League,Legend,Paragon,Pilot,Soldier,Superheroes
 Cosmic
 Medium
 Justice League (Core),Justice League (Extended),Justice League Founder,Green Lantern Corps

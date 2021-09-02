@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Black Eagles (Fire Emblem),Cleric,Crest,Genius,Lazy,Nobility,Quiet,Scholar,Sleepy,Yin & Yang|Caspar
+Black Eagles (Fire Emblem),Cleric,Crest,Genius,Introvert,Lazy,Nobility,Quiet,Scholar,Sleepy,Yin & Yang|Caspar
 Baseline
 Low
 Black Eagles

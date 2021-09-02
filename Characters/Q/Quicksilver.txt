@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Avengers,Mutant,Parent Child|Magneto,Reformed,Siblings|Scarlet Witch,Speedsters,X-Men
+Avengers,Avengers Wave #2,Mutant,Parent Child|Magneto,Redemption Arc,Reformed,Siblings|Scarlet Witch,Speedsters,X-Men
 City
 Medium
 Avengers (Extended),X-Men (Extended)

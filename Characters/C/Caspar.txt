@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Axeman,Black Eagles (Fire Emblem),Boisterous,Loud,Nobility,Yin & Yang|Linhardt
+Axe,Black Eagles (Fire Emblem),Boisterous,Loud,Nobility,Yin & Yang|Linhardt
 Baseline
 Low
 Black Eagles

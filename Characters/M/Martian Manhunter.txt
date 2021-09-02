@@ -13,7 +13,7 @@ Martian
 Good
 Protagonist
 Male
-Detective,Justice League,Last of Kind,Leader,Martian,Powerhouse,Shapeshifter,Superheroes
+Alien,Detective,Justice League,Last of Kind,Leader,Martian,Powerhouse,Shapeshifter,Superheroes
 Cosmic
 High
 Justice League (Core),Justice League (Extended),Justice League Unlimited,Justice League Founder

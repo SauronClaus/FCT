@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Civilian,Innocent,Teenager
+Innocent,Teenager
 Baseline
 Low
 

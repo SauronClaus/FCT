@@ -13,7 +13,7 @@ Human
 Neutral
 Supporting Protagonist
 Female
-Assassin,Orphan,Outcast,Planeswalker,Rogue,Small
+Assassin,Exile,Orphan,Planeswalker,Rogue,Small
 Modified Human
 Low
 

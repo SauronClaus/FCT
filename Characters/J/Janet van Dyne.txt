@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Insect-Themed,Married|Hank Pym,Parent Child|Hope van Dyne,Parent Child|Nadia van Dyne,Size-Changing,Superheroes,Tech
+Avengers Founders,Insect-Themed,Married|Hank Pym,Parent Child|Hope van Dyne,Parent Child|Nadia van Dyne,Size-Changing,Superheroes,Tech
 City
 Medium
 Ant-Man Cast,Avengers (Core),Avengers (Extended),Avengers Founders

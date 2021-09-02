@@ -13,7 +13,7 @@ Ongi
 Neutral
 Supporting Protagonist
 Male
-Animorphic,Con Artist,Thief
+Animorphic,Con Artist,Criminal,Thief
 Baseline
 Low
 Raya's Band of Wanderers,Noi's Family

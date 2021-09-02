@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Acrobat,Bat-Family,Genius,Legacy|Batman,Non-Powered,Robins,Superheroes,Teen Titans
+Acrobat,Bat-Family,Bird-Themed,Genius,Legacy|Batman,Non-Powered,Robins,Superheroes,Teen Titans
 Modified Human
 High
 Bat-Family (Core),Bat-Family (Extended),Teen Titans (Extended),Robins,Teen Titans (Core),Teen Titans Founders,Teen Titans Go! Cast

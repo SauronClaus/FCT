@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Assistant,Duo|Sherlock Holmes,Gentleman,Medical Doctor,Sidekick,Soldier,Veteran
+Assistant,Duo|Sherlock Holmes,Gentleman,Medical Doctor,Narrator,Sidekick,Soldier,Veteran
 Baseline
 High
 Sherlock (TV Show) Cast

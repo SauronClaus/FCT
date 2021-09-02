@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Fellowship of the Ring,Nobility,Outcast,Swordsman
+Exile,Fellowship of the Ring,Nobility,Swordsman
 Baseline
 Medium
 Fellowship of the Ring

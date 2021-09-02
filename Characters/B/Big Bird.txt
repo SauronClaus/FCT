@@ -13,7 +13,7 @@ Muppet
 Good
 Protagonist
 Male
-Bird,Child,Large Bird,Muppet,Sesame Street
+Bird-Themed,Child,Large Bird,Muppet,Sesame Street
 Baseline
 Medium
 Sesame Street Residents

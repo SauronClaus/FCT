@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Demonic,German,Infernal,Mutant,Religious,Superheroes,Teleportation,X-Men
+Demonic,German,Mutant,Religious,Superheroes,Teleportation,X-Men
 City
 High
 X-Men (Core),X-Men (Extended),Giant Sized X-Men #1 Team

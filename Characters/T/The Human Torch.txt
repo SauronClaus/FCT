@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Catchphrase,Fantastic Four,Flaming,Siblings|The Invisible Woman
+Avengers,Catchphrase,Fantastic Four,Fire Powers,Flaming,Siblings|The Invisible Woman
 City
 High
 Fantastic Four (Core),Marvel's First Family,Avengers (Extended),Fantastic Four (Extended)

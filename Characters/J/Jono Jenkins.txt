@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Contributor,IRL,Rulers
+IRL,Supreme Overlords
 Baseline
 Medium
 Jono Jenkin's Permutations,IRL People,Server Owners

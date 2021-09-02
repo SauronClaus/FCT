@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Alcoholic,Explosions,Insane,Mercenary,Scottish,Team Fortress 2
+Alcoholic,Explosion Happy,Insane,Mercenary,Scottish,Team Fortress 2
 Baseline
 Medium
 Team Fortress Mercs

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-African American,Armor Suit,Genius,Inventor,Legacy|Iron Man,Tech
+African American,Armor Suit,Genius,Inventor,Legacy|Iron Man,Metal,Next Generation,Tech
 City
 Low
 Champions (Marvel) (Extended),Champions (Marvel) (Core),Iron Men Corps

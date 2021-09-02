@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Aunt Uncle|Wally West,Grandparent|Bart Allen,Reporter,Romantic Subplot|Barry Allen
+Aunt Uncle|Wally West,Aunt Uncle|Wally West II,Grandparent|Bart Allen,Reporter,Romantic Subplot|Barry Allen
 Baseline
 Medium
 

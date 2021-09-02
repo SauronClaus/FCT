@@ -13,7 +13,7 @@ Wookie
 Good
 Protagonist
 Male
-Criminal,Crossbow,Duo|Han Solo,No Words,Pilot,Rebellion (Star Wars),Resistance (Star Wars),Smuggler,Wookie
+Alien,Criminal,Crossbow,Duo|Han Solo,Pilot,Rebel,Rebellion (Star Wars),Resistance (Star Wars),Smuggler,Wookie
 Modified Human
 High
 Original Trilogy Quintet,Rebel Alliance (Star Wars),The Resistance (Star Wars)

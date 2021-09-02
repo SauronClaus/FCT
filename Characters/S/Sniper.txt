@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Assassin,Australian,Detatched,Mercenary,Team Fortress 2,Veteran
+Assassin,Australian,Detatched from World,Hitman,Mercenary,Merciless,Team Fortress 2,Veteran
 Baseline
 Medium
 Team Fortress Mercs

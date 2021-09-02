@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Detective,Inspector,Police
+Detective,Inspector,Investigator,Police
 Baseline
 Low
 Sherlock (TV Show) Cast

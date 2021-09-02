@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Accidental Time Travel,African American,Civilian,Time Traveler,Writer
+Accidental Time Travel,African American,Time Traveler,Writer
 Baseline
 Low
 

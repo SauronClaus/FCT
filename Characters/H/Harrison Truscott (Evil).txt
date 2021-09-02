@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Male
-Evil,Green
+Green
 Modified Human
 Very Low*
 Harrison Truscott's Permutations

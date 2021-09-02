@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Female
-Avengers,Chaos Magic,Magic User,Mutant,Parent Child|Magneto,Reformed,Romantic Subplot|Vision,Siblings|Quicksilver,X-Men
+Avengers,Avengers Wave #2,Chaos Magic,Magic User,Mutant,Parent Child|Magneto,Redemption Arc,Reformed,Romantic Subplot|Vision,Siblings|Quicksilver,X-Men
 Country
 High
 Avengers (Extended),X-Men (Extended)

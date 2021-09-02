@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Axe,Bad Jokes,Cheerful,Father Figure,Heavily Armored,Knights of Seiros (Fire Emblem),Loud
+Axe,Bad Jokes,Cheerful,Father Figure,Heavily Armored,Knight,Knights of Seiros (Fire Emblem),Loud
 Baseline
 Low
 Knights of Seiros

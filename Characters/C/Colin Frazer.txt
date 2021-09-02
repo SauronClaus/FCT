@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Contributor,IRL,Rulers
+Contributor,IRL,Supreme Overlords
 Baseline
 Medium
 Colin Frazer's Permutations,IRL People,Server Owners,Contributors

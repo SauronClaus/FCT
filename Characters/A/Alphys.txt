@@ -13,7 +13,7 @@ Dinosaur
 Neutral
 Supporting Protagonist
 Female
-Genius,Inventor|Mettaton EX,LGBTQ+,Romantic Subplot|Undyne,Scientist
+Genius,Inventor Inventee|Mettaton EX,Inventor,LGBTQ+,Romantic Subplot|Undyne,Royal Guardsman,Scientist
 Baseline
 Medium
 Undertale Pacifist Friends,Royal Guardsmen (Undertale)

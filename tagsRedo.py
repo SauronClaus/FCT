@@ -1,5 +1,6 @@
 # Reads the tags in tags.txt, and redoes the people tags with them.
-alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+#alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+alphabet = ["Z"]
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 import os
 
@@ -53,24 +54,24 @@ for character in characters.keys():
         firstLetter = "#"
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
-    
+        
     characterFile.close()
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "w", encoding='utf8')
-    
+        
     tagString = ""
     for tag in characters[character]:
         tagString = tagString + tag + ","
     print(tagString[0:len(tagString)-1:])
-
-    for item in characterInfo:
-        if characterInfo.index(item) != 15 and characterInfo.index(item) != 23:
-            characterFile.write(item + "\n")
-        else:
-            if characterInfo.index(item) == 23:
-                characterFile.write(item)
-            else:
-                if characterInfo.index(item) == 15:
-                    characterFile.write(tagString[0:len(tagString)-1:] + "\n")
+    newAssembly = characterInfo[0]
+    for characterInfoTag in range(1,15):
+        newAssembly = newAssembly + "\n" + characterInfo[characterInfoTag]
+    #newAssembly = newAssembly + "\n" + "COLOR"
+    #print("[\n" + newAssembly + "\n]")
+    tag = tagString[0:len(tagString)-1:]
+    deuxAssembly = ""
+    for characterInfoTag in range(16,29):
+        deuxAssembly = deuxAssembly + "\n" + characterInfo[characterInfoTag]
+    characterFile.write(newAssembly + "\n" + tag + deuxAssembly)
     characterFile.close()
 
 print("Completed!")

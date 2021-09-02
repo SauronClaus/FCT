@@ -340,7 +340,7 @@ Interdimensional; America Chavez, Blaze the Cat, Blink, Jori-En Blurred, Squee
 Interpol; Chun-Li
 Introvert; Amazi-Girl, Amy Cahill, Bernadetta, Linhardt, Mercedes
 Invader; Omega (Edge of Tomorrow)
-Inventor Inventee; Mettaton EX|Alphys, C3P0|Anakin Skywalker, Alphys|Mettaton EX, Anakin Skywalker|C3PO
+Inventor Inventee; Mettaton EX|Alphys, C3PO|Anakin Skywalker, Alphys|Mettaton EX, Anakin Skywalker|C3PO
 Inventor; Alphys, Alyx, Anakin Skywalker, Doctor Eggman, Dr. Bunsen Honeydew, Eldon Spark Turen, Iron Man, Ironheart, Leo Valdez, Ruby Rose, Ted Kord, Yang Xiao Long
 Investigator; Amy Ferrier, Inspector Lestrade, Sherlock Holmes
 Invisible; The Invisible Woman

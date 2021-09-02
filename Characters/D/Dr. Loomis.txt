@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Civilian,Doctor,Nemesis|Michael Myers,Psychiatrist
+Doctor,Nemesis|Michael Myers,Psychiatrist
 Baseline
 Low
 

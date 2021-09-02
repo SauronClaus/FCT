@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Nemesis|Raya,Nobility,Princess,Redeemed,Redemption Arc,Royalty,Soldier,Traitor,Warrior
+Fighter-Princess,Nemesis|Raya,Nobility,Princess,Redemption Arc,Royalty,Soldier,Traitor,Warrior
 Baseline
 Medium
 Raya's Band of Wanderers

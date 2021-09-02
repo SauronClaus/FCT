@@ -13,7 +13,7 @@ Android
 Good
 Protagonist
 Female
-Android,Artificial,Champions (Team),Density-Powers,LGBTQ+,Parent Child|Vision,Superheroes
+Android,Artificial,Champions (Team),Density-Powers,Droids,LGBTQ+,Metal,Next Generation,Parent Child|Vision,Superheroes
 Country
 High
 Champions (Marvel) (Core),Champions (Marvel) (Extended)

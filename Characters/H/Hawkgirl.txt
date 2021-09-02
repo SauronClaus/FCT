@@ -13,7 +13,7 @@ Thanagarian
 Good
 Protagonist
 Female
-Animal-Themed,Bird-Person,Justice League,Militarist,Reincarnation,Superheroes
+Animal-Themed,Bird-Themed,Justice League,Militarist,Reincarnation,Superheroes
 Modified Human
 Medium
 Justice League (Extended),Justice League Unlimited

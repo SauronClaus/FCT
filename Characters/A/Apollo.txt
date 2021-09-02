@@ -13,7 +13,7 @@ God
 Good
 Protagonist
 Male
-Archer,God,Poetry,Sun
+Archer,God(dess),Poetry,Sun
 Modified Human
 Medium
 Camp Half-Blood,Trials of Apollo Crew

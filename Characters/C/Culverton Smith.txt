@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Evil,Insane,Millionare,Psychopath,Serial Killer,Sociopath
+Insane,Psychopath/Sociopath,Rich,Serial Killer,Sociopath
 Baseline
 Low
 

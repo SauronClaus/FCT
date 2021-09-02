@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Japanese,Movies,VR (Augumented Reality)
+Japanese,VR (Augumented Reality)
 Baseline
 Low
 High Five (Ready Player One)

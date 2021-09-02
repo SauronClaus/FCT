@@ -13,7 +13,7 @@ God
 Neutral
 Antagonist
 Female
-Goddess,Greek,Omnipotent
+God(dess),Greek,Omnipotent
 Omnipotent
 Low
 

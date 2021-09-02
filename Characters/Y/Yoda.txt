@@ -13,7 +13,7 @@ Yoda's Species
 Good
 Supporting Protagonist
 Male
-Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Qui-Gon Jinn,Master Apprentice|Luke Skywalker,Master Apprentice|Mace Windu
+Force Sensitive,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Qui-Gon Jinn,Master Apprentice|Luke Skywalker,Master Apprentice|Mace Windu
 Country
 High
 Jedi Order

@@ -13,7 +13,7 @@ Breegull
 Good
 Protagonist
 Female
-Animorphic,Duo|Banjo,Non-Human,Platformer,Sarcastic,Super Smash Bros,Super Smash Bros Ultimate DLC
+Animorphic,Duo|Banjo,Platformer,Sarcastic,Super Smash Bros,Super Smash Bros Ultimate DLC
 City
 Low
 Super Smash Bros,Super Smash Bros DLC

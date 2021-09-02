@@ -13,7 +13,7 @@ Robot
 Good
 Supporting Protagonist
 Male
-Droids,Duo|R2-D2,Galactic Republic (Star Wars),Gold,Protocol Droid,Rebellion (Star Wars),Resistance (Star Wars)
+Droids,Duo|R2-D2,Galactic Republic (Star Wars),Gold,Inventor Inventee|Anakin Skywalker,Protocol Droid,Rebel,Rebellion (Star Wars),Resistance (Star Wars)
 Baseline
 High
 Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids,Rebel Alliance (Star Wars),The Resistance (Star Wars)

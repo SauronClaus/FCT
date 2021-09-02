@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Assassin,Espionage,Gentlemanly,Mercenary,Mysterious Past,Team Fortress 2
+Assassin,Espionage,Gentleman,Hitman,Mercenary,Merciless,Mysterious Backstory,Team Fortress 2
 Baseline
 Medium
 Team Fortress Mercs

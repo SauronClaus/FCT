@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Ability-Blocking,Acrobat,Cheerful,Circus Performer,Martial Artist,Nobility,Non-Powered,Redemption,Romantic Subplot|Zuko
+Ability-Blocking,Acrobat,Cheerful,Circus Performer,Martial Artist,Nobility,Non-Powered,Redemption Arc,Romantic Subplot|Zuko
 Modified Human
 Medium
 Azula's Capture-the-Avatar Gang

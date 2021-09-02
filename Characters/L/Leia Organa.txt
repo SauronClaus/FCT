@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Diplomat,Force Sensitive,Iconic,Nobility,Parent Child|Darth Vader,Parent Child|Kylo Ren,Princess,Rebel,Rebellion (Star Wars),Resistance (Star Wars),Romantic Subplot|Han Solo,Royalty,Siblings|Luke Skywalker
+Diplomat,Force Sensitive,Iconic,Leader,Nobility,Parent Child|Darth Vader,Parent Child|Kylo Ren,Princess,Rebel,Rebellion (Star Wars),Resistance (Star Wars),Romantic Subplot|Han Solo,Royalty,Siblings|Luke Skywalker
 Baseline
 High
 Original Trilogy Quintet,Rebel Alliance (Star Wars),The Resistance (Star Wars),Skywalkers (Star Wars)

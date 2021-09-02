@@ -13,7 +13,7 @@ Human
 Neutral
 Supporting Protagonist
 Female
-Baby,Con Artist,Found Family,Orphan,Raised by Animals,Thief
+Baby,Child,Con Artist,Criminal,Orphan,Raised by Animals,Thief
 Baseline
 Low
 Raya's Band of Wanderers,Noi's Family

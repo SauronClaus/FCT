@@ -13,7 +13,7 @@ Robot
 Good
 Supporting Protagonist
 Male
-Astromech,Droids,Duo|C3PO,Galactic Republic (Star Wars),No Words,Rebellion (Star Wars),Resistance (Star Wars)
+Astromech,Droids,Duo|C3PO,Galactic Republic (Star Wars),Rebel,Rebellion (Star Wars),Resistance (Star Wars)
 Baseline
 High
 Star Wars Droid Duo,Original Trilogy Quintet,Star Wars Droids,Rebel Alliance (Star Wars),The Resistance (Star Wars)

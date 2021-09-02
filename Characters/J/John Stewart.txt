@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Architect,Determination,Emotional Spectrum,Green,Green Lantern,Justice League,Marine,Soldier,Superheroes
+African American,Architect,Determination,Emotional Spectrum,Green,Green Lantern,Justice League,Legend,Marine,Soldier,Superheroes
 Cosmic
 Medium
 Justice League (Extended),Justice League Unlimited,Green Lantern Corps

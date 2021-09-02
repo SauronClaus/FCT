@@ -13,7 +13,7 @@ Flower
 Evil
 Antagonist
 Male
-Flower,Genocide,Innocuous Appearance,Psychopath,Soul Powers,Soulless
+Flower,Genocidal,Innocuous Appearance,Psychopath/Sociopath,Soul Powers,Soulless
 Modified Human
 Medium
 

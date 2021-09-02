@@ -13,7 +13,7 @@ Skeleton
 Good
 Supporting Protagonist
 Male
-Chef,Egomaniac,Guardsman,Idiot,Siblings|Sans
+Chef,Egomaniac,Guardsman,Idiot,Royal Guardsman,Siblings|Sans,Skeleton
 Baseline
 High
 Undertale Pacifist Friends,Royal Guardsmen (Undertale)

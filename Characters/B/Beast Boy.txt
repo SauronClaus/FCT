@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Green,Prankster,Shape Shifter,Teen Titans
+Green,Prankster,Shapeshifter,Teen Titans
 City
 High
 Teen Titans (Core),Doom Patrol (Extended),Teen Titans Go! Cast

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Detective,Genius,Government Official,Siblings|Sherlock Holmes
+Detective,Genius,Government,Siblings|Sherlock Holmes
 Baseline
 Low
 Sherlock (TV Show) Cast

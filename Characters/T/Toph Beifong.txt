@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Bender,Blind,Earth Bender,Metal Bender,Sarcastic
+Bender,Blind,Earth Bender,Earth Powers,Metal Bender,Metal Manipulation,Sarcastic
 City
 High
 The Gaang

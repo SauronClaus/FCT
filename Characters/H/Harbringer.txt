@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Cosmic,Cosmic Historian,Omen
+Cosmic,Cosmic Historian,Observer
 Cosmic
 Low
 

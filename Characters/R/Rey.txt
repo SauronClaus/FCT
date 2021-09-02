@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Force Sensitive,Jedi Knight,Master Apprentice|Luke Skywalker,Master Apprentice|Leia Organa,Resistance (Star Wars),Romantic Subplot|Kylo Ren
+Force Sensitive,Jedi Knight,Master Apprentice|Luke Skywalker,Master Apprentice|Leia Organa,Pilot,Resistance (Star Wars),Romantic Subplot|Kylo Ren
 City
 High
 Sequel Trilogy Main Cast,The Resistance (Star Wars),Skywalkers (Star Wars),Jedi Order

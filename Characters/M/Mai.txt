@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Knives,Nobility,Non-Powered,Redemption,Romantic Subplot|Zuko,Stoic
+Knives,Nobility,Non-Powered,Redemption Arc,Romantic Subplot|Zuko,Stoic
 Baseline
 Medium
 Azula's Capture-the-Avatar Gang

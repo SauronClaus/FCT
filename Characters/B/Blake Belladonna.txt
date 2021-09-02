@@ -13,7 +13,7 @@ Faunus
 Good
 Protagonist
 Female
-Animal-Person,Cat-Themed,Chainsaw,Chosen One,LGBTQ+,Monster Hunter,Romantic Subplot|Yang Xiao Long
+Animal-Person,Animal-Themed,Cat-Themed,Chainsaw,Chosen One,LGBTQ+,Monster Hunter,Romantic Subplot|Yang Xiao Long
 Baseline
 Medium
 Team RWBY

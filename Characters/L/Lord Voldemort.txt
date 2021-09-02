@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Death Eater,Harry Potter,Magic User,Nemesis|Harry Potter,Undead,Wizard
+Death Eater,Magic User,Nemesis|Harry Potter,Undead,Wizard
 City
 High
 Death Eaters

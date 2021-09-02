@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Abusive Parent,Bender,Emperor(ess),Fire Bender,Fire Lord,Fire Powers,Nobility,Parent Child|Azula,Parent Child|Zuko,Royalty,Ruler,Ruler,Siblings|Iroh
+Abusive Parent,Bender,Emperor(ess),Evil Ruler,Fire Bender,Fire Lord,Fire Powers,Nobility,Parent Child|Azula,Parent Child|Zuko,Royalty,Ruler,Siblings|Iroh
 City
 Medium
 

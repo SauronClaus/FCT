@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Chosen One,Disney Princess,Duo|Maui,Musical,Water Powers
+Chosen One,Disney Princess,Duo|Maui,Musical,Ocean,Sailor,Sea Powers,Water Powers
 Baseline
 High
 Te Fiti's Lonely Hearts Club Crew,Disney Princesses

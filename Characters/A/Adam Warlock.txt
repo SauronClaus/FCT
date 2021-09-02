@@ -13,7 +13,7 @@ Modified Human
 Good
 Protagonist
 Male
-Guardians of the Galaxy,Infinity Watch,Lab Experiment,Schemer
+Alien,Guardians of the Galaxy,Infinity Watch,Lab Experiment,Schemer
 Cosmic
 Low
 Infinity Watch,Guardians of the Galaxy (Extended)

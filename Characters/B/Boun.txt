@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Chef,Nimble,Orphan,Sailor,Suave
+Chef,Child,Nimble,Orphan,Sailor,Suave
 Baseline
 Medium
 Raya and the Last Dragon Crew
