@@ -13,7 +13,7 @@ Robot
 Evil
 Antagonist
 Male
-Genocidal Robot,Sharing Body,Robot
+Genocidal Robot,Robot,Sharing Body
 Cosmic
 High
 

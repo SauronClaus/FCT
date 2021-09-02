@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Speedsters,Superheroes,Justice Society of America
+Justice Society of America,Speedsters,Superheroes
 City
 Low
 Flash Family,Justice Society of America (Extended)

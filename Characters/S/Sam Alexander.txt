@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Young,Avengers,Champions (Team),Next Generation,Superheroes,Space Police,Nova Corps
+Avengers,Champions (Team),Next Generation,Nova Corps,Space Police,Superheroes,Young
 City
 Medium
 Champions (Marvel) (Core),Champions (Marvel) (Extended),Avengers (Extended),Nova Corps

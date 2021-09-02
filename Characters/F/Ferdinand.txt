@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Spearman,Black Eagles (Fire Emblem),Crest,Nobility,Loud,Boisterous
+Black Eagles (Fire Emblem),Boisterous,Crest,Loud,Nobility,Spearman
 Baseline
 Low
 Black Eagles

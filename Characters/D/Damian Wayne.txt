@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bat-Family,Genius,Mastermind,Non-Powered,Schemer,Tech,Superheroes,Antihero,Child of Villain and Hero,Parent Child|Batman,Robins,Teen Titans,Legacy|Tim Drake
+Antihero,Bat-Family,Child of Villain and Hero,Genius,Legacy|Tim Drake,Mastermind,Non-Powered,Parent Child|Batman,Robins,Schemer,Superheroes,Tech,Teen Titans
 Modified Human
 High
 Bat-Family (Core),Bat-Family (Extended),Teen Titans (Extended),Robins

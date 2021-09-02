@@ -1,5 +1,5 @@
 Namaari
-Raya and the Last Dragon 
+Raya and the Last Dragon
 Namaari is one of the main antagonists of Disney's 2021 animated feature film, Raya and the Last Dragon. The daughter of Chief Virana, she is the princess of Kumandra's Fang. Since childhood, Namaari envied Heart's prosperity. Believing the Dragon Gem to be the source of their opulence, she plotted to steal it and use its power to expand Fang's fortunes. Though her cause was noble, Namaari's willingness to perform underhanded deeds to accomplish her mission made her a dangerous adversary.
 https://static.wikia.nocookie.net/disney/images/9/9a/Profile_-_Namaari.png/revision/latest/scale-to-width-down/1031?cb=20210126170234
 https://disney.fandom.com/wiki/Namaari
@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Female
-Princess,Nobility,Royalty,Nemesis|Raya,Soldier,Warrior,Traitor,Redemption Arc,Redeemed
+Nemesis|Raya,Nobility,Princess,Redeemed,Redemption Arc,Royalty,Soldier,Traitor,Warrior
 Baseline
 Medium
 Raya's Band of Wanderers

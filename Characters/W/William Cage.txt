@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Soldier,Major,Officer,Mech Suit,Reality Loop,Time Loop,Romantic Subplot|Rita Vrataski
+Major,Mech Suit,Officer,Reality Loop,Romantic Subplot|Rita Vrataski,Soldier,Time Loop
 Modified Human
 Medium
 J-Squad (Edge of Tomorrow)

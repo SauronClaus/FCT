@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-LGBTQ+,Pixelated,Stardew Valley Bachelors,Alcoholic,Grumpy,Soft-Hearted
+Alcoholic,Grumpy,LGBTQ+,Pixelated,Soft-Hearted,Stardew Valley Bachelors
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents

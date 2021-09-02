@@ -1,5 +1,5 @@
 Tong
-Raya and the Last Dragon 
+Raya and the Last Dragon
 Tong is a supporting character in Disney’s 2021 animated feature film, Raya and the Last Dragon. Described as a formidable giant, Tong was the last surviving member of Kumandra’s Spine Land, after humanity was desolated by the Druun. Among the casualties were his family, including his infant daughter. In the aftermath, Tong became the sole guardian of Spine’s Dragon Gem piece, and joined forces with Raya to save the world with the help of the last dragon, Sisu.
 https://static.wikia.nocookie.net/disney/images/0/09/Profile_-_Tong.jpeg/revision/latest/scale-to-width-down/1032?cb=20210128105032
 https://disney.fandom.com/wiki/Tong
@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Exile,Gentle Giant,Last of Kind,Barbarian
+Barbarian,Exile,Gentle Giant,Last of Kind
 Baseline
 Low
 Raya's Band of Wanderers

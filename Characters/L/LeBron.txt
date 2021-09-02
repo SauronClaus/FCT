@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Door Monster,YouTube,Duo|Extortionist Hobo,Civilian,Straight Man
+Civilian,Door Monster,Duo|Extortionist Hobo,Straight Man,YouTube
 Baseline
 Low
 Door Monster Creations

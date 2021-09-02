@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Mutant,Superheroes,X-Men,Iconic,Regeneration,Antihero,Tragic Backstory,Claws,Canadian,Alpha Flight
+Alpha Flight,Antihero,Canadian,Claws,Iconic,Mutant,Regeneration,Superheroes,Tragic Backstory,X-Men
 City
 High
 X-Men (Core),X-Men (Extended),Giant Sized X-Men #1 Team,Alpha Flight,Wolverines

@@ -1,5 +1,5 @@
 Raya
-Raya and the Last Dragon 
+Raya and the Last Dragon
 Raya is the titular protagonist of Disney's 2021 animated feature film, Raya and the Last Dragon. The daughter of Chief Benja, she is the princess of Kumandra's Heart Land. In her youth, Raya was appointed the Guardian of the Dragon Gem. When the Gem is broken, a plague known as the Druun was unleashed upon the world, turning much of humanity into stone—including Benja. To save her father, Raya embarked on a quest to retrieve the Gem pieces and use its power to vanquish the Druun for good.
 https://static.wikia.nocookie.net/rayaandthelastdragon/images/4/47/Raya.jpg/revision/latest/scale-to-width-down/699?cb=20210108201717
 https://disney.fandom.com/wiki/Raya
@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Princess,Nobility,Royalty,Exile,Wanderer,Guardian,Nemesis|Namaari
+Exile,Guardian,Nemesis|Namaari,Nobility,Princess,Royalty,Wanderer
 Baseline
 Medium
 Raya's Band of Wanderers

@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Androgynous
-Determination,Soul Powers,Player Character,Silent,Only Human,Exile
+Determination,Exile,Only Human,Player Character,Silent,Soul Powers
 Baseline
 Medium
 

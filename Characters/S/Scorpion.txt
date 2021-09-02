@@ -13,7 +13,7 @@ Spectre
 Neutral
 Playable Character
 Male
-Mortal Kombat,Tragic Backstory,Ninja,Undead,Merciless,Shirai Ryu
+Merciless,Mortal Kombat,Ninja,Shirai Ryu,Tragic Backstory,Undead
 City
 Medium
 Shirai Ryu

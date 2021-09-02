@@ -13,7 +13,7 @@ Robot
 Neutral
 Antagonist
 Male
-Egomaniac,Showman,Inventee|Alphys,Gameshow Host,TV Star
+Egomaniac,Gameshow Host,Inventee|Alphys,Showman,TV Star
 Baseline
 Medium
 Royal Guardsmen (Undertale)

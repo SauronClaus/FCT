@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Female
-LGBTQ+,Pixelated,Stardew Valley Bachelorettes,Crystals,Siblings|Haley
+Crystals,LGBTQ+,Pixelated,Siblings|Haley,Stardew Valley Bachelorettes
 Baseline
 Low
 Stardew Valley Bachelorettes,Stardew Valley Residents

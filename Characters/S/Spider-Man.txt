@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Insect-Themed,Spider-Person,Avengers,Reporter,Photographer,Fantastic Four
+Avengers,Fantastic Four,Insect-Themed,Photographer,Reporter,Spider-Person
 City
 High
 Avengers (Core),Avengers (Extended),Fantastic Four (Extended),Spider-People

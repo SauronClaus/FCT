@@ -1,0 +1,29 @@
+Dr. Watson
+Sherlock Holmes
+John H. Watson, known as Dr. Watson, is a fictional character in the Sherlock Holmes stories by Sir Arthur Conan Doyle. Along with Sherlock Holmes, Dr. Watson first appeared in the novel A Study in Scarlet (1887). The last work by Doyle featuring Watson and Holmes is the short story "The Adventure of Shoscombe Old Place" (1927), though this is not the last story in the timeline of the series, which is "His Last Bow" (1917).
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gree-01.jpg/330px-Gree-01.jpg
+https://en.wikipedia.org/wiki/Dr._Watson
+John
+Watson
+John H. Watson|Watson|Dr. Watson
+Ian Martin|Chris Emmett|Ian Hart|Martin Freeman|John Payne|Royce Pierreson|Ian Fleming|Nigel Bruce|John C. Reilly|Jude Law
+29|2
+Doctor
+Human
+Good
+Protagonist
+Male
+Assistant,Duo|Sherlock Holmes,Gentleman,Medical Doctor,Sidekick,Soldier,Veteran
+Baseline
+High
+Sherlock (TV Show) Cast
+
+TV Shows,Books,Movies
+Sherlock Holmes
+
+White
+
+Classic Novels
+Sebastian
+
+No

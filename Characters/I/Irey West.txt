@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Speedsters,Superheroes,Parent Child|Wally West,Twins|Jai West,Next Generation
+Next Generation,Parent Child|Wally West,Speedsters,Superheroes,Twins|Jai West
 City
 High
 Flash Family

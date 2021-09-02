@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Mercenary,Team Fortress 2,Russian,Strong,Giant,Duo|Medic
+Duo|Medic,Giant,Mercenary,Russian,Strong,Team Fortress 2
 Baseline
 Medium
 Team Fortress Mercs

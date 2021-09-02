@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Androgynous
-Genocide,Psychopath,Soul Powers,Possession,Vengeful Spirit,Spirit
+Genocide,Possession,Psychopath,Soul Powers,Spirit,Vengeful Spirit
 Baseline
 Medium
 

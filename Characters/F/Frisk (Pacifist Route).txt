@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Androgynous
-Determination,Soul Powers,Player Character,Silent,Only Human,Exile,Pacifist
+Determination,Exile,Only Human,Pacifist,Player Character,Silent,Soul Powers
 Baseline
 Medium
 Undertale Pacifist Friends

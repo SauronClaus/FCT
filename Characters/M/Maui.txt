@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Shapeshifter,Demigod,Hero,Mythical Hero,Raw Power,Vain,Duo|Moana,Musical
+Demigod,Duo|Moana,Hero,Musical,Mythical Hero,Raw Power,Shapeshifter,Vain
 City
 High
 Te Fiti's Lonely Hearts Club Crew

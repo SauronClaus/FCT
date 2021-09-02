@@ -1,5 +1,5 @@
 Noi
-Raya and the Last Dragon 
+Raya and the Last Dragon
 Noi is a supporting character in Disney’s 2021 animated feature film, Raya and the Last Dragon. She is a swift and intelligent toddler from Kumandra’s Talon Land. After losing her family to the Druun, an orphaned Noi was adopted by a band of mischievous Ongis. To survive, she and her companions became con-artists, and used their cute appearances to hustle the people of Talon.
 https://static.wikia.nocookie.net/disney/images/6/68/Profile_-_Noi.jpeg/revision/latest/scale-to-width-down/1032?cb=20210128104743
 https://disney.fandom.com/wiki/Noi
@@ -13,7 +13,7 @@ Human
 Neutral
 Supporting Protagonist
 Female
-Orphan,Con Artist,Thief,Baby,Found Family,Raised by Animals
+Baby,Con Artist,Found Family,Orphan,Raised by Animals,Thief
 Baseline
 Low
 Raya's Band of Wanderers,Noi's Family

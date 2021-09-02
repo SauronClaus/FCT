@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Camp Half-Blood,Chosen One,Demigod,Greek,Romantic Subplot|Jason Grace,Charm Powers
+Camp Half-Blood,Charm Powers,Chosen One,Demigod,Greek,Romantic Subplot|Jason Grace
 City
 Medium
 Heroes of Olympus,Camp Half-Blood,Greek Demigods (Rick Riordan)

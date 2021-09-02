@@ -13,7 +13,7 @@ Demigod
 Good
 Supporting Protagonist
 Male
-Demigod,Einharjar,Floor 19,Norse,Civil War,African American,Soldier
+African American,Civil War,Demigod,Einharjar,Floor 19,Norse,Soldier
 Modified Human
 Low
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang

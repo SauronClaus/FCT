@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-LGBTQ+,Pixelated,Stardew Valley Bachelors,Skateboarder,Kid,Yin & Yang|Sebastian
+Kid,LGBTQ+,Pixelated,Skateboarder,Stardew Valley Bachelors,Yin & Yang|Sebastian
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents,Stardew Valley Trio
@@ -21,8 +21,8 @@ Sam's Band (Electronic Version)|https://open.spotify.com/track/1tzTcYBN7CgD1kgij
 Video Games,Pixelated
 Stardew Valley
 
-Yelllow
 
+Yellow
 Indie Video Games
 Sebastian
 

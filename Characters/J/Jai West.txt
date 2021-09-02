@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Speedsters,Superheroes,Parent Child|Wally West,Twins|Irey West,Next Generation
+Next Generation,Parent Child|Wally West,Speedsters,Superheroes,Twins|Irey West
 City
 Low
 Flash Family

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-IRL,Contributor,Creator
+Contributor,Creator,IRL
 Baseline
 Medium
 Sebastian Polge's Permutations,IRL People,Contributors

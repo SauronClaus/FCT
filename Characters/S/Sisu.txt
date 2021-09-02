@@ -1,5 +1,5 @@
 Sisu
-Raya and the Last Dragon 
+Raya and the Last Dragon
 Sisu is the deuteragonist of Disney's 2021 animated feature film, Raya and the Last Dragon. For the majority of the film, she is the last of her kind. Sisu is a self-deprecating yet comedic water dragon, called upon by Raya to save humanity from a dark force known as the Druun.
 https://static.wikia.nocookie.net/disney/images/2/20/Profile_-_Sisu.jpeg/revision/latest/scale-to-width-down/1032?cb=20210315035813
 https://disney.fandom.com/wiki/Sisu
@@ -13,7 +13,7 @@ Water Dragon
 Good
 Protagonist
 Female
-Dragon,Last of Kind,Water Powers,Water Dragon
+Dragon,Last of Kind,Water Dragon,Water Powers
 Baseline
 Medium
 Raya's Band of Wanderers
@@ -21,7 +21,7 @@ Raya's Band of Wanderers
 Movies,CGI
 Raya and the Last Dragon
 
-Pale Blue
+Blue
 Hydrokinesis|Inborn|2,Shapeshifting|Inborn|3
 Disney
 Sebastian

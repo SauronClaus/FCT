@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Adopted,Archer,Knight,Blue Lions (Fire Emblem),Freckles
+Adopted,Archer,Blue Lions (Fire Emblem),Freckles,Knight
 Baseline
 Low
 Blue Lions

@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Female
-LGBTQ+,Pixelated,Stardew Valley Bachelorettes,Artist,Sculptor
+Artist,LGBTQ+,Pixelated,Sculptor,Stardew Valley Bachelorettes
 Baseline
 Low
 Stardew Valley Bachelorettes,Stardew Valley Residents

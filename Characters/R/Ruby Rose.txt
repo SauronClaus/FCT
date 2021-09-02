@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Monster Hunter,Siblings|Yang Xiao Long,Chosen One,Scythe,Inventor
+Chosen One,Inventor,Monster Hunter,Scythe,Siblings|Yang Xiao Long
 Baseline
 Medium
 Team RWBY

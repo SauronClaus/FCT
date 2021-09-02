@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Street Fighter,Stoic,Military,Air Force,United States,Tragic Backstory,Commander,Revenge-Driven,Soldier
+Air Force,Commander,Military,Revenge-Driven,Soldier,Stoic,Street Fighter,Tragic Backstory,United States
 Modified Human
 Medium
 United States Military

@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Mutant,X-Men,Time Displaced X-Men,Champions (Team),Superheroes,Time Travel,Time-Displaced
+Champions (Team),Mutant,Superheroes,Time Displaced X-Men,Time Travel,Time-Displaced,X-Men
 Modified Human
 Low
 Champions (Marvel) (Core),Champions (Marvel) (Extended),X-Men (Extended),Time Displaced X-Men

@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Camp Jupiter,Chosen One,Demigod,Roman,Romantic Subplot|Frank Zhang,Earth Powers,Metal Manipulation,Resurrected,Returned from Dead
+Camp Jupiter,Chosen One,Demigod,Earth Powers,Metal Manipulation,Resurrected,Returned from Dead,Roman,Romantic Subplot|Frank Zhang
 City
 Medium
 Heroes of Olympus,Camp Jupiter,Roman Demigods (Rick Riordan)

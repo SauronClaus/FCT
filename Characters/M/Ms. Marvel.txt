@@ -13,7 +13,7 @@ Inhuman
 Good
 Protagonist
 Female
-Polymorph,Young,Stretching,Inhuman,NuHuman,Avengers,Champions (Team),Next Generation,Legacy|Carol Danvers,Muslim,Superheroes
+Avengers,Champions (Team),Inhuman,Legacy|Carol Danvers,Muslim,Next Generation,NuHuman,Polymorph,Stretching,Superheroes,Young
 City
 High
 Champions (Marvel) (Core),Champions (Marvel) (Extended),Avengers (Extended)

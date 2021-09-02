@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Female
-LGBTQ+,Pixelated,Stardew Valley Bachelorettes,Photographer,Siblings|Emily
+LGBTQ+,Photographer,Pixelated,Siblings|Emily,Stardew Valley Bachelorettes
 Baseline
 Low
 Stardew Valley Bachelorettes,Stardew Valley Residents

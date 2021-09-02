@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-LGBTQ+,Pixelated,Stardew Valley Bachelors,Programmer,Emo,Yin & Yang|Sam,Siblings|Maru
+Emo,LGBTQ+,Pixelated,Programmer,Siblings|Maru,Stardew Valley Bachelors,Yin & Yang|Sam
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents,Stardew Valley Trio

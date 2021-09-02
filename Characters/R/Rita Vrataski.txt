@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Soldier,Sergeant,Officer,Mech Suit,Reality Loop,Time Loop,Romantic Subplot|William Cage,Hero,Depowered,Legend
+Depowered,Hero,Legend,Mech Suit,Officer,Reality Loop,Romantic Subplot|William Cage,Sergeant,Soldier,Time Loop
 Modified Human
 Medium
 

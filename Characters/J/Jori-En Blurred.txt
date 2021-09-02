@@ -13,7 +13,7 @@ Kor
 Neutral
 Protagonist
 Male
-Ranger,Band of Fools Redux,D&D,Bureaucrat,Interdimensional
+Band of Fools Redux,Bureaucrat,D&D,Interdimensional,Ranger
 Modified Human
 Low
 Band of Fools (Redux),Kaeshev Alapati's Permutations

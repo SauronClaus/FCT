@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-LGBTQ+,Pixelated,Stardew Valley Bachelors,Doctor,Medical Training
+Doctor,LGBTQ+,Medical Training,Pixelated,Stardew Valley Bachelors
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents

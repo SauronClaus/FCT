@@ -13,7 +13,7 @@ Monitor
 Evil
 Antagonist
 Male
-World Destroyer,Cosmic,Anti-Matter
+Anti-Matter,Cosmic,World Destroyer
 Interuniversal
 Low
 

@@ -13,7 +13,7 @@ Titan
 Neutral
 Antagonist
 Male
-Black Order,Titan,Powerhouse,Iconic
+Black Order,Iconic,Powerhouse,Titan
 Interuniversal
 High
 The Black Order

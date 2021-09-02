@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Female
-LGBTQ+,Pixelated,Stardew Valley Bachelorettes,Genius,Tech,Nurse,Siblings|Sebastian
+Genius,LGBTQ+,Nurse,Pixelated,Siblings|Sebastian,Stardew Valley Bachelorettes,Tech
 Baseline
 Low
 Stardew Valley Bachelorettes,Stardew Valley Residents

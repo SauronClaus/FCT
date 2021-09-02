@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Demigod,Norse,Muslim,Arranged Marriage,Valkyrie
+Arranged Marriage,Demigod,Muslim,Norse,Valkyrie
 Modified Human
 High
 Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang,Magnus Chase First Quintet

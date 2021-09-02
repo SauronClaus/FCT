@@ -13,7 +13,7 @@ Crab
 Evil
 Antagonist
 Male
-Crab,Hoarder,Kleptomaniac,Crab,Bioluminescent,Musical
+Bioluminescent,Crab,Crab,Hoarder,Kleptomaniac,Musical
 City
 Medium
 

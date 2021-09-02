@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Resistance (Star Wars),Soldier,Traitor,Defector
+Defector,Resistance (Star Wars),Soldier,Traitor
 Baseline
 High
 Sequel Trilogy Main Cast,The Resistance (Star Wars)

@@ -13,7 +13,7 @@ Goblin
 Neutral
 Protagonist
 Male
-Wizard,Band of Fools Redux,D&D,Bureaucrat,Interdimensional,Chronomancer,Goblin
+Band of Fools Redux,Bureaucrat,Chronomancer,D&D,Goblin,Interdimensional,Wizard
 Modified Human
 Low
 Band of Fools (Redux),Kaeshev Alapati's Permutations

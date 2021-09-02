@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Empowered,Soldier,Marine,Juggernaut,Demon Scourge,Terrifying,Player Character,Quasi-Divine
+Demon Scourge,Empowered,Juggernaut,Marine,Player Character,Quasi-Divine,Soldier,Terrifying
 Country
 High
 

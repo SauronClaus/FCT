@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Mercenary,Team Fortress 2,Insane,Pyromaniac,Flamethrower,Hallucinations
+Flamethrower,Hallucinations,Insane,Mercenary,Pyromaniac,Team Fortress 2
 Baseline
 Medium
 Team Fortress Mercs

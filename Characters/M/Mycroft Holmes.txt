@@ -1,0 +1,29 @@
+Mycroft Holmes
+Sherlock Holmes
+Mycroft Holmes is a fictional character appearing in stories written by Sir Arthur Conan Doyle. The elder brother (by seven years) of detective Sherlock Holmes, he is a government official and a founding member of the Diogenes Club. Mycroft is described as having abilities of deduction and knowledge exceeding even those of his brother, though their practical use is limited by his dislike of fieldwork. Mycroft Holmes has appeared totally in person in 3 stories by Arthur Conan Doyle while he is just mentioned in one of them.
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gree-02.jpg/330px-Gree-02.jpg
+https://en.wikipedia.org/wiki/Mycroft_Holmes
+Mycroft
+Holmes
+Mycroft Holmes
+John Hartley|Christopher Lee|Mark Gatiss|Hugh Laurie|Stephen Fry
+34|3
+Detective
+Human
+Good
+Protagonist
+Male
+Detective,Genius,Government Official,Siblings|Sherlock Holmes
+Baseline
+Low
+Sherlock (TV Show) Cast
+
+TV Shows,Books,Movies
+Sherlock Holmes
+
+White
+
+Classic Novels
+Sebastian
+
+No

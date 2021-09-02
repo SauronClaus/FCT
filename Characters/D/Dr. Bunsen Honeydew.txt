@@ -13,7 +13,7 @@ Muppet
 Good
 Inventor
 Male
-Medical Doctor,Duo|Beaker,Explosion Happy,Genius,Inventor,Pyromaniac,Scientist
+Duo|Beaker,Explosion Happy,Genius,Inventor,Medical Doctor,Pyromaniac,Scientist
 Modified Human
 Medium
 The Muppet Show

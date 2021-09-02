@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-IRL,Contributor,Rulers
+Contributor,IRL,Rulers
 Baseline
 Medium
 Zach Wiebe's Permutations,IRL People,Server Owners,Contributors

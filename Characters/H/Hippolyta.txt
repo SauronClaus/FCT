@@ -13,7 +13,7 @@ Amazon
 Good
 Protagonist
 Female
-Amazon,Queen,Nobility,Royalty,Superheroes,Justice Society of America,Justice League,Parent Child|Wonder Woman,WWII,Golden Age,Earth-2
+Amazon,Earth-2,Golden Age,Justice League,Justice Society of America,Nobility,Parent Child|Wonder Woman,Queen,Royalty,Superheroes,WWII
 Country
 Low
 Justice League (Extended),Amazons,Justice Society of America (Extended)

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Magic Entity,Magic Word,Shazam Family,Transforming,Phrase of Power
+Magic Entity,Magic Word,Phrase of Power,Shazam Family,Transforming
 Country
 Low
 Shazam Family,Justice League (Extended),Teen Titans (Extended)

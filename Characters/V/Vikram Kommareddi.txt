@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-IRL,Contributor
+Contributor,IRL
 Baseline
 Medium
 Vikram Kommareddi's Permutations,IRL People,Contributors

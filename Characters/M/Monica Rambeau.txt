@@ -13,7 +13,7 @@ Inhuman
 Good
 Protagonist
 Female
-Avengers,Legacy|Carol Danvers,Flight,Energy Form,Cosmic,Ultimates (Team),Superheroes
+Avengers,Cosmic,Energy Form,Flight,Legacy|Carol Danvers,Superheroes,Ultimates (Team)
 City
 High
 Avengers (Extended),Ultimates (Team)

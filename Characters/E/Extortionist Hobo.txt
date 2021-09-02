@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Door Monster,YouTube,Insane,Reality Off Kelter,Duo|LeBron,Con Man,Hobo
+Con Man,Door Monster,Duo|LeBron,Hobo,Insane,Reality Off Kelter,YouTube
 Modified Human
 Low
 Door Monster Creations

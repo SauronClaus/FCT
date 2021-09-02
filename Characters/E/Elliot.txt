@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-LGBTQ+,Pixelated,Stardew Valley Bachelors,Writer,Hermit,Romantic at Heart
+Hermit,LGBTQ+,Pixelated,Romantic at Heart,Stardew Valley Bachelors,Writer
 Baseline
 Low
 Stardew Valley Bachelors,Stardew Valley Residents

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Speedsters,Superheroes,Mentor,Zen
+Mentor,Speedsters,Superheroes,Zen
 City
 Low
 Flash Family

@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Mercenary,Team Fortress 2,Youngest,Fast,Speedster
+Fast,Mercenary,Speedster,Team Fortress 2,Youngest
 Baseline
 Medium
 Team Fortress Mercs

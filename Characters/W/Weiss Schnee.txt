@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Cold,Monster Hunter,Heiress,Cryokinesis
+Cold,Cryokinesis,Heiress,Monster Hunter
 Baseline
 Medium
 Team RWBY

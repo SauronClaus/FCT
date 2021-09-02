@@ -13,7 +13,7 @@ Cyborg
 Good
 Protagonist
 Male
-Cyborg,Alien Technology,Teen Titans,Justice League,Part-Machine,Tech
+Alien Technology,Cyborg,Justice League,Part-Machine,Tech,Teen Titans
 Country
 High
 Justice League (Extended),Teen Titans (Extended),Justice League (film),Justice League (Core),Teen Titans Go! Cast
