@@ -35,11 +35,13 @@ Amara
 Amazi-Girl
 America Chavez
 Amethyst
+Amilyn Holdo
 Amos Kane
 Amy Cahill
 Amy Ferrier
 Amy Rose
 Anakin Skywalker
+Anakin Skywalker (Young)
 Angel
 Animal
 Ann Takamaki
@@ -72,6 +74,7 @@ Ashe
 Ashley Brown
 Ashley Williams
 Athena
+Atomic Robo
 Atreus
 Atticus Finch
 Audrey Ramirez
@@ -120,6 +123,7 @@ Blue
 Blue Marvel
 Blue Stupid Rat Creature
 Bob Kerman
+Boba Fett
 Bobby
 Bolin
 Booster Gold
@@ -159,6 +163,7 @@ Captain Kirk
 Captain Marvel
 Captain Marvel Jr.
 Captain Nemo
+Captain Phasma
 Carmen Cortez
 Carol Danvers
 Carter Kane
@@ -172,14 +177,17 @@ Chun-Li
 Claude
 Colin Frazer
 Colossus
+Count Dooku
 Culverton Smith
 Cyborg
 Cyclops
 Damian Wayne
 Dana Franklin
+Darth Maul
 Darth Vader
 Dedue
 Demoman
+Devahi
 Dick Grayson
 Dimitri
 Doctor Eggman
@@ -211,17 +219,21 @@ Frank Zhang
 Frisk (Genocide Route)
 Frisk (Neutral Route)
 Frisk (Pacifist Route)
+Fuzzy
+General Grievous
 Ginny Weasley
 Glimmer
 Glynnric Manassnass
 Gordon Freeman
 Gran'ma Ben
+Grand Moff Tarkin
 Green Arrow
 Guile
 Hal Jordan
 Haley
 Halfborn Gunderson
 Han Solo
+Han Solo (Old)
 Hank Pym
 Harbringer
 Harrison Truscott
@@ -247,14 +259,18 @@ Iroh
 Iron Lad
 Iron Man
 Ironheart
+Jabba the Hutt
 Jai West
 James Moriarty
 Janet van Dyne
+Jango Fett
+Jar Jar Binks
 Jason Grace
 Jason Todd
 Jay Garrick
 Jebediah Kerman
 Jem Finch
+Jenkins
 Jesse Quick
 Jim Gordon
 John Seward
@@ -274,10 +290,12 @@ Korra
 Kratos
 Kristoff
 Kylo Ren
+Lando Calrissian
 Laurie Strode
 LeBron
 Leah
 Leia Organa
+Leia Organa (Old)
 Leo Valdez
 Linhardt
 Loki
@@ -319,6 +337,7 @@ Obi-Wan Kenobi
 Olaf
 Omega (Edge of Tomorrow)
 Ozai
+Padme Amidala
 Pan
 Papyrus
 Pariah
@@ -344,12 +363,14 @@ Rikk
 Rita Vrataski
 Ron Weasley
 Rosalina
+Rose Tico
 Ruby Rider
 Ruby Rose
 Rumy
 Ryu
 Sadie Kane
-Sam
+Sam (Sam and Fuzzy)
+Sam (Stardew Valley)
 Sam Alexander
 Samirah al-Abbas
 Sans
@@ -364,11 +385,13 @@ Seteth
 Seth
 Shamir
 Shane
+Sheev Palpatine
 Sherlock Holmes
 Sisu
 Smaug
 Smiley Bone
 Sniper
+Snoke
 Sokka
 Soldier
 Sombra

@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Commander,Galactic Empire,Nemesis|Yoda,Sith Lord,Traitor,Most Powerful,Emperor(ess),Ruler,Scarred
+Commander,Galactic Empire,Nemesis|Yoda,Sith Lord,Traitor,Most Powerful,Emperor(ess),Ruler,Scarred,Master Apprentice|Darth Maul,Master Apprentice|Darth Vader
 Country
 High
 Sith Lord,Galactic Empire

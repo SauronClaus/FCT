@@ -1,6 +1,6 @@
 Kane: Amos Kane, Carter Kane, Sadie Kane
 Rose: Amy Rose, Ruby Rose
-Skywalker: Anakin Skywalker, Darth Vader, Luke Skywalker
+Skywalker: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Chase: Annabeth Chase, Magnus Chase
 Weasley: Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Williams: Ashley Williams, Ironheart
@@ -10,6 +10,7 @@ Gordon: Barbara Gordon, Jim Gordon
 Allen: Barry Allen, Bart Allen
 Wayne: Batman, Damian Wayne
 Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
+Fett: Boba Fett, Jango Fett
 Carter: Booster Gold, Maxwell
 Braddock: Captain Britain, Psylocke
 Freeman: Captain Marvel Jr., Gordon Freeman
@@ -21,12 +22,14 @@ Summers: Cyclops, Young Cyclops
 Howlett: Doom Guy, Wolverine
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Harvestar: Gran'ma Ben, Thorn Harvestar
-Solo: Han Solo, Kylo Ren
+Solo: Han Solo (Old), Han Solo, Kylo Ren
 Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 West: Irey West, Iris West, Jai West, Wally West II, Wally West
 Richards: Iron Lad, Mr. Fantastic, The Invisible Woman
+Jenkins: Jenkins, Jono Jenkins
 Harker: Jonathan Harker, Mina Harker
+Organa: Leia Organa (Old), Leia Organa
 Mario: Luigi, Mario
 Holmes: Mycroft Holmes, Sherlock Holmes
 Maximoff: Quicksilver, Scarlet Witch

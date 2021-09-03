@@ -4,9 +4,13 @@ alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 import os
 brandsFile = open("Statistics\\brands.txt", "w",encoding='utf8')
+unFile = open("Statistics\\incompletePeople.txt", "w", encoding='utf8')
 completedCharacters = []
 brandsList = []
 brandsDict = {}
+
+unList = []
+unDict = {}
 # List all files in a directory using os.listdir
 for letter in alphabet:
     basepath = 'Characters/' + letter
@@ -24,8 +28,19 @@ for letter in alphabet:
                         if not(characterInfo[25] in brandsList):
                             brandsList.append(characterInfo[25])
                         brandsDict[characterInfo[25]] = [entry[0:len(entry)-4:]]
+                if characterInfo[25] == "":
+                    try:
+                        if not(characterInfo[21] in unList):
+                            unList.append(characterInfo[21])
+                        unDict[characterInfo[21]].append(entry[0:len(entry)-4:])
+                    except:
+                        if not(characterInfo[21] in unList):
+                            unList.append(characterInfo[21])
+                        unDict[characterInfo[21]] = [entry[0:len(entry)-4:]]
+
 
 brandsList.sort()
+unList.sort()
 
 for brand in brandsList:
     brandString = brand + ": "
@@ -33,3 +48,10 @@ for brand in brandsList:
         brandString = brandString + person + ", "
     brandString = brandString[0:len(brandString)-2:]
     brandsFile.write(brandString + "\n")
+
+for brand in unList:
+    brandString = brand + ": "
+    for person in unDict[brand]:
+        brandString = brandString + person + ", "
+    brandString = brandString[0:len(brandString)-2:]
+    unFile.write(brandString + "\n")

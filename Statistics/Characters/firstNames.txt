@@ -1,7 +1,7 @@
 Alan: Alan Bradley, Alan Scott, Alan Wake
 Alex: Alex DeLarge, Alex Fierro, Alex
 Amy: Amethyst, Amy Cahill, Amy Rose
-Anakin: Anakin Skywalker, Darth Vader
+Anakin: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Anna: Anna Croft, Anna
 Victor: Anole, Cyborg
 Arthur: Aquaman, Arthur Holmwood, Arthur Weasley
@@ -14,18 +14,21 @@ Michael: Booster Gold, Michael Myers
 Bowser: Bowser Jr., Bowser
 Brian: Brian Robeson, Captain Britain
 James: Bucky Barnes, Captain Kirk, Doom Guy, James Moriarty, Jim Gordon, War Machine, Wolverine
-Sam: Cannonball, Sam
+Sam: Cannonball, Sam (Sam and Fuzzy), Sam (Stardew Valley)
 John: Captain John H. Miller, John Seward, John Stewart, John Watson
 Carter: Carter Kane, Sadie Kane
 Scott: Cyclops, Scott Lang, Young Cyclops
 Samuel: Dr. Loomis, Falcon, Sam Alexander
 Frisk: Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
+Rose: Gran'ma Ben, Rose Tico
 William: Guile, Maxwell, William Cage
+Han: Han Solo (Old), Han Solo
 Harrison: Harrison Truscott (Evil), Harrison Truscott
 Iris: Irey West, Iris West
 Jason: Jason Grace, Jason Todd
 Jonathan: Jonathan Harker, The Human Torch
 Kal: Kal-L, Superboy Prime, Superman
+Leia: Leia Organa (Old), Leia Organa
 Ruby: Ruby Rider, Ruby Rose
 Sebastian: Sebastian Polge, Sebastian
 Wallace: Wally West II, Wally West

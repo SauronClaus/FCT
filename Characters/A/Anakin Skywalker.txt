@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Male
-Apprentice,Commander,Force Sensitive,Galactic Republic (Star Wars),Inventor Inventee|C3PO,Inventor,Jedi Knight,Jedi Order,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Soldier
+Apprentice,Commander,Force Sensitive,Galactic Republic (Star Wars),Inventor Inventee|C3PO,Inventor,Jedi Knight,Jedi Order,Master Apprentice|Ahsoka Tano,Master Apprentice|Obi-Wan Kenobi,Soldier,Romantic Subplot|Padme Amidala
 City
 High
-The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars),Skywalkers (Star Wars)
+The Clone Wars Primary Trio,Jedi Order,501st Legion (Star Wars),Skywalkers (Star Wars),Skywalker Family Quartet
 
 TV Shows,CGI,Movies
 Star Wars

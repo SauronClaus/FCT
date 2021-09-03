@@ -1,33 +1,34 @@
-Black (53): Agent Venom, Alan Wake, Alfred Pennyworth, Allison Blake, Ally, Alphys, Amanda Waller, Anton Chigurh, Aphelios, Arthas Menethil, Asgore, Atreus, Batman, Bayonetta, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna, Bobby, Bucky Barnes, Buford Van Stomm, Byleth, Captain Ahab, Colossus, Cyclops, Darth Vader, Demoman, Dick Grayson, Dracula, Extortionist Hobo, Felix, Frank Zhang, Han Solo, Harry Potter, Hubert, John Seward, Jori-En Blurred, Kylo Ren, Lord Voldemort, Mai, Maxwell, Mettaton EX, Miles Morales, Psylocke, Rumy, Sam Alexander, Sebastian, Shamir, Storm, Undyne, Vikram Kommareddi, Walt Stone
-Red (52): Aerith Gainsborough, Akkar, Akuma, Amy Cahill, Animal, Ann Takamaki, Azula, Barry Allen, Barry Wheeler, Bart Allen, Captain Britain, Captain Marvel, Carol Danvers, Cassie Lang, Colin Frazer, Damian Wayne, Doctor Eggman, Edelgard, Elliot, Falcon, Hank Pym, Harvey, Heavy, Irey West, Iron Lad, Iron Man, Jason Todd, Jay Garrick, Jesse Quick, Kazooie, Ken, Mario, Maru, Mary Marvel, Moana, Nadia Van Dyne, Red (Pokemon), Ruby Rose, Scarlet Witch, Scott Lang, Scout, Sniper, Soldier, Spider-Man, Spy, Sylvain, Te Ka, Thor, Ty Lee, Vision, Wally West, Zuko
-White (43): Abraham Van Helsing, Albus Dumbledore, Angel, Arthur Holmwood, Ashley Williams, Aurora, Bentley-23, Brian Robeson, Calypso, Culverton Smith, Dana Franklin, Dyan, Fleur Delacour, Flowey, Fone Bone, Hearthstone, Inspector Lestrade, James Moriarty, John Watson, Jono Jenkins, Laurie Strode, Leia Organa, Luke Skywalker, Medic, Mercedes, Mina Harker, Monica Rambeau, Mycroft Holmes, Northstar, Olaf, Pan, Papyrus, Phoney Bone, Quincey Morris, Rey, Rhea, Rikk, Ryu, Sherlock Holmes, Smiley Bone, Toriel, Uka, Weiss Schnee
-Blue (38): America Chavez, Anti-Monitor, Beast, Blue Marvel, Blue Stupid Rat Creature, Blue, Captain America, Captain Boomerang, Captain Marvel Jr., Chun-Li, Dimitri, Emily, Ethan Chou, Harbringer, Jonathan Harker, Kal-L, Katara, Korra, Max Mercury, Misty, Mr. Fantastic, Ms. Marvel, Nightcrawler, Percy Jackson, Quicksilver, Sans, Sisu, Sokka, Sonic the Hedgehog, Superboy Prime, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Young Cyclops, Zach Wiebe
-Green (24): Alan Scott, Amadeus Cho, Anole, Beast Boy, Bowser, Brainiac 5, Byllemura Ruby-Eye, Chara, Doom Guy, Green Arrow, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, John Stewart, Loki, Luigi, Martian Manhunter, Pariah, Samirah al-Abbas, Shane, Squee, Toph Beifong, Yoda
+Black (54): Agent Venom, Alan Wake, Alfred Pennyworth, Allison Blake, Ally, Alphys, Amanda Waller, Anton Chigurh, Aphelios, Arthas Menethil, Asgore, Atreus, Batman, Bayonetta, Black Canary, Black Lightning, Black Panther, Black Widow, Blake Belladonna, Bobby, Bucky Barnes, Buford Van Stomm, Byleth, Captain Ahab, Colossus, Cyclops, Darth Vader, Demoman, Dick Grayson, Dracula, Extortionist Hobo, Felix, Frank Zhang, Han Solo (Old), Han Solo, Harry Potter, Hubert, John Seward, Jori-En Blurred, Kylo Ren, Lord Voldemort, Mai, Maxwell, Mettaton EX, Miles Morales, Psylocke, Rumy, Sam Alexander, Sebastian, Shamir, Storm, Undyne, Vikram Kommareddi, Walt Stone
+Red (53): Aerith Gainsborough, Akkar, Akuma, Amy Cahill, Animal, Ann Takamaki, Azula, Barry Allen, Barry Wheeler, Bart Allen, Captain Britain, Captain Marvel, Carol Danvers, Cassie Lang, Colin Frazer, Damian Wayne, Darth Maul, Doctor Eggman, Edelgard, Elliot, Falcon, Hank Pym, Harvey, Heavy, Irey West, Iron Lad, Iron Man, Jason Todd, Jay Garrick, Jesse Quick, Kazooie, Ken, Mario, Maru, Mary Marvel, Moana, Nadia Van Dyne, Red (Pokemon), Ruby Rose, Scarlet Witch, Scott Lang, Scout, Sniper, Soldier, Spider-Man, Spy, Sylvain, Te Ka, Thor, Ty Lee, Vision, Wally West, Zuko
+White (47): Abraham Van Helsing, Albus Dumbledore, Angel, Arthur Holmwood, Ashley Williams, Aurora, Bentley-23, Brian Robeson, Calypso, Culverton Smith, Dana Franklin, Dyan, Fleur Delacour, Flowey, Fone Bone, Fuzzy, General Grievous, Hearthstone, Inspector Lestrade, James Moriarty, John Watson, Jono Jenkins, Laurie Strode, Leia Organa (Old), Leia Organa, Luke Skywalker, Medic, Mercedes, Mina Harker, Monica Rambeau, Mycroft Holmes, Northstar, Olaf, Pan, Papyrus, Phoney Bone, Quincey Morris, Rey, Rhea, Rikk, Ryu, Sam (Sam and Fuzzy), Sherlock Holmes, Smiley Bone, Toriel, Uka, Weiss Schnee
+Blue (39): America Chavez, Anti-Monitor, Beast, Blue Marvel, Blue Stupid Rat Creature, Blue, Captain America, Captain Boomerang, Captain Marvel Jr., Chun-Li, Dimitri, Emily, Ethan Chou, Harbringer, Jango Fett, Jonathan Harker, Kal-L, Katara, Korra, Max Mercury, Misty, Mr. Fantastic, Ms. Marvel, Nightcrawler, Percy Jackson, Quicksilver, Sans, Sisu, Sokka, Sonic the Hedgehog, Superboy Prime, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Young Cyclops, Zach Wiebe
+Green (27): Alan Scott, Amadeus Cho, Anole, Beast Boy, Boba Fett, Bowser, Brainiac 5, Byllemura Ruby-Eye, Chara, Doom Guy, Green Arrow, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, Jabba the Hutt, John Stewart, Loki, Luigi, Martian Manhunter, Padme Amidala, Pariah, Samirah al-Abbas, Shane, Squee, Toph Beifong, Yoda
 Orange (22): Ahsoka Tano, Alex DeLarge, Aquaman, BB-8, Beaker, Beth Johanssen, Candace Flynn, Dr. Chris Beck, Ernie, Gordon Freeman, Jai West, Juni Cortez, Kalathos Sunstrider, Leah, LeBron, Mallory Keen, Michael Myers, Penny, Poe Dameron, Princess Daisy, Sebastian Polge, Thomas Jefferson Jr.
-Yellow (20): Akihide Karatsu, Amy Ferrier, Barry B. Benson, Bean, Bert, Big Bird, Booster Gold, Bowser Jr., Cannonball, Captain Kirk, Carmen Cortez, Claude, Engineer, Janet van Dyne, Jason Grace, Piper McLean, Scorpion, Tim Drake, Wally West II, Yang Xiao Long
+Yellow (21): Akihide Karatsu, Amy Ferrier, Barry B. Benson, Bean, Bert, Big Bird, Booster Gold, Bowser Jr., Cannonball, Captain Kirk, Carmen Cortez, Claude, Engineer, Janet van Dyne, Jason Grace, Piper McLean, Sam (Stardew Valley), Scorpion, Tim Drake, Wally West II, Yang Xiao Long
 Gold (19): Adora, Alexander Luthor Jr., Alice Johnson, Anna Croft, Annabeth Chase, Apollo, Arya, Ashe, Bow, C3PO, Caspar, Dedue, Dorothea, Ferdinand, Haley, Hawkgirl, Ingrid, Linhardt, Petra (Fire Emblem)
-Brown (14): Boun, Brom, Brown Stupid Rat Creature, Cal Kestis, Chewbacca, Halfborn Gunderson, Hazel Levesque, Jim Gordon, Maui, Obi-Wan Kenobi, Qui-Gon Jinn, Raya, Sven, Wolverine
+Grey (17): Annie Montrose, Bruce Ng, Captain Nemo, Captain Phasma, Grand Moff Tarkin, Hope van Dyne, Iroh, Jem Finch, Pyro, Rita Vrataski, Scout Finch, Sheev Palpatine, Snoke, Tong, Ultron, War Machine, William Cage
+Brown (16): Boun, Brom, Brown Stupid Rat Creature, Cal Kestis, Chewbacca, Count Dooku, Devahi, Halfborn Gunderson, Hazel Levesque, Jim Gordon, Maui, Obi-Wan Kenobi, Qui-Gon Jinn, Raya, Sven, Wolverine
 Crimson (13): Amos Kane, Asami Sato, Ashley Brown, Bilbo Baggins, Billy Pilgrim, Catra, Eldon Spark Turen, Hermione Granger, M. Bison, Ozai, Ruby Rider, Smaug, Wonder Woman
-Grey (13): Annie Montrose, Bruce Ng, Captain Nemo, Hope van Dyne, Iroh, Jem Finch, Pyro, Rita Vrataski, Scout Finch, Tong, Ultron, War Machine, William Cage
 Pink (10): Abby Cadabby, Alex Fierro, Amy Rose, Araithia Shokta, Blink, Caesar Anthonio Zeppeli, Hilda, Ironheart, Princess Peach, Viv Vision
+Beige (7): Adrian Monk, Alan Bradley, Anakin Skywalker (Young), Atticus Finch, Finn, Jar Jar Binks, Rose Tico
+Pale Blue (7): Amara, Elsa, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Lando Calrissian, Omega (Edge of Tomorrow)
 Military Green (7): Axton, Brick, Captain John H. Miller, Glynnric Manassnass, Kareem Par-Al, Suki, Thorn Harvestar
 Kerbal-Green (7): Bill Kerman, Bob Kerman, Dr. Bunsen Honeydew, Flayn, Jebediah Kerman, Sothis, Valentina Kerman
 Silver-White (6): Alois, Catherine, Gran'ma Ben, Magneto, R2-D2, Seth
-Pale Blue (6): Amara, Elsa, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Omega (Edge of Tomorrow)
 Weasley Orange (6): Arthur Weasley, Bill Weasley, Breach, Brimstone, Ginny Weasley, Ron Weasley
+Silver (5): Agatha, Arwen, Athena, Atomic Robo, Cyborg
 Aarav Blue (5): Arthail Consumer of Food, Boromir, Captain Falcon, Captain George Pollard Jr., Seteth
 Bone White (5): Bastion, Brook, Kratos, Namaari, Sadie Kane
 Purple (5): Hawkeye, Hippolyta, Mace Windu, Sombra, Thanos
-Beige (4): Adrian Monk, Alan Bradley, Atticus Finch, Finn
-Silver (4): Agatha, Arwen, Athena, Cyborg
 Pale Purple (4): Amethyst, Blaze the Cat, Glimmer, Tamatoa
 Abigail Purple (3): Abigail, Bernadetta, Noi
 Dark Green (3): Aragorn, Bard the Bowman, Guile
+Army Brown (3): Barret Wallace, Bolin, Jenkins
 Bronze (3): Carter Kane, Leo Valdez, Zia Rashid
 Alyx Brown (2): Alyx, Dr. Loomis
+Magenta (2): Amilyn Holdo, Iris West
 Overalls Blue (2): Audrey Ramirez, Baljeet Tjinder
 Austin Purple (2): Austin, Big the Cat
-Army Brown (2): Barret Wallace, Bolin
 Blond (2): Kristoff, Magnus Chase
 Pale Orange (Aang) (1): Aang
 Orange-Gold (1): Adam Warlock
@@ -48,6 +49,5 @@ Batgirl Purple (1): Barbara Gordon
 Zemo Purple (1): Baron Zemo
 Turquoise (1): Blitzen
 Brock Orange (1): Brock
-Magenta (1): Iris West
 Copper (1): Nahara
 Rosalina's Dress (1): Rosalina

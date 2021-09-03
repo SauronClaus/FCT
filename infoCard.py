@@ -86,7 +86,7 @@ def infoPerson(personName, fctPolls):
             themeSongList = personInfo[19].split(",")
             RNG = random.randint(0,len(themeSongList)-1)
             themeSong = themeSongList[RNG]
-        embed.add_field(name="Theme Song",value="[" + themeSong.split("|")[0] + "](" + themeSong.split("|")[1] + ")")
+        embed.add_field(name="Theme Song",value="[" + themeSong.split("|")[0] + "](" + themeSong.split("|")[1] + ")", inline=False)
 
 
     if personInfo[3] != "":
@@ -124,7 +124,7 @@ def infoPerson(personName, fctPolls):
             personInfoTest = personInfo[28].split("|")
             if len(personInfoTest) > 1:
                 if personInfoTest[0] == "Guild Only":
-                    embed.add_field(name="Restrictions", value="Restricted to guild: " + personInfoTest[1])
+                    embed.add_field(name="Restrictions", value="Restricted to guild: " + personInfoTest[1], inline=False)
             if personInfo[28] == "No Sub In":
                 embed.add_field(name="Restrictions", value="No Substituting In",inline=False)
             

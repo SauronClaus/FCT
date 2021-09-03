@@ -23,7 +23,7 @@ DC
 Batmobile|Batwing|Batarang
 Black
 Detective Skills|Trained|4,Trained Fighter|Superhero|3,Genius|Trained|4,Tactician|Trained|5
-DC
+Warner Bros
 Sebastian
 Bruce Wayne,Batman
 No

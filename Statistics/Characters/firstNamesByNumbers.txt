@@ -3,14 +3,15 @@ John (4): Captain John H. Miller, John Seward, John Stewart, John Watson
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
 Amy (3): Amethyst, Amy Cahill, Amy Rose
+Anakin (3): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Arthur (3): Aquaman, Arthur Holmwood, Arthur Weasley
 Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
+Sam (3): Cannonball, Sam (Sam and Fuzzy), Sam (Stardew Valley)
 Scott (3): Cyclops, Scott Lang, Young Cyclops
 Samuel (3): Dr. Loomis, Falcon, Sam Alexander
 Frisk (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
 William (3): Guile, Maxwell, William Cage
 Kal (3): Kal-L, Superboy Prime, Superman
-Anakin (2): Anakin Skywalker, Darth Vader
 Anna (2): Anna Croft, Anna
 Victor (2): Anole, Cyborg
 Ashley (2): Ashley Brown, Ashley Williams
@@ -20,12 +21,14 @@ Billy (2): Billy Pilgrim, Captain Marvel
 Michael (2): Booster Gold, Michael Myers
 Bowser (2): Bowser Jr., Bowser
 Brian (2): Brian Robeson, Captain Britain
-Sam (2): Cannonball, Sam
 Carter (2): Carter Kane, Sadie Kane
+Rose (2): Gran'ma Ben, Rose Tico
+Han (2): Han Solo (Old), Han Solo
 Harrison (2): Harrison Truscott (Evil), Harrison Truscott
 Iris (2): Irey West, Iris West
 Jason (2): Jason Grace, Jason Todd
 Jonathan (2): Jonathan Harker, The Human Torch
+Leia (2): Leia Organa (Old), Leia Organa
 Ruby (2): Ruby Rider, Ruby Rose
 Sebastian (2): Sebastian Polge, Sebastian
 Wallace (2): Wally West II, Wally West
@@ -59,6 +62,7 @@ Amanda (1): Amanda Waller
 Amara (1): Amara
 Amber O'Malley (1): Amazi-Girl
 America (1): America Chavez
+Amilyn (1): Amilyn Holdo
 Amos (1): Amos Kane
 Amitjyoti (1): Amy Ferrier
 Warren (1): Angel
@@ -84,6 +88,7 @@ Asgore (1): Asgore
 Ash (1): Ash Ketchum
 Ashe (1): Ashe
 Athena (1): Athena
+Atomic (1): Atomic Robo
 Atreus (1): Atreus
 Atticus (1): Atticus Finch
 Audrey (1): Audrey Ramirez
@@ -123,6 +128,7 @@ Blitzen (1): Blitzen
 Adam  (1): Blue Marvel
 Blue (1): Blue
 Bob (1): Bob Kerman
+Boba (1): Boba Fett
 Bobby (1): Bobby
 Bolin (1): Bolin
 Boromir (1): Boromir
@@ -148,6 +154,7 @@ Digger (1): Captain Boomerang
 Douglas (1): Captain Falcon
 George (1): Captain George Pollard Jr.
 Frederick (1): Captain Marvel Jr.
+Phasma (1): Captain Phasma
 Carmen (1): Carmen Cortez
 Carol (1): Carol Danvers
 Caspar (1): Caspar
@@ -165,6 +172,7 @@ Damian (1): Damian Wayne
 Dana (1): Dana Franklin
 Dedue (1): Dedue
 Tavish (1): Demoman
+Devahi (1): Devahi
 Richard (1): Dick Grayson
 Dimitri (1): Dimitri
 Ivo (1): Doctor Eggman
@@ -188,16 +196,17 @@ Fleur (1): Fleur Delacour
 Flowey (1): Flowey
 Fone (1): Fone Bone
 Frank (1): Frank Zhang
+Fuzzy (1): Fuzzy
+Qymaen (1): General Grievous
 Ginevra (1): Ginny Weasley
 Glimmer (1): Glimmer
 Glynnric (1): Glynnric Manassnass
 Gordon (1): Gordon Freeman
-Rose (1): Gran'ma Ben
+Wilhuff (1): Grand Moff Tarkin
 Oliver (1): Green Arrow
 Harold (1): Hal Jordan
 Haley (1): Haley
 Halfborn (1): Halfborn Gunderson
-Han (1): Han Solo
 Henry (1): Hank Pym
 Lyla (1): Harbringer
 Harry (1): Harry Potter
@@ -218,8 +227,11 @@ Iroh (1): Iroh
 Nathaniel (1): Iron Lad
 Anthony (1): Iron Man
 Riri (1): Ironheart
+Jabba (1): Jabba the Hutt
 Jai (1): Jai West
 Janet (1): Janet van Dyne
+Jango (1): Jango Fett
+Jar Jar (1): Jar Jar Binks
 Jay (1): Jay Garrick
 Jebediah (1): Jebediah Kerman
 Jem (1): Jem Finch
@@ -236,9 +248,9 @@ Korra (1): Korra
 Kratos (1): Kratos
 Kristoff (1): Kristoff
 Ben (1): Kylo Ren
+Lando (1): Lando Calrissian
 Laurie (1): Laurie Strode
 Leah (1): Leah
-Leia (1): Leia Organa
 Leonidas (1): Leo Valdez
 Linhardt (1): Linhardt
 Loki (1): Loki
@@ -276,6 +288,7 @@ Jean-Paul (1): Northstar
 Obi-Wan (1): Obi-Wan Kenobi
 Olaf (1): Olaf
 Ozai (1): Ozai
+Padmé (1): Padme Amidala
 Pan (1): Pan
 Papyrus (1): Papyrus
 Kell (1): Pariah
@@ -311,10 +324,12 @@ Seteth (1): Seteth
 Seth (1): Seth
 Shamir (1): Shamir
 Shane (1): Shane
+Sheev (1): Sheev Palpatine
 Sherlock (1): Sherlock Holmes
 Sisu (1): Sisu
 Smaug (1): Smaug
 Smiley (1): Smiley Bone
+Snoke (1): Snoke
 Sokka (1): Sokka
 Olivia (1): Sombra
 Sonic (1): Sonic the Hedgehog

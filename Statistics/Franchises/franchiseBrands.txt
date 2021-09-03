@@ -1,77 +1,78 @@
 
-Avatar (TV Show) (1/29):
+Avatar (TV Show) (1/38):
 	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
-	-All (1/29): Avatar The Last Airbender
+	-All (1/38): Avatar The Last Airbender
 
-Band of Fools (1/29):
+Band of Fools (1/38):
 	-Band of Fools Original (1/1): Band of Fools (original)
-	-All (1/29): Band of Fools (original)
+	-All (1/38): Band of Fools (original)
 
-Bone (1/29):
+Bone (1/38):
 	-Bone (1/1): Bone
-	-All (1/29): Bone
+	-All (1/38): Bone
 
-DC (1/29):
+DC (1/38):
 	-DC Comics (1/1): Crisis on Infinite Earths
-	-All (1/29): Crisis on Infinite Earths
+	-All (1/38): Crisis on Infinite Earths
 
-Disney (2/29):
-	-Moana (1/2): Moana
-	-Raya and the Last Dragon (1/2): Raya and the Last Dragon
-	-All (2/29): Moana, Raya and the Last Dragon
+Disney (11/38):
+	-Moana (1/11): Moana
+	-Raya and the Last Dragon (1/11): Raya and the Last Dragon
+	-Star Wars (9/11): Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
+	-All (11/38): Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
 
-Dracula (1/29):
+Dracula (1/38):
 	-Dracula (1/1): Dracula
-	-All (1/29): Dracula
+	-All (1/38): Dracula
 
-Edge of Tomorrow (1/29):
+Edge of Tomorrow (1/38):
 	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
-	-All (1/29): Edge of Tomorrow (film)
+	-All (1/38): Edge of Tomorrow (film)
 
-Fire Emblem (5/29):
+Fire Emblem (5/38):
 	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All (5/29): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/38): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Frozen (1/29):
+Frozen (1/38):
 	-Frozen (1/1): Frozen
-	-All (1/29): Frozen
+	-All (1/38): Frozen
 
-Halloween (1/29):
+Halloween (1/38):
 	-Halloween (1/1): Halloween
-	-All (1/29): Halloween
+	-All (1/38): Halloween
 
-Harry Potter (1/29):
+Harry Potter (1/38):
 	-Harry Potter (1/1): Harry Potter
-	-All (1/29): Harry Potter
+	-All (1/38): Harry Potter
 
-Indie Video Games (3/29):
+Indie Video Games (3/38):
 	-Undertale (3/3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All (3/29): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (3/38): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Kindred (1/29):
+Kindred (1/38):
 	-Kindred (1/1): Kindred (novel)
-	-All (1/29): Kindred (novel)
+	-All (1/38): Kindred (novel)
 
-Mario (2/29):
+Mario (2/38):
 	-Mario (2/2): Mario 64, Mario Galaxy
-	-All (2/29): Mario 64, Mario Galaxy
+	-All (2/38): Mario 64, Mario Galaxy
 
-Marvel (3/29):
+Marvel (3/38):
 	-MCU (3/3): Age of Ultron, Avengers I, Captain America Civil War
-	-All (3/29): Age of Ultron, Avengers I, Captain America Civil War
+	-All (3/38): Age of Ultron, Avengers I, Captain America Civil War
 
-Percy Jackson and the Olympians (1/29):
+Percy Jackson and the Olympians (1/38):
 	-Kane Chronicles (1/1): Kane Chronicles
-	-All (1/29): Kane Chronicles
+	-All (1/38): Kane Chronicles
 
-RWBY (1/29):
+RWBY (1/38):
 	-RWBY (1/1): RWBY
-	-All (1/29): RWBY
+	-All (1/38): RWBY
 
-Sherlock Holmes Shows (1/29):
+Sherlock Holmes Shows (1/38):
 	-BBC Shows (1/1): Sherlock
-	-All (1/29): Sherlock
+	-All (1/38): Sherlock
 
-Valve (1/29):
+Valve (1/38):
 	-Half-Life (1/1): Half Life 2
-	-All (1/29): Half Life 2
+	-All (1/38): Half Life 2

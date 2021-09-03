@@ -53,6 +53,7 @@ async def on_message(message):
         return
     if message.author.id == userID:
         if "~testall" in message.content:
+            print("Begin test all")
             foundName = False
             name = ""
             messageList = message.content.split("-")
@@ -63,7 +64,7 @@ async def on_message(message):
             else:
                 print("No name detected; starting from beginning")
                 foundName = True
-
+            print("Let's go")
             alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
             # List all files in a directory using os.listdir
@@ -77,11 +78,11 @@ async def on_message(message):
                             if entry[0:len(entry)-4:] == name:
                                 foundName = True
                             if foundName == True:
-                                embed = infoPerson(entry[0:len(entry)-4:])
+                                embed = infoPerson(entry[0:len(entry)-4:], "")
                                 await message.channel.send(embed=embed)
                                 if characterInfo[22] != "":
                                     for artifact in characterInfo[22].split("|"):
-                                        embed = infoArtifact(artifact)
+                                        embed = infoArtifact(artifact, "")
                                         await message.channel.send(embed=embed)
                             
                                 

@@ -5,8 +5,8 @@ https://en.wikipedia.org/wiki/Star_Wars_(film)
 Destroy the Death Star|Bring the Death Star Plans to Yavin IV|Save Yavin IV|Rescue Leia's Insert
 Save the Rebel Alliance
 Save Alderaan|Kill/Redeem Darth Vader's Insert|No Deaths
-Luke Skywalker|Leia Organa|Han Solo|Chewbacca|R2D2|C3PO|Obi-Wan Kenobi
-Darth Vader|Grand Moff Tarkin|Emperor Palpatine
+Luke Skywalker|Leia Organa|Han Solo|Chewbacca|R2-D2|C3PO|Obi-Wan Kenobi
+Darth Vader|Grand Moff Tarkin|Sheev Palpatine
 Stormtroopers
 
 Star Wars (Main Theme)|https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi?si=49e4400fa2914124

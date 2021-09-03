@@ -42,6 +42,7 @@ Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Ma
 Champions (Pokemon) (2): Blue, Red (Pokemon)
 Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
+Confederacy of Independent Systems (3): Count Dooku, Darth Maul, General Grievous
 Contributors (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Cortez Family (2): Carmen Cortez, Juni Cortez
 Death Eaters (1): Lord Voldemort
@@ -70,7 +71,8 @@ Fantastic Four (Extended) (8): Bentley-23, Black Panther, Mr. Fantastic, Spider-
 Fellowship of the Ring (2): Aragorn, Boromir
 Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
 Finch Family (3): Atticus Finch, Jem Finch, Scout Finch
-First Order (Star Wars) (1): Kylo Ren
+First Order (1): Snoke
+First Order (Star Wars) (2): Captain Phasma, Kylo Ren
 Flash Family (9): Barry Allen, Bart Allen, Irey West, Jai West, Jay Garrick, Jesse Quick, Max Mercury, Wally West II, Wally West
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Flynn-Fletcher Family (1): Candace Flynn
@@ -78,7 +80,7 @@ Friendship Main Squad (My Little Pony) (1): Applejack
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Future Foundation (1): Bentley-23
 GCPD (1): Jim Gordon
-Galactic Empire (1): Darth Vader
+Galactic Empire (3): Darth Vader, Grand Moff Tarkin, Sheev Palpatine
 Giant Sized X-Men #1 Team (6): Banshee, Colossus, Cyclops, Nightcrawler, Storm, Wolverine
 Golden Deer (3): Byleth, Claude, Hilda
 Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
@@ -121,12 +123,14 @@ Legion of Superheroes (Core) (1): Brainiac 5
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
 Magnus Chase First Quintet (4): Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
 Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
+Mandalorian (1): Jango Fett
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 Marvel's First Family (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Marvel's Floating Super-Hero Poker Game (1): The Thing
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
 New Mutants (Core) (1): Cannonball
 New Mutants (Extended) (1): Cannonball
+Ninja Mafia (Sam and Fuzzy) (3): Devahi, Fuzzy, Sam (Sam and Fuzzy)
 Noi's Family (4): Dyan, Noi, Pan, Uka
 Norse Demigods (Rick Riordan) (7): Alex Fierro, Blitzen, Halfborn Gunderson, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 Nova Corps (1): Sam Alexander
@@ -136,7 +140,7 @@ Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fle
 Original Four (KSP) (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Original Prophecy (2): Annabeth Chase, Percy Jackson
 Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider
-Original Trilogy Quintet (6): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, R2-D2
+Original Trilogy Quintet (8): C3PO, Chewbacca, Han Solo (Old), Han Solo, Leia Organa (Old), Leia Organa, Luke Skywalker, R2-D2
 Outsiders (2): Batman, Black Lightning
 Overwatch Heroes (1): Bastion
 Paper Mario: The Origami King Cast (1): Bobby
@@ -148,7 +152,7 @@ Pokemon Anime Kanto Trio (3): Ash Ketchum, Brock, Misty
 Rat Creature Horde (Bone) (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Raya and the Last Dragon Crew (1): Boun
 Raya's Band of Wanderers (8): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
-Rebel Alliance (Star Wars) (7): C3PO, Chewbacca, Han Solo, Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
+Rebel Alliance (Star Wars) (10): C3PO, Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Leia Organa (Old), Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
 Red Hood and the Outlaws (1): Jason Todd
 Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
@@ -168,19 +172,21 @@ Shazam Family (3): Captain Marvel Jr., Captain Marvel, Mary Marvel
 Sherlock (TV Show) Cast (4): Inspector Lestrade, John Watson, Mycroft Holmes, Sherlock Holmes
 Shirai Ryu (1): Scorpion
 Shortpacked! Store (1): Amazi-Girl
-Sith Lord (1): Darth Vader
+Sith Lord (5): Count Dooku, Darth Maul, Darth Vader, Sheev Palpatine, Snoke
 Sith Lords (1): Kylo Ren
-Skywalkers (Star Wars) (5): Anakin Skywalker, Kylo Ren, Leia Organa, Luke Skywalker, Rey
+Skywalker Family Quartet (4): Anakin Skywalker, Leia Organa, Luke Skywalker, Padme Amidala
+Skywalkers (Star Wars) (6): Anakin Skywalker, Kylo Ren, Leia Organa (Old), Leia Organa, Luke Skywalker, Rey
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
 Sonic the Hedgehog (Main Cast) (2): Amy Rose, Sonic the Hedgehog
 Spider-People (2): Miles Morales, Spider-Man
 Star Trek: The Original Series Crew (1): Captain Kirk
+Star Wars Bounty Hunters (3): Boba Fett, Jabba the Hutt, Jango Fett
 Star Wars Droid Duo (2): C3PO, R2-D2
 Star Wars Droids (3): BB-8, C3PO, R2-D2
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
-Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam, Sebastian, Shane
-Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane
-Stardew Valley Trio (3): Abigail, Sam, Sebastian
+Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebastian, Shane
+Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
+Stardew Valley Trio (3): Abigail, Sam (Stardew Valley), Sebastian
 Stinger Mantis Crew (1): Cal Kestis
 Straw Hat Pirates (1): Brook
 Suicide Squad (Core) (2): Amanda Waller, Captain Boomerang
@@ -202,6 +208,7 @@ Teen Titans (Core) (3): Beast Boy, Dick Grayson, Wally West
 Teen Titans (Extended) (10): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Supergirl, Tim Drake, Wally West II, Wally West
 Teen Titans Founders (2): Dick Grayson, Wally West
 Teen Titans Go! Cast (3): Beast Boy, Cyborg, Dick Grayson
+Tesladyne Industries (2): Atomic Robo, Jenkins
 The Backyardigans (1): Austin
 The Black Order (1): Thanos
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
@@ -210,7 +217,7 @@ The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
 The Nautilus Crew (1): Captain Nemo
 The Princess Alliance (3): Adora, Bow, Glimmer
 The Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
-The Resistance (Star Wars) (8): BB-8, C3PO, Chewbacca, Finn, Leia Organa, Poe Dameron, R2-D2, Rey
+The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 The Rogues (Flash) (1): Captain Boomerang
 Thorin and Company (1): Bilbo Baggins
 Thunderbolts (1): Hawkeye

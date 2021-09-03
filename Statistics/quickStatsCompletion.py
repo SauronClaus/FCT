@@ -15,6 +15,9 @@ def quickStatsCompletion():
     weirdCharacters = []
     allCharacters = []
     newCharacterRankings = []
+    noSubCharacters = []
+    guildLockedCharacters = []
+    regularRestict = []
 
     # List all files in a directory using os.listdir
     for letter in alphabet:
@@ -25,6 +28,14 @@ def quickStatsCompletion():
                 characterInfo = characterFile.read().split("\n")
                 if len(characterInfo) == 29:
                     completedCharacters.append(entry[0:len(entry)-4:])
+                    if characterInfo[28] == "No":
+                        regularRestict.append(entry[0:len(entry)-4:])
+                    else:
+                        if characterInfo[28] == "No Sub In":
+                            noSubCharacters.append(entry[0:len(entry)-4:])
+                        else:
+                            if characterInfo[28].split("|")[0] == "Guild Only":
+                                guildLockedCharacters.append(entry[0:len(entry)-4:])
                 else:
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])
@@ -43,26 +54,45 @@ def quickStatsCompletion():
     weirdCharacters.sort()
     allCharacters.sort()
     newCharacterRankings.sort()
+    noSubCharacters.sort()
+    guildLockedCharacters.sort()
+    regularRestict.sort()
 
     weirdFile = open("Statistics\\Completetion Rankings\\People\\weirdCharacters.txt", "w", encoding='utf8')
     updateFile = open("Statistics\\Completetion Rankings\\People\\needToUpdateCharacters.txt", "w", encoding='utf8')
     incompleteFile = open("Statistics\\Completetion Rankings\\People\\incompleteCharacters.txt", "w", encoding='utf8')
     completeFile = open("Statistics\\Completetion Rankings\\People\\completedCharacters.txt", "w", encoding='utf8')
     newCharacterRankingsFile = open("Statistics\\Completetion Rankings\\People\\newUpdate.txt", "w", encoding='utf8')
+    guildLockFile = open("Statistics\\Completetion Rankings\\People\\guildLocked.txt", "w", encoding='utf8')
+    noSubFile = open("Statistics\\Completetion Rankings\\People\\noSubstitute.txt", "w", encoding='utf8')
+    regularRestictFile = open("Statistics\\Completetion Rankings\\People\\noRestrictions.txt", "w", encoding='utf8')
+
+
     for character in completedCharacters:
         completeFile.write(character + "\n")
-
     for character in undoneCharacters:
         incompleteFile.write(character + "\n")
     for character in needToUpdateCharacters:
         updateFile.write(character + "\n")
     for character in weirdCharacters:
         weirdFile.write(character + "\n")
+    for character in guildLockedCharacters:
+        guildLockFile.write(character + "\n")
+    for character in noSubCharacters:
+        noSubFile.write(character + "\n")
+    for character in newCharacterRankings:
+        newCharacterRankingsFile.write(character + "\n")
+    for character in regularRestict:
+        regularRestictFile.write(character + "\n")
 
     weirdFile.close()
     updateFile.close()
     incompleteFile.close()
     completeFile.close()
+    guildLockFile.close()
+    noSubFile.close()
+    newCharacterRankingsFile.close()
+    regularRestictFile.close()
 
 
     weirdFile = open("Statistics\\Completetion Rankings\\Franchises\\weirdFranchises.txt", "w", encoding='utf8')
@@ -186,11 +216,63 @@ def quickStatsCompletion():
     weirdAdjectives.sort()
     allAdjectives.sort()
 
+    weirdFile = open("Statistics\\Completetion Rankings\\Minions\\weirdMinions.txt", "w", encoding='utf8')
+    updateFile = open("Statistics\\Completetion Rankings\\Minions\\needToUpdateMinions.txt", "w", encoding='utf8')
+    incompleteFile = open("Statistics\\Completetion Rankings\\Minions\\incompleteMinions.txt", "w", encoding='utf8')
+    completeFile = open("Statistics\\Completetion Rankings\\Minions\\completedMinions.txt", "w", encoding='utf8')
+
+
+    completedMinions = []
+    undoneMinions = []
+    needToUpdateMinions = []
+    weirdMinions = []
+    allMinions = []
+
+    basepath = "Minions"
+    for entry in os.listdir(basepath):
+        if os.path.isfile(os.path.join(basepath, entry)):
+            MinionsFile = open(basepath + "/" + entry, "r", encoding='utf8')
+            MinionsInfo = MinionsFile.read().split("\n")
+            if entry != "readMe.txt":
+                if len(MinionsInfo) == 24:
+                    completedMinions.append(entry[0:len(entry)-4:])
+                else:
+                    if len(MinionsInfo) == 2:
+                        needToUpdateMinions.append(entry[0:len(entry)-4:])
+                    else:
+                        if len(MinionsInfo) == 0:
+                            undoneMinions.append(entry[0:len(entry)-4:])
+                        else:
+                            weirdMinions.append(entry[0:len(entry)-4:])
+                allMinions.append(entry[0:len(entry)-4:])
+    completedMinions.sort()
+    undoneMinions.sort()
+    needToUpdateMinions.sort()
+    weirdMinions.sort()
+
+    for minion in weirdMinions:
+        weirdFile.write(minion + "\n")
+    for minion in needToUpdateMinions:
+        updateFile.write(minion + "\n")
+    for minion in undoneMinions:
+        incompleteFile.write(minion + "\n")
+    for minion in completedMinions:
+        completeFile.write(minion + "\n")
+
+    weirdFile.close()
+    updateFile.close()
+    incompleteFile.close()
+    completeFile.close()
+
+
+
+
     completionFile = open("Statistics\\Completetion Rankings\\completion rankings.txt", "w", encoding='utf8')
-    completionFile.write("Characters (" + str(round(len(completedCharacters)/len(allCharacters),4)*100) + "%):\n   -" + str(len(completedCharacters)) + " completed characters.\n   -" + str(len(undoneCharacters)) + " incomplete characters.\n   -" + str(len(needToUpdateCharacters)) + " unupdated characters.\n   -" + str(len(weirdCharacters)) + " weird characters.\n   -" + str(len(allCharacters)) + " total characters.\n")
+    completionFile.write("Characters (" + str(round((len(completedCharacters) + len(guildLockedCharacters) + len(noSubCharacters))/len(allCharacters),4)*100) + "%):\n   -" + str(len(completedCharacters)) + " completed characters.\n   -" + str(len(undoneCharacters)) + " incomplete characters.\n   -" + str(len(regularRestict)) + " characters with no restrictions.\n   -" + str(len(noSubCharacters)) + " unsubstitutable characters.\n   -" + str(len(guildLockedCharacters)) + " guild locked characters.\n   -" + str(len(needToUpdateCharacters)) + " unupdated characters.\n   -" + str(len(weirdCharacters)) + " weird characters.\n   -" + str(len(allCharacters)) + " total characters.\n")
     completionFile.write("Franchises: (" + str(round(len(completedFranchises)/len(allFranchises),4)*100) + "%):\n   -" + str(len(completedFranchises)) + " completed franchises.\n   -" + str(len(undoneFranchises)) + " incomplete franchises.\n   -" + str(len(needToUpdateFranchises)) + " unupdated franchises.\n   -" + str(len(weirdFranchises)) + " weird franchises.\n   -" + str(len(allFranchises)) + " total franchises.\n")
     completionFile.write("Artifacts: (" + str(round(len(completedArtifacts)/len(allArtifacts),4)*100) + "%):\n   -" + str(len(completedArtifacts)) + " completed artifacts.\n   -" + str(len(undoneArtifacts)) + " incomplete artifacts.\n   -" + str(len(needToUpdateArtifacts)) + " unupdated artifacts.\n   -" + str(len(weirdArtifacts)) + " weird artifacts.\n   -" + str(len(allArtifacts)) + " total artifacts.\n")
-    completionFile.write("Adjectives: (" + str(round(len(completedAdjectives)/len(allAdjectives),4)*100) + "%):\n   -" + str(len(completedAdjectives)) + " completed adjectives.\n   -" + str(len(undoneAdjectives)) + " incomplete adjectives.\n   -" + str(len(needToUpdateAdjectives)) + " unupdated adjectives.\n   -" + str(len(weirdAdjectives)) + " weird adjectives.\n   -" + str(len(allAdjectives)) + " total adjectives.")
+    completionFile.write("Adjectives: (" + str(round(len(completedAdjectives)/len(allAdjectives),4)*100) + "%):\n   -" + str(len(completedAdjectives)) + " completed adjectives.\n   -" + str(len(undoneAdjectives)) + " incomplete adjectives.\n   -" + str(len(needToUpdateAdjectives)) + " unupdated adjectives.\n   -" + str(len(weirdAdjectives)) + " weird adjectives.\n   -" + str(len(allAdjectives)) + " total adjectives.\n")
+    completionFile.write("Minions: (" + str(round(len(completedMinions)/len(allMinions),4)*100) + "%):\n   -" + str(len(completedMinions)) + " completed minions.\n   -" + str(len(undoneMinions)) + " incomplete minions.\n   -" + str(len(needToUpdateMinions)) + " unupdated minions.\n   -" + str(len(weirdMinions)) + " weird minions.\n   -" + str(len(allMinions)) + " total minions.")
 
     print("Completed Completion Update!")
 

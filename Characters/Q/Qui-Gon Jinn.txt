@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Father Figure,Force Sensitive,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda
+Father Figure,Force Sensitive,Galactic Republic (Star Wars),Jedi Knight,Jedi Master,Jedi Order,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Master Apprentice|Count Dooku
 City
 Medium
 Jedi Order
@@ -23,7 +23,7 @@ Star Wars
 
 Brown
 
-
+Disney
 Sebastian
 
 No

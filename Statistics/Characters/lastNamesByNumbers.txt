@@ -1,10 +1,11 @@
 West (5): Irey West, Iris West, Jai West, Wally West II, Wally West
+Skywalker (4): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Weasley (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Kerman (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Kane (3): Amos Kane, Carter Kane, Sadie Kane
-Skywalker (3): Anakin Skywalker, Darth Vader, Luke Skywalker
 Finch (3): Atticus Finch, Jem Finch, Scout Finch
 Bone (3): Fone Bone, Phoney Bone, Smiley Bone
+Solo (3): Han Solo (Old), Han Solo, Kylo Ren
 van Dyne (3): Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 Richards (3): Iron Lad, Mr. Fantastic, The Invisible Woman
 Rose (2): Amy Rose, Ruby Rose
@@ -14,6 +15,7 @@ Beaubier (2): Aurora, Northstar
 Gordon (2): Barbara Gordon, Jim Gordon
 Allen (2): Barry Allen, Bart Allen
 Wayne (2): Batman, Damian Wayne
+Fett (2): Boba Fett, Jango Fett
 Carter (2): Booster Gold, Maxwell
 Braddock (2): Captain Britain, Psylocke
 Freeman (2): Captain Marvel Jr., Gordon Freeman
@@ -24,9 +26,10 @@ Stone (2): Cyborg, Walt Stone
 Summers (2): Cyclops, Young Cyclops
 Howlett (2): Doom Guy, Wolverine
 Harvestar (2): Gran'ma Ben, Thorn Harvestar
-Solo (2): Han Solo, Kylo Ren
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
+Jenkins (2): Jenkins, Jono Jenkins
 Harker (2): Jonathan Harker, Mina Harker
+Organa (2): Leia Organa (Old), Leia Organa
 Mario (2): Luigi, Mario
 Holmes (2): Mycroft Holmes, Sherlock Holmes
 Maximoff (2): Quicksilver, Scarlet Witch
@@ -58,6 +61,7 @@ Waller (1): Amanda Waller
 O'Malley (1): Amazi-Girl
 Chavez (1): America Chavez
 Winston (1): Amethyst
+Holdo (1): Amilyn Holdo
 Cahill (1): Amy Cahill
 Ferrier (1): Amy Ferrier
 Worthington (1): Angel
@@ -81,6 +85,7 @@ Dreemurr (1): Asgore
 Ketchum (1): Ash Ketchum
 Ubert (1): Ashe
 Brown (1): Ashley Brown
+Robo (1): Atomic Robo
 Ramirez (1): Audrey Ramirez
 Tjinder (1): Baljeet Tjinder
 Cassidy (1): Banshee
@@ -127,8 +132,10 @@ Li (1): Chun-Li
 von Riegan (1): Claude
 Frazer (1): Colin Frazer
 Rasputin (1): Colossus
+Dooku (1): Count Dooku
 Smith (1): Culverton Smith
 Franklin (1): Dana Franklin
+Maul (1): Darth Maul
 Molinaro (1): Dedue
 DeGroot (1): Demoman
 Grayson (1): Dick Grayson
@@ -148,7 +155,9 @@ Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
 Zhang (1): Frank Zhang
+Sheelal (1): General Grievous
 Manassnass (1): Glynnric Manassnass
+Tarkin (1): Grand Moff Tarkin
 Queen (1): Green Arrow
 Guile (1): Guile
 Jordan (1): Hal Jordan
@@ -167,7 +176,9 @@ Banner (1): Hulk
 Galatea (1): Ingrid
 Lestrade (1): Inspector Lestrade
 Stark (1): Iron Man
+Tiure (1): Jabba the Hutt
 Moriarty (1): James Moriarty
+Binks (1): Jar Jar Binks
 Grace (1): Jason Grace
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
@@ -175,14 +186,13 @@ Chambers (1): Jesse Quick
 Seward (1): John Seward
 Stewart (1): John Stewart
 Watson (1): John Watson
-Jenkins (1): Jono Jenkins
 L (1): Kal-L
 Sunstrider (1): Kalathos Sunstrider
 Par-Al (1): Kareem Par-Al
 Masters (1): Ken
 Bjorgman (1): Kristoff
+Calrissian (1): Lando Calrissian
 Strode (1): Laurie Strode
-Organa (1): Leia Organa
 Valdez (1): Leo Valdez
 von Hevring (1): Linhardt
 Laufeyson (1): Loki
@@ -200,6 +210,7 @@ Rambeau (1): Monica Rambeau
 Khan (1): Ms. Marvel
 Wagner (1): Nightcrawler
 Kenobi (1): Obi-Wan Kenobi
+Naberrie (1): Padme Amidala
 Mossa (1): Pariah
 Jackson (1): Percy Jackson
 Macneary (1): Petra (Fire Emblem)
@@ -209,13 +220,16 @@ Toadstool (1): Princess Peach
 Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
 Vrataski (1): Rita Vrataski
+Tico (1): Rose Tico
 Rider (1): Ruby Rider
 Hoshi (1): Ryu
+Samms (1): Sam (Sam and Fuzzy)
 Alexander (1): Sam Alexander
 al-Abbas (1): Samirah al-Abbas
 Hasashi (1): Scorpion
 Polge (1): Sebastian Polge
 Nevrand (1): Shamir
+Palpatine (1): Sheev Palpatine
 Mundy (1): Sniper
 Colomar (1): Sombra
 Parker (1): Spider-Man

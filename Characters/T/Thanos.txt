@@ -1,7 +1,7 @@
 Thanos
-Avengers
+Marvel Comics
 Thanos is a fictional character appearing in American comic books published by Marvel Comics. He was created by writer-artist Jim Starlin, and made his first appearance in The Invincible Iron Man #55 (cover dated February 1973). An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. He has clashed with many heroes including the Avengers, the Guardians of the Galaxy, the Fantastic Four, and the X-Men.
-https://en.wikipedia.org/wiki/Thanos#/media/File:Thanos_Infinity_4.png
+https://upload.wikimedia.org/wikipedia/en/c/cd/Thanos_Infinity_4.png
 https://en.wikipedia.org/wiki/Thanos
 Thanos
 
@@ -19,11 +19,11 @@ High
 The Black Order
 Porch|https://open.spotify.com/track/4EMYz5K5H6JFlpASGY6geb
 Movies,TV Shows,Comics,Cartoons
-Marvel Comics
+Marvel
 The Infinity Gauntlet
 Purple
 
-
-Sebastian
+Disney
+Ethan
 
 No

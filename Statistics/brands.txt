@@ -1,55 +1,66 @@
-2K Games: Amara, Brick
-Blizzard Games: Bastion
-Bone: Blue Stupid Rat Creature
-Capcom: Akuma, Chun-Li, Ryu
-Classic Books: Arthur Holmwood, Atticus Finch
-Classic Dystopian Books: Alex DeLarge
-Classic Fantasy Books: Aragorn
-Classic Fantasy Novel: Arya
-Classic Fantasy Novels: Arwen, Bard the Bowman, Bilbo Baggins, Boromir, Brom
-Classic Films: Alan Bradley
-Classic Horror Films: Dr. Loomis, Laurie Strode, Michael Myers
-Classic Horror Movies: Alice Johnson
-Classic Indie Graphic Novels: Brown Stupid Rat Creature
-Classic Modern Books: Anton Chigurh, Arthur Weasley, Bill Weasley
-Classic Novels: Captain Ahab, Captain Nemo, Culverton Smith, Inspector Lestrade, James Moriarty, John Watson, Mycroft Holmes, Sherlock Holmes
-Classic Sci-Fi Books: Bruce Ng
-Classic Sci-Fi Novels: Bean
-Classic Young Adult Novels: Brian Robeson
-DC: Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amanda Waller, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Lightning, Booster Gold, Brainiac 5, Captain Boomerang, Captain Marvel Jr., Captain Marvel, Damian Wayne, Dick Grayson, Hal Jordan, Hawkgirl, Irey West, Jai West, Jason Todd, Jesse Quick, John Stewart, Martian Manhunter, Max Mercury, Tim Drake, Wally West II, Wally West, Wonder Woman
-Disney: Adam Warlock, Agent Venom, Ahsoka Tano, Amadeus Cho, America Chavez, Anakin Skywalker, Angel, Anna, Anole, Armor, Audrey Ramirez, Aurora, Baljeet Tjinder, Baron Zemo, BB-8, Beast, Bentley-23, Black Panther, Black Widow, Blue Marvel, Boun, Bucky Barnes, Buford Van Stomm, C3PO, Cal Kestis, Candace Flynn, Cannonball, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Chewbacca, Colossus, Cyclops, Darth Vader, Dyan, Grand Moff Tarkin, Luke Skywalker, Maui, Miles Morales, Moana, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Namaari, Nightcrawler, Noi, Pan, Raya, Sam Alexander, Sheev Palpatine, Sisu, Spider-Man, Tamatoa, Te Ka, The Human Torch, The Invisible Woman, The Thing, Tong, Uka, Viv Vision, Wolverine, Yoda, Young Cyclops
+2K Games: Amara, Axton, Brick
+ABC Studios: Adrian Monk
+Alfred A. Knopf: Anton Chigurh, Arya, Brom
+Allen & Unwin: Aragorn, Arwen, Bard the Bowman, Bilbo Baggins, Boromir, Smaug
+Archibald Constable and Company: Abraham Van Helsing, Arthur Holmwood, Dracula, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+BioWare: Ashley Williams
+Blizzard Entertainment: Bastion, Sombra
+Bloomsbury Publishing: Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hermione Granger, Lord Voldemort, Ron Weasley
+Capcom: Akuma, Chun-Li, Guile, Ken, M. Bison, Ryu, Seth
+Cartoon Books: Blue Stupid Rat Creature, Brown Stupid Rat Creature, Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+Compass International Pictures: Dr. Loomis, Laurie Strode, Michael Myers
+ConcernedApe: Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane
+Crown Publishing: Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck
+Crown Publishing Group: Akihide Karatsu
+Delacorte: Billy Pilgrim
+Disney: Adam Warlock, Agent Venom, Ahsoka Tano, Alan Bradley, Amadeus Cho, America Chavez, Anakin Skywalker, Angel, Anna, Anole, Armor, Audrey Ramirez, Aurora, Baljeet Tjinder, Banshee, Baron Zemo, BB-8, Beast, Bentley-23, Black Panther, Black Widow, Blink, Blue Marvel, Boun, Bucky Barnes, Buford Van Stomm, C3PO, Cal Kestis, Candace Flynn, Cannonball, Captain America, Captain Britain, Carol Danvers, Cassie Lang, Chewbacca, Colossus, Cyclops, Darth Vader, Dyan, Elsa, Falcon, Finn, Grand Moff Tarkin, Han Solo, Hank Pym, Hawkeye, Hope van Dyne, Hulk, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Kristoff, Kylo Ren, Leia Organa, Loki, Luke Skywalker, Mace Windu, Magneto, Maui, Miles Morales, Moana, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Namaari, Nightcrawler, Noi, Northstar, Obi-Wan Kenobi, Olaf, Pan, Poe Dameron, Psylocke, Qui-Gon Jinn, Quicksilver, R2-D2, Raya, Rey, Sam Alexander, Scarlet Witch, Scott Lang, Sheev Palpatine, Sisu, Spider-Man, Storm, Sven, Tamatoa, Te Ka, Thanos, The Human Torch, The Invisible Woman, The Thing, Thor, Tong, Uka, Ultron, Vision, Viv Vision, War Machine, Wolverine, Yoda, Young Cyclops
+Disney Hyperion: Alex Fierro, Amos Kane, Annabeth Chase, Apollo, Blitzen, Calypso, Carter Kane, Frank Zhang, Halfborn Gunderson, Hazel Levesque, Hearthstone, Jason Grace, Leo Valdez, Magnus Chase, Mallory Keen, Percy Jackson, Piper McLean, Sadie Kane, Samirah al-Abbas, Thomas Jefferson Jr., Walt Stone, Zia Rashid
+Doubleday: Dana Franklin
 DreamWorks Pictures: Captain John H. Miller
-Dungeons & Dragons: Akkar, Byllemura Ruby-Eye
+Dreamwork Animations: Barry B. Benson
+Dungeons & Dragons: Akkar, Arthail Consumer of Food, Arthas Menethil, Byllemura Ruby-Eye, Eldon Spark Turen, Glynnric Manassnass, Jori-En Blurred, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider, Squee
+Fullbright: Amy Ferrier
 Guerrilla Games: Aloy
-Horror Video Games: Alan Wake, Ashley Brown, Barry Wheeler
-Indie Video Games: Abigail, Alex, Alphys, Asgore, Chara, Elliot, Emily, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Haley, Harvey, Leah, Maru, Mettaton EX, Papyrus, Penny, Sam, Sans, Sebastian, Shane, Toriel, Undyne
-Jim Henson's Muppets: Abby Cadabby, Animal, Beaker, Bert, Big Bird
-Literary Classics: Abraham Van Helsing
-Meme Movies: Barry B. Benson
-Modern Classic Books: Albus Dumbledore
-Modern Mythology: Alex Fierro, Amos Kane, Annabeth Chase, Apollo, Blitzen, Calypso, Carter Kane, Frank Zhang, Halfborn Gunderson, Hazel Levesque, Jason Grace, Leo Valdez, Mallory Keen, Piper McLean, Thomas Jefferson Jr.
-Netflix: Adora, Bow
-Netflix Originals: Catra
-Nickelodeon: Aang, Asami Sato, Azula
-Nickelodian: Bolin
-Nintendo: Alois, Alucard, Annette, Ash Ketchum, Ashe, Bernadetta, Blue, Bobby, Bowser Jr., Bowser, Brock, Byleth, Captain Falcon, Caspar, Catherine, Claude, Dorothea, Felix, Ferdinand, Ingrid, Linhardt, Petra (Fire Emblem), Red (Pokemon), Sylvain
-Physical Games: Araithia Shokta, Arthail Consumer of Food, Arthas Menethil
-Rare: Banjo
+Harper & Brothers: Captain Ahab
+Hasbro: Applejack
+Heinemann: Alex DeLarge
+J. B. Lippincott & Co.: Atticus Finch, Jem Finch, Scout Finch
+Jim Henson's Muppets: Abby Cadabby, Animal, Beaker, Bert, Big Bird, Dr. Bunsen Honeydew, Ernie
+Klei Entertainment: Maxwell
+MacMillan: Brian Robeson
+Midway Games: Scorpion
+Netflix Originals: Adora, Bow, Catra, Glimmer
+New Line Cinema: Alice Johnson
+Nickelodeon: Aang, Asami Sato, Austin, Azula, Bolin, Iroh, Katara, Korra, Mai, Ozai, Sokka, Suki, Toph Beifong, Ty Lee, Zuko
+Nintendo: Alois, Alucard, Annette, Ash Ketchum, Ashe, Bernadetta, Blue, Bobby, Bowser Jr., Bowser, Brock, Byleth, Captain Falcon, Caspar, Catherine, Claude, Dedue, Dimitri, Dorothea, Edelgard, Felix, Ferdinand, Flayn, Hilda, Hubert, Ingrid, Linhardt, Luigi, Mario, Mercedes, Misty, Petra (Fire Emblem), Princess Daisy, Princess Peach, Red (Pokemon), Rhea, Rosalina, Seteth, Shamir, Sothis, Sylvain
+Paramount Television: Agatha
+Physical Games: Araithia Shokta
+Pierre-Jules Hetzel: Captain Nemo
+PlatinumGames: Bayonetta
+Rare: Banjo, Kazooie
 Real Life: Colin Frazer, Ethan Chou, Harrison Truscott (Evil), Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
-Real-Life TV Shows: Adrian Monk, Agatha, Allison Blake
-Riot Games: Breach, Brimstone
-Sega: Amy Rose, Big the Cat, Blaze the Cat
+Remedy Entertainment: Alan Wake, Barry Wheeler
+Riot Games: Aphelios, Breach, Brimstone
+Rooster Teeth Originals: Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+Santa Monica Studio: Athena, Atreus, Kratos
+Scholastic Books: Amy Cahill
+Sega: Amy Rose, Ann Takamaki, Big the Cat, Blaze the Cat, Doctor Eggman, Sonic the Hedgehog
+Squad: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Square Enix Games: Aerith Gainsborough, Barret Wallace
-Troublemaker Studios: Carmen Cortez
+Supermassive Games: Ashley Brown
+T Campbell's Webcomics: Ally, Rikk, Rumy
+The Strand Magazine: Culverton Smith, Inspector Lestrade, James Moriarty, John Watson, Mycroft Holmes, Sherlock Holmes
+Toby Fox: Alphys, Asgore, Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Mettaton EX, Papyrus, Sans, Toriel, Undyne
+Tor Books: Bean
+Troublemaker Studios: Carmen Cortez, Juni Cortez
+Universal Media Studios: Allison Blake
 Valve: Alyx, Demoman, Engineer, Gordon Freeman, Heavy, Medic, Pyro, Scout, Sniper, Soldier, Spy
 ViacomCBS: Captain Kirk
 Video Games: Artyom
 Viking Press: Captain George Pollard Jr.
-Warner Bros: Omega (Edge of Tomorrow), Rita Vrataski, William Cage
-Webcomics: Ally, Amazi-Girl
+Warner Bros: Alan Scott, Alexander Luthor Jr., Alfred Pennyworth, Amanda Waller, Amethyst, Anti-Monitor, Aquaman, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Black Canary, Black Lightning, Booster Gold, Brainiac 5, Captain Boomerang, Captain Marvel Jr., Captain Marvel, Cyborg, Damian Wayne, Dick Grayson, Green Arrow, Hal Jordan, Harbringer, Hawkgirl, Hippolyta, Irey West, Iris West, Jai West, Jason Todd, Jay Garrick, Jesse Quick, Jim Gordon, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Max Mercury, Omega (Edge of Tomorrow), Pariah, Rita Vrataski, Superboy Prime, Supergirl, Superman, Ted Kord, Tim Drake, Wally West II, Wally West, William Cage, Wonder Woman
+Webcomics: Amazi-Girl
 Webtoons: Anna Croft
 Weekly Shonen Jump: Brook, Caesar Anthonio Zeppeli
 YouTube Creators: Extortionist Hobo, LeBron
-Young Adult Books: Amy Cahill
-Young Adult Novels: Akihide Karatsu, Annie Montrose, Beth Johanssen
 id Software: Doom Guy

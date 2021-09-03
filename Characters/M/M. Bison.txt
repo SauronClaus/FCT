@@ -1,7 +1,7 @@
 M. Bison
 Street Fighter
 M. Bison, known as Vega (ベガ Bega?) in Japan, is a video game character and the primary antagonist of the Street Fighter series, first appearing as a non-playable boss in Street Fighter II before becoming playable in its update, Street Fighter II: Champion Edition. He is a self-imposed dictator and megalomaniac seeking world domination.
-https://en.wikipedia.org/wiki/M._Bison#/media/File:Bison_(Super_Street_Fighter_II).png
+https://upload.wikimedia.org/wikipedia/en/e/e4/Bison_%28Super_Street_Fighter_II%29.png
 https://streetfighter.fandom.com/wiki/M._Bison
 Master
 Bison
@@ -23,7 +23,7 @@ Street Fighter
 
 Crimson
 
-
-Sebastian
+Capcom
+Ethan
 
 No

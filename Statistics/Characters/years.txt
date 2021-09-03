@@ -3,11 +3,12 @@
 4 (2): Abby Cadabby, Seth
 5 (1): BB-8
 6 (3): Bean, Big Bird, Scout Finch
+9 (1): Anakin Skywalker (Young)
 10 (4): Ash Ketchum, Boun, Jem Finch, Misty
 11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
 12 (2): Amy Rose, Toph Beifong
 13 (1): Brian Robeson
-14 (8): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Sadie Kane, Zia Rashid
+14 (9): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Padme Amidala, Sadie Kane, Zia Rashid
 15 (8): Brock, Carter Kane, Mai, Petra (Fire Emblem), Ruby Rose, Sokka, Sonic the Hedgehog, Sven
 16 (13): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Piper McLean, Vikram Kommareddi, Zuko
 17 (20): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Ingrid, Korra, Laurie Strode, Sebastian Polge, Weiss Schnee, Yang Xiao Long
@@ -15,8 +16,8 @@
 19 (5): Jono Jenkins, Leia Organa, Luke Skywalker, Rey, Sylvain
 20 (4): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert
 21 (5): Adora, Bill Weasley, Elsa, Kristoff, Michael Myers
-22 (3): Aerith Gainsborough, Anakin Skywalker, Mercedes
-23 (1): Finn
+22 (4): Aerith Gainsborough, Anakin Skywalker, Darth Maul, Mercedes
+23 (2): Finn, Rose Tico
 24 (2): Alyx, Artyom
 25 (2): Ashley Williams, Shamir
 27 (4): Captain Kirk, Catherine, Gordon Freeman, Sherlock Holmes
@@ -26,22 +27,28 @@
 32 (3): C3PO, Han Solo, Poe Dameron
 34 (2): Guile, Mycroft Holmes
 35 (2): Barret Wallace, Obi-Wan Kenobi
-36 (1): Dr. Chris Beck
+36 (2): Boba Fett, Dr. Chris Beck
 37 (1): Allison Blake
 40 (1): Boromir
 41 (3): Alan Wake, Arthur Weasley, Darth Vader
 43 (1): Bard the Bowman
 45 (3): Alois, Captain Nemo, Medic
+47 (1): Lando Calrissian
 50 (1): Adrian Monk
 51 (1): Bilbo Baggins
 52 (1): Scorpion
+53 (1): Leia Organa (Old)
 54 (1): Adam Warlock
 55 (1): Mallory Keen
 58 (1): Dr. Loomis
 60 (1): Qui-Gon Jinn
+64 (1): Grand Moff Tarkin
+66 (1): Han Solo (Old)
 67 (1): Maxwell
 71 (1): Lord Voldemort
-87 (1): Aragorn
+80 (1): Count Dooku
+83 (1): Atomic Robo
+87 (2): Aragorn, Sheev Palpatine
 88 (1): Brook
 91 (1): Hazel Levesque
 103 (1): Arya
@@ -50,6 +57,7 @@
 129 (1): Brom
 150 (1): Akkar
 200 (1): Chewbacca
+600 (1): Jabba the Hutt
 896 (1): Yoda
 1230 (1): Halfborn Gunderson
 1250 (1): Sothis

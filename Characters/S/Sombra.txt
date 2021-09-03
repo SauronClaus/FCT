@@ -1,7 +1,7 @@
 Sombra
 Overwatch
 Sombra is an infamous hacker and part of the terror organization Talon. She was orphaned after the Omnic Crisis, but was taken in by the Los Muertos gang and used her hacking skills to perform attacks against the government on their behalf. In the process, she uncovered a vast global conspiracy and was forced to undergo cybernetic enhancements and go into hiding.
-https://overwatch.fandom.com/wiki/Sombra?file=OW2_Sombra.png#Overwatch_2
+https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Sombra.png/revision/latest/scale-to-width-down/1000?cb=20210623082827
 https://overwatch-archive.fandom.com/wiki/Sombra
 Olivia
 Colomar
@@ -23,7 +23,7 @@ Overwatch
 Machine Pistol
 Purple
 
-
+Blizzard Entertainment
 Sebastian
 
 No

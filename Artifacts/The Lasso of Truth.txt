@@ -11,4 +11,4 @@ Weapon|Lasso
 
 City
 High
-Golden
+Gold

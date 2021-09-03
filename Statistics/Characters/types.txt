@@ -1,4 +1,5 @@
-Adventurer (24): Bilbo Baggins, Blitzen, Bobby, Calypso, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Glynnric Manassnass, Hazel Levesque, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Smiley Bone
+Action Scientist (2): Atomic Robo, Jenkins
+Adventurer (27): Bilbo Baggins, Blitzen, Bobby, Calypso, Devahi, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Fuzzy, Glynnric Manassnass, Hazel Levesque, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Sam (Sam and Fuzzy), Smiley Bone
 Archbishop (1): Rhea
 Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
 Artificer (1): Byllemura Ruby-Eye
@@ -8,11 +9,12 @@ Astromech Droid (2): BB-8, R2-D2
 Astronaut (6): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Valentina Kerman
 Average Guy (1): Barry B. Benson
 Barbarian (2): Arthail Consumer of Food, Tong
-Baseline Human (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane
+Baseline Human (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 Bender (8): Aang, Azula, Bolin, Iroh, Katara, Korra, Toph Beifong, Zuko
 Berserker (2): Brick, Halfborn Gunderson
 Bishop (1): Seteth
 Bodyguard (1): Dedue
+Bounty Hunter (2): Boba Fett, Jango Fett
 Bully (1): Buford Van Stomm
 Bureaucrat (2): Jori-En Blurred, Squee
 Businesswoman (1): Asami Sato
@@ -26,6 +28,7 @@ Civilian (18): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Ernie
 Cleric (1): Mercedes
 Con Artist (4): Dyan, Noi, Pan, Uka
 Conman (1): Phoney Bone
+Crime Lord (1): Jabba the Hutt
 Criminal (1): James Moriarty
 Dark Mage (1): Hubert
 Death Knight (1): Arthas Menethil
@@ -41,7 +44,7 @@ Empress (1): Edelgard
 Engineer (2): Audrey Ramirez, Engineer
 Evil King (2): Asgore, Bowser
 Evil Prince (1): Bowser Jr.
-Exile (1): Flowey
+Exile (2): Flowey, Jar Jar Binks
 Explorer (4): Bastion, Captain Nemo, Kristoff, Sven
 Explosions Expert (1): Demoman
 Farmer (1): Applejack
@@ -80,6 +83,7 @@ Naval Captain (1): Captain George Pollard Jr.
 Nerd (1): Baljeet Tjinder
 Ninja (1): Scorpion
 Nobility (1): Arwen
+Officer (3): Amilyn Holdo, Captain Phasma, Grand Moff Tarkin
 Operative (1): Amy Ferrier
 Phantom Thief (1): Ann Takamaki
 Pilot (1): Poe Dameron
@@ -110,10 +114,11 @@ Serial Killer (1): Culverton Smith
 Showman (1): Mettaton EX
 Singer (1): Dorothea
 Sith (1): Kylo Ren
-Sith Lord (1): Darth Vader
+Sith Lord (6): Count Dooku, Darth Maul, Darth Vader, General Grievous, Sheev Palpatine, Snoke
 Slasher (1): Michael Myers
-Smuggler (2): Chewbacca, Han Solo
-Soldier (21): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Doom Guy, Finn, Guile, Heavy, Leia Organa, Mai, Pyro, Rita Vrataski, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
+Slave (2): Anakin Skywalker (Young), Padme Amidala
+Smuggler (4): Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian
+Soldier (23): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Doom Guy, Finn, Guile, Heavy, Leia Organa (Old), Leia Organa, Mai, Pyro, Rita Vrataski, Rose Tico, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Space Captain (1): Captain Kirk
 Spirit (1): Chara

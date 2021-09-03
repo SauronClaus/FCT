@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Male
-Force Sensitive,Iconic,Jedi Knight,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Master Apprentice|Kylo Ren,Master Apprentice|Rey,Nemesis|Darth Vader,Parent Child|Darth Vader,Pilot,Rebel,Rebellion (Star Wars),Siblings|Leia Organa
+Force Sensitive,Iconic,Jedi Knight,Master Apprentice|Obi-Wan Kenobi,Master Apprentice|Yoda,Master Apprentice|Kylo Ren,Master Apprentice|Rey,Nemesis|Darth Vader,Parent Child|Darth Vader,Pilot,Rebel,Rebellion (Star Wars),Siblings|Leia Organa,Parent Child|Padme Amidala
 City
 High
-Original Trilogy Quintet,Rebel Alliance (Star Wars),Jedi Order,Skywalkers (Star Wars)
+Original Trilogy Quintet,Rebel Alliance (Star Wars),Jedi Order,Skywalkers (Star Wars),Skywalker Family Quartet
 
 Movies
 Star Wars
