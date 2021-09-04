@@ -1,4 +1,29 @@
 Drax the Destroyer
 Marvel Comics
+Drax the Destroyer (Arthur Douglas) is a fictional character appearing in American comic books published by Marvel Comics. Created by Jim Starlin, the character first appeared in The Invincible Iron Man #55 (February 1973). The character's origin story relates that Arthur Douglas was a human whose family was attacked and killed by the supervillain Thanos. Needing a champion to combat Thanos, the being known as Kronos took Arthur's spirit and placed it in a powerful new body, and Drax the Destroyer was born. Drax's powers included enhanced strength and resilience, flight, and the ability to project energy blasts from his hands. The character often battled Thanos, and on occasion the superheroes Captain Marvel and Adam Warlock. He was also a member of the group known as the Infinity Watch.
+https://upload.wikimedia.org/wikipedia/en/0/02/Drax-cover.jpg
+https://en.wikipedia.org/wiki/Drax_the_Destroyer
+Arthur
+Douglas
+Arthur Douglas|Drax the Pacifist|Drax the Destroyer|Drax|Arthur Sampson Douglas
+Norm Spencer|David Sobolov|Fred Tatasciore|Dave Bautista|Brandon Paul Eells
 
+Warrior
+Artifical Human
+Neutral
+Protagonist
+Male
+Criminal,Warrior,Green,Redeemed,Berserker,Destroyer,Pacifist,Former Human,Artifical,Powerhouse
+City
+High
+Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)
 
+Movies,Comics,Superhero Comics
+Marvel
+
+Green
+
+Disney
+Sebastian
+
+No
