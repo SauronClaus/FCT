@@ -9,11 +9,11 @@ Gamora Zen Whoberi Ben Titan|The Deadliest Woman In The Universe|Green Assassin 
 Mary Long|Alison Sealy-Smith|Nika Futterman|Laura Bailey|Vanessa Marshall|Zoe Saldana|Danielle Nicolet|Emily O'Brien
 
 Assassin
-Human
+Zehoberei
 Neutral
 Protagonist
 Female
-Criminal,Rebel,Romantic Subplot|Star-Lord,Assassin,Swordsman,Green,Redeemed
+Criminal,Rebel,Romantic Subplot|Star-Lord,Assassin,Swordsman,Green,Redeemed,Siblings|Nebula,Parent Child|Thanos,Abused
 Modified Human
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

@@ -197,8 +197,10 @@ Dr. Bunsen Honeydew
 Dr. Chris Beck
 Dr. Loomis
 Dracula
+Drax the Destroyer
 Dyan
 Edelgard
+Ego
 Eldon Spark Turen
 Elliot
 Elsa
@@ -220,6 +222,7 @@ Frisk (Genocide Route)
 Frisk (Neutral Route)
 Frisk (Pacifist Route)
 Fuzzy
+Gamora
 General Grievous
 Ginny Weasley
 Glimmer
@@ -228,6 +231,7 @@ Gordon Freeman
 Gran'ma Ben
 Grand Moff Tarkin
 Green Arrow
+Groot
 Guile
 Hal Jordan
 Haley
@@ -308,6 +312,7 @@ Magneto
 Magnus Chase
 Mai
 Mallory Keen
+Mantis
 Mario
 Martian Manhunter
 Maru
@@ -361,7 +366,9 @@ Rey
 Rhea
 Rikk
 Rita Vrataski
+Rocket Raccoon
 Ron Weasley
+Ronan the Accuser
 Rosalina
 Rose Tico
 Ruby Rider
@@ -400,6 +407,7 @@ Sothis
 Spider-Man
 Spy
 Squee
+Star-Lord
 Storm
 Suki
 Superboy Prime

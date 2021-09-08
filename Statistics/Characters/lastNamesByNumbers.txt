@@ -146,6 +146,7 @@ Honeydew (1): Dr. Bunsen Honeydew
 Beck (1): Dr. Chris Beck
 Loomis (1): Dr. Loomis
 Dracula (1): Dracula
+Douglas (1): Drax the Destroyer
 von Hresvelg (1): Edelgard
 Turen (1): Eldon Spark Turen
 Conagher (1): Engineer
@@ -155,6 +156,7 @@ Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
 Zhang (1): Frank Zhang
+Titan (1): Gamora
 Sheelal (1): General Grievous
 Manassnass (1): Glynnric Manassnass
 Tarkin (1): Grand Moff Tarkin
@@ -201,6 +203,7 @@ Bison (1): M. Bison
 Windu (1): Mace Windu
 Eisenhardt (1): Magneto
 Keen (1): Mallory Keen
+Brandt (1): Mantis
 J'onzz (1): Martian Manhunter
 Ludwig (1): Medic
 von Martritz (1): Mercedes
@@ -220,6 +223,7 @@ Toadstool (1): Princess Peach
 Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
 Vrataski (1): Rita Vrataski
+Raccoon (1): Rocket Raccoon
 Tico (1): Rose Tico
 Rider (1): Ruby Rider
 Hoshi (1): Ryu
@@ -233,6 +237,7 @@ Palpatine (1): Sheev Palpatine
 Mundy (1): Sniper
 Colomar (1): Sombra
 Parker (1): Spider-Man
+Quill (1): Star-Lord
 Munroe (1): Storm
 Zor-El (1): Supergirl
 Gautier (1): Sylvain

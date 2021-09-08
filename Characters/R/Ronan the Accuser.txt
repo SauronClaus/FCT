@@ -6,24 +6,24 @@ https://en.wikipedia.org/wiki/Ronan_the_Accuser
 Ronan
 
 Ronan the Accuser|Lord Ronan|Ronan the Free
-Kurt Russell|Aaron Schwartz|David Hasselhoff
+Michael Dorn|Keith Szarabajka|James C. Mathis III|Jonathan Adams|Lee Pace|John DiMaggio
 
-Planet
-Celestial
-Evil
+Warrior
+Kree
+Neutral
 Antagonist
 Male
-Planet,Massive,Assimilation,Celestial,Parent Child|Star-Lord
-Cosmic
+Soldier,Kree,General,Accuser,Special Forces,Hammer
+Modified Human
 Medium
 
 
 Movies
 Marvel
 
-Grey
+Blue
 
 Disney
 Sebastian
 
-No Sub In
+No

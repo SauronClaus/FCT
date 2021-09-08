@@ -7,6 +7,7 @@ The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
 Teen Titans (Extended) (10): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Supergirl, Tim Drake, Wally West II, Wally West
 Rebel Alliance (Star Wars) (10): C3PO, Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Leia Organa (Old), Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
+Guardians of the Galaxy (Extended) (9): Adam Warlock, Agent Venom, Carol Danvers, Drax the Destroyer, Gamora, Groot, Mantis, Rocket Raccoon, Star-Lord
 Jedi Order (9): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
 Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 Flash Family (9): Barry Allen, Bart Allen, Irey West, Jai West, Jay Garrick, Jesse Quick, Max Mercury, Wally West II, Wally West
@@ -40,6 +41,7 @@ Giant Sized X-Men #1 Team (6): Banshee, Colossus, Cyclops, Nightcrawler, Storm, 
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
 Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
 Contributors (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
+Guardians of the Galaxy (Core) (6): Drax the Destroyer, Gamora, Groot, Mantis, Rocket Raccoon, Star-Lord
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 Justice Society of America (Extended) (5): Alan Scott, Hippolyta, Jay Garrick, Jesse Quick, Kal-L
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
@@ -77,7 +79,6 @@ Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 Fantastic Four (Core) (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Marvel's First Family (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Stardew Valley Trio (3): Abigail, Sam (Stardew Valley), Sebastian
-Guardians of the Galaxy (Extended) (3): Adam Warlock, Agent Venom, Carol Danvers
 The Princess Alliance (3): Adora, Bow, Glimmer
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart

@@ -1,9 +1,9 @@
 Action Scientist (2): Atomic Robo, Jenkins
-Adventurer (27): Bilbo Baggins, Blitzen, Bobby, Calypso, Devahi, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Fuzzy, Glynnric Manassnass, Hazel Levesque, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Sam (Sam and Fuzzy), Smiley Bone
+Adventurer (30): Bilbo Baggins, Blitzen, Bobby, Calypso, Devahi, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Fuzzy, Glynnric Manassnass, Groot, Hazel Levesque, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Rocket Raccoon, Sam (Sam and Fuzzy), Smiley Bone, Star-Lord
 Archbishop (1): Rhea
 Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
 Artificer (1): Byllemura Ruby-Eye
-Assassin (1): Aphelios
+Assassin (2): Aphelios, Gamora
 Astral Punching (1): Amara
 Astromech Droid (2): BB-8, R2-D2
 Astronaut (6): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Valentina Kerman
@@ -87,6 +87,7 @@ Officer (3): Amilyn Holdo, Captain Phasma, Grand Moff Tarkin
 Operative (1): Amy Ferrier
 Phantom Thief (1): Ann Takamaki
 Pilot (1): Poe Dameron
+Planet (2): Ego, Ronan the Accuser
 Pokemon Trainer (5): Ash Ketchum, Blue, Brock, Misty, Red (Pokemon)
 Police Officer (1): Jim Gordon
 Post-Apocalypse Survivor (1): Artyom
@@ -125,7 +126,7 @@ Spirit (1): Chara
 Strategist (1): Bean
 Super Hero (1): Bucky Barnes
 Super Villain (1): Captain Boomerang
-Superhero (88): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
+Superhero (89): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Mantis, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
 Superheroes (4): Colossus, Cyclops, Nightcrawler, Wolverine
 Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
 Survivor (1): Laurie Strode
@@ -139,7 +140,7 @@ Vampire Hunter (1): Abraham Van Helsing
 Vampire Lord (1): Dracula
 Wanderer (1): Pariah
 Warlock (1): Ruby Rider
-Warrior (6): Hilda, Kratos, Magnus Chase, Namaari, Percy Jackson, Sokka
+Warrior (7): Drax the Destroyer, Hilda, Kratos, Magnus Chase, Namaari, Percy Jackson, Sokka
 Witch (1): Bayonetta
 Wizard (14): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hearthstone, Hermione Granger, Lord Voldemort, Ron Weasley
 World Destroyer (1): Anti-Monitor

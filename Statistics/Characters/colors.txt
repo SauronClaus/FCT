@@ -22,14 +22,14 @@ Blue (39): America Chavez, Anti-Monitor, Beast, Blue Marvel, Blue Stupid Rat Cre
 Bone White (5): Bastion, Brook, Kratos, Namaari, Sadie Kane
 Brock Orange (1): Brock
 Bronze (3): Carter Kane, Leo Valdez, Zia Rashid
-Brown (16): Boun, Brom, Brown Stupid Rat Creature, Cal Kestis, Chewbacca, Count Dooku, Devahi, Halfborn Gunderson, Hazel Levesque, Jim Gordon, Maui, Obi-Wan Kenobi, Qui-Gon Jinn, Raya, Sven, Wolverine
+Brown (17): Boun, Brom, Brown Stupid Rat Creature, Cal Kestis, Chewbacca, Count Dooku, Devahi, Halfborn Gunderson, Hazel Levesque, Jim Gordon, Maui, Obi-Wan Kenobi, Qui-Gon Jinn, Raya, Rocket Raccoon, Sven, Wolverine
 Copper (1): Nahara
-Crimson (13): Amos Kane, Asami Sato, Ashley Brown, Bilbo Baggins, Billy Pilgrim, Catra, Eldon Spark Turen, Hermione Granger, M. Bison, Ozai, Ruby Rider, Smaug, Wonder Woman
+Crimson (14): Amos Kane, Asami Sato, Ashley Brown, Bilbo Baggins, Billy Pilgrim, Catra, Eldon Spark Turen, Hermione Granger, M. Bison, Ozai, Ruby Rider, Smaug, Star-Lord, Wonder Woman
 Dark Green (3): Aragorn, Bard the Bowman, Guile
 Gold (19): Adora, Alexander Luthor Jr., Alice Johnson, Anna Croft, Annabeth Chase, Apollo, Arya, Ashe, Bow, C3PO, Caspar, Dedue, Dorothea, Ferdinand, Haley, Hawkgirl, Ingrid, Linhardt, Petra (Fire Emblem)
-Green (27): Alan Scott, Amadeus Cho, Anole, Beast Boy, Boba Fett, Bowser, Brainiac 5, Byllemura Ruby-Eye, Chara, Doom Guy, Green Arrow, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, Jabba the Hutt, John Stewart, Loki, Luigi, Martian Manhunter, Padme Amidala, Pariah, Samirah al-Abbas, Shane, Squee, Toph Beifong, Yoda
+Green (31): Alan Scott, Amadeus Cho, Anole, Beast Boy, Boba Fett, Bowser, Brainiac 5, Byllemura Ruby-Eye, Chara, Doom Guy, Drax the Destroyer, Gamora, Green Arrow, Groot, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, Jabba the Hutt, John Stewart, Loki, Luigi, Mantis, Martian Manhunter, Padme Amidala, Pariah, Samirah al-Abbas, Shane, Squee, Toph Beifong, Yoda
 Green (Alex Stardew) (1): Alex
-Grey (17): Annie Montrose, Bruce Ng, Captain Nemo, Captain Phasma, Grand Moff Tarkin, Hope van Dyne, Iroh, Jem Finch, Pyro, Rita Vrataski, Scout Finch, Sheev Palpatine, Snoke, Tong, Ultron, War Machine, William Cage
+Grey (19): Annie Montrose, Bruce Ng, Captain Nemo, Captain Phasma, Ego, Grand Moff Tarkin, Hope van Dyne, Iroh, Jem Finch, Pyro, Rita Vrataski, Ronan the Accuser, Scout Finch, Sheev Palpatine, Snoke, Tong, Ultron, War Machine, William Cage
 Kerbal-Green (7): Bill Kerman, Bob Kerman, Dr. Bunsen Honeydew, Flayn, Jebediah Kerman, Sothis, Valentina Kerman
 Magenta (2): Amilyn Holdo, Iris West
 Military Green (7): Axton, Brick, Captain John H. Miller, Glynnric Manassnass, Kareem Par-Al, Suki, Thorn Harvestar

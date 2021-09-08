@@ -4,7 +4,7 @@ Amy: Amethyst, Amy Cahill, Amy Rose
 Anakin: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Anna: Anna Croft, Anna
 Victor: Anole, Cyborg
-Arthur: Aquaman, Arthur Holmwood, Arthur Weasley
+Arthur: Aquaman, Arthur Holmwood, Arthur Weasley, Drax the Destroyer
 Ashley: Ashley Brown, Ashley Williams
 Barry: Barry Allen, Barry B. Benson, Barry Wheeler
 Bruce: Batman, Bruce Ng
@@ -31,4 +31,5 @@ Kal: Kal-L, Superboy Prime, Superman
 Leia: Leia Organa (Old), Leia Organa
 Ruby: Ruby Rider, Ruby Rose
 Sebastian: Sebastian Polge, Sebastian
+Peter: Spider-Man, Star-Lord
 Wallace: Wally West II, Wally West

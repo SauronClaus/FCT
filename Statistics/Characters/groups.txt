@@ -86,7 +86,8 @@ Golden Deer (3): Byleth, Claude, Hilda
 Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
-Guardians of the Galaxy (Extended) (3): Adam Warlock, Agent Venom, Carol Danvers
+Guardians of the Galaxy (Core) (6): Drax the Destroyer, Gamora, Groot, Mantis, Rocket Raccoon, Star-Lord
+Guardians of the Galaxy (Extended) (9): Adam Warlock, Agent Venom, Carol Danvers, Drax the Destroyer, Gamora, Groot, Mantis, Rocket Raccoon, Star-Lord
 Harrison Truscott's Permutations (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean

@@ -1,10 +1,10 @@
 James (7): Bucky Barnes, Captain Kirk, Doom Guy, James Moriarty, Jim Gordon, War Machine, Wolverine
+Arthur (4): Aquaman, Arthur Holmwood, Arthur Weasley, Drax the Destroyer
 John (4): Captain John H. Miller, John Seward, John Stewart, John Watson
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
 Amy (3): Amethyst, Amy Cahill, Amy Rose
 Anakin (3): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
-Arthur (3): Aquaman, Arthur Holmwood, Arthur Weasley
 Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
 Sam (3): Cannonball, Sam (Sam and Fuzzy), Sam (Stardew Valley)
 Scott (3): Cyclops, Scott Lang, Young Cyclops
@@ -31,6 +31,7 @@ Jonathan (2): Jonathan Harker, The Human Torch
 Leia (2): Leia Organa (Old), Leia Organa
 Ruby (2): Ruby Rider, Ruby Rose
 Sebastian (2): Sebastian Polge, Sebastian
+Peter (2): Spider-Man, Star-Lord
 Wallace (2): Wally West II, Wally West
 Aang (1): Aang
 Abby (1): Abby Cadabby
@@ -181,6 +182,7 @@ Bunsen (1): Dr. Bunsen Honeydew
 Christopher (1): Dr. Chris Beck
 Dyan (1): Dyan
 Edelgard (1): Edelgard
+Ego (1): Ego
 Eldon (1): Eldon Spark Turen
 Elliot (1): Elliot
 Elsa (1): Elsa
@@ -197,6 +199,7 @@ Flowey (1): Flowey
 Fone (1): Fone Bone
 Frank (1): Frank Zhang
 Fuzzy (1): Fuzzy
+Gamora (1): Gamora
 Qymaen (1): General Grievous
 Ginevra (1): Ginny Weasley
 Glimmer (1): Glimmer
@@ -204,6 +207,7 @@ Glynnric (1): Glynnric Manassnass
 Gordon (1): Gordon Freeman
 Wilhuff (1): Grand Moff Tarkin
 Oliver (1): Green Arrow
+Groot (1): Groot
 Harold (1): Hal Jordan
 Haley (1): Haley
 Halfborn (1): Halfborn Gunderson
@@ -310,7 +314,9 @@ Rey (1): Rey
 Rhea (1): Rhea
 Rikk (1): Rikk
 Rita (1): Rita Vrataski
+Rocket (1): Rocket Raccoon
 Ron (1): Ron Weasley
+Ronan (1): Ronan the Accuser
 Rosalina (1): Rosalina
 Rumy (1): Rumy
 Ryu (1): Ryu
@@ -334,7 +340,6 @@ Sokka (1): Sokka
 Olivia (1): Sombra
 Sonic (1): Sonic the Hedgehog
 Sothis (1): Sothis
-Peter (1): Spider-Man
 Squee (1): Squee
 Ororo (1): Storm
 Suki (1): Suki
