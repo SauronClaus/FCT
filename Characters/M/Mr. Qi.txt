@@ -1,4 +1,29 @@
 Mr. Qi
 Stardew Valley
+Mr. Qi is a mysterious stranger who is first encountered when the player puts a battery pack into the lock-box in the tunnel. He is connected to the empty box at the train station.
+https://stardewvalleywiki.com/mediawiki/images/b/b4/Mr._Qi.png
+https://stardewvalleywiki.com/Mr._Qi
+
+Qi
+Mr. Qi
 
 
+
+Human
+Good
+NPC
+Male
+Mysterious,Pixelated,Reality Off Kelter
+Baseline
+Low
+
+
+Video Games,Pixelated
+Stardew Valley
+
+Black
+
+ConcernedApe
+Sebastian
+
+No

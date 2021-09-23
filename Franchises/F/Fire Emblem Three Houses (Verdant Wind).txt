@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses
 Kill Edelgard|Defeat Those Who Slither in the Dark|Kill Nemesis
 
 
-Byleth|Claude|Hilda
+Byleth|Claude|Hilda|Ignatz|Raphael|Leonie|Lorenz|Lysithea|Marianne
 Edelgard|Hubert
 Adrestian Army
 

@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses
 Kill Edelgard|Kill the Immaculate One
 
 
-Byleth|Rhea|Seteth
+Byleth|Rhea|Seteth|Catherine|Shamir|Alois|Flayn
 Edelgard|Hubert
 Adrestian Army
 

@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Crest,Fashionista,Golden Deer (Fire Emblem),Lazy
+Crest,Fashionista,Golden Deer (Fire Emblem),Lazy,Crest,Nobility
 Baseline
 Low
 Golden Deer
