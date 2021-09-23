@@ -1,0 +1,14 @@
+Osiris
+Unbroken
+Osiris is a sentient magic weapon that was discovered and wielded by Yekkon Shmalakis, before eventually merging with Yekkon after an explosion nearly killed him. Typically it is a glaive, though it can manifest as any weapon.
+
+https://i.imgur.com/iS7JSIi.png
+Unbroken
+Yekkon Shmalakis
+Sentient,Sword,Glaive,Magical,Transmutable
+Dungeons & Dragons
+Weapon|Transforming
+Unbroken Artifacts
+City
+Low
+Silver-White

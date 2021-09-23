@@ -1,0 +1,14 @@
+Courtney
+Unbroken
+Courtney was a juvenile cloaker found and worn by Reithen Keiros.
+https://i.imgur.com/B2DZisZ.png
+
+Unbroken
+Reithen Keiros
+Gliding,Creature,Sentient
+Dungeons & Dragons
+Accessory|Cloak
+Unbroken Artifacts
+Slightly-Magical
+Low
+Black
