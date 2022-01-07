@@ -12,3 +12,5 @@ Weapon|Lasso
 City
 High
 Gold
+Sebastian
+No

@@ -12,3 +12,5 @@ Avengers Weapons,Avengers Quintet Weapons
 Country
 High
 Red
+Sebastian
+No

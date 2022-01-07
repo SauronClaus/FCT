@@ -1,27 +1,29 @@
-James (7): Bucky Barnes, Captain Kirk, Doom Guy, James Moriarty, Jim Gordon, War Machine, Wolverine
+James (7): Bucky Barnes, Captain Kirk, Doomslayer, James Moriarty, Jim Gordon, War Machine, Wolverine
 Arthur (4): Aquaman, Arthur Holmwood, Arthur Weasley, Drax the Destroyer
 John (4): Captain John H. Miller, John Seward, John Stewart, John Watson
+Samuel (4): Dr. Loomis, Dr. Samuel Hayden, Falcon, Sam Alexander
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
 Amy (3): Amethyst, Amy Cahill, Amy Rose
 Anakin (3): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
+Bill (3): Bill Cipher, Bill Kerman, Bill Weasley
 Sam (3): Cannonball, Sam (Sam and Fuzzy), Sam (Stardew Valley)
 Scott (3): Cyclops, Scott Lang, Young Cyclops
-Samuel (3): Dr. Loomis, Falcon, Sam Alexander
 Frisk (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
 William (3): Guile, Maxwell, William Cage
 Kal (3): Kal-L, Superboy Prime, Superman
+Alice (2): Alice Daerdahk, Alice Johnson
 Anna (2): Anna Croft, Anna
 Victor (2): Anole, Cyborg
 Ashley (2): Ashley Brown, Ashley Williams
 Bruce (2): Batman, Bruce Ng
-Bill (2): Bill Kerman, Bill Weasley
 Billy (2): Billy Pilgrim, Captain Marvel
 Michael (2): Booster Gold, Michael Myers
 Bowser (2): Bowser Jr., Bowser
 Brian (2): Brian Robeson, Captain Britain
 Carter (2): Carter Kane, Sadie Kane
+Nilox (2): Deag Grav, Deag Nilox
 Rose (2): Gran'ma Ben, Rose Tico
 Han (2): Han Solo (Old), Han Solo
 Harrison (2): Harrison Truscott (Evil), Harrison Truscott
@@ -33,6 +35,7 @@ Ruby (2): Ruby Rider, Ruby Rose
 Sebastian (2): Sebastian Polge, Sebastian
 Peter (2): Spider-Man, Star-Lord
 Wallace (2): Wally West II, Wally West
+Yekkon (2): Yekkon Shmalakis, Yekkon Shmekkon
 Aang (1): Aang
 Abby (1): Abby Cadabby
 Abigail (1): Abigail
@@ -50,7 +53,6 @@ Akuma (1): Akuma
 Albus (1): Albus Dumbledore
 Alexander (1): Alexander Luthor Jr.
 Alfred (1): Alfred Pennyworth
-Alice (1): Alice Johnson
 Allison (1): Allison Blake
 Ally (1): Ally
 Alois (1): Alois
@@ -79,6 +81,7 @@ Applejack (1): Applejack
 Aragorn (1): Aragorn
 Araithia (1): Araithia Shokta
 Hisako (1): Armor
+Arrolys (1): Arrolys Larskano
 Arthail (1): Arthail Consumer of Food
 Arthas (1): Arthas Menethil
 Artyom (1): Artyom
@@ -156,6 +159,7 @@ Douglas (1): Captain Falcon
 George (1): Captain George Pollard Jr.
 Frederick (1): Captain Marvel Jr.
 Phasma (1): Captain Phasma
+Carasynthia (1): Cara Dune
 Carmen (1): Carmen Cortez
 Carol (1): Carol Danvers
 Caspar (1): Caspar
@@ -163,6 +167,7 @@ Cassandra (1): Cassie Lang
 Catherine (1): Catherine
 Catra (1): Catra
 Chara (1): Chara
+Chell (1): Chell
 Chewbacca (1): Chewbacca
 Chun (1): Chun-Li
 Claude (1): Claude
@@ -171,13 +176,17 @@ Piotr (1): Colossus
 Culverton (1): Culverton Smith
 Damian (1): Damian Wayne
 Dana (1): Dana Franklin
+Dapper (1): Dapper Cyclops
+Ragnak (1): Deag Ragnak
 Dedue (1): Dedue
 Tavish (1): Demoman
 Devahi (1): Devahi
 Richard (1): Dick Grayson
 Dimitri (1): Dimitri
+Dipper (1): Dipper Pines
 Ivo (1): Doctor Eggman
 Dorothea (1): Dorothea
+Dorothy (1): Dorothy Gale
 Bunsen (1): Dr. Bunsen Honeydew
 Christopher (1): Dr. Chris Beck
 Dyan (1): Dyan
@@ -190,6 +199,7 @@ Emily (1): Emily
 Dell (1): Engineer
 Ernie (1): Ernie
 Ethan (1): Ethan Chou
+Fedora (1): Fedora Turthin
 Felix (1): Felix
 Ferdinand (1): Ferdinand
 Finn (1): Finn
@@ -200,14 +210,18 @@ Fone (1): Fone Bone
 Frank (1): Frank Zhang
 Fuzzy (1): Fuzzy
 Gamora (1): Gamora
+Garrik (1): Garrik Doriana
 Qymaen (1): General Grievous
 Ginevra (1): Ginny Weasley
 Glimmer (1): Glimmer
+Glinda (1): Glinda the Good Witch
 Glynnric (1): Glynnric Manassnass
 Gordon (1): Gordon Freeman
 Wilhuff (1): Grand Moff Tarkin
+Greef (1): Greef Karga
 Oliver (1): Green Arrow
 Groot (1): Groot
+Stanley (1): Grunkle Stan
 Harold (1): Hal Jordan
 Haley (1): Haley
 Halfborn (1): Halfborn Gunderson
@@ -226,11 +240,14 @@ Hippolyta (1): Hippolyta
 Hope (1): Hope van Dyne
 Hubert (1): Hubert
 Robert (1): Hulk
+Ignatz (1): Ignatz
+IKCFAMWSIIF (1): IKCFAMWSIIF
 Ingrid (1): Ingrid
 Iroh (1): Iroh
 Nathaniel (1): Iron Lad
 Anthony (1): Iron Man
 Riri (1): Ironheart
+Isabelle (1): Isabelle
 Jabba (1): Jabba the Hutt
 Jai (1): Jai West
 Janet (1): Janet van Dyne
@@ -248,25 +265,35 @@ Kareem (1): Kareem Par-Al
 Katara (1): Katara
 Kazooie (1): Kazooie
 Ken (1): Ken
+Makyr (1): Khan Makyr
 Korra (1): Korra
 Kratos (1): Kratos
 Kristoff (1): Kristoff
+Kronya (1): Kronya
+Kuiil (1): Kuiil
 Ben (1): Kylo Ren
 Lando (1): Lando Calrissian
 Laurie (1): Laurie Strode
 Leah (1): Leah
 Leonidas (1): Leo Valdez
+Leonie (1): Leonie
 Linhardt (1): Linhardt
 Loki (1): Loki
+Jimothy (1): Long Jim
+Lorana (1): Lorana Ritten
 Tom (1): Lord Voldemort
+Lorenz (1): Lorenz
 Luigi (1): Luigi
 Luke (1): Luke Skywalker
+Lysithea (1): Lysithea
 Master (1): M. Bison
+Mabel (1): Mabel Pines
 Mace (1): Mace Windu
 Max (1): Magneto
 Magnus (1): Magnus Chase
 Mai (1): Mai
 Mallory (1): Mallory Keen
+Marianne (1): Marianne
 Mario (1): Mario
 J'onn (1): Martian Manhunter
 Maru (1): Maru
@@ -277,6 +304,7 @@ Mercedes (1): Mercedes
 Mettaton (1): Mettaton EX
 Miles (1): Miles Morales
 Wilhelmina (1): Mina Harker
+M'gann (1): Miss Martian
 Misty (1): Misty
 Moana (1): Moana
 Monica (1): Monica Rambeau
@@ -286,6 +314,7 @@ Mycroft (1): Mycroft Holmes
 Nadia (1): Nadia Van Dyne
 Nahara (1): Nahara
 Namaari (1): Namaari
+Nebula (1): Nebula
 Kurt (1): Nightcrawler
 Noi (1): Noi
 Jean-Paul (1): Northstar
@@ -308,8 +337,10 @@ Elizabeth (1): Psylocke
 Qui-Gon (1): Qui-Gon Jinn
 Pietro (1): Quicksilver
 Quincey (1): Quincey Morris
+Raphael (1): Raphael
 Raya (1): Raya
 Red (1): Red (Pokemon)
+Reithen (1): Reithen Keiros
 Rey (1): Rey
 Rhea (1): Rhea
 Rikk (1): Rikk
@@ -322,6 +353,7 @@ Rumy (1): Rumy
 Ryu (1): Ryu
 Samirah (1): Samirah al-Abbas
 Sans (1): Sans
+Scarecrow (1): Scarecrow (Oz)
 Wanda (1): Scarlet Witch
 Hanzo (1): Scorpion
 Jean (1): Scout Finch
@@ -337,10 +369,13 @@ Smaug (1): Smaug
 Smiley (1): Smiley Bone
 Snoke (1): Snoke
 Sokka (1): Sokka
+Solon (1): Solon
 Olivia (1): Sombra
 Sonic (1): Sonic the Hedgehog
+Jesus (1): Soos Ramirez
 Sothis (1): Sothis
 Squee (1): Squee
+Stanford (1): Stanford Pines
 Ororo (1): Storm
 Suki (1): Suki
 Kara (1): Supergirl
@@ -349,13 +384,18 @@ Sylvain (1): Sylvain
 Tamatoa (1): Tamatoa
 Te (1): Te Ka
 Theodore (1): Ted Kord
+Terrence (1): Terrence the Baby Tarrasque
+Thales (1): Thales
 Thanos (1): Thanos
+Grogu (1): The Child
 Susan (1): The Invisible Woman
+Din (1): The Mandalorian
 Benjamin (1): The Thing
 Thomas (1): Thomas Jefferson Jr.
 Thor (1): Thor
 Thorn (1): Thorn Harvestar
 Timothy (1): Tim Drake
+Nick (1): Tin Woodman
 Tong (1): Tong
 Toph (1): Toph Beifong
 Toriel (1): Toriel
@@ -369,9 +409,14 @@ Vision (1): Vision
 Vivian  (1): Viv Vision
 Walt (1): Walt Stone
 Weiss (1): Weiss Schnee
+Wendy (1): Wendy Corduroy
+Elphaba (1): Wicked Witch of the West
+Oscar (1): Wizard of Oz
 Diana (1): Wonder Woman
 Yang (1): Yang Xiao Long
 Yoda (1): Yoda
+Yondu (1): Yondu
 Zach (1): Zach Wiebe
 Zia (1): Zia Rashid
 Zuko (1): Zuko
+Zulen (1): Zulen Kal-Thim

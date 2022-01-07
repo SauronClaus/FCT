@@ -1,78 +1,87 @@
 
-Avatar (TV Show) (1/38):
+Avatar (TV Show) (1/44):
 	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
-	-All (1/38): Avatar The Last Airbender
+	-All (1/44): Avatar The Last Airbender
 
-Band of Fools (1/38):
+Band of Fools (1/44):
 	-Band of Fools Original (1/1): Band of Fools (original)
-	-All (1/38): Band of Fools (original)
+	-All (1/44): Band of Fools (original)
 
-Bone (1/38):
+Bone (1/44):
 	-Bone (1/1): Bone
-	-All (1/38): Bone
+	-All (1/44): Bone
 
-DC (1/38):
+Classic Literature (1/44):
+	-Oz Books (1/1): Wizard of Oz
+	-All (1/44): Wizard of Oz
+
+DC (1/44):
 	-DC Comics (1/1): Crisis on Infinite Earths
-	-All (1/38): Crisis on Infinite Earths
+	-All (1/44): Crisis on Infinite Earths
 
-Disney (11/38):
-	-Moana (1/11): Moana
-	-Raya and the Last Dragon (1/11): Raya and the Last Dragon
-	-Star Wars (9/11): Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
-	-All (11/38): Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
+Disney (14/44):
+	-Marvel (2/14): Guardians of the Galaxy, Guardians of the Galaxy Vol 2
+	-Star Wars (10/14): Mandalorian 1, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
+	-Moana (1/14): Moana
+	-Raya and the Last Dragon (1/14): Raya and the Last Dragon
+	-All (14/44): Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
 
-Dracula (1/38):
+Dracula (1/44):
 	-Dracula (1/1): Dracula
-	-All (1/38): Dracula
+	-All (1/44): Dracula
 
-Edge of Tomorrow (1/38):
+Edge of Tomorrow (1/44):
 	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
-	-All (1/38): Edge of Tomorrow (film)
+	-All (1/44): Edge of Tomorrow (film)
 
-Fire Emblem (5/38):
+Fire Emblem (5/44):
 	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All (5/38): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/44): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Frozen (1/38):
+Frozen (1/44):
 	-Frozen (1/1): Frozen
-	-All (1/38): Frozen
+	-All (1/44): Frozen
 
-Halloween (1/38):
+Halloween (1/44):
 	-Halloween (1/1): Halloween
-	-All (1/38): Halloween
+	-All (1/44): Halloween
 
-Harry Potter (1/38):
+Harry Potter (1/44):
 	-Harry Potter (1/1): Harry Potter
-	-All (1/38): Harry Potter
+	-All (1/44): Harry Potter
 
-Indie Video Games (3/38):
+Indie Video Games (3/44):
 	-Undertale (3/3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All (3/38): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (3/44): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Kindred (1/38):
+Kindred (1/44):
 	-Kindred (1/1): Kindred (novel)
-	-All (1/38): Kindred (novel)
+	-All (1/44): Kindred (novel)
 
-Mario (2/38):
+Mario (2/44):
 	-Mario (2/2): Mario 64, Mario Galaxy
-	-All (2/38): Mario 64, Mario Galaxy
+	-All (2/44): Mario 64, Mario Galaxy
 
-Marvel (3/38):
+Marvel (3/44):
 	-MCU (3/3): Age of Ultron, Avengers I, Captain America Civil War
-	-All (3/38): Age of Ultron, Avengers I, Captain America Civil War
+	-All (3/44): Age of Ultron, Avengers I, Captain America Civil War
 
-Percy Jackson and the Olympians (1/38):
+Percy Jackson and the Olympians (1/44):
 	-Kane Chronicles (1/1): Kane Chronicles
-	-All (1/38): Kane Chronicles
+	-All (1/44): Kane Chronicles
 
-RWBY (1/38):
+RWBY (1/44):
 	-RWBY (1/1): RWBY
-	-All (1/38): RWBY
+	-All (1/44): RWBY
 
-Sherlock Holmes Shows (1/38):
+Sherlock Holmes Shows (1/44):
 	-BBC Shows (1/1): Sherlock
-	-All (1/38): Sherlock
+	-All (1/44): Sherlock
 
-Valve (1/38):
+Valve (1/44):
 	-Half-Life (1/1): Half Life 2
-	-All (1/38): Half Life 2
+	-All (1/44): Half Life 2
+
+id Software (2/44):
+	-Doom (2/2): Doom, Doom Eternal
+	-All (2/44): Doom, Doom Eternal

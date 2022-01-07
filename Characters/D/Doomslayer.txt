@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Demon Scourge,Empowered,Juggernaut,Marine,Player Character,Quasi-Divine,Soldier,Terrifying
+Demon Scourge,Empowered,Juggernaut,Marine,Player Character,Quasi-Divine,Soldier,Terrifying,Duo|Isabelle
 Country
 High
 

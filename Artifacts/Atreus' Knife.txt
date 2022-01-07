@@ -12,3 +12,5 @@ Weapon|Knife
 Mundane
 Low
 Silver
+Sebastian
+No

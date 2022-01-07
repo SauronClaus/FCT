@@ -6,7 +6,7 @@ Kill Abilisk|Defeat Ego's Insert
 No Deaths
 
 Star-Lord|Groot|Rocket Raccoon|Drax the Destroyer|Gamora|Mantis|Nebula|Yondu
-Ego
+Ego;as able to control Ego (the planet)
 
 
 

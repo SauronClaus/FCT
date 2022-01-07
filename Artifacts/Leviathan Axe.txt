@@ -12,3 +12,5 @@ Weapon|Axe
 City
 Medium
 Silver
+Sebastian
+No

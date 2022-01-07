@@ -33,9 +33,12 @@ Captain America (1): Captain America's Shield
 Captain Nemo (1): The Nautilus
 Cassie Lang (1): Pym Particles
 Catherine (1): Thunderbrand
+Chell (2): Long Fall Boots, Portal Gun
 Claude (1): Failnaught
 Dimitri (1): Areadbhar
+Dorothy Gale (1): Ruby Slippers
 Edelgard (1): Aymr
+Fedora Turthin,Lorana Ritten (1): The Shield of Heroes
 Felix (1): Aegis Shield
 Ferdinand (1): Spear of Assal
 Flayn (1): Caduceus Staff
@@ -51,6 +54,7 @@ Harry Potter (1): The Invisiblity Cloak
 Hilda (1): Freikugel
 Hippolyta (1): Bracelets of Submission
 Hope van Dyne (1): Pym Particles
+IKCFAMWSIIF (1): Nazelth
 Ingrid (1): Luin
 Iron Man (1): Iron Man Suit
 Ironheart (1): Iron Man Suit
@@ -62,9 +66,12 @@ Kratos (1): Leviathan Axe
 Leo Valdez (1): Festus
 Linhardt (1): Caduceus Staff
 Loki (1): Loki's Scepter
+Lorana Ritten (1): The Surprisingly Effective Dagger
 Lord Voldemort (1): The Elder Wand
+Lorenz (1): Thyrus
 Magneto (1): Magneto's Helmet
 Magnus Chase (1): The Sword of Summer (Jack)
+Marianne (1): Blutgang
 Mario (1): Fire Flower
 Maui (1): Maui's Fishhook
 Maxwell (1): The Codex Umbra
@@ -74,6 +81,7 @@ Nadia van Dyne (1): Pym Particles
 Percy Jackson (1): Riptide
 Piper McLean (1): Katoptris
 Raya (1): Raya's Whip Sword
+Reithen Keiros (3): Courtney, The Surprisingly Effective Dagger, White Raven's Wrappings
 Rita Vrataski (1): Combat Jacket (Edge of Tomorrow)
 Ruby Rose (1): Crescent Rose
 Sam Wilson (1): Captain America's Shield
@@ -93,3 +101,5 @@ Weiss Schnee (1): Myrtenaster
 William Cage (1): Combat Jacket (Edge of Tomorrow)
 Wonder Woman (2): Bracelets of Submission, The Lasso of Truth
 Yang Xiao Long (1): Ember Celica
+Yekkon Shmalakis (1): Osiris
+Yondu (1): Yaka Arrow Controller

@@ -12,3 +12,5 @@ Mech Suit|Partial Mech
 City
 Medium
 Grey
+Sebastian
+No

@@ -12,3 +12,5 @@ Weapon|Thing-on-Chain
 Mundane
 Medium
 Black
+Sebastian
+No

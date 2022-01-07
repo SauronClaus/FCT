@@ -12,3 +12,5 @@ Accessory|Ring
 Slightly-Magical
 High
 Gold
+Sebastian
+No

@@ -25,5 +25,5 @@ Black
 Trained Fighter|Modern Soldier|2,Super Powers|Symbiote|3,Spider-Powers|Symbiote|3
 Disney
 Sebastian
-Agent Venom,Flash Thompson,Flash Thompson (MCU),Venom
+
 No

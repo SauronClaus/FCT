@@ -12,3 +12,5 @@ Telepathic|Arrow
 City
 Medium
 Red
+Sebastian
+No

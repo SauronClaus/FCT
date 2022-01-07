@@ -1,8 +1,8 @@
 Courtney
 Unbroken
 Courtney was a juvenile cloaker found and worn by Reithen Keiros.
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1200px-Icon-round-Question_mark.svg.png
 https://i.imgur.com/B2DZisZ.png
-
 Unbroken
 Reithen Keiros
 Gliding,Creature,Sentient
@@ -12,3 +12,5 @@ Unbroken Artifacts
 Slightly-Magical
 Low
 Black
+Sebastian
+No

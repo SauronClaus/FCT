@@ -1,0 +1,29 @@
+The Tin Woodman
+The Wizard of Oz
+Nick Chopper, the Tin Woodman, also known as the Tin Man or—mistakenly—the "Tin Woodsman," is a character in the fictional Land of Oz created by American author L. Frank Baum. Baum's Tin Woodman first appeared in his classic 1900 book The Wonderful Wizard of Oz and reappeared in many other subsequent Oz books in the series. In late 19th-century America, men made out of various tin pieces were used in advertising and political cartoons. Baum, who was editing a magazine on decorating shop windows when he wrote The Wonderful Wizard of Oz, was reportedly inspired to invent the Tin Woodman by a figure he had built out of metal parts for a shop display.
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tin_Woodman.png/300px-Tin_Woodman.png
+https://en.wikipedia.org/wiki/Tin_Woodman
+Nick
+Chopper
+The Tin Woodman|Tin Man|Tin Woodsman
+Pierre Couderc|Oliver Hardy|Jack Haley|Nipsey Russell|Deep Roy|Ne-Yo|Alex Désert|Larry D. Mann|Kelsey Grammer|J.P. Karliak
+
+Adventurer
+Tin Man
+Good
+Supporting Protagonist
+Male
+Artificial,Magical,Classic Literature Character,Metal,Lumberjack
+Baseline
+High
+Wizard of Oz Crew
+
+Books,Movies
+The Wizard of Oz
+
+Silver-White
+
+Classic Literature
+Sebastian
+
+No

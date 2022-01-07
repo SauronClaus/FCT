@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace
 Find and Recruit Anakin's Insert|Kill Darth Maul|Destroy the Trade Federation's Blockade of Naboo
 No Deaths
 
-Qui-Gon Jinn|Obi-Wan Kenobi|Padme Amidala|Anakin Skywalker (Young)|R2-D2|C3PO|Jar Jar Binks
+Qui-Gon Jinn|Obi-Wan Kenobi|Padme Amidala|Anakin Skywalker (Young);as a child|R2-D2|C3PO|Jar Jar Binks
 Sheev Palpatine|Darth Maul
 B1 Series Battle Droids|Droidekas|B2 Series Battle Droids
 

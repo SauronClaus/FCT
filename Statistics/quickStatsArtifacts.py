@@ -17,7 +17,7 @@ def quickStatsArtifacts():
             ArtifactsFile = open(basepath + "/" + entry, "r", encoding='utf8')
             ArtifactsInfo = ArtifactsFile.read().split("\n")
             if entry != "readMe.txt":
-                if len(ArtifactsInfo) == 14:
+                if len(ArtifactsInfo) == 16:
                     completedArtifacts.append(entry[0:len(entry)-4:])
                 else:
                     if len(ArtifactsInfo) == 0:

@@ -1,6 +1,5 @@
 Aigis
 Captain Robert Walton
-Cara Dune
 Carl Hauser
 Carmen Sandeigo
 Cedric Diggory
@@ -187,9 +186,7 @@ Henry Stickmin
 Hogun
 Hornet
 Hulkling
-IKCFAMWSIIF
 Iceman
-Ignatz
 Ike
 Impa
 Indiana Jones
@@ -197,7 +194,6 @@ Ireena Kolyana
 Iron Fist
 Isaac Clarke
 Isabella Garcia-Shapiro
-Isabelle
 Ishmael
 Ivy
 Jace Beleren
@@ -293,7 +289,6 @@ Knuckles the Echidna
 Koichi Hirose
 Krieg
 Krobus
-Kuiil
 Kyle Rayner
 Lady Aurelia Hammerlock
 Lady Masako Adachi
@@ -311,7 +306,6 @@ Legion
 Legolas
 Leland Stottlemeyer
 Leon Kowalski
-Leonie
 Leslie Bean
 Lewis
 Liara T'Soni
@@ -327,9 +321,7 @@ Little Mac
 Llewelyn Moss
 Lopez the Heavy
 Lora Baines
-Lorana Ritten
 Lord Ballister Blackheart
-Lorenz
 Lucas
 Lucas Sinclair
 Lucia
@@ -339,7 +331,6 @@ Lucy Westenra
 Luke Cage
 Luna Lovegood
 Luther Stickell
-Lysithea
 Ma Hunkel
 Mad-Eye Moody
 Magik
@@ -350,7 +341,6 @@ Mako
 Makoto Niijima
 Makoto Yuki
 Malcolm Beech
-Marianne
 Marion Ravenwood
 Mark Watney
 Markus
@@ -404,7 +394,6 @@ Mr. Hooper
 Mr. Incredible
 Mr. L
 Mr. Noodle
-Mr. Qi
 Mr. Resetti
 Mr. Scratch
 Mr. Snuffleupagus
@@ -423,7 +412,6 @@ Nasuada
 Natalie Teeger
 Nathan Stark
 Navi
-Nebula
 Ned
 Ned Land
 Negative Man
@@ -510,14 +498,12 @@ Raiden
 Rainbow Dash
 Ramses
 Randy Disher
-Raphael
 Rarity
 Raven
 Raze
 Red (Band of Fools)
 Red Hulk
 Red Tornado
-Reithen Keiros
 Remus Lupin
 Renfield
 Revali
@@ -643,10 +629,8 @@ Thalia Grace
 Thane Krios
 The Boy
 The Chief
-The Child
 The Guide
 The Man
-The Mandalorian
 The Predator
 The Silver Surfer
 The kid
@@ -721,7 +705,6 @@ Wolf O'Donnell
 Wonder Girl
 Worf
 Wormwood
-Yekkon Shmalakis
 Yoo Joonghyuk
 Yoo Sangah
 Yori

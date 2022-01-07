@@ -1,9 +1,9 @@
-Movies (4): Chitauri, Death Eaters, Stormtroopers, Ultron Sentries
-TV Shows (3): Creatures of Grimm, Fire Benders, Fire Nation Army
+Movies (10): Alphas (Edge of Tomorrow), B1 Series Battle Droids, B2 Series Battle Droids, Chitauri, Death Eaters, Droidekas, Drones (Edge of Tomorrow), Flying Monkeys, Stormtroopers, Ultron Sentries
+TV Shows (6): B1 Series Battle Droids, B2 Series Battle Droids, Creatures of Grimm, Droidekas, Fire Benders, Fire Nation Army
+CGI (4): B1 Series Battle Droids, B2 Series Battle Droids, Creatures of Grimm, Droidekas
 Video Games (2): Adrestian Army, Knights of Seiros
+Books (2): Death Eaters, Flying Monkeys
 Cartoon (2): Fire Benders, Fire Nation Army
 Comics (2): Rat Creature Horde, Shadow Demons
-CGI (1): Creatures of Grimm
-Books (1): Death Eaters
 Graphic Novels (1): Rat Creature Horde
 Superhero Comics (1): Shadow Demons

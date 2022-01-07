@@ -12,3 +12,5 @@ Armor|Bracers
 City
 Medium
 Silver
+Sebastian
+No

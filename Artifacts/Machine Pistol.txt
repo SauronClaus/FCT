@@ -12,3 +12,5 @@ Weapon|Gun
 Mundane
 Low
 Blue
+Sebastian
+No

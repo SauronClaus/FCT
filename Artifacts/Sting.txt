@@ -12,3 +12,5 @@ Weapon|Shortsword
 Slightly-Magical
 Low
 Silver
+Sebastian
+No

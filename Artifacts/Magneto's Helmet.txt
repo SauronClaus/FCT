@@ -12,3 +12,5 @@ Armor|Helmet
 Mundane
 Medium
 Red
+Sebastian
+No

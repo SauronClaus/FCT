@@ -1,0 +1,16 @@
+Long Fall Boots
+Portal
+The Long Fall Boot is a boot used by Aperture Science to prevent Test Subjects from inadvertently damaging the Portal Device while falling to their death. It does this by lessening the impact of falls, thus also preventing injury to test subjects.
+https://static.wikia.nocookie.net/half-life/images/9/9b/Long_fall_boot_diagram.jpg/revision/latest/scale-to-width-down/700?cb=20110416225556&path-prefix=en
+https://half-life.fandom.com/wiki/Long_Fall_Boot
+Valve
+Chell
+Boots,Armor,Fall Damage Reduction,Aperture Science,Science,Tech
+Video Games
+Armor|Boots
+Aperture Science Inventions
+Mundane
+Medium
+White
+Sebastian
+No

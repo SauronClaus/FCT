@@ -12,3 +12,5 @@ Weapon|Gun
 Mundane
 Medium
 Grey
+Sebastian
+No

@@ -2,6 +2,7 @@ West (5): Irey West, Iris West, Jai West, Wally West II, Wally West
 Skywalker (4): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Weasley (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Kerman (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
+Pines (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Kane (3): Amos Kane, Carter Kane, Sadie Kane
 Finch (3): Atticus Finch, Jem Finch, Scout Finch
 Bone (3): Fone Bone, Phoney Bone, Smiley Bone
@@ -24,7 +25,7 @@ Cortez (2): Carmen Cortez, Juni Cortez
 Lang (2): Cassie Lang, Scott Lang
 Stone (2): Cyborg, Walt Stone
 Summers (2): Cyclops, Young Cyclops
-Howlett (2): Doom Guy, Wolverine
+Howlett (2): Doomslayer, Wolverine
 Harvestar (2): Gran'ma Ben, Thorn Harvestar
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
 Jenkins (2): Jenkins, Jono Jenkins
@@ -51,6 +52,7 @@ DeLarge (1): Alex DeLarge
 Fierro (1): Alex Fierro
 Luthor (1): Alexander Luthor Jr.
 Pennyworth (1): Alfred Pennyworth
+Daerdahk (1): Alice Daerdahk
 Johnson (1): Alice Johnson
 Blake (1): Allison Blake
 Rangeld (1): Alois
@@ -75,6 +77,7 @@ Curry (1): Aquaman
 Elessar (1): Aragorn
 Shokta (1): Araithia Shokta
 Ichiki (1): Armor
+Larskano (1): Arrolys Larskano
 Menethil (1): Arthas Menethil
 Holmwood (1): Arthur Holmwood
 Chyornyj (1): Artyom
@@ -100,6 +103,7 @@ Wittman (1): Bentley-23
 von Varley (1): Bernadetta
 Johanssen (1): Beth Johanssen
 Baggins (1): Bilbo Baggins
+Cipher (1): Bill Cipher
 Pilgrim (1): Billy Pilgrim
 Lance (1): Black Canary
 Pierce (1): Black Lightning
@@ -125,6 +129,7 @@ Pollard (1): Captain George Pollard Jr.
 Miller (1): Captain John H. Miller
 Kirk (1): Captain Kirk
 Dakkar (1): Captain Nemo
+Dune (1): Cara Dune
 Danvers (1): Carol Danvers
 von Bergliez (1): Caspar
 Charon (1): Catherine
@@ -135,6 +140,7 @@ Rasputin (1): Colossus
 Dooku (1): Count Dooku
 Smith (1): Culverton Smith
 Franklin (1): Dana Franklin
+Cyclops (1): Dapper Cyclops
 Maul (1): Darth Maul
 Molinaro (1): Dedue
 DeGroot (1): Demoman
@@ -142,9 +148,11 @@ Grayson (1): Dick Grayson
 Blaiddyd (1): Dimitri
 Robotnik (1): Doctor Eggman
 Arnault (1): Dorothea
+Gale (1): Dorothy Gale
 Honeydew (1): Dr. Bunsen Honeydew
 Beck (1): Dr. Chris Beck
 Loomis (1): Dr. Loomis
+Hayden (1): Dr. Samuel Hayden
 Dracula (1): Dracula
 Douglas (1): Drax the Destroyer
 von Hresvelg (1): Edelgard
@@ -152,14 +160,17 @@ Turen (1): Eldon Spark Turen
 Conagher (1): Engineer
 Chou (1): Ethan Chou
 Wilson (1): Falcon
+Turthin (1): Fedora Turthin
 Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
 Zhang (1): Frank Zhang
 Titan (1): Gamora
+Doriana (1): Garrik Doriana
 Sheelal (1): General Grievous
 Manassnass (1): Glynnric Manassnass
 Tarkin (1): Grand Moff Tarkin
+Karga (1): Greef Karga
 Queen (1): Green Arrow
 Guile (1): Guile
 Jordan (1): Hal Jordan
@@ -175,6 +186,7 @@ Granger (1): Hermione Granger
 Goneril (1): Hilda
 von Vestra (1): Hubert
 Banner (1): Hulk
+Victor (1): Ignatz
 Galatea (1): Ingrid
 Lestrade (1): Inspector Lestrade
 Stark (1): Iron Man
@@ -196,20 +208,28 @@ Bjorgman (1): Kristoff
 Calrissian (1): Lando Calrissian
 Strode (1): Laurie Strode
 Valdez (1): Leo Valdez
+Pinelli (1): Leonie
 von Hevring (1): Linhardt
 Laufeyson (1): Loki
+Ritten (1): Lorana Ritten
 Riddle (1): Lord Voldemort
+Gloucester (1): Lorenz
+Ordelia (1): Lysithea
 Bison (1): M. Bison
 Windu (1): Mace Windu
 Eisenhardt (1): Magneto
 Keen (1): Mallory Keen
 Brandt (1): Mantis
+Edmund (1): Marianne
 J'onzz (1): Martian Manhunter
 Ludwig (1): Medic
 von Martritz (1): Mercedes
 Myers (1): Michael Myers
 Morales (1): Miles Morales
+M'orzz (1): Miss Martian
+Gideon (1): Moff Gideon
 Rambeau (1): Monica Rambeau
+Qi (1): Mr. Qi
 Khan (1): Ms. Marvel
 Wagner (1): Nightcrawler
 Kenobi (1): Obi-Wan Kenobi
@@ -222,6 +242,8 @@ Dameron (1): Poe Dameron
 Toadstool (1): Princess Peach
 Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
+Kirsten (1): Raphael
+Keiros (1): Reithen Keiros
 Vrataski (1): Rita Vrataski
 Raccoon (1): Rocket Raccoon
 Tico (1): Rose Tico
@@ -236,6 +258,7 @@ Nevrand (1): Shamir
 Palpatine (1): Sheev Palpatine
 Mundy (1): Sniper
 Colomar (1): Sombra
+Ramírez (1): Soos Ramirez
 Parker (1): Spider-Man
 Quill (1): Star-Lord
 Munroe (1): Storm
@@ -244,18 +267,27 @@ Gautier (1): Sylvain
 Kā (1): Te Ka
 Kord (1): Ted Kord
 Storm (1): The Human Torch
+Djarin (1): The Mandalorian
 Grimm (1): The Thing
 Jefferson (1): Thomas Jefferson Jr.
 Odinson (1): Thor
 Drake (1): Tim Drake
+Chopper (1): Tin Woodman
 Beifong (1): Toph Beifong
 Lee (1): Ty Lee
 Kommareddi (1): Vikram Kommareddi
 Vision (1): Viv Vision
 Rhodes (1): War Machine
 Schnee (1): Weiss Schnee
+Corduroy (1): Wendy Corduroy
+Thropp (1): Wicked Witch of the West
 Cage (1): William Cage
+Diggs (1): Wizard of Oz
 Prince (1): Wonder Woman
 Long (1): Yang Xiao Long
+Shmalakis (1): Yekkon Shmalakis
+Shmekkon (1): Yekkon Shmekkon
+Udonta (1): Yondu
 Wiebe (1): Zach Wiebe
 Rashid (1): Zia Rashid
+Kal-Thim (1): Zulen Kal-Thim

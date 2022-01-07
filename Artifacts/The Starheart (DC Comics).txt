@@ -12,3 +12,5 @@ Guardians of the Universe Weapons
 Cosmic
 Low
 Green
+Sebastian
+No

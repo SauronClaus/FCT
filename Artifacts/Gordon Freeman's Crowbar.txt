@@ -12,3 +12,5 @@ Gordon Freeman's Equipment
 Mundane
 Medium
 Grey
+Sebastian
+No

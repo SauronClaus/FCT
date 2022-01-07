@@ -14,10 +14,12 @@ Batarang (2): Batman, Batgirl
 Batmobile (1): Batman
 Batwing (1): Batman
 Black Arrow (LOTR) (1): Bard the Bowman
+Blutgang (1): Marianne
 Bracelets of Submission (2): Wonder Woman, Hippolyta
 Caduceus Staff (2): Flayn, Linhardt
 Captain America's Shield (3): Captain America, Bucky Barnes, Sam Wilson
 Combat Jacket (Edge of Tomorrow) (2): William Cage, Rita Vrataski
+Courtney (1): Reithen Keiros
 Crescent Rose (1): Ruby Rose
 Crusher (Fire Emblem) (1): Annette
 Deck of Illusions (1): Byllemura Ruby-Eye
@@ -44,6 +46,7 @@ Lance of Ruin (1): Sylvain
 Legion Flight Ring (2): Brainiac 5, Booster Gold
 Leviathan Axe (1): Kratos
 Loki's Scepter (1): Loki
+Long Fall Boots (1): Chell
 Luin (1): Ingrid
 Machine Pistol (1): Sombra
 Magneto's Helmet (1): Magneto
@@ -52,13 +55,17 @@ Maui's Fishhook (1): Maui
 Medi Gun (1): Medic
 Mjolnir (1): Thor
 Myrtenaster (1): Weiss Schnee
+Nazelth (1): IKCFAMWSIIF
+Osiris (1): Yekkon Shmalakis
 Pikachu (1): Ash Ketchum
 Piko Piko Hammer (1): Amy Rose
+Portal Gun (1): Chell
 Pym Particles (6): Hank Pym, Cassie Lang, Scott Lang, Hope van Dyne, Janet van Dyne, Nadia van Dyne
 Rafail Gem (1): Mercedes
 Raya's Whip Sword (1): Raya
 Ring of Fire Resistance (1): Kalathos Sunstrider
 Riptide (1): Percy Jackson
+Ruby Slippers (1): Dorothy Gale
 San's Gaster Blaster (1): Sans
 Skeets (1): Booster Gold
 Spear of Assal (2): Seteth, Ferdinand
@@ -74,12 +81,17 @@ The Infinity Gauntlet (1): Thanos
 The Invisiblity Cloak (1): Harry Potter
 The Lasso of Truth (1): Wonder Woman
 The Nautilus (1): Captain Nemo
+The Shield of Heroes (1): Fedora Turthin,Lorana Ritten
 The Soul Stone (2): Adam Warlock, Thanos
 The Starheart (DC Comics) (1): Alan Scott
+The Surprisingly Effective Dagger (2): Reithen Keiros, Lorana Ritten
 The Sword of Summer (Jack) (1): Magnus Chase
 The Tanden Engine (1): Seth
 Thunderbrand (1): Catherine
+Thyrus (1): Lorenz
 Wand of Wands (1): Arthail Consumer of Food
 Wand of Wild Magic (1): Arthail Consumer of Food
+White Raven's Wrappings (1): Reithen Keiros
+Yaka Arrow Controller (1): Yondu
 the One Ring (1): Bilbo Baggins,Frodo Baggins,Sauron
 the Venom Symbiote (3): Agent Venom, Venom, Spider-Man

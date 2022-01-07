@@ -12,3 +12,5 @@ Weapon|Sword
 Mundane
 Medium
 Silver
+Sebastian
+No

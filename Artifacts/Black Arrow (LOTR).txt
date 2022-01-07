@@ -12,3 +12,5 @@ Weapon|Arrow
 Mundane
 Low
 Black
+Sebastian
+No

@@ -12,3 +12,5 @@ Weapon|Sword
 Slightly-Magical
 Medium
 Bronze
+Sebastian
+No

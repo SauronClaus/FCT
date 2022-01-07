@@ -12,3 +12,5 @@ Weapon|Hatchet
 Mundane
 Medium
 Silver
+Sebastian
+No

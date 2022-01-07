@@ -93,7 +93,7 @@ async def on_message(message):
             for entry in os.listdir(basepath):
                 if os.path.isfile(os.path.join(basepath, entry)):
                     if entry != "readMe.txt":
-                        embed = infoArtifact(entry[0:len(entry)-4:])
+                        embed = infoArtifact(entry[0:len(entry)-4:], message.channel)
                         await message.channel.send(embed=embed)
         if message.content == "~test franchises":
 
@@ -174,7 +174,8 @@ async def on_message(message):
             for matchNum in range(1,numberOfMatches+1):
                 print("Generating match!")
                 replacement = generate(message.guild.id)
-                
+                additives = replacement[4]
+
                 people = allPeople()
                 franchises = allFranchises()
                 minions = allMinions()
@@ -290,6 +291,8 @@ async def on_message(message):
                         embed = infoMinions(minion, fctPolls)
                         embedID = await(messageMinionsChannel.send(embed=embed))
                         origMinions[minion] = embedID
+                        if minion in minionReplacements.values():
+                            subMinions[minion] = embedID
                     for minion in minionReplacements.values():
                         if not(minion in minionReplacements.keys()):
                             embed = infoMinions(minion, fctPolls)
@@ -318,20 +321,25 @@ async def on_message(message):
                 for protagonist in charactersReplacement.keys():
                     subCharacter = charactersReplacement[protagonist]
                     try:
+                        additive = ""
+                        try:
+                            additive = "(" + additives[protagonist] + ") "
+                        except:
+                            zeff = 0
                         adjective = protagonistAdjectives[subCharacter]
                         if charactersReasonSubbing[protagonist][0] == "Full Random":
-                            replacementText = "[" + people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0]
+                            replacementText = "[" + people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0]
                         else:
                             if charactersReasonSubbing[protagonist][0] == "No Change":
                                 replacementText = "[" + people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") doesn't change."
                             else:
                                 if charactersReasonSubbing[protagonist][0] == "Ages":
                                     if charactersReasonSubbing[protagonist][1].split("|")[1] == "1":
-                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0][0:len(charactersReasonSubbing[protagonist][1].split("|")[0])-1:] + ")"
+                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0][0:len(charactersReasonSubbing[protagonist][1].split("|")[0])-1:] + ")"
                                     else:
-                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0] + ")"
+                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0] + ")"
                                 else:
-                                    replacementText = "[" + people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
+                                    replacementText = "[" + people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
                         
                         if len(replacementLines) + len(replacementText) >= 1024:
                             replacementList.append(replacementLines)
@@ -339,18 +347,18 @@ async def on_message(message):
                         replacementLines = replacementLines + "-" + replacementText + "\n"
                     except:
                         if charactersReasonSubbing[protagonist][0] == "Full Random":
-                            replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0]
+                            replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0]
                         else:
                             if charactersReasonSubbing[protagonist][0] == "No Change":
                                 replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") doesn't change."
                             else:
                                 if charactersReasonSubbing[protagonist][0] == "Ages":
                                     if charactersReasonSubbing[protagonist][1].split("|")[1] == "1":
-                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0][0:len(charactersReasonSubbing[protagonist][1].split("|")[0])-1:] + ")"
+                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0][0:len(charactersReasonSubbing[protagonist][1].split("|")[0])-1:] + ")"
                                     else:
-                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0] + ")"
+                                        replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1].split("|")[1] + " " + charactersReasonSubbing[protagonist][1].split("|")[0] + ")"
                                 else:
-                                    replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
+                                    replacementText = "[" +  people[protagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origCharacters[protagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subCharacters[subCharacter].id) + ") " + additive + "via " + charactersReasonSubbing[protagonist][0] + " (" + charactersReasonSubbing[protagonist][1] + ")"
                         if len(replacementLines) + len(replacementText) >= 1024:
                             replacementList.append(replacementLines)
                             replacementLines = ""
@@ -371,30 +379,35 @@ async def on_message(message):
                     replacementLines = ""
                     replacementList = []
                     for antagonist in antagonistsReplacement.keys():
+                        additive = ""
+                        try:
+                            additive = "(" + additives[antagonist] + ") "
+                        except:
+                            zef = 0
                         subCharacter = antagonistsReplacement[antagonist]
                         try:
                             adjective = antagonistAdjectives[subCharacter]
                             if antagonistsReasonSubbing[antagonist][0] == "Full Random":
-                                replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0]
+                                replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0]
                             else:
                                 if antagonistsReasonSubbing[antagonist][0] == "No Change":
                                     replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") doesn't change."
                                 else:
-                                    replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
+                                    replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
                         except:
                             if antagonistsReasonSubbing[antagonist][0] == "Full Random":
-                                replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0]
+                                replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0]
                             else:
                                 if antagonistsReasonSubbing[antagonist][0] == "No Change":
                                     replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") doesn't change."
                                 else:
                                     if antagonistsReasonSubbing[antagonist][0] == "Ages":
                                         if antagonistsReasonSubbing[antagonist][1].split("|")[1] == "1":
-                                            replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1].split("|")[1] + " " + antagonistsReasonSubbing[antagonist][1].split("|")[0][0:len(antagonistsReasonSubbing[antagonist][1].split("|")[0])-1:] + ")"
+                                            replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1].split("|")[1] + " " + antagonistsReasonSubbing[antagonist][1].split("|")[0][0:len(antagonistsReasonSubbing[antagonist][1].split("|")[0])-1:] + ")"
                                         else:
-                                            replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1].split("|")[1] + " " + antagonistsReasonSubbing[antagonist][1].split("|")[0] + ")"
+                                            replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1].split("|")[1] + " " + antagonistsReasonSubbing[antagonist][1].split("|")[0] + ")"
                                     else:
-                                        replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
+                                        replacementText = "[" + people[antagonist][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(origAntags[antagonist].id) + ") is replaced by [" + people[subCharacter][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subAntags[subCharacter].id) + ") " + additive + "via " + antagonistsReasonSubbing[antagonist][0] + " (" + antagonistsReasonSubbing[antagonist][1] + ")"
                             
                         #print(replacementText + " (" + str(len(replacementText)) + ")")
                         if len(replacementLines) + len(replacementText) >= 1024:
@@ -429,11 +442,29 @@ async def on_message(message):
                                     replacementText = "[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ") is replaced by [" + adjective[:1:].capitalize() + adjective[1::] + "](" + "https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageAdjectivesChannel.id) + "/" + str(adjectives[adjective].id) + ")[" + minions[minionReplacements[minion]][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subMinions[minionReplacements[minion]].id) + ") via " + minionReplaceReasons[minion][0] + " (" + minionReplaceReasons[minion][1] + ")"
                         except:
                             if minionReplaceReasons[minion][0] == "Full Random":
+                                print("[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ")")
+                                print(minions[minionReplacements[minion]][0])
+                                print(minion + ": ")
+                                print(str(minionReplacements))
+                                print(str(subMinions))
+                                print(str(minionReplacements[minion]))
+                                print("is replaced by [" + minions[minionReplacements[minion]][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subMinions[minionReplacements[minion]].id) + ")")
+                                print("via " + minionReplaceReasons[minion][0])
                                 replacementText = "[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ") is replaced by [" + minions[minionReplacements[minion]][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subMinions[minionReplacements[minion]].id) + ") via " + minionReplaceReasons[minion][0]
                             else:
                                 if minionReplaceReasons[minion][0] == "No Change":
                                     replacementText = "[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ") didn't change."
                                 else:
+                                    print("[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ")")
+                                    print(minions[minionReplacements[minion]][0])
+                                    print(minion + ": ")
+                                    print(str(minionReplacements))
+                                    print(str(subMinions))
+                                    print(str(minionReplacements[minion]))
+                                    print(str(subMinions[minionReplacements[minion]].id))
+                                    print("is replaced by [" + minions[minionReplacements[minion]][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subMinions[minionReplacements[minion]].id) + ")")
+                                    print("via " + minionReplaceReasons[minion][0] + " (" + minionReplaceReasons[minion][1] + ")")
+
                                     replacementText = "[" + minions[minion][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messageMinionsChannel.id) + "/" + str(origMinions[minion].id) + ") is replaced by [" + minions[minionReplacements[minion]][0] + "](https://discord.com/channels/" + str(message.channel.guild.id) + "/" + str(messagePeopleChannel.id) + "/" + str(subMinions[minionReplacements[minion]].id) + ") via " + minionReplaceReasons[minion][0] + " (" + minionReplaceReasons[minion][1] + ")"
                         if len(replacementLines) + len(replacementText) >= 1024:
                             replacementList.append(replacementLines)

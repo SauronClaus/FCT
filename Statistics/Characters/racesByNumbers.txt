@@ -1,7 +1,7 @@
-Human (297): Aang, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Agent Venom, Akihide Karatsu, Akuma, Alan Bradley, Alan Scott, Alan Wake, Albus Dumbledore, Alex DeLarge, Alex, Alexander Luthor Jr., Alfred Pennyworth, Alice Johnson, Allison Blake, Ally, Alois, Aloy, Alucard, Alyx, Amadeus Cho, Amanda Waller, Amazi-Girl, America Chavez, Amethyst, Amilyn Holdo, Amos Kane, Amy Cahill, Amy Ferrier, Anakin Skywalker (Young), Anakin Skywalker, Ann Takamaki, Anna Croft, Anna, Annette, Annie Montrose, Anton Chigurh, Aphelios, Aquaman, Aragorn, Araithia Shokta, Arthur Holmwood, Arthur Weasley, Artyom, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Ashley Williams, Atticus Finch, Audrey Ramirez, Axton, Azula, Baljeet Tjinder, Barbara Gordon, Bard the Bowman, Baron Zemo, Barret Wallace, Barry Allen, Barry Wheeler, Bart Allen, Batman, Beast Boy, Bentley-23, Bernadetta, Beth Johanssen, Bill Weasley, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Blue Marvel, Blue, Boba Fett, Bolin, Booster Gold, Boromir, Boun, Bow, Breach, Brian Robeson, Brick, Brimstone, Brock, Brom, Bruce Ng, Bucky Barnes, Buford Van Stomm, Byleth, Caesar Anthonio Zeppeli, Cal Kestis, Candace Flynn, Captain Ahab, Captain America, Captain Boomerang, Captain Britain, Captain Falcon, Captain George Pollard Jr., Captain John H. Miller, Captain Kirk, Captain Marvel Jr., Captain Marvel, Captain Nemo, Captain Phasma, Carmen Cortez, Carol Danvers, Carter Kane, Caspar, Cassie Lang, Catherine, Chara, Chun-Li, Claude, Colin Frazer, Count Dooku, Culverton Smith, Damian Wayne, Dana Franklin, Darth Vader, Dedue, Demoman, Devahi, Dick Grayson, Dimitri, Doctor Eggman, Doom Guy, Dorothea, Dr. Chris Beck, Dr. Loomis, Edelgard, Elliot, Elsa, Emily, Engineer, Ethan Chou, Extortionist Hobo, Falcon, Felix, Ferdinand, Finn, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Gamora, Ginny Weasley, Glimmer, Gordon Freeman, Gran'ma Ben, Grand Moff Tarkin, Green Arrow, Guile, Hal Jordan, Haley, Halfborn Gunderson, Han Solo (Old), Han Solo, Hank Pym, Harbringer, Harrison Truscott (Evil), Harrison Truscott, Harry Potter, Harvey, Hawkeye, Heavy, Hermione Granger, Hilda, Hope van Dyne, Hubert, Hulk, Ingrid, Inspector Lestrade, Irey West, Iris West, Iroh, Iron Lad, Iron Man, Ironheart, Jai West, James Moriarty, Janet van Dyne, Jango Fett, Jason Todd, Jay Garrick, Jem Finch, Jenkins, Jesse Quick, Jim Gordon, John Seward, John Stewart, John Watson, Jonathan Harker, Jono Jenkins, Juni Cortez, Katara, Ken, Korra, Kristoff, Kylo Ren, Lando Calrissian, Laurie Strode, Leah, LeBron, Leia Organa (Old), Leia Organa, Linhardt, Lord Voldemort, Luigi, Luke Skywalker, M. Bison, Mace Windu, Mai, Mantis, Mario, Maru, Mary Marvel, Max Mercury, Maxwell, Medic, Mercedes, Michael Myers, Miles Morales, Mina Harker, Misty, Moana, Mr. Fantastic, Mycroft Holmes, Nadia Van Dyne, Namaari, Noi, Obi-Wan Kenobi, Ozai, Padme Amidala, Pariah, Penny, Petra (Fire Emblem), Poe Dameron, Princess Daisy, Princess Peach, Pyro, Qui-Gon Jinn, Quincey Morris, Raya, Red (Pokemon), Rey, Rikk, Rita Vrataski, Ron Weasley, Rosalina, Rose Tico, Ruby Rose, Rumy, Ryu, Sadie Kane, Sam (Sam and Fuzzy), Sam (Stardew Valley), Sam Alexander, Scott Lang, Scout Finch, Scout, Sebastian Polge, Sebastian, Shamir, Shane, Sheev Palpatine, Sherlock Holmes, Sniper, Sokka, Soldier, Sombra, Spider-Man, Spy, Star-Lord, Suki, Sylvain, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Tim Drake, Tong, Toph Beifong, Ty Lee, Vikram Kommareddi, Wally West II, Wally West, Walt Stone, War Machine, Weiss Schnee, William Cage, Yang Xiao Long, Zach Wiebe, Zia Rashid, Zuko
+Human (326): Aang, Abigail, Abraham Van Helsing, Adrian Monk, Agatha, Agent Venom, Akihide Karatsu, Akuma, Alan Bradley, Alan Scott, Alan Wake, Albus Dumbledore, Alex DeLarge, Alex, Alexander Luthor Jr., Alfred Pennyworth, Alice Daerdahk, Alice Johnson, Allison Blake, Ally, Alois, Aloy, Alucard, Alyx, Amadeus Cho, Amanda Waller, Amazi-Girl, America Chavez, Amethyst, Amilyn Holdo, Amos Kane, Amy Cahill, Amy Ferrier, Anakin Skywalker (Young), Anakin Skywalker, Ann Takamaki, Anna Croft, Anna, Annette, Annie Montrose, Anton Chigurh, Aphelios, Aquaman, Aragorn, Araithia Shokta, Arrolys Larskano, Arthur Holmwood, Arthur Weasley, Artyom, Asami Sato, Ash Ketchum, Ashe, Ashley Brown, Ashley Williams, Atticus Finch, Audrey Ramirez, Axton, Azula, Baljeet Tjinder, Barbara Gordon, Bard the Bowman, Baron Zemo, Barret Wallace, Barry Allen, Barry Wheeler, Bart Allen, Batman, Beast Boy, Bentley-23, Bernadetta, Beth Johanssen, Bill Weasley, Billy Pilgrim, Black Canary, Black Lightning, Black Panther, Black Widow, Blue Marvel, Blue, Boba Fett, Bolin, Booster Gold, Boromir, Boun, Bow, Breach, Brian Robeson, Brick, Brimstone, Brock, Brom, Bruce Ng, Bucky Barnes, Buford Van Stomm, Byleth, Caesar Anthonio Zeppeli, Cal Kestis, Candace Flynn, Captain Ahab, Captain America, Captain Boomerang, Captain Britain, Captain Falcon, Captain George Pollard Jr., Captain John H. Miller, Captain Kirk, Captain Marvel Jr., Captain Marvel, Captain Nemo, Captain Phasma, Cara Dune, Carmen Cortez, Carol Danvers, Carter Kane, Caspar, Cassie Lang, Catherine, Chara, Chell, Chun-Li, Claude, Colin Frazer, Count Dooku, Culverton Smith, Damian Wayne, Dana Franklin, Darth Vader, Dedue, Demoman, Devahi, Dick Grayson, Dimitri, Dipper Pines, Doctor Eggman, Doomslayer, Dorothea, Dorothy Gale, Dr. Chris Beck, Dr. Loomis, Edelgard, Elliot, Elsa, Emily, Engineer, Ethan Chou, Extortionist Hobo, Falcon, Felix, Ferdinand, Finn, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Garrik Doriana, Ginny Weasley, Glimmer, Glinda the Good Witch, Gordon Freeman, Gran'ma Ben, Grand Moff Tarkin, Greef Karga, Green Arrow, Grunkle Stan, Guile, Hal Jordan, Haley, Halfborn Gunderson, Han Solo (Old), Han Solo, Hank Pym, Harbringer, Harrison Truscott (Evil), Harrison Truscott, Harry Potter, Harvey, Hawkeye, Heavy, Hermione Granger, Hilda, Hope van Dyne, Hubert, Hulk, Ignatz, Ingrid, Inspector Lestrade, Irey West, Iris West, Iroh, Iron Lad, Iron Man, Ironheart, Jai West, James Moriarty, Janet van Dyne, Jango Fett, Jason Todd, Jay Garrick, Jem Finch, Jenkins, Jesse Quick, Jim Gordon, John Seward, John Stewart, John Watson, Jonathan Harker, Jono Jenkins, Juni Cortez, Katara, Ken, Korra, Kristoff, Kronya, Kylo Ren, Lando Calrissian, Laurie Strode, Leah, LeBron, Leia Organa (Old), Leia Organa, Leonie, Linhardt, Lorana Ritten, Lord Voldemort, Lorenz, Luigi, Luke Skywalker, Lysithea, M. Bison, Mabel Pines, Mace Windu, Mai, Mantis, Marianne, Mario, Maru, Mary Marvel, Max Mercury, Maxwell, Medic, Mercedes, Michael Myers, Miles Morales, Mina Harker, Misty, Moana, Moff Gideon, Mr. Fantastic, Mr. Qi, Mycroft Holmes, Nadia Van Dyne, Namaari, Noi, Obi-Wan Kenobi, Ozai, Padme Amidala, Pariah, Penny, Petra (Fire Emblem), Poe Dameron, Princess Daisy, Princess Peach, Pyro, Qui-Gon Jinn, Quincey Morris, Raphael, Raya, Red (Pokemon), Rey, Rikk, Rita Vrataski, Ron Weasley, Rosalina, Rose Tico, Ruby Rose, Rumy, Ryu, Sadie Kane, Sam (Sam and Fuzzy), Sam (Stardew Valley), Sam Alexander, Scott Lang, Scout Finch, Scout, Sebastian Polge, Sebastian, Shamir, Shane, Sheev Palpatine, Sherlock Holmes, Sniper, Sokka, Soldier, Solon, Sombra, Soos Ramirez, Spider-Man, Spy, Stanford Pines, Star-Lord, Suki, Sylvain, Ted Kord, Thales, The Human Torch, The Invisible Woman, The Mandalorian, The Thing, Tim Drake, Tong, Toph Beifong, Ty Lee, Vikram Kommareddi, Wally West II, Wally West, Walt Stone, War Machine, Weiss Schnee, Wendy Corduroy, Wicked Witch of the West, William Cage, Wizard of Oz, Yang Xiao Long, Yekkon Shmalakis, Zach Wiebe, Zia Rashid, Zuko
 Mutant (19): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Wolverine, Young Cyclops
 Demigod (16): Alex Fierro, Annabeth Chase, Atreus, Frank Zhang, Hazel Levesque, Jason Grace, Kratos, Leo Valdez, Magnus Chase, Mallory Keen, Maui, Percy Jackson, Piper McLean, Samirah al-Abbas, Thomas Jefferson Jr., Wonder Woman
-Robot (7): Atomic Robo, Bastion, BB-8, C3PO, Mettaton EX, R2-D2, Ultron
+Robot (9): Atomic Robo, Bastion, BB-8, C3PO, Dr. Samuel Hayden, IG-11, Mettaton EX, R2-D2, Ultron
 Muppet (6): Animal, Beaker, Bert, Big Bird, Dr. Bunsen Honeydew, Ernie
 Elf (4): Akkar, Arya, Hearthstone, Kalathos Sunstrider
 Skeleton (4): Arthas Menethil, Brook, Papyrus, Sans
@@ -9,6 +9,7 @@ Kerbal (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Bone (4): Fone Bone, Phoney Bone, Smiley Bone, Thorn Harvestar
 Kryptonian (4): Kal-L, Superboy Prime, Supergirl, Superman
 Half-Elf (3): Arwen, Glynnric Manassnass, Kareem Par-Al
+Argenta (3): Deag Grav, Deag Nilox, Deag Ragnak
 Ongi (3): Dyan, Pan, Uka
 Android (3): Seth, Vision, Viv Vision
 Hedgehog (2): Amy Rose, Sonic the Hedgehog
@@ -18,9 +19,13 @@ Goat Monster (2): Asgore, Toriel
 Cat (2): Big the Cat, Blaze the Cat
 Rat Creature (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Koopa (2): Bowser Jr., Bowser
-Celestial (2): Ego, Ronan the Accuser
+Yes (2): Dapper Cyclops, Long Jim
+Warforged (2): Fedora Turthin, IKCFAMWSIIF
 Asgardian (2): Loki, Thor
+Martian (2): Martian Manhunter, Miss Martian
 Inhuman (2): Monica Rambeau, Ms. Marvel
+Eladrin (2): Reithen Keiros, Zulen Kal-Thim
+Yoda's Species (2): The Child, Yoda
 Fairy (1): Abby Cadabby
 Modified Human (1): Adam Warlock
 Human  (1): Adora
@@ -36,6 +41,7 @@ Bee (1): Barry B. Benson
 Umbra Witch (1): Bayonetta
 Humans (1): Bean
 Hobbit (1): Bilbo Baggins
+Dream Demon (1): Bill Cipher
 Faunus (1): Blake Belladonna
 Svartalf (1): Blitzen
 Bob-omb (1): Bobby
@@ -44,29 +50,37 @@ Gnome (1): Byllemura Ruby-Eye
 Former God (1): Calypso
 Unknown Cat Species (1): Catra
 Wookie (1): Chewbacca
+Lion (1): Cowardly Lion
 Cyborg (1): Cyborg
 Dathomirian Zabrak (1): Darth Maul
 Vampire (1): Dracula
 Artifical Human (1): Drax the Destroyer
+Celestial (1): Ego
 Half-Gnome (1): Eldon Spark Turen
 Light Dragon (1): Flayn
 Part-Veela (1): Fleur Delacour
 Flower (1): Flowey
 Unnamed Bear Species (1): Fuzzy
+Zehoberei (1): Gamora
 Kaleesh (1): General Grievous
 Flora colossi (1): Groot
 Thanagarian (1): Hawkgirl
 Amazon (1): Hippolyta
+Shih Tzu (1): Isabelle
 Hutt (1): Jabba the Hutt
 Gungan (1): Jar Jar Binks
 Kor (1): Jori-En Blurred
 Breegull (1): Kazooie
-Martian (1): Martian Manhunter
+Maykr (1): Khan Makyr
+Ugnaught (1): Kuiil
+Luphomoid (1): Nebula
 Snowman (1): Olaf
 Mimic (Alien) (1): Omega (Edge of Tomorrow)
 Sky Dragon (1): Rhea
 Raccoon Halfworlder (1): Rocket Raccoon
+Kree (1): Ronan the Accuser
 Genasi (1): Ruby Rider
+Scarecrow (1): Scarecrow (Oz)
 Spectre (1): Scorpion
 Earth Dragon (1): Seteth
 Water Dragon (1): Sisu
@@ -77,6 +91,10 @@ Goblin (1): Squee
 Reindeer (1): Sven
 Crab (1): Tamatoa
 Demon (1): Te Ka
+Tarrasque (1): Terrence the Baby Tarrasque
 Titan (1): Thanos
+Tin Man (1): Tin Woodman
 Mermaid (1): Undyne
-Yoda's Species (1): Yoda
+AI (1): VEGA
+Grung (1): Yekkon Shmekkon
+Centaurian (1): Yondu

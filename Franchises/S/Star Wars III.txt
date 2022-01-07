@@ -6,7 +6,7 @@ Rescue Palpatine's Insert|Defeat Anakin's Insert on Mustafar
 
 Defeat Palpatine's Insert|No Deaths|Prevent Anakin's Insert from being corrupted by the Dark Side|Prevent Order 66
 Obi-Wan Kenobi|Padme Amidala|R2-D2|C3PO|Mace Windu|Yoda
-Sheev Palpatine|Darth Vader|General Grievous|Anakin Skywalker
+Sheev Palpatine|General Grievous|Anakin Skywalker
 B1 Series Battle Droids|Droidekas|B2 Series Battle Droids|Stormtroopers
 
 Star Wars (Main Theme)|https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi?si=49e4400fa2914124

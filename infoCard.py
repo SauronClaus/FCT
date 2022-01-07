@@ -232,7 +232,11 @@ def infoFranchise(franchiseName, fctPolls):
     if franchiseInfo[7] != "":
         characterInsertsString = ""
         for character in franchiseInfo[7].split("|"):
-            characterInsertsString = characterInsertsString + character + ", "
+            blorg = character.split(";")
+            if len(blorg) > 1:
+                characterInsertsString = characterInsertsString + blorg[0] + ", "
+            else:
+                characterInsertsString = characterInsertsString + character + ", "
         characterInsertsString = characterInsertsString[0:len(characterInsertsString)-2:]
         embed.add_field(name="Character Inserts",value=characterInsertsString, inline=False)
         print("Character Inserts: " + characterInsertsString)

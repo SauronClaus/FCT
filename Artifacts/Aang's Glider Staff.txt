@@ -12,3 +12,5 @@ Weapon|Staff
 Mundane
 Medium
 Brown
+Sebastian
+No

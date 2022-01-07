@@ -6,7 +6,7 @@ Kill Edelgard|Defeat Those Who Slither in the Dark|Kill Nemesis
 
 
 Byleth|Claude|Hilda|Ignatz|Raphael|Leonie|Lorenz|Lysithea|Marianne
-Edelgard|Hubert
+Edelgard|Hubert|Kronya|Solon|Thales
 Adrestian Army
 
 Edge of Dawn|https://open.spotify.com/track/5l6kKRl8SEA2nPzHE0ByAf?si=9d8e87bd70d24e92

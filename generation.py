@@ -41,12 +41,32 @@ def generate(guildID):
         firstChar = "#"
     print("Opening path to " + franchiseName + ": Franchises\\" + firstChar + "\\" + franchiseName + ".txt")
     print("\n")
+    
 
     franchiseFile = open("Franchises\\" + firstChar + "\\" + franchiseName + ".txt", "r", encoding='utf8')
     franchiseInfo = franchiseFile.read().split("\n")
-
+    
+    additives = {}
     peopleReplacementOrigs = franchiseInfo[7].split("|") #The original list of people that comes straight from the franchise file.
+    for person in peopleReplacementOrigs:
+        bing = person.split(";")
+        if len(bing) > 1:
+            index = peopleReplacementOrigs.index(person)
+            personName = bing[0]
+            restriction = bing[1]
+            peopleReplacementOrigs[index] = personName
+            additives[personName] = restriction
+
     antagonistReplacementOrigs = franchiseInfo[8].split("|") #The original list of antagonists that comes straight from the franchise file.
+    for person in antagonistReplacementOrigs:
+        bing = person.split(";")
+        if len(bing) > 1:
+            print(str(antagonistReplacementOrigs))
+            index = antagonistReplacementOrigs.index(person)
+            personName = bing[0]
+            restriction = bing[1]
+            antagonistReplacementOrigs[index] = personName
+            additives[personName] = restriction
     artifactReplacementOrigs = franchiseInfo[10].split("|") #The original list of artifacts that comes straight from the franchise file.
     
 
@@ -92,6 +112,6 @@ def generate(guildID):
 
 
     
-    return[listen, listenAntag, [franchiseName,franchiseInfo], info]
+    return[listen, listenAntag, [franchiseName,franchiseInfo], info, additives]
 
     # These are the heavy ones. These are always active, and serve to stick in the people when need be. 

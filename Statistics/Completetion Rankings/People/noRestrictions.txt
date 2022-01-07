@@ -21,6 +21,7 @@ Alex DeLarge
 Alex Fierro
 Alexander Luthor Jr.
 Alfred Pennyworth
+Alice Daerdahk
 Alice Johnson
 Allison Blake
 Ally
@@ -59,6 +60,7 @@ Aquaman
 Aragorn
 Araithia Shokta
 Armor
+Arrolys Larskano
 Arthail Consumer of Food
 Arthas Menethil
 Arthur Holmwood
@@ -107,6 +109,7 @@ Beth Johanssen
 Big Bird
 Big the Cat
 Bilbo Baggins
+Bill Cipher
 Bill Kerman
 Bill Weasley
 Billy Pilgrim
@@ -163,6 +166,7 @@ Captain Marvel
 Captain Marvel Jr.
 Captain Nemo
 Captain Phasma
+Cara Dune
 Carmen Cortez
 Carol Danvers
 Carter Kane
@@ -171,29 +175,38 @@ Cassie Lang
 Catherine
 Catra
 Chara
+Chell
 Chewbacca
 Chun-Li
 Claude
 Colossus
 Count Dooku
+Cowardly Lion
 Culverton Smith
 Cyborg
 Cyclops
 Damian Wayne
 Dana Franklin
+Dapper Cyclops
 Darth Maul
 Darth Vader
+Deag Grav
+Deag Nilox
+Deag Ragnak
 Dedue
 Demoman
 Devahi
 Dick Grayson
 Dimitri
+Dipper Pines
 Doctor Eggman
-Doom Guy
+Doomslayer
 Dorothea
+Dorothy Gale
 Dr. Bunsen Honeydew
 Dr. Chris Beck
 Dr. Loomis
+Dr. Samuel Hayden
 Dracula
 Drax the Destroyer
 Dyan
@@ -206,6 +219,7 @@ Engineer
 Ernie
 Extortionist Hobo
 Falcon
+Fedora Turthin
 Felix
 Ferdinand
 Finn
@@ -219,15 +233,19 @@ Frisk (Neutral Route)
 Frisk (Pacifist Route)
 Fuzzy
 Gamora
+Garrik Doriana
 General Grievous
 Ginny Weasley
 Glimmer
+Glinda the Good Witch
 Glynnric Manassnass
 Gordon Freeman
 Gran'ma Ben
 Grand Moff Tarkin
+Greef Karga
 Green Arrow
 Groot
+Grunkle Stan
 Guile
 Hal Jordan
 Haley
@@ -248,6 +266,9 @@ Hippolyta
 Hope van Dyne
 Hubert
 Hulk
+IG-11
+IKCFAMWSIIF
+Ignatz
 Ingrid
 Inspector Lestrade
 Irey West
@@ -256,6 +277,7 @@ Iroh
 Iron Lad
 Iron Man
 Ironheart
+Isabelle
 Jabba the Hutt
 Jai West
 James Moriarty
@@ -282,9 +304,12 @@ Kareem Par-Al
 Katara
 Kazooie
 Ken
+Khan Makyr
 Korra
 Kratos
 Kristoff
+Kronya
+Kuiil
 Kylo Ren
 Lando Calrissian
 Laurie Strode
@@ -292,18 +317,25 @@ LeBron
 Leah
 Leia Organa
 Leo Valdez
+Leonie
 Linhardt
 Loki
+Long Jim
+Lorana Ritten
 Lord Voldemort
+Lorenz
 Luigi
 Luke Skywalker
+Lysithea
 M. Bison
+Mabel Pines
 Mace Windu
 Magneto
 Magnus Chase
 Mai
 Mallory Keen
 Mantis
+Marianne
 Mario
 Martian Manhunter
 Maru
@@ -317,15 +349,19 @@ Mettaton EX
 Michael Myers
 Miles Morales
 Mina Harker
+Miss Martian
 Misty
 Moana
+Moff Gideon
 Monica Rambeau
 Mr. Fantastic
+Mr. Qi
 Ms. Marvel
 Mycroft Holmes
 Nadia Van Dyne
 Nahara
 Namaari
+Nebula
 Nightcrawler
 Noi
 Northstar
@@ -350,14 +386,17 @@ Qui-Gon Jinn
 Quicksilver
 Quincey Morris
 R2-D2
+Raphael
 Raya
 Red (Pokemon)
+Reithen Keiros
 Rey
 Rhea
 Rikk
 Rita Vrataski
 Rocket Raccoon
 Ron Weasley
+Ronan the Accuser
 Rosalina
 Rose Tico
 Ruby Rider
@@ -370,6 +409,7 @@ Sam (Stardew Valley)
 Sam Alexander
 Samirah al-Abbas
 Sans
+Scarecrow (Oz)
 Scarlet Witch
 Scorpion
 Scott Lang
@@ -389,12 +429,15 @@ Sniper
 Snoke
 Sokka
 Soldier
+Solon
 Sombra
 Sonic the Hedgehog
+Soos Ramirez
 Sothis
 Spider-Man
 Spy
 Squee
+Stanford Pines
 Star-Lord
 Storm
 Suki
@@ -406,14 +449,19 @@ Sylvain
 Tamatoa
 Te Ka
 Ted Kord
+Terrence the Baby Tarrasque
+Thales
 Thanos
+The Child
 The Human Torch
 The Invisible Woman
+The Mandalorian
 The Thing
 Thomas Jefferson Jr.
 Thor
 Thorn Harvestar
 Tim Drake
+Tin Woodman
 Tong
 Toph Beifong
 Toriel
@@ -429,11 +477,19 @@ Wally West II
 Walt Stone
 War Machine
 Weiss Schnee
+Wendy Corduroy
+Wicked Witch of the West
 William Cage
+Wizard of Oz
 Wolverine
 Wonder Woman
 Yang Xiao Long
+Yekkon Shmalakis
+Yekkon Shmekkon
 Yoda
+Yondu
 Young Cyclops
 Zia Rashid
 Zuko
+Zulen Kal-Thim
+the Icon of Sin

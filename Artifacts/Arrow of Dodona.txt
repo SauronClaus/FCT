@@ -12,3 +12,5 @@ Weapon|Arrow
 Slightly-Magical
 Low
 Brown
+Sebastian
+No

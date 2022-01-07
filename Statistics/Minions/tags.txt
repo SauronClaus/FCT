@@ -1,27 +1,36 @@
 Alien (1): Chitauri
 Alien Horde (1): Chitauri
-Animals (1): Creatures of Grimm
+Aliens (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
+Animals (2): Creatures of Grimm, Flying Monkeys
+Animorphic (1): Flying Monkeys
 Anonymous (1): Death Eaters
 Anti-Matter (1): Shadow Demons
-Army (5): Adrestian Army, Fire Benders, Fire Nation Army, Knights of Seiros, Stormtroopers
+Army (8): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Knights of Seiros, Stormtroopers
 Beasts (2): Creatures of Grimm, Rat Creature Horde
-Evil Army (3): Fire Benders, Fire Nation Army, Stormtroopers
+Enslaved (1): Flying Monkeys
+Evil Army (6): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
 Evil God Spawn (1): Creatures of Grimm
 Fire Benders (1): Fire Benders
 Flight (1): Ultron Sentries
-Hive Mind (2): Chitauri, Ultron Sentries
+Force Fields (1): Droidekas
+Hive Mind (5): Alphas (Edge of Tomorrow), B2 Series Battle Droids, Chitauri, Drones (Edge of Tomorrow), Ultron Sentries
 Holy Knights (1): Knights of Seiros
-Horde (2): Rat Creature Horde, Shadow Demons
+Horde (5): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow), Flying Monkeys, Rat Creature Horde, Shadow Demons
+Idiots (1): B1 Series Battle Droids
 Industrial Army (2): Fire Benders, Fire Nation Army
 Intangible (1): Shadow Demons
+Invaders (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
 Invading Army (1): Chitauri
 Knights Order (1): Knights of Seiros
-Lasers (2): Stormtroopers, Ultron Sentries
+Lasers (5): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Stormtroopers, Ultron Sentries
 Magic Users (1): Death Eaters
+Magical (1): Flying Monkeys
 Masked (1): Death Eaters
-Military (4): Adrestian Army, Fire Benders, Fire Nation Army, Stormtroopers
+Military (7): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
 Monsters (1): Creatures of Grimm
 Racist (1): Death Eaters
 Religious Organization (1): Knights of Seiros
-Robots (1): Ultron Sentries
+Robots (4): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Ultron Sentries
 Shadow Monsters (2): Creatures of Grimm, Shadow Demons
+Strong (1): B2 Series Battle Droids
+Winged (1): Flying Monkeys

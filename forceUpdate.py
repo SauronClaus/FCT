@@ -4,15 +4,15 @@ alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 import os
 
 for letter in alphabet:
-    basepath = 'Franchises/' + letter
+    basepath = 'Characters\\' + alphabet + "\\"
     for entry in os.listdir(basepath):
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
-            characterInfo = characterFile.read().split("\n")
+            characterInfo = characterFile.read()
             characterFile.close()
-            if len(characterInfo) == 18:
-                characterFile = open(basepath + "/" + entry, "a", encoding='utf8')
-                characterFile.write("\nSebastian")
-
+            if len(characterInfo.split("\n")) == 29:
+                characterFile = open(basepath + "/" + entry, "w", encoding='utf8')
+                characterFile.write(characterInfo + "\n")
+                characterFile.close()
 
 print("Completed!")

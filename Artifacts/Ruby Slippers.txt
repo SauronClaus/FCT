@@ -1,0 +1,16 @@
+The Ruby Slippers
+The Wizard of Oz
+The ruby slippers are the magic pair of shoes worn by Dorothy Gale as played by Judy Garland in the 1939 Metro-Goldwyn-Mayer musical film The Wizard of Oz. Because of their iconic stature, the ruby slippers are among the most valuable items of film memorabilia. A number of pairs were made for the film, though the exact number is unknown. Five pairs are known to have survived; one pair was stolen from a museum in 2005 and recovered in 2018.[3][4]
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ruby_slippers.JPG/330px-Ruby_slippers.JPG
+https://en.wikipedia.org/wiki/Ruby_slippers
+Classic Literature
+Dorothy Gale
+Shoes,Flight,Magical,Teleportation
+Books,Movies
+Armor|Shoes
+
+Slightly-Magical
+Medium
+Red
+Sebastian
+No

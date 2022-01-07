@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/The_Mandalorian_(season_1)
 Rescue the Child|Defeat Moff Gideon|Discover the Child's origins
 No deaths
 Recover the Darksaber|Make contact with the Jedi
-The Mandalorian|The Child|Kuiil|IG-11|Cara Dune|Greef Karga
+The Mandalorian|The Child;as a child|Kuiil|IG-11|Cara Dune|Greef Karga
 Moff Gideon
 Stormtroopers
 

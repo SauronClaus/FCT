@@ -1,0 +1,29 @@
+The Cowardly Lion
+The Wizard of Oz
+The Cowardly Lion is a character in the fictional Land of Oz created by American author L. Frank Baum. He is depicted as an African lion, but like all animals in Oz, he can speak. Since lions are supposed to be "The Kings of Beasts," the Cowardly Lion believes that his fear makes him inadequate. He does not understand that courage means acting in the face of fear, which he does frequently. Only during the aftermath of the Wizard's gift, when he is under the influence of an unknown liquid substance that the Wizard orders him to drink is he not filled with fear. He argues that the courage from the Wizard is only temporary, although he continues to do brave deeds.
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cowardly_Lion.png/375px-Cowardly_Lion.png
+https://en.wikipedia.org/wiki/Cowardly_Lion
+
+
+The Lion|Lion|The Cowardly Lion
+Fred Woodward|Spencer Bell|Bert Lahr|Ted Ross|Cedric the Entertainer|John Alexander|David Alan Grier|Jim Belushi|Jess Harnell
+
+Adventurer
+Lion
+Good
+Supporting Protagonist
+Male
+Animorphic,Cowardly,Classic Literature Character,Lion
+Baseline
+High
+Wizard of Oz Crew
+
+Books,Movies
+The Wizard of Oz
+
+Yellow
+
+Classic Literature
+Sebastian
+
+No

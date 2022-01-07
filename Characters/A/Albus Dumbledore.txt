@@ -25,5 +25,5 @@ White
 Magical Powers|Wizard|6,Magical Knowledge|Scholar|5,Scholar|Monster Scholar|3,Scholar|Magic Scholar|5,Wise Man|Old|5
 Bloomsbury Publishing
 Sebastian
-
+Albus Dumbledore (Harry Potter),Albus Dumbledore (Fantastic Beasts)
 No

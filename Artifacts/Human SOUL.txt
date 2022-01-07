@@ -12,3 +12,5 @@ Ability|Soul
 Mundane
 Medium
 Red
+Sebastian
+No

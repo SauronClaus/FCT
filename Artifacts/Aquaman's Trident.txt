@@ -12,3 +12,5 @@ Weapon|Trident
 Country
 High
 Gold
+Sebastian
+No

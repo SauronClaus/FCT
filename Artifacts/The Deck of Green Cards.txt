@@ -12,3 +12,5 @@ Weapon|Deck of Cards
 Slightly-Magical
 Low
 White
+Sebastian
+No

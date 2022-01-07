@@ -12,7 +12,7 @@ Superhero
 Human
 Good
 Protagonist
-Male
+Female
 Avengers,Espionage,Fantastic Four,Force Fields,Invisible,Married|Mr. Fantastic,Siblings|The Human Torch
 City
 High

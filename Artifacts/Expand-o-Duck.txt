@@ -12,3 +12,5 @@ Weapon|Inane Weapon
 Slightly-Magical
 Low
 Silver
+Sebastian
+No

@@ -12,3 +12,5 @@ Weapon|Sword
 City
 Low
 Pale Blue
+Sebastian
+No

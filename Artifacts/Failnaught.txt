@@ -12,3 +12,5 @@ Heroes' Relics,House Relics (Fire Emblem)
 City
 Medium
 Bone White
+Sebastian
+No

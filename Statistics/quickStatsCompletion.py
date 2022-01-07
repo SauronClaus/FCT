@@ -7,6 +7,7 @@ import os
 from quickStatsArtifacts import quickStatsArtifacts
 from quickStatsCharacters import quickStatsCharacters
 from quickStatsFranchises import quickStatsFranchise
+from quickStatsMinions import quickStatsMinions
 
 def quickStatsCompletion():
     completedCharacters = []
@@ -161,7 +162,7 @@ def quickStatsCompletion():
             ArtifactsFile = open(basepath + "/" + entry, "r", encoding='utf8')
             ArtifactsInfo = ArtifactsFile.read().split("\n")
             if entry != "readMe.txt":
-                if len(ArtifactsInfo) == 14:
+                if len(ArtifactsInfo) == 16:
                     completedArtifacts.append(entry[0:len(entry)-4:])
                 else:
                     if len(ArtifactsInfo) == 0:
@@ -280,5 +281,6 @@ print("Begin update quick stats!")
 quickStatsArtifacts()
 quickStatsCharacters()
 quickStatsFranchise()
+quickStatsMinions()
 quickStatsCompletion()
 print("Completed all!")

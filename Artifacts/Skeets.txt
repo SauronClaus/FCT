@@ -12,3 +12,5 @@ Robot|Companion Robot
 Slightly-Magical
 Medium
 Gold
+Sebastian
+No

@@ -6,7 +6,7 @@ Kill Edelgard|Kill the Immaculate One
 
 
 Byleth|Rhea|Seteth|Catherine|Shamir|Alois|Flayn
-Edelgard|Hubert
+Edelgard|Hubert|Kronya|Solon|Thales
 Adrestian Army
 
 Edge of Dawn|https://open.spotify.com/track/5l6kKRl8SEA2nPzHE0ByAf?si=9d8e87bd70d24e92

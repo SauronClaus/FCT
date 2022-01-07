@@ -1,0 +1,29 @@
+Scarecrow
+The Wizard of Oz
+The Scarecrow is a character in the fictional Land of Oz created by American author L. Frank Baum and illustrator W.W. Denslow. In his first appearance, the Scarecrow reveals that he lacks a brain and desires above all else to have one. In reality, he is only two days old and merely naïve. Throughout the course of the novel, he proves to have the brains he seeks and is later recognized as "the wisest man in all of Oz," although he continues to credit the Wizard for them. He is, however, wise enough to know his own limitations and all too happy to hand the rulership of Oz, passed to him by the Wizard, to Princess Ozma, and become one of her trusted advisors, though he typically spends more time having fun than advising.
+https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Wonderful_Wizard_of_Oz%2C_009.png
+https://en.wikipedia.org/wiki/Scarecrow_(Oz)
+Scarecrow
+
+Scarecrow
+Frank Moore|Larry Semon|Ray Bolger|Hinton Battle|Michael Jackson|Justin Case|Jackson Browne|Kermit the Frog|Steve Whitmire|Elijah Kelley|Ari Zagaris|Oliver Jackson-Cohen|Alfie Scopp|Mickey Rooney|Billy Van|Richard Dumont|Matthew Stone|David Lodge|Andy Milder|Michael Gough|Paul Scheer|Dan Aykroyd|Stephen Stanton|William Salyers|Paul Eiding|Bill Fagerbakke
+
+Adventurer
+Scarecrow
+Good
+Supporting Protagonist
+Male
+Artificial,Magical,Classic Literature Character,Scarecrow,Straw-Stuffed,Idiot
+Baseline
+High
+Wizard of Oz Crew
+
+Books,Movies
+The Wizard of Oz
+
+Yellow
+
+Classic Literature
+Sebastian
+
+No

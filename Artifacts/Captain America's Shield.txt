@@ -12,3 +12,5 @@ Avengers Weapons,Avengers Quintent Weapons
 Slightly-Magical
 High
 Red
+Sebastian
+No

@@ -12,3 +12,5 @@ Weapon|Rod
 Slightly-Magical
 Medium
 Silver
+Sebastian
+No

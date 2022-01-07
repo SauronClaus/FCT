@@ -12,3 +12,5 @@ Armor|Helmet
 Slightly-Magical
 Medium
 Silver-White
+Sebastian
+No

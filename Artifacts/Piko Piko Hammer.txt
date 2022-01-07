@@ -12,3 +12,5 @@ Weapon|Hammer
 Slightly-Magical
 Medium
 Red
+Sebastian
+No

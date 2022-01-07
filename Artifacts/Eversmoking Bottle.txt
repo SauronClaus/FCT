@@ -12,3 +12,5 @@ Item|Bottle
 Slightly-Magical
 Low
 Silver
+Sebastian
+No

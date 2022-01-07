@@ -1,10 +1,14 @@
 Ability Copy (1): The Tanden Engine
 Ability Enhancer (2): Combat Jacket (Edge of Tomorrow), HEV Suit
+Absorbing (1): Nazelth
 Admantine (1): Aquaman's Trident
+Alien Technology (1): Yaka Arrow Controller
 Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
 Annoying (1): Arrow of Dodona
-Armor (2): HEV Suit, Iron Man Suit
+Aperture Science (2): Long Fall Boots, Portal Gun
+Armor (3): HEV Suit, Iron Man Suit, Long Fall Boots
 Armored (2): Batmobile, Batwing
+Arrow (1): Yaka Arrow Controller
 Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
 Bending Augumenter (1): Aang's Glider Staff
 Big (1): The Crown of Horns
@@ -12,6 +16,7 @@ Bludgeoning (1): Gordon Freeman's Crowbar
 Bone (1): Maui's Fishhook
 Book (1): The Codex Umbra
 Boomerang (2): Batarang, Captain America's Shield
+Boots (1): Long Fall Boots
 Bow (2): Failnaught, The Inexhaustable
 Bracelets (1): Bracelets of Submission
 Bracers (1): Bracelets of Submission
@@ -24,10 +29,13 @@ Cloak (1): The Invisiblity Cloak
 Common Magic Item (1): Wand of Wands
 Companion (1): Skeets
 Construct (2): Alan Scott's Ring, Green Lantern Ring
+Controller (1): Yaka Arrow Controller
+Creature (1): Courtney
 Crowbar (1): Gordon Freeman's Crowbar
 Cursed (1): The Codex Umbra
 Cursed Weapon (2): Annabeth's Knife, the One Ring
-Dagger (3): Annabeth's Knife, Atreus' Knife, Katoptris
+D&D (1): Marvelous Pigments
+Dagger (4): Annabeth's Knife, Atreus' Knife, Katoptris, The Surprisingly Effective Dagger
 Deathly Hallows (2): The Elder Wand, The Invisiblity Cloak
 Deck of Cards (2): Deck of Illusions, The Deck of Green Cards
 Demigod Weapons (4): Annabeth's Knife, Juno's Gladius, Katoptris, Riptide
@@ -43,26 +51,29 @@ Elemental Weapon (1): Mjolnir
 Elements of Harmony (1): Element of Honesty (My Little Pony)
 Elvish-Forged (1): Sting
 Environmental Protection (1): HEV Suit
-Evil (1): the Venom Symbiote
+Evil (2): Nazelth, the Venom Symbiote
 Exosuit (1): Iron Man Suit
 Experimental Weapon (1): The Starheart (DC Comics)
+Fall Damage Reduction (1): Long Fall Boots
 Fire (1): Fire Flower
 Fire Resistances (1): Ring of Fire Resistance
 Fishhook (1): Maui's Fishhook
-Flight (1): Aang's Glider Staff
+Flight (2): Aang's Glider Staff, Ruby Slippers
 Floating (1): The Sword of Summer (Jack)
 Force (1): Human SOUL
 Fragment (1): Iarno Albrek's Shattered Staff
 Gatling Gun (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
 Gauntlet (2): Ember Celica, The Infinity Gauntlet
 Ghost-Slayer (1): Andúril
+Glaive (1): Osiris
 Glass (1): Iarno Albrek's Shattered Staff
 Glider (1): Aang's Glider Staff
+Gliding (1): Courtney
 Glowing (1): Sting
 God-Item (1): The Infinity Gauntlet
 Greek (2): Katoptris, Riptide
 Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
-Gun (5): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, San's Gaster Blaster
+Gun (6): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, Portal Gun, San's Gaster Blaster
 Gun-Hands (1): Ember Celica
 Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
 Hammerspace (1): Piko Piko Hammer
@@ -72,7 +83,7 @@ Healing Gun (1): Medi Gun
 Heriditary (1): Atreus' Knife
 Historical Weapon (1): the One Ring
 Human-Trait (1): Human SOUL
-Iconic (2): Captain America's Shield, Iron Man Suit
+Iconic (3): Captain America's Shield, Iron Man Suit, Portal Gun
 Illusions (1): Deck of Illusions
 Imperial Gold (1): Juno's Gladius
 Implant (1): The Tanden Engine
@@ -81,6 +92,7 @@ Inane Weapon (1): Expand-o-Duck
 Infinity Stone (2): Loki's Scepter, The Soul Stone
 Insect Communication (1): Ant-Man Helmet
 Insect-Themed (1): Ant-Man Helmet
+Integration (1): Yaka Arrow Controller
 Invisibility (1): The Invisiblity Cloak
 Katana (1): Gambol Shroud
 Knife-Like (1): Kunai
@@ -88,11 +100,12 @@ Lance (1): Areadbhar
 Lantern Corps (2): Alan Scott's Ring, Green Lantern Ring
 Laser (1): San's Gaster Blaster
 Lasso (1): The Lasso of Truth
+Legacy (1): The Shield of Heroes
 Legion of Superheroes (1): Legion Flight Ring
 Lightning (1): Mjolnir
 MacGuffin (1): The Infinity Gauntlet
 Magic Space Rocks (1): The Soul Stone
-Magical (7): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Riptide, The Lasso of Truth, The Sword of Summer (Jack)
+Magical (13): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Nazelth, Osiris, Riptide, Ruby Slippers, The Lasso of Truth, The Shield of Heroes, The Surprisingly Effective Dagger, The Sword of Summer (Jack), White Raven's Wrappings
 Magical Fire (1): The Deck of Green Cards
 Magical Paint (1): Marvelous Pigments
 Magical Quality (1): Element of Honesty (My Little Pony)
@@ -101,6 +114,7 @@ Mech Suit (1): Combat Jacket (Edge of Tomorrow)
 Mechanical (1): The Tanden Engine
 Metal (1): Festus
 Mind Control (1): Loki's Scepter
+Monk Weapons (1): White Raven's Wrappings
 Multiple Forms (2): Crescent Rose, Gambol Shroud
 Nearly Useless (1): Wand of Wands
 Necklace (1): Rafail Gem
@@ -114,6 +128,7 @@ Parasite (1): the Venom Symbiote
 Particle (1): Pym Particles
 Plane (1): Batwing
 Pokemon (1): Pikachu
+Portals (1): Portal Gun
 Power (1): Pym Particles
 Power Suit (2): Combat Jacket (Edge of Tomorrow), HEV Suit
 Power-Granting (1): Legion Flight Ring
@@ -129,7 +144,7 @@ Ranged Attack (1): Iron Man Suit
 Rapid-Fire (1): Machine Pistol
 Rapier (1): Myrtenaster
 Relic (Fire Embelm) (1): Rafail Gem
-Relic (Fire Emblem) (10): Aegis Shield, Areadbhar, Aymr, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand
+Relic (Fire Emblem) (12): Aegis Shield, Areadbhar, Aymr, Blutgang, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand, Thyrus
 Returning (2): Mjolnir, Riptide
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
 Rings (1): Ring of Fire Resistance
@@ -142,44 +157,52 @@ Sacred (1): The Crown of Horns
 Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
 Sacred Weapon (Fire Emblem) (2): Caduceus Staff, The Inexhaustable
 Sacred Weapons (Fire Emblem) (1): Spear of Assal
+Science (2): Long Fall Boots, Portal Gun
 Scythe (1): Crescent Rose
 Sea God Powered (1): Aquaman's Trident
-Sentient (6): Arrow of Dodona, Festus, Pikachu, Skeets, The Sword of Summer (Jack), the Venom Symbiote
+Sentient (10): Arrow of Dodona, Courtney, Festus, Nazelth, Osiris, Pikachu, Skeets, The Surprisingly Effective Dagger, The Sword of Summer (Jack), the Venom Symbiote
 Shadaloo (1): The Tanden Engine
 Shadow Book (1): The Codex Umbra
 Shapeshifting (1): Maui's Fishhook
-Shield (2): Aegis Shield, Captain America's Shield
+Shield (3): Aegis Shield, Captain America's Shield, The Shield of Heroes
+Shoes (1): Ruby Slippers
 Shortsword (1): Sting
+Singing (1): Yaka Arrow Controller
 Size Change (1): Pym Particles
 Size Changing (1): Ant-Man Helmet
 Skull (1): San's Gaster Blaster
 Smoke (1): Eversmoking Bottle
 Soul (1): Human SOUL
 Space-Based (1): The Starheart (DC Comics)
-Spear (3): Lance of Ruin, Luin, Spear of Assal
+Spear (4): Lance of Ruin, Luin, Nazelth, Spear of Assal
 Spellcasting Focus (1): Iarno Albrek's Shattered Staff
 Staff (2): Caduceus Staff, Loki's Scepter
 Street Fighter (1): The Tanden Engine
-Sword (12): Andúril, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Sword (14): Andúril, Blutgang, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Osiris, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Symbiote (1): the Venom Symbiote
-Tech (2): Crescent Rose, Iron Man Suit
+Tech (4): Crescent Rose, Iron Man Suit, Long Fall Boots, Portal Gun
+Teleportation (2): Portal Gun, Ruby Slippers
 Themed (3): Batarang, Batmobile, Batwing
 Thing on Chain (1): Kunai
 Time Traveler (1): Skeets
 Tool (1): The Hatchet
 Transformation (1): Sword of Protection
-Transforming (2): Juno's Gladius, Riptide
+Transforming (3): Juno's Gladius, Nazelth, Riptide
+Transmutable (1): Osiris
 Trident (1): Aquaman's Trident
 Truth-Forcing (1): The Lasso of Truth
 Two-Handed (1): Leviathan Axe
 Uncommon Magic Item (1): Wand of Wild Magic
 Unique (1): Crescent Rose
+Useless (1): The Surprisingly Effective Dagger
 Vehicle (2): Batmobile, Batwing
 Vibranium (1): Captain America's Shield
 Visions of Future (1): Katoptris
+Wand (1): Thyrus
 Wands (1): The Elder Wand
 Waterfowl (1): Expand-o-Duck
 Weapon (1): Aang's Glider Staff
 Whip (1): The Lasso of Truth
 Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
 Worthy (1): Mjolnir
+Wrappings (1): White Raven's Wrappings

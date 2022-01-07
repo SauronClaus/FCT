@@ -1,13 +1,13 @@
-Leonie
+Lorenz
 Fire Emblem: Three Houses
-Leonie is a playable character in Fire Emblem: Three Houses. Leonie is a student at the Officers Academy who's from the Leicester Alliance and is one of the Golden Deer. She is 19 at the start of the game.
-https://static.wikia.nocookie.net/fireemblem/images/b/bd/Leonie_Portrait.png/revision/latest/scale-to-width-down/700?cb=20190621181258
+Lorenz is a playable character that appears in Fire Emblem: Three Houses. Lorenz is a student at the Officers Academy who is from the Leicester Alliance and is a member of the Golden Deer. He possesses a minor Crest of Gloucester. He is 18 at the start of the game.
+https://static.wikia.nocookie.net/fireemblem/images/a/aa/Lorentz_Portrait.png/revision/latest/scale-to-width-down/699?cb=20210507010815
 https://fireemblem.fandom.com/wiki/Lorenz
-Leonie
-Pinelli
-Leonie Pinelli|Blade Breaker II
-Sakura Nogawa|Ratana
-19|1
+Lorenz
+Gloucester
+Lorenz Hellman Gloucester
+Hiroshi Watanabe|Ben Diskin
+18|1
 Noble
 Human
 Good
@@ -20,7 +20,7 @@ Golden Deer
 
 Video Games
 Fire Emblem
-Thrysus
+Thyrus
 Purple
 
 Nintendo

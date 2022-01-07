@@ -12,3 +12,5 @@ Robot|Dragon
 City
 Low
 Bronze
+Sebastian
+No

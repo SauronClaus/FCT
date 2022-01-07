@@ -1,8 +1,8 @@
 White Raven's Wrappings
 Unbroken
 The White Raven's Wrappings were magic items found by the Unbroken party in the forest shrine, and they were recieved and used by Reithen Keiros.
-https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/486/1000/1000/636284784520399817.jpeg
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1200px-Icon-round-Question_mark.svg.png
+https://i.imgur.com/YSt10n9.png
 Unbroken
 Reithen Keiros
 Wrappings,Monk Weapons,Magical
@@ -12,3 +12,5 @@ Unbroken Artifacts
 Slightly-Magical
 Low
 White
+Sebastian
+No

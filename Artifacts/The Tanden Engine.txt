@@ -12,3 +12,5 @@ Implant|Machine
 City
 Low
 Silver-White
+Sebastian
+No

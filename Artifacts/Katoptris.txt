@@ -12,3 +12,5 @@ Weapon|Dagger
 Slightly-Magical
 Low
 Bronze
+Sebastian
+No

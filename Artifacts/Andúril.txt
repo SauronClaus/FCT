@@ -12,3 +12,5 @@ Weapon|Sword
 Slightly-Magical
 Low
 Silver-White
+Sebastian
+No

@@ -1,3 +1,3 @@
-Baseline (4): Adrestian Army, Chitauri, Fire Nation Army, Knights of Seiros
-City (3): Creatures of Grimm, Death Eaters, Fire Benders
-Modified Human (4): Rat Creature Horde, Shadow Demons, Stormtroopers, Ultron Sentries
+Baseline (5): Adrestian Army, Chitauri, Fire Nation Army, Flying Monkeys, Knights of Seiros
+City (4): Creatures of Grimm, Death Eaters, Droidekas, Fire Benders
+Modified Human (8): Alphas (Edge of Tomorrow), B1 Series Battle Droids, B2 Series Battle Droids, Drones (Edge of Tomorrow), Rat Creature Horde, Shadow Demons, Stormtroopers, Ultron Sentries

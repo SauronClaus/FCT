@@ -12,3 +12,5 @@ Weapon|Fishhook
 City
 High
 Bone White
+Sebastian
+No
