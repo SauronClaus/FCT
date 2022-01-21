@@ -26,4 +26,5 @@ Magical Powers|Wizard|5,Curse Breaker|Trained|2,Archeologist|Magic Archeologist|
 Bloomsbury Publishing
 Sebastian
 
+
 No

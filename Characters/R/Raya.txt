@@ -26,4 +26,5 @@ Trained Fighter|Learned|2,Scholar|Dragon Scholar|3
 Disney
 Sebastian
 
+
 No

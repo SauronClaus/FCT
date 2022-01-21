@@ -25,5 +25,6 @@ Amazi-Girl Yellow
 Trained Fighter|Unique|2
 Webcomics
 Sebastian
-Amber O'Malley (Dumbing of Age),Amber O'Malley (Shortpacked!),Amazi-Girl (Dumbing of Age),Amazi-Girl (Shortpacked!)
+Shortpacked!,Amber O'Malley (Dumbing of Age),Amber O'Malley (Shortpacked!)
+Dumbing of Age
 No

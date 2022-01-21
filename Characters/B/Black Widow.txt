@@ -25,5 +25,6 @@ Black
 Trained Fighter|Superhero|3,Tactician|Trained|5,Espionage|Trained|4
 Disney
 Sebastian
-Comics,MCU
+MCU
+Comics
 No

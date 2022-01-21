@@ -26,4 +26,5 @@ Survivalist|Trained|2
 MacMillan
 Sebastian
 
+
 No

@@ -78,6 +78,7 @@ def generate(guildID):
     charactersReasonSubbing = listen[1]
     otherAddedCharacters = listen[2]
     protagAdjectives = listen[3]
+    version = listen[4]
 
 
     listenAntag = []
@@ -88,15 +89,22 @@ def generate(guildID):
         antagReasonSubbing = listenAntag[1]
         otherAddedCharacters = listenAntag[2]
         antagAdjectives = listenAntag[3]
+        antagVersion = listenAntag[4]
     artifactReplacement = {}
 
     print("\nFinal Generation Protagonists: ")
     for person in charactersReplacement.keys():
-        print(person + " was substituted with " + charactersReplacement[person] + " via " + charactersReasonSubbing[person][0] + " (" + charactersReasonSubbing[person][1] + ")")                     
+        try:
+            print(person + " was substituted with " + charactersReplacement[person] + " (" + version[charactersReplacement[person]] + ") via " + charactersReasonSubbing[person][0] + " (" + charactersReasonSubbing[person][1] + ")")                     
+        except:
+            print(person + " was substituted with " + charactersReplacement[person] + " via " + charactersReasonSubbing[person][0] + " (" + charactersReasonSubbing[person][1] + ")")                     
     if len(antagonistReplacementOrigs) > 1 or antagonistReplacementOrigs[0] != "":
         print("\nFinal Generation Antagonists: ")
         for person in antagReplacement.keys():
-            print(person + " was substituted with " + antagReplacement[person] + " via " + antagReasonSubbing[person][0] + " (" + antagReasonSubbing[person][1] + ")")                     
+            try:
+                print(person + " was substituted with " + antagReplacement[person] + " (" + antagVersion[antagReplacement[person]] + ") via " + antagReasonSubbing[person][0] + " (" + antagReasonSubbing[person][1] + ")")                     
+            except:
+                print(person + " was substituted with " + antagReplacement[person] + " via " + antagReasonSubbing[person][0] + " (" + antagReasonSubbing[person][1] + ")")                     
     info = []
     if franchiseInfo[9] != "":
         info = genMinions(franchiseName, franchiseInfo, guildID)
@@ -108,7 +116,6 @@ def generate(guildID):
                 print(minion + " was substituted with " + info[0][minion] + " via " + info[1][minion][0] + " (" + info[1][minion][1] + ")")
             else:
                 print(minion + " was substituted with " + info[0][minion] + " via " + info[1][minion][0])
-
 
 
     

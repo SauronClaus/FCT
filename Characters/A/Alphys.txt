@@ -21,9 +21,10 @@ Alphys|https://open.spotify.com/track/5Prf4wpKlnsqj9HTSW4BjW?si=eef5346e64114cc2
 Video Games,Pixelated
 Undertale
 
-Black
+Gold
 Genius|Inborn|3,Tech-Man|Inventor|0,Inventor|Inborn|1
 Toby Fox
 Sebastian
+
 
 No

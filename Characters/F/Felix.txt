@@ -25,5 +25,6 @@ Black
 Trained Fighter|Swordsman|2
 Nintendo
 Sebastian
-
+Post-Timeskip
+Pre-Timeskip
 No

@@ -25,5 +25,6 @@ Aarav Blue
 Trained Fighter|Barbarian|3,Lightning Manipulation|Draconic Heritage|2
 Dungeons & Dragons
 Sebastian
-Band of Fools Original,Band of Fools Reboot
+Band of Fools Reboot
+Band of Fools Original
 No

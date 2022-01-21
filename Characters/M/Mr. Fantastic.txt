@@ -25,5 +25,6 @@ Blue
 
 Disney
 Sebastian
-
+Modern,Films
+Comics (Classic)
 No

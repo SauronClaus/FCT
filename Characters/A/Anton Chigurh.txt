@@ -26,4 +26,5 @@ Trained Fighter|Hitman|2,Marksman|Trained|3
 Alfred A. Knopf
 Sebastian
 
+
 No

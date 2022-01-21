@@ -25,5 +25,6 @@ Purple
 
 Disney
 Sebastian
-
+MCU,Comics (Modern),Ronin (Comics),Ronin (MCU)
+Comics (Classic)
 No

@@ -2,6 +2,7 @@ James (7): Bucky Barnes, Captain Kirk, Doomslayer, James Moriarty, Jim Gordon, W
 Arthur (4): Aquaman, Arthur Holmwood, Arthur Weasley, Drax the Destroyer
 John (4): Captain John H. Miller, John Seward, John Stewart, John Watson
 Samuel (4): Dr. Loomis, Dr. Samuel Hayden, Falcon, Sam Alexander
+Frisk (4): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
 Amy (3): Amethyst, Amy Cahill, Amy Rose
@@ -10,7 +11,6 @@ Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
 Bill (3): Bill Cipher, Bill Kerman, Bill Weasley
 Sam (3): Cannonball, Sam (Sam and Fuzzy), Sam (Stardew Valley)
 Scott (3): Cyclops, Scott Lang, Young Cyclops
-Frisk (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
 William (3): Guile, Maxwell, William Cage
 Kal (3): Kal-L, Superboy Prime, Superman
 Alice (2): Alice Daerdahk, Alice Johnson
@@ -301,11 +301,12 @@ Mary (1): Mary Marvel
 Maui (1): Maui
 Maxwell (1): Max Mercury
 Mercedes (1): Mercedes
-Mettaton (1): Mettaton EX
+Mettaton (1): Mettaton
 Miles (1): Miles Morales
 Wilhelmina (1): Mina Harker
 M'gann (1): Miss Martian
 Misty (1): Misty
+Michelle (1): MJ Watson (MCU)
 Moana (1): Moana
 Monica (1): Monica Rambeau
 Reed (1): Mr. Fantastic
@@ -407,6 +408,7 @@ Valentina (1): Valentina Kerman
 Vikram (1): Vikram Kommareddi
 Vision (1): Vision
 Vivian  (1): Viv Vision
+Adrian  (1): Vulture (MCU)
 Walt (1): Walt Stone
 Weiss (1): Weiss Schnee
 Wendy (1): Wendy Corduroy

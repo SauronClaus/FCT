@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Undertale
 Kill No Monsters|Befriend Undyne's Insert|Befriend Papyrus's Insert|Befriend Alphys's Insert|Find the True Lab
 Save Mettaton EX
 Redeem Flowey|Redeem Chara
-Frisk (Pacifist Route)|Toriel|Papyrus|Undyne|Mettaton EX|Sans|Alphys
+Frisk (Pacifist Route)|Toriel|Papyrus|Undyne|Mettaton|Sans|Alphys
 Asgore|Flowey
 
 Human SOUL

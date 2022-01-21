@@ -26,4 +26,5 @@ Pyrokinesis|Inborn|3
 Toby Fox
 Sebastian
 
+
 No

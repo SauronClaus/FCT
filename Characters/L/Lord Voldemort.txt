@@ -25,5 +25,6 @@ Black
 
 Bloomsbury Publishing
 Sebastian,Ethan
-
+Tom Riddle
+Lord Voldemort
 No

@@ -26,4 +26,5 @@ Fisherman|Trained|1
 Sega
 Sebastian
 
+
 No

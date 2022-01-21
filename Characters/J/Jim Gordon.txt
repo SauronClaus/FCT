@@ -25,5 +25,6 @@ Brown
 
 Warner Bros
 Sebastian
-
+Batman
+Classic
 No

@@ -26,4 +26,5 @@ Magical Powers|Allies|2,Enhanced Physical Abilities|Inborn|2
 Rare
 Sebastian
 
+
 No

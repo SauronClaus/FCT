@@ -25,5 +25,6 @@ Green
 Shapeshifter|Super Power|4
 Warner Bros
 Sebastian
-Comics,DC TV Shows,Teen Titans Go!
+DC TV Shows,Teen Titans Go!
+Comics
 No

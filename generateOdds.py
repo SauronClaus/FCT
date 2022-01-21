@@ -5,8 +5,8 @@ import random
 from all import allPeople
 def chooseCharacter(guildID, people, subMedium, subCharacter, subPowerLevel, currentPowerLevel, subRarity, swapList):
     specialConditions = ""
-    if subMedium == False and len(people[subCharacter]) == 29:
-        specialConditions = people[subCharacter][28]
+    if subMedium == False and len(people[subCharacter]) == 30:
+        specialConditions = people[subCharacter][29]
     if specialConditions == "No Sub In":
             print("Invalid Substitution: " + subCharacter + " (No Sub In)")
     else:
@@ -66,3 +66,45 @@ def chooseCharacter(guildID, people, subMedium, subCharacter, subPowerLevel, cur
                     swapList.append(subCharacter)
                     swapList.append(subCharacter)
     return swapList
+
+def chooseVersion(subVersions):
+    swapList = []
+    for subCharacter in subVersions.keys():
+        subRarity = subVersions[subCharacter]
+        print("Rarity! ~" + subRarity + "~")
+        if subRarity == "Very Low":
+            RNG = random.randint(1,2)
+            if RNG == 1:
+                swapList.append(subCharacter)
+                swapList.append(subCharacter)
+            if subRarity == "Very Low*":
+                RNG = random.randint(1,100)
+                if RNG == 13:
+                    print(">>>>>>>>>>>>>>>VERY RARE VERSION PICKED<<<<<<<<<<<<<<<")
+                    for x in range(100):
+                        swapList.append(subCharacter)
+        if subRarity == "Low":
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            print("Added " + subCharacter)
+        if subRarity == "Medium":
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            print("Added " + subCharacter)
+
+        if subRarity == "High":
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            swapList.append(subCharacter)
+            print("Added " + subCharacter)
+
+    print(str(0) + "/" + str(len(swapList)-1))
+    RNG = random.randint(0,len(swapList)-1)
+    version = swapList[RNG]
+    print(version + " chosen!")
+    return version

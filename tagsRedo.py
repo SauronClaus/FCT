@@ -69,7 +69,7 @@ for character in characters.keys():
     #print("[\n" + newAssembly + "\n]")
     tag = tagString[0:len(tagString)-1:]
     deuxAssembly = ""
-    for characterInfoTag in range(16,29):
+    for characterInfoTag in range(16,30):
         deuxAssembly = deuxAssembly + "\n" + characterInfo[characterInfoTag]
     characterFile.write(newAssembly + "\n" + tag + deuxAssembly)
     characterFile.close()

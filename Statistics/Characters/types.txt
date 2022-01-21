@@ -1,5 +1,5 @@
 Action Scientist (2): Atomic Robo, Jenkins
-Adventurer (43): Alice Daerdahk, Arrolys Larskano, Bilbo Baggins, Blitzen, Bobby, Calypso, Cowardly Lion, Devahi, Dorothy Gale, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Fuzzy, Garrik Doriana, Glynnric Manassnass, Groot, Hazel Levesque, IKCFAMWSIIF, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Lorana Ritten, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Reithen Keiros, Rocket Raccoon, Sam (Sam and Fuzzy), Scarecrow (Oz), Smiley Bone, Star-Lord, Tin Woodman, Yekkon Shmalakis, Yekkon Shmekkon, Zulen Kal-Thim
+Adventurer (44): Alice Daerdahk, Arrolys Larskano, Bilbo Baggins, Blitzen, Bobby, Calypso, Cowardly Lion, Devahi, Dorothy Gale, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Fuzzy, Garrik Doriana, Glynnric Manassnass, Groot, Hazel Levesque, IKCFAMWSIIF, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Lorana Ritten, Luigi, Mario, Maui, Moana, Nahara, Olaf, Piper McLean, Raya, Reithen Keiros, Rocket Raccoon, Sam (Sam and Fuzzy), Scarecrow (Oz), Smiley Bone, Star-Lord, Tin Woodman, Yekkon Shmalakis, Yekkon Shmekkon, Zulen Kal-Thim
 Archbishop (1): Rhea
 Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
 Artificer (1): Byllemura Ruby-Eye
@@ -26,7 +26,7 @@ Chairman (1): Dr. Samuel Hayden
 Chef (1): Boun
 Child (3): Austin, Terrence the Baby Tarrasque, The Child
 Chosen One (1): Byleth
-Civilian (26): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Dapper Cyclops, Dipper Pines, Ernie, Ethan Chou, Grunkle Stan, Harrison Truscott, Jem Finch, Jonathan Harker, Jono Jenkins, Kuiil, LeBron, Long Jim, Mabel Pines, Mina Harker, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
+Civilian (27): Bert, Big Bird, Candace Flynn, Colin Frazer, Dana Franklin, Dapper Cyclops, Dipper Pines, Ernie, Ethan Chou, Grunkle Stan, Harrison Truscott, Jem Finch, Jonathan Harker, Jono Jenkins, Kuiil, LeBron, Long Jim, Mabel Pines, Mina Harker, MJ Watson (MCU), Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
 Cleric (1): Mercedes
 Con Artist (4): Dyan, Noi, Pan, Uka
 Conman (1): Phoney Bone
@@ -124,7 +124,7 @@ Scientist (2): Alphys, Gordon Freeman
 Secret Agent (2): Carmen Cortez, Juni Cortez
 Secretary (1): Isabelle
 Serial Killer (1): Culverton Smith
-Showman (1): Mettaton EX
+Showman (1): Mettaton
 Singer (1): Dorothea
 Sith (1): Kylo Ren
 Sith Lord (6): Count Dooku, Darth Maul, Darth Vader, General Grievous, Sheev Palpatine, Snoke
@@ -140,7 +140,7 @@ Super Hero (1): Bucky Barnes
 Super Villain (1): Captain Boomerang
 Superhero (90): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Mantis, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Miss Martian, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
 Superheroes (4): Colossus, Cyclops, Nightcrawler, Wolverine
-Supervillain (6): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron
+Supervillain (7): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron, Vulture (MCU)
 Survivor (1): Laurie Strode
 Swordsman (1): Felix
 Teenager (1): Amy Cahill

@@ -26,4 +26,5 @@ Trained Fighter|Unique|1,Determination|SOUL|4,Time Loop|Determination|4
 Toby Fox
 Sebastian
 
-No
+
+No Sub In

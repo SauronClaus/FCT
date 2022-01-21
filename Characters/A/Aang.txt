@@ -26,4 +26,5 @@ Aquakinesis|Water Bending|4,Cryokinesis|Water Bending|4,Aerokinesis|Air Bending|
 Nickelodeon
 Sebastian
 Avatar State,Adult
+ATLA
 No

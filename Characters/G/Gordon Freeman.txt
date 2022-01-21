@@ -26,4 +26,5 @@ Trained Fighter|Unique|2,Enhanced Physical Abilities|Power Suit|2,Super Strength
 Valve
 Sebastian
 
+
 No

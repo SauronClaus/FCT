@@ -23,6 +23,7 @@ Raya's Band of Wanderers (8): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
 Norse Demigods (Rick Riordan) (7): Alex Fierro, Blitzen, Halfborn Gunderson, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 Bat-Family (Core) (7): Alfred Pennyworth, Barbara Gordon, Batman, Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Knights of Seiros (7): Alois, Byleth, Catherine, Flayn, Rhea, Seteth, Shamir
+Undertale Pacifist Friends (7): Alphys, Frisk (Pacifist Route), Frisk, Papyrus, Sans, Toriel, Undyne
 Champions (Marvel) (Core) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
 Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
 Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean
@@ -35,7 +36,6 @@ Guardians of the Galaxy (Core) (7): Drax the Destroyer, Gamora, Groot, Mantis, N
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
 Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebastian, Shane
-Undertale Pacifist Friends (6): Alphys, Frisk (Pacifist Route), Papyrus, Sans, Toriel, Undyne
 Skywalkers (Star Wars) (6): Anakin Skywalker, Kylo Ren, Leia Organa (Old), Leia Organa, Luke Skywalker, Rey
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
 Band of Fools (Redux) (6): Arthail Consumer of Food, Byllemura Ruby-Eye, Eldon Spark Turen, Jori-En Blurred, Kalathos Sunstrider, Squee
@@ -49,7 +49,7 @@ Justice Society of America (Extended) (5): Alan Scott, Hippolyta, Jay Garrick, J
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Einharjar (Magnus Chase) (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Sebastian Polge's Permutations (5): Alice Daerdahk, Fedora Turthin, Reithen Keiros, Sebastian Polge, Zulen Kal-Thim
-Royal Guardsmen (Undertale) (5): Alphys, Mettaton EX, Papyrus, Sans, Undyne
+Royal Guardsmen (Undertale) (5): Alphys, Mettaton, Papyrus, Sans, Undyne
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 Young Justice (Extended) (5): Amethyst, Bart Allen, Miss Martian, Tim Drake, Wally West
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
@@ -249,6 +249,7 @@ Asgardians (1): Loki
 Death Eaters (1): Lord Voldemort
 Super Smash Bros Original Cast (1): Mario
 Survivors of the Constant (1): Maxwell
+Spider-Related (MCU) (1): MJ Watson (MCU)
 Champions (Extended) (1): Nadia Van Dyne
 Abby Smetana's Permutations (1): Nahara
 Excalibur (Marvel) (1): Psylocke
@@ -262,6 +263,7 @@ The Black Order (1): Thanos
 Marvel's Floating Super-Hero Poker Game (1): The Thing
 Asgardians (Marvel) (1): Thor
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
+MCU Spider-Man Villains (1): Vulture (MCU)
 J-Squad (Edge of Tomorrow) (1): William Cage
 Wolverines (1): Wolverine
 Sophia Khoudary's Permutations (1): Yekkon Shmekkon

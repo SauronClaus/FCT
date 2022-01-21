@@ -26,4 +26,5 @@ Trained Fighter|Fantasy Soldier|2,Magical Powers|Trained|1
 Alfred A. Knopf
 Sebastian
 
+
 No

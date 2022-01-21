@@ -25,5 +25,6 @@ Gold
 Trained Fighter|Knight|2
 Nintendo
 Sebastian
-
+Post-Timeskip
+Pre-Timeskip
 No

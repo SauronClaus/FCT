@@ -26,4 +26,5 @@ Servant|Trained|1,Trained Fighter|Modern Soldier|2
 Warner Bros
 Sebastian
 
+
 No

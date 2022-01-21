@@ -25,5 +25,6 @@ Blue
 Genius|Inborn|3,Enhanced Physical Abilities|Mutant|2,Bestial Transformation|Scientific Accident|2
 Disney
 Sebastian
-X-Men Movies,Comics,X-Men First Class
+X-Men Films,X-Men First Class
+Comics
 No

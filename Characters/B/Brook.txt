@@ -26,4 +26,5 @@ Trained Fighter|Adventurer|2,Swordsman|Pirate|3,Musician|Trained|4,Magical Power
 Weekly Shonen Jump
 Sebastian
 
+
 No

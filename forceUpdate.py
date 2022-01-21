@@ -4,7 +4,7 @@ alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M'
 import os
 
 for letter in alphabet:
-    basepath = 'Characters\\' + alphabet + "\\"
+    basepath = 'Characters\\' + letter + "\\"
     for entry in os.listdir(basepath):
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
@@ -12,7 +12,11 @@ for letter in alphabet:
             characterFile.close()
             if len(characterInfo.split("\n")) == 29:
                 characterFile = open(basepath + "/" + entry, "w", encoding='utf8')
-                characterFile.write(characterInfo + "\n")
+                for line in characterInfo.split("\n"):
+                    if characterInfo.split("\n").index(line) != 28:
+                        characterFile.write(line + "\n")
+                characterFile.write("\n")
+                characterFile.write(characterInfo.split("\n")[28])
                 characterFile.close()
 
 print("Completed!")

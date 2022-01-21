@@ -26,4 +26,5 @@ Trained Fighter|Archer|3,Nature Powers|Inborn Connection|1,Blind Fighter|Inborn|
 Dungeons & Dragons
 Sebastian
 
+
 No

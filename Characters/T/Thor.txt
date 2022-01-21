@@ -25,5 +25,6 @@ Red
 
 Disney
 Sebastian
-
+MCU,Golden Age,Old Thor,Young Thor,Donald Blake,Eric Matterson
+Modern Age
 No

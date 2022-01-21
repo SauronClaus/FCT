@@ -25,5 +25,6 @@ Red
 
 Disney
 Sebastian
-
+MCU,Binary,Ms. Marvel
+Captain Marvel
 No

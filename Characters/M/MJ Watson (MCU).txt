@@ -1,6 +1,6 @@
-Spider-Man
+Michelle Jones-Watson
 Marvel Comics
-Spider-Man is a superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (Aug. 1962) in the Silver Age of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies, television shows, and video game adaptations set in the Marvel Universe. In the stories, Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence and financial issues, and accompanied him with many supporting characters, such as J. Jonah Jameson, Harry Osborn, Max Modell, romantic interests Gwen Stacy and Mary Jane Watson, and foes such as Doctor Octopus, the Green Goblin and Venom. His origin story has him acquiring spider-related abilities after a bite from a radioactive spider; these include clinging to surfaces, superhuman strength and agility, and detecting danger with his "spider-sense." He then builds wrist-mounted "web-shooter" devices that shoot artificial spider-webbing of his own design.
+Michelle Jones-Watson, commonly refered to as MJ, is a student at Midtown School of Science and Technology, who greatly enjoys mocking all of her fellow students there, which included Peter Parker. Despite keeping her distance socially, Jones was eventually given the opportunity to take over from the departing Liz Toomes as captain of the Academic Decathlon Team, and began to open up more with her fellow teammates, which included Ned Leeds and Parker. 
 https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/MJ_NWH.png/revision/latest/scale-to-width-down/700?cb=20211125071900
 https://marvelcinematicuniverse.fandom.com/wiki/Michelle_Jones
 Michelle
@@ -11,12 +11,12 @@ Zendaya
 Civilian
 Human
 Good
-Protagonist
+Supporting Protagonist
 Female
 Spider-Themed (Tangential),Romantic Subplot|Spider-Man
-City
+Baseline
 High
-Avengers (Core),Avengers (Extended),Fantastic Four (Extended),Spider-People
+Spider-Related (MCU)
 
 Superhero Comics,Comics,Movies
 Marvel
@@ -25,5 +25,6 @@ Red
 
 Disney
 Sebastian
-
+MCU,Games
+Comics
 No

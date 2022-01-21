@@ -25,5 +25,6 @@ White
 Flight|Wings|3,Healing Powers|Inborn|2
 Disney
 Sebastian
-X-Men First Class,Archangel,Classic
+X-Men First Class,Archangel
+Classic
 No

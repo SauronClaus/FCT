@@ -10,6 +10,7 @@ from all import allMinions
 from generateAdjective import generateAdjective
 
 from generateOdds import chooseCharacter
+from generateOdds import chooseVersion
 
 
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
@@ -311,7 +312,7 @@ def genAllPeople(guildID, peopleReplacementOrigs, franchiseInfo, otherAddedChara
                     peopleList = []
                     for person2 in people.keys():
                         peopleList.append(person2)
-                    if not(peopleList[RNG] in charactersReplacement.values()) and not(peopleList[RNG] in charactersReplacement.keys()) and not(peopleList[RNG] in otherAddedCharacters) and antagonists != True and people[peopleList[RNG]][28] != "No Sub In":
+                    if not(peopleList[RNG] in charactersReplacement.values()) and not(peopleList[RNG] in charactersReplacement.keys()) and not(peopleList[RNG] in otherAddedCharacters) and antagonists != True and people[peopleList[RNG]][29] != "No Sub In":
                         charactersReplacement[person] = peopleList[RNG]
                         print("\tSubbing " + charactersReplacement[person] + " for " + person + " (full random)")
                         reasonSubbing[person] = ["Full Random", ""]
@@ -910,12 +911,40 @@ def genAllPeople(guildID, peopleReplacementOrigs, franchiseInfo, otherAddedChara
                 if escapeCharacter == ":(":
                     print("\tGeneration #" + str(x) + " failed, attempting again.")
                     x+=1
+
+    reverseCharactersReplacement = {}        
     for character in charactersReplacement.keys():
         otherAddedCharacters.append(character)
+        #Original Characters
+        reverseCharactersReplacement[charactersReplacement[character]] = character
+    peopleVersions = {}
     for character in charactersReplacement.values():
         otherAddedCharacters.append(character)
+        #Subbed Characters
+        firstLetter = character[0:1:]
+        if firstLetter in numbers:
+            firstLetter = "#"
+        characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
+        characterInfo = characterFile.read().split("\n")
+        if characterInfo[27] != "" and reasonSubbing[reverseCharactersReplacement[character]][0] != "Groups" and reasonSubbing[reverseCharactersReplacement[character]][0] != "No Change":
+            versions = {}
+            for version in characterInfo[27].split(","):
+                versionFile = open("Versions\\" + firstLetter + "\\" + character + "\\" + version + ".txt", "r", encoding='utf8')
+                versionRarity = versionFile.read().split("\n")[1]
+                versions[version] = versionRarity
+            versionNormal = characterInfo[28]
+            print("Choosing version for " + character)
+            versionFile = open("Versions\\" + firstLetter + "\\" + character + "\\" + versionNormal + ".txt", "r", encoding='utf8')
+            versionRarity = versionFile.read().split("\n")[1]
+            versions[versionNormal] = versionRarity
+            finalVersion = chooseVersion(versions)
+            peopleVersions[character] = finalVersion
+
+
+    print("List: " + str(charactersReplacement.values()))
+
     print("Completed Generation!\n")
-    return [charactersReplacement, reasonSubbing, otherAddedCharacters, peopleAdjectives]
+    return [charactersReplacement, reasonSubbing, otherAddedCharacters, peopleAdjectives, peopleVersions]
 
 def genMinions(franchiseName, franchiseInfo, guildID):
     print("Generating Minions!")

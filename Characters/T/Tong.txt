@@ -26,4 +26,5 @@ Trained Fighter|Learned|2,Super Strength|Inborn|2
 Disney
 Sebastian
 
+
 No

@@ -125,7 +125,7 @@ Charismatic (2): Rikk, Rumy
 Charm Powers (1): Piper McLean
 Cheerful (7): Alois, Alyx, Anna, Ash Ketchum, Mabel Pines, Raphael, Ty Lee
 Chef (2): Boun, Papyrus
-Child (13): Austin, Big Bird, Boun, Flayn, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Jem Finch, Noi, Olaf, Scout Finch, Terrence the Baby Tarrasque, The Child
+Child (14): Austin, Big Bird, Boun, Flayn, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Jem Finch, Noi, Olaf, Scout Finch, Terrence the Baby Tarrasque, The Child
 Child of Villain and Hero (1): Damian Wayne
 Childhood Friends (2): Annette (Mercedes), Mercedes (Annette)
 Chosen One (17): Adora, Aloy, Bard the Bowman, Blake Belladonna, Byleth, Frank Zhang, Gordon Freeman, Harry Potter, Hazel Levesque, Jason Grace, Moana, Percy Jackson, Phoney Bone, Piper McLean, Ruby Rose, Thorn Harvestar, Zia Rashid
@@ -187,7 +187,7 @@ Destroyer (1): Drax the Destroyer
 Detachable Body Parts (1): Olaf
 Detatched from World (3): Anton Chigurh, Sherlock Holmes, Sniper
 Detective (8): Adrian Monk, Batman, Dipper Pines, Inspector Lestrade, Martian Manhunter, Mycroft Holmes, Sherlock Holmes, Stanford Pines
-Determination (5): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Hal Jordan, John Stewart
+Determination (6): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Hal Jordan, John Stewart
 Devil Fruit (1): Brook
 Dhampir (1): Alucard
 Diligent (1): Applejack
@@ -219,7 +219,7 @@ Earth-295 (1): Blink
 Earth-3 (1): Alexander Luthor Jr.
 Earth-Prime (1): Superboy Prime
 Edgy (4): Aphelios, Felix, Hubert, Zulen Kal-Thim
-Egomaniac (3): Mettaton EX, Papyrus, Phoney Bone
+Egomaniac (3): Mettaton, Papyrus, Phoney Bone
 Egyptian Gods (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Einharjar (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Electric Mayhem (Muppets) (1): Animal
@@ -240,7 +240,7 @@ Evil King (1): Khan Makyr
 Evil Priest (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
 Evil Ruler (3): Asgore, Bowser, Ozai
 Ex (4): Asgore (Toriel), Han Solo (Old) (Leia Organa), Leia Organa (Old) (Han Solo), Toriel (Asgore)
-Exile (14): Aragorn, Araithia Shokta, Azula, Boromir, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Iroh, Pariah, Raya, The Mandalorian, Tong, Toriel, Zuko
+Exile (15): Aragorn, Araithia Shokta, Azula, Boromir, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Iroh, Pariah, Raya, The Mandalorian, Tong, Toriel, Zuko
 Exiled Royalty (3): Gran'ma Ben, Padme Amidala, Thorn Harvestar
 Exiles (Team) (2): Blink, Iron Lad
 Explorer (1): Captain Kirk
@@ -279,6 +279,7 @@ Flaming (1): The Human Torch
 Flight (4): Angel, Banshee, Falcon, Monica Rambeau
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Flower (1): Flowey
+Flying (1): Vulture (MCU)
 Food (1): Raphael
 Football (1): Alex
 Force Fields (1): The Invisible Woman
@@ -301,7 +302,7 @@ Future Tech (3): Amy Ferrier, Booster Gold, Brainiac 5
 GCPD (1): Jim Gordon
 Galactic Empire (4): Darth Vader, Grand Moff Tarkin, Moff Gideon, Sheev Palpatine
 Galactic Republic (Star Wars) (7): Anakin Skywalker, C3PO, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, R2-D2, Yoda
-Gameshow Host (1): Mettaton EX
+Gameshow Host (1): Mettaton
 Gamma (2): Amadeus Cho, Hulk
 Geek (3): Baljeet Tjinder, Rikk, Rumy
 Genderfluid (1): Alex Fierro
@@ -389,7 +390,7 @@ Interpol (1): Chun-Li
 Introvert (5): Amazi-Girl, Amy Cahill, Bernadetta, Linhardt, Mercedes
 Invader (1): Omega (Edge of Tomorrow)
 Inventor (15): Alphys, Alyx, Anakin Skywalker (Young), Anakin Skywalker, Doctor Eggman, Dr. Bunsen Honeydew, Eldon Spark Turen, Garrik Doriana, Iron Man, Ironheart, Leo Valdez, Lorana Ritten, Ruby Rose, Ted Kord, Yang Xiao Long
-Inventor Inventee (5): Alphys (Mettaton EX), Anakin Skywalker (Young) (C3PO), Anakin Skywalker (C3PO), C3PO (Anakin Skywalker), Mettaton EX (Alphys)
+Inventor Inventee (5): Alphys (Mettaton EX), Anakin Skywalker (Young) (C3PO), Anakin Skywalker (C3PO), C3PO (Anakin Skywalker), Mettaton (Alphys)
 Investigator (3): Amy Ferrier, Inspector Lestrade, Sherlock Holmes
 Invisible (1): The Invisible Woman
 Irish (1): Mallory Keen
@@ -474,6 +475,7 @@ Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Monk (3): Aang, Reithen Keiros, Zulen Kal-Thim
 Monster (1): Terrence the Baby Tarrasque
 Monster Hunter (13): Abraham Van Helsing, Alucard, Arthur Holmwood, Bayonetta, Blake Belladonna, John Seward, Jonathan Harker, Mina Harker, Quincey Morris, Ruby Rose, Weiss Schnee, Yang Xiao Long, Yekkon Shmalakis
+Moral Code (1): Vulture (MCU)
 Moral Compass (1): Ann Takamaki
 Mortal Kombat (1): Scorpion
 Most Powerful (6): Albus Dumbledore, Amos Kane, Kal-L, Sheev Palpatine, Snoke, Superman
@@ -561,7 +563,7 @@ Planet (1): Ego
 Plant (1): Groot
 Platformer (6): Amy Rose, Banjo, Kazooie, Luigi, Mario, Sonic the Hedgehog
 Playboy (1): Sylvain
-Player Character (11): Alyx, Byleth, Cal Kestis, Doomslayer, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Gordon Freeman, Mario, Red (Pokemon), Sonic the Hedgehog
+Player Character (12): Alyx, Byleth, Cal Kestis, Doomslayer, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Gordon Freeman, Mario, Red (Pokemon), Sonic the Hedgehog
 Poetry (1): Apollo
 Pokemon Trainer (5): Ash Ketchum, Blue, Brock, Misty, Red (Pokemon)
 Police (4): Barry Allen, Chun-Li, Inspector Lestrade, Jim Gordon
@@ -569,7 +571,7 @@ Polyamory (3): Ally, Rikk, Rumy
 Polymorph (2): Mr. Fantastic, Ms. Marvel
 Portals (1): Chell
 Positive (1): Rose Tico
-Possessing Possessed (6): Byleth (Sothis), Chara (Frisk (Genocide Route)), Frisk (Genocide Route) (Chara), Reithen Keiros (Zulen Kal-Thim), Sothis (Byleth), Zulen Kal-Thim (Reithen Keiros)
+Possessing Possessed (7): Byleth (Sothis), Chara (Frisk (Genocide Route)), Frisk (Genocide Route) (Chara), Frisk (Chara), Reithen Keiros (Zulen Kal-Thim), Sothis (Byleth), Zulen Kal-Thim (Reithen Keiros)
 Possession (2): Chara, Sothis
 Post-Apocalypse (1): Artyom
 Post-Apocalyptic (1): Garrik Doriana
@@ -639,7 +641,7 @@ Robins (4): Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Robot (4): Atomic Robo, Bastion, IG-11, Ultron
 Rogue (3): Araithia Shokta, Glynnric Manassnass, Yekkon Shmekkon
 Roman (3): Frank Zhang, Hazel Levesque, Jason Grace
-Romantic Subplot (73): Aang (Katara), Adora (Catra), Alex Fierro (Magnus Chase), Alphys (Undyne), Amy Rose (Sonic the Hedgehog), Anakin Skywalker (Padme Amidala), Annabeth Chase (Percy Jackson), Arwen (Aragorn), Asami Sato (Korra), Barry Allen (Iris West), Beth Johanssen (Dr. Chris Beck), Black Canary (Green Arrow), Blake Belladonna (Yang Xiao Long), Bow (Glimmer), Calypso (Leo Valdez), Carter Kane (Zia Rashid), Cassie Lang (Iron Lad), Catra (Adora), Devahi (Sam (Sam and Fuzzy)), Dr. Chris Beck (Beth Johanssen), Fone Bone (Thorn Harvestar), Frank Zhang (Hazel Levesque), Gamora (Star-Lord), Ginny Weasley (Harry Potter), Glimmer (Bow), Green Arrow (Black Canary), Halfborn Gunderson (Mallory Keen), Han Solo (Leia Organa), Harry Potter (Ginny Weasley), Hazel Levesque (Frank Zhang), Hermione Granger (Ron Weasley), Hope van Dyne (Scott Lang), Iris West (Barry Allen), Iron Lad (Cassie Lang), Jason Grace (Piper McLean), Jonathan Harker (Mina Harker), Katara (Aang), Korra (Asami Sato), Kristoff (Anna), Kylo Ren (Rey), Leia Organa (Han Solo), Leo Valdez (Calypso), Luigi (Princess Daisy), Magnus Chase (Alex Fierro), Mai (Zuko), Mallory Keen (Halfborn Gunderson), Mario (Princess Peach), Mina Harker (Jonathan Harker), Padme Amidala (Anakin Skywalker), Percy Jackson (Annabeth Chase), Piper McLean (Jason Grace), Princess Daisy (Luigi), Princess Peach (Mario), Rey (Kylo Ren), Rita Vrataski (William Cage), Ron Weasley (Hermione Granger), Sadie Kane (Walt Stone), Sam (Sam and Fuzzy) (Devahi), Scarlet Witch (Vision), Scott Lang (Hope van Dyne), Sokka (Suki), Sonic the Hedgehog (Amy Rose), Star-Lord (Gamora), Suki (Sokka), Thorn Harvestar (Fone Bone), Ty Lee (Zuko), Undyne (Alphys), Vision (Scarlet Witch), Walt Stone (Sadie Kane), William Cage (Rita Vrataski), Yang Xiao Long (Blake Belladonna), Zia Rashid (Carter Kane), Zuko (Mai)
+Romantic Subplot (74): Aang (Katara), Adora (Catra), Alex Fierro (Magnus Chase), Alphys (Undyne), Amy Rose (Sonic the Hedgehog), Anakin Skywalker (Padme Amidala), Annabeth Chase (Percy Jackson), Arwen (Aragorn), Asami Sato (Korra), Barry Allen (Iris West), Beth Johanssen (Dr. Chris Beck), Black Canary (Green Arrow), Blake Belladonna (Yang Xiao Long), Bow (Glimmer), Calypso (Leo Valdez), Carter Kane (Zia Rashid), Cassie Lang (Iron Lad), Catra (Adora), Devahi (Sam (Sam and Fuzzy)), Dr. Chris Beck (Beth Johanssen), Fone Bone (Thorn Harvestar), Frank Zhang (Hazel Levesque), Gamora (Star-Lord), Ginny Weasley (Harry Potter), Glimmer (Bow), Green Arrow (Black Canary), Halfborn Gunderson (Mallory Keen), Han Solo (Leia Organa), Harry Potter (Ginny Weasley), Hazel Levesque (Frank Zhang), Hermione Granger (Ron Weasley), Hope van Dyne (Scott Lang), Iris West (Barry Allen), Iron Lad (Cassie Lang), Jason Grace (Piper McLean), Jonathan Harker (Mina Harker), Katara (Aang), Korra (Asami Sato), Kristoff (Anna), Kylo Ren (Rey), Leia Organa (Han Solo), Leo Valdez (Calypso), Luigi (Princess Daisy), Magnus Chase (Alex Fierro), Mai (Zuko), Mallory Keen (Halfborn Gunderson), Mario (Princess Peach), Mina Harker (Jonathan Harker), MJ Watson (MCU) (Spider-Man), Padme Amidala (Anakin Skywalker), Percy Jackson (Annabeth Chase), Piper McLean (Jason Grace), Princess Daisy (Luigi), Princess Peach (Mario), Rey (Kylo Ren), Rita Vrataski (William Cage), Ron Weasley (Hermione Granger), Sadie Kane (Walt Stone), Sam (Sam and Fuzzy) (Devahi), Scarlet Witch (Vision), Scott Lang (Hope van Dyne), Sokka (Suki), Sonic the Hedgehog (Amy Rose), Star-Lord (Gamora), Suki (Sokka), Thorn Harvestar (Fone Bone), Ty Lee (Zuko), Undyne (Alphys), Vision (Scarlet Witch), Walt Stone (Sadie Kane), William Cage (Rita Vrataski), Yang Xiao Long (Blake Belladonna), Zia Rashid (Carter Kane), Zuko (Mai)
 Romantic at Heart (1): Elliot
 Royal Guardsman (4): Alphys, Papyrus, Sans, Undyne
 Royalty (35): Amethyst, Anna, Aquaman, Aragorn, Arwen, Arya, Asgore, Azula, Bard the Bowman, Black Panther, Blaze the Cat, Bowser Jr., Bowser, Captain Nemo, Dimitri, Edelgard, Elsa, Glimmer, Gran'ma Ben, Hippolyta, Iroh, Leia Organa (Old), Leia Organa, Namaari, Ozai, Padme Amidala, Petra (Fire Emblem), Princess Daisy, Princess Peach, Raya, Sam (Sam and Fuzzy), Thorn Harvestar, Toriel, Wonder Woman, Zuko
@@ -680,11 +682,11 @@ Shields (1): Captain America
 Shiny (1): Captain Phasma
 Shirai Ryu (1): Scorpion
 Shortpacked! Store (1): Amazi-Girl
-Showman (1): Mettaton EX
+Showman (1): Mettaton
 Shy (2): Ignatz, Marianne
 Siblings (35): Anna (Elsa), Azula (Zuko), Captain Britain (Psylocke), Captain Marvel (Mary Marvel), Carter Kane (Sadie Kane), Elsa (Elsa), Emily (Haley), Gamora (Nebula), Haley (Emily), Iroh (Ozai), Jem Finch (Scout Finch), Katara (Sokka), Leia Organa (Old) (Luke Skywalker), Luigi (Mario), Luke Skywalker (Leia Organa), Mario (Luigi), Maru (Sebastian), Mary Marvel (Captain Marvel), Mycroft Holmes (Sherlock Holmes), Nebula (Gamora), Ozai (Iroh), Papyrus (Sans), Quicksilver (Scarlet Witch), Ruby Rose (Yang Xiao Long), Sadie Kane (Carter Kane), Sans (Papyrus), Scarlet Witch (Quicksilver), Scout Finch (Jem Finch), Sebastian (Maru), Sherlock Holmes (Mycroft Holmes), Sokka (Katara), The Human Torch (The Invisible Woman), The Invisible Woman (The Human Torch), Yang Xiao Long (Ruby Rose), Zuko (Azula)
 Sidekick (3): Bucky Barnes, John Watson, Wally West
-Silent (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
+Silent (4): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Singer (1): Dorothea
 Siren (Borderlands) (1): Amara
 Sister (1): Candace Flynn
@@ -703,9 +705,9 @@ Snowman (1): Olaf
 Sociopath (2): Culverton Smith, Medic
 Soft-Hearted (1): Shane
 Soldier (39): Ahsoka Tano, Alyx, Amilyn Holdo, Anakin Skywalker, Ashley Williams, Billy Pilgrim, Bolin, Cal Kestis, Captain John H. Miller, Captain Phasma, Cara Dune, Carol Danvers, Count Dooku, Darth Maul, Darth Vader, Doomslayer, Finn, General Grievous, Grand Moff Tarkin, Guile, Hal Jordan, Jar Jar Binks, Jenkins, John Stewart, John Watson, Lando Calrissian, Leonie, Mace Windu, Moff Gideon, Namaari, Obi-Wan Kenobi, Rita Vrataski, Ronan the Accuser, Rose Tico, Suki, Thomas Jefferson Jr., Undyne, War Machine, William Cage
-Sole Human (3): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
+Sole Human (4): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Sorcerer (5): Calypso, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
-Soul Powers (5): Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
+Soul Powers (6): Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Soulless (1): Flowey
 Southern (1): Engineer
 Southern Accent (1): Applejack
@@ -714,6 +716,7 @@ Spearman (1): Ferdinand
 Special Forces (2): Alfred Pennyworth, Ronan the Accuser
 Speedsters (14): Aurora, Barry Allen, Bart Allen, Irey West, Jai West, Jay Garrick, Jesse Quick, Max Mercury, Northstar, Quicksilver, Scout, Sonic the Hedgehog, Wally West II, Wally West
 Spider-Person (2): Miles Morales, Spider-Man
+Spider-Themed (Tangential) (1): MJ Watson (MCU)
 Spirit (1): Chara
 Split Personality (3): Aurora, Reithen Keiros, Zulen Kal-Thim
 Spy (3): Black Widow, Carmen Cortez, Juni Cortez
@@ -754,7 +757,7 @@ Survivalist (1): Brian Robeson
 Survivor (2): Brian Robeson, Maxwell
 Swordsman (9): Aragorn, Arya, Boromir, Brook, Catherine, Felix, Gamora, Nebula, Petra (Fire Emblem)
 Symbiote (1): Agent Venom
-TV Star (1): Mettaton EX
+TV Star (1): Mettaton
 Tailor (1): Blitzen
 Tall (1): Wendy Corduroy
 Talon (1): Sombra
@@ -763,7 +766,7 @@ Taxi Driver (2): Fuzzy, Sam (Sam and Fuzzy)
 Teacher (1): Penny
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
 Team Fortress 2 (9): Demoman, Engineer, Heavy, Medic, Pyro, Scout, Sniper, Soldier, Spy
-Tech (21): Atomic Robo, Batman, Black Panther, Bowser Jr., Brainiac 5, Cassie Lang, Cyborg, Damian Wayne, Doctor Eggman, Hank Pym, Hope van Dyne, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Maru, Nadia Van Dyne, Rocket Raccoon, Scott Lang, Tim Drake, War Machine
+Tech (22): Atomic Robo, Batman, Black Panther, Bowser Jr., Brainiac 5, Cassie Lang, Cyborg, Damian Wayne, Doctor Eggman, Hank Pym, Hope van Dyne, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Maru, Nadia Van Dyne, Rocket Raccoon, Scott Lang, Tim Drake, Vulture (MCU), War Machine
 Tech Genius (1): Beth Johanssen
 Teen Titans (10): Bart Allen, Beast Boy, Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Tim Drake, Wally West II, Wally West
 Teenager (1): Laurie Strode
@@ -832,6 +835,7 @@ Webcomics (2): Atomic Robo, Jenkins
 Webtoon (1): Anna Croft
 Weelchair (1): Barbara Gordon
 Wilderness (1): Brian Robeson
+Wings (1): Vulture (MCU)
 Wise (3): Albus Dumbledore, Iroh, Kuiil
 Witch (3): Bayonetta, Glinda the Good Witch, Wicked Witch of the West
 Wizard (14): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Glinda the Good Witch, Harry Potter, Hearthstone, Hermione Granger, Kalathos Sunstrider, Lord Voldemort, Ron Weasley, Squee, Wizard of Oz

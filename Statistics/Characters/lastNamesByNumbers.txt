@@ -227,6 +227,7 @@ von Martritz (1): Mercedes
 Myers (1): Michael Myers
 Morales (1): Miles Morales
 M'orzz (1): Miss Martian
+Jones-Watson (1): MJ Watson (MCU)
 Gideon (1): Moff Gideon
 Rambeau (1): Monica Rambeau
 Qi (1): Mr. Qi
@@ -277,6 +278,7 @@ Beifong (1): Toph Beifong
 Lee (1): Ty Lee
 Kommareddi (1): Vikram Kommareddi
 Vision (1): Viv Vision
+Toomes (1): Vulture (MCU)
 Rhodes (1): War Machine
 Schnee (1): Weiss Schnee
 Corduroy (1): Wendy Corduroy

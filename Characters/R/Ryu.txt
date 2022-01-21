@@ -25,5 +25,6 @@ White
 Ki Energy|Trained|3,Power of Nothingness|Trained|4,Martial Arts|Trained|2
 Capcom
 Ethan
-Evil Ryu
+
+
 No

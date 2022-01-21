@@ -26,4 +26,5 @@ Magical Powers|Wizard|6,Chaos Powers|Set|3,Magical Knowledge|Scholar|4,Wise Man|
 Disney Hyperion
 Sebastian
 
+
 No

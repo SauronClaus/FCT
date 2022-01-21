@@ -25,5 +25,6 @@ Blue
 
 Disney
 Sebastian
-
+MCU,Hydra,Old (Comics)
+Young (Comics)
 No

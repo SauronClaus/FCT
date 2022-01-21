@@ -1,5 +1,5 @@
 Alright, so how characters work: 
-There's 29 lines, in this order. Thoses lines are: 
+There's 30 lines, in this order. Thoses lines are: 
 
 1. Name- Self explanatory- what the character goes by. Typically, this will also be the file name. 
 2. Franchise- Self explanatory. What franchise the character belongs too. Try to be specific, like "Avatar: The Last Airbender" vs "Legends of Korra", and "Star Wars Prequel Trilogy" vs "Star Wars Original Trilogy".
@@ -29,7 +29,8 @@ There's 29 lines, in this order. Thoses lines are:
 26. Brand- what's the parent company? (Disney, 20th Century Fox, etc.)
 27. Contributors- the names of the people contributing to this particular file.
 28. Variants- variants of the character (Iron Man Mk. I, Bombastic Bag-Man, etc.) These should mostly be cosmetic- any variants that add changes to the tags will be handled later.
-29. Special Character? Just add a No here, we'll fix that up later. 
+29. The Prime Version of the character- what the info in the main file refers to.
+30. Special Character? Just add a No here, we'll fix that up later. 
 
 Alright so other important notes: 
 - If you can't find the info on somebody, no worries, just leave the line blank. I can spin around later and check it out if need be. It's very important that the line exists though- screws up the code if it doesn't.

@@ -26,4 +26,5 @@ Monster Hunter|Trained Monster Hunter|3,Scholar|Monster Scholar|3,Cursed Blood|D
 Nintendo
 Sebastian
 
+
 No

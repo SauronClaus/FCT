@@ -8,6 +8,7 @@ from quickStatsArtifacts import quickStatsArtifacts
 from quickStatsCharacters import quickStatsCharacters
 from quickStatsFranchises import quickStatsFranchise
 from quickStatsMinions import quickStatsMinions
+from quickStatsVersions import quickStatsVersions
 
 def quickStatsCompletion():
     completedCharacters = []
@@ -27,7 +28,7 @@ def quickStatsCompletion():
             if os.path.isfile(os.path.join(basepath, entry)):
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
-                if len(characterInfo) == 29:
+                if len(characterInfo) == 30:
                     completedCharacters.append(entry[0:len(entry)-4:])
                     if characterInfo[28] == "No":
                         regularRestict.append(entry[0:len(entry)-4:])
@@ -41,7 +42,7 @@ def quickStatsCompletion():
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])
                     else:
-                        if len(characterInfo) == 17 or len(characterInfo) == 22 or len(characterInfo) == 24:
+                        if len(characterInfo) == 17 or len(characterInfo) == 22 or len(characterInfo) == 24 or len(characterInfo) == 29:
                             needToUpdateCharacters.append(entry[0:len(entry)-4:])
                         else:
                             weirdCharacters.append(entry[0:len(entry)-4:])
@@ -265,7 +266,49 @@ def quickStatsCompletion():
     incompleteFile.close()
     completeFile.close()
 
+    weirdFile = open("Statistics\\Completetion Rankings\\Versions\\weirdVersions.txt", "w", encoding='utf8')
+    updateFile = open("Statistics\\Completetion Rankings\\Versions\\needToUpdateVersions.txt", "w", encoding='utf8')
+    incompleteFile = open("Statistics\\Completetion Rankings\\Versions\\incompleteVersions.txt", "w", encoding='utf8')
+    completeFile = open("Statistics\\Completetion Rankings\\Versions\\completedVersions.txt", "w", encoding='utf8')
 
+
+    completedVersions = []
+    undoneVersions = []
+    needToUpdateVersions = []
+    weirdVersions = []
+    allVersions = []
+
+    # List all files in a directory using os.listdir
+    for letter in alphabet:
+        basepath = 'Versions\\' + letter
+        for folder in os.listdir(basepath):
+            for entry in os.listdir(basepath + "\\" + folder):
+                VersionsFile = open(basepath + "\\" + folder + "\\" + entry, "r", encoding='utf8')
+                VersionsInfo = VersionsFile.read().split("\n")
+                if len(VersionsInfo) == 2:
+                    completedVersions.append(entry[0:len(entry)-4:])
+                else:
+                    weirdVersions.append(entry[0:len(entry)-4:])
+                allVersions.append(entry[0:len(entry)-4:])
+                VersionsFile.close()
+    completedVersions.sort()
+    undoneVersions.sort()
+    needToUpdateVersions.sort()
+    weirdVersions.sort()
+
+    for version in weirdVersions:
+        weirdFile.write(version + "\n")
+    for version in needToUpdateVersions:
+        updateFile.write(version + "\n")
+    for version in undoneVersions:
+        incompleteFile.write(version + "\n")
+    for version in completedVersions:
+        completeFile.write(version + "\n")
+
+    weirdFile.close()
+    updateFile.close()
+    incompleteFile.close()
+    completeFile.close()
 
 
     completionFile = open("Statistics\\Completetion Rankings\\completion rankings.txt", "w", encoding='utf8')
@@ -273,7 +316,8 @@ def quickStatsCompletion():
     completionFile.write("Franchises: (" + str(round(len(completedFranchises)/len(allFranchises),4)*100) + "%):\n   -" + str(len(completedFranchises)) + " completed franchises.\n   -" + str(len(undoneFranchises)) + " incomplete franchises.\n   -" + str(len(needToUpdateFranchises)) + " unupdated franchises.\n   -" + str(len(weirdFranchises)) + " weird franchises.\n   -" + str(len(allFranchises)) + " total franchises.\n")
     completionFile.write("Artifacts: (" + str(round(len(completedArtifacts)/len(allArtifacts),4)*100) + "%):\n   -" + str(len(completedArtifacts)) + " completed artifacts.\n   -" + str(len(undoneArtifacts)) + " incomplete artifacts.\n   -" + str(len(needToUpdateArtifacts)) + " unupdated artifacts.\n   -" + str(len(weirdArtifacts)) + " weird artifacts.\n   -" + str(len(allArtifacts)) + " total artifacts.\n")
     completionFile.write("Adjectives: (" + str(round(len(completedAdjectives)/len(allAdjectives),4)*100) + "%):\n   -" + str(len(completedAdjectives)) + " completed adjectives.\n   -" + str(len(undoneAdjectives)) + " incomplete adjectives.\n   -" + str(len(needToUpdateAdjectives)) + " unupdated adjectives.\n   -" + str(len(weirdAdjectives)) + " weird adjectives.\n   -" + str(len(allAdjectives)) + " total adjectives.\n")
-    completionFile.write("Minions: (" + str(round(len(completedMinions)/len(allMinions),4)*100) + "%):\n   -" + str(len(completedMinions)) + " completed minions.\n   -" + str(len(undoneMinions)) + " incomplete minions.\n   -" + str(len(needToUpdateMinions)) + " unupdated minions.\n   -" + str(len(weirdMinions)) + " weird minions.\n   -" + str(len(allMinions)) + " total minions.")
+    completionFile.write("Minions: (" + str(round(len(completedMinions)/len(allMinions),4)*100) + "%):\n   -" + str(len(completedMinions)) + " completed minions.\n   -" + str(len(undoneMinions)) + " incomplete minions.\n   -" + str(len(needToUpdateMinions)) + " unupdated minions.\n   -" + str(len(weirdMinions)) + " weird minions.\n   -" + str(len(allMinions)) + " total minions.\n")
+    completionFile.write("Variations: (" + str(round(len(completedVersions)/len(allVersions),4)*100) + "%):\n   -" + str(len(completedVersions)) + " completed versions.\n   -" + str(len(undoneVersions)) + " incomplete versions.\n   -" + str(len(needToUpdateVersions)) + " unupdated versions.\n   -" + str(len(weirdVersions)) + " weird versions.\n   -" + str(len(allVersions)) + " total versions.")
 
     print("Completed Completion Update!")
 

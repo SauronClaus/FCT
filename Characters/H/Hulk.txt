@@ -25,5 +25,6 @@ Green
 
 Disney
 Sebastian
-
+Bruce Banner,Joe Fixit,Devil Hulk,MCU,Professor Hulk (Comics),Professor Hulk (MCU),Maestro
+Classic (Comics)
 No

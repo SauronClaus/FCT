@@ -25,5 +25,6 @@ Red
 
 Disney
 Sebastian
-
+MCU,Symbiote Suit (Comics),Andrew Garfield,Tobey MacGuire,Future Foundation,The Bombastic Bagman,Peter B. Parker (Into the Spiderverse)
+Comics (Classic)
 No

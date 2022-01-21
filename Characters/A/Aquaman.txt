@@ -25,5 +25,6 @@ Orange
 Aquakinesis|Atlantean|2,Animal Speaking|Ocean Life|3,Super Strength|Inborn|3,Enhanced Physical Abilities|Atlantean|3
 Warner Bros
 Sebastian
-DC Cinematic Universe,Comics
+Film
+Comics
 No

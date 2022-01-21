@@ -25,5 +25,6 @@ White
 Trained Fighter|Unique|2,Determination|SOUL|0,Time Loop|Determination|0
 Toby Fox
 Sebastian
-
+Asriel Dreemur (Child),Asriel Dreemur (Adult),The God of Hyperdeath,Photoshop Flowey
+Flowey
 No

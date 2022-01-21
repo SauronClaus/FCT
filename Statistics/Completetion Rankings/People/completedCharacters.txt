@@ -232,6 +232,7 @@ Fleur Delacour
 Flowey
 Fone Bone
 Frank Zhang
+Frisk
 Frisk (Genocide Route)
 Frisk (Neutral Route)
 Frisk (Pacifist Route)
@@ -337,6 +338,7 @@ Luigi
 Luke Skywalker
 Lysithea
 M. Bison
+MJ Watson (MCU)
 Mabel Pines
 Mace Windu
 Magneto
@@ -354,7 +356,7 @@ Max Mercury
 Maxwell
 Medic
 Mercedes
-Mettaton EX
+Mettaton
 Michael Myers
 Miles Morales
 Mina Harker
@@ -485,6 +487,7 @@ Valentina Kerman
 Vikram Kommareddi
 Vision
 Viv Vision
+Vulture (MCU)
 Wally West
 Wally West II
 Walt Stone

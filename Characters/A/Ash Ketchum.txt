@@ -25,5 +25,6 @@ Ash Ketchum Red
 Pokemon Trainer|Player Character|5
 Nintendo
 Sebastian
-Kanto,Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar
+Johto,Hoenn,Sinnoh,Unova,Kalos,Alola,Galar
+Kanto
 No

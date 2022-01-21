@@ -25,5 +25,6 @@ Gold
 
 Disney
 Sebastian
-
+Prequel Trilogy,Sequel Trilogy
+Original Trilogy
 No

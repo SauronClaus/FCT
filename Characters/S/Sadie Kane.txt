@@ -25,5 +25,6 @@ Bone White
 
 Disney Hyperion
 Sebastian
-
+Eye of Isis
+Normal
 No

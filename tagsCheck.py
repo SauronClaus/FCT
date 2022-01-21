@@ -17,13 +17,13 @@ for letter in alphabet:
         if os.path.isfile(os.path.join(basepath, entry)):
             characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
-            if len(characterInfo) == 29:
+            if len(characterInfo) == 30:
                 completedCharacters.append(entry[0:len(entry)-4:])
             else:
                 if len(characterInfo) == 5:
                     undoneCharacters.append(entry[0:len(entry)-4:])
                 else:
-                    if len(characterInfo) == 17 or len(characterInfo) == 22 or len(characterInfo) == 24:
+                    if len(characterInfo) == 17 or len(characterInfo) == 22 or len(characterInfo) == 24 or len(characterInfo) == 29:
                         needToUpdateCharacters.append(entry[0:len(entry)-4:])
                     else:
                         weirdCharacters.append(entry[0:len(entry)-4:])

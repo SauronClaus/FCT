@@ -25,5 +25,6 @@ Abigail Purple
 Trained Fighter|Knight|2,Artist|Painter|1
 Nintendo
 Sebastian
-
+Post-Timeskip
+Pre-Timeskip
 No

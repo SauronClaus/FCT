@@ -26,4 +26,5 @@ Trained Fighter|Adventurer|3,Marksman|God|6,Godly Powers|Fallen God|4
 Disney Hyperion
 Sebastian
 
+
 No

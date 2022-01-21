@@ -25,5 +25,6 @@ Zemo Purple
 Charisma|Manipulator|2,Trained Fighter|Unclear|2
 Disney
 Sebastian
-Comics,MCU
+MCU
+Comics
 No

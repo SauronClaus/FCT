@@ -25,5 +25,6 @@ Black
 
 Warner Bros
 Sebastian
-
+DC TV Shows,Burt Ward,Lego Batman,Robin (Comics),Batman,Nightwing (Original)
+Nightwing (Modern Age)
 No

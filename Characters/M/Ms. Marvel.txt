@@ -25,5 +25,6 @@ Blue
 Polymorph|Inhuman|3,Trained Fighter|Superhero|2,Size Manipulation|Inhuman|1
 Disney
 Sebastian
-
+Avengers (Game)
+Comics
 No

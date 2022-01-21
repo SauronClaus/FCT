@@ -26,4 +26,5 @@ Detective Skills|Trained|2
 Scholastic Books
 Sebastian
 
+
 No

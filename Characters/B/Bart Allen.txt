@@ -25,5 +25,6 @@ Red
 Super-Speed|Heritage|5,Reality Travelling|Vibration|0,Time Travel|Vibration|2
 Warner Bros
 Sebastian
-Kid Flash,Impulse,The Flash
+Kid Flash,The Flash
+Impulse
 No

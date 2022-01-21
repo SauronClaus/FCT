@@ -25,5 +25,6 @@ Black
 Trained Fighter|Soldier|3,Trained Fighter|Spearmen|2
 Toby Fox
 Sebastian
-
+Undyne the Undying
+Pacifist Route and Neutral Route
 No

@@ -25,5 +25,6 @@ Crimson
 Trained Fighter|Warrior|3,Enhanced Physical Abilities|Blessed by Gods|4,Magical Powers|Inborn|1
 Warner Bros
 Sebastian,Ethan
-
+DC Cinematic Universe,Golden Age
+Modern Age
 No

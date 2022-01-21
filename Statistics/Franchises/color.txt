@@ -5,7 +5,7 @@ Blue (2): Bone, Harry Potter
 Bone White (1): Kindred (novel)
 Crimson (1): Raya and the Last Dragon
 Gold (2): Guardians of the Galaxy, Guardians of the Galaxy Vol 2
-Grey (4): Age of Ultron, Avengers I, Captain America Civil War, Edge of Tomorrow (film)
+Grey (5): Age of Ultron, Avengers I, Captain America Civil War, Edge of Tomorrow (film), Spider-Man Homecoming
 Orange (2): Halloween, Kane Chronicles
 Pale Blue (2): Frozen, Moana
 Purple (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)

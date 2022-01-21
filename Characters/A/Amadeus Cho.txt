@@ -25,5 +25,6 @@ Green
 Super Powers|Hulk|7,Genius|Inborn|5,Super Strength|Hulk|7
 Disney
 Sebastian
-Amadeus Cho,The Totally Awesome Hulk
+Amadeus Cho
+The Totally Awesome Hulk
 No

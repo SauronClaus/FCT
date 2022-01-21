@@ -6,7 +6,7 @@ Defeat Flowey's Insert|Defeat Asgore's Insert|Escape the Underground
 Kill Flowey's Insert|Save the human SOULS
 
 Frisk (Neutral Route)|Toriel|Sans
-Papyrus|Undyne|Mettaton EX|Alphys|Asgore|Flowey
+Papyrus|Undyne|Mettaton|Alphys|Asgore|Flowey
 
 Human SOUL
 Undertale|https://open.spotify.com/track/2FZ99j224ohiGLavqjijza?si=17f9fea1ee2b4cc2

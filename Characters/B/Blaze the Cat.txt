@@ -26,4 +26,5 @@ Pyrokinesis|Psychic|3,Speedster|Inborn|4
 Sega
 Sebastian
 
+
 No

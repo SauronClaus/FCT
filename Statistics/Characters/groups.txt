@@ -129,6 +129,7 @@ Koopa Troopa (2): Bowser Jr., Bowser
 League of Legends Champions (1): Aphelios
 Legion of Superheroes (Core) (1): Brainiac 5
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
+MCU Spider-Man Villains (1): Vulture (MCU)
 Madeline Kopf's Permutations (2): Garrik Doriana, Lorana Ritten
 Magnus Chase First Quintet (4): Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
 Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
@@ -169,7 +170,7 @@ Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
 Robins (4): Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
-Royal Guardsmen (Undertale) (5): Alphys, Mettaton EX, Papyrus, Sans, Undyne
+Royal Guardsmen (Undertale) (5): Alphys, Mettaton, Papyrus, Sans, Undyne
 SFPD (Monk) (1): Adrian Monk
 SHIELD (Marvel) (1): Black Widow
 Sebastian Polge's Permutations (5): Alice Daerdahk, Fedora Turthin, Reithen Keiros, Sebastian Polge, Zulen Kal-Thim
@@ -191,6 +192,7 @@ Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, So
 Sonic the Hedgehog (Main Cast) (2): Amy Rose, Sonic the Hedgehog
 Sophia Khoudary's Permutations (1): Yekkon Shmekkon
 Spider-People (2): Miles Morales, Spider-Man
+Spider-Related (MCU) (1): MJ Watson (MCU)
 Star Trek: The Original Series Crew (1): Captain Kirk
 Star Wars Bounty Hunters (3): Boba Fett, Jabba the Hutt, Jango Fett
 Star Wars Droid Duo (2): C3PO, R2-D2
@@ -245,7 +247,7 @@ USAvengers (1): Cannonball
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 Unbroken Cast 1 (4): IKCFAMWSIIF, Lorana Ritten, Reithen Keiros, Yekkon Shmalakis
 Unbroken Cast 2 (3): Arrolys Larskano, Fedora Turthin, Garrik Doriana
-Undertale Pacifist Friends (6): Alphys, Frisk (Pacifist Route), Papyrus, Sans, Toriel, Undyne
+Undertale Pacifist Friends (7): Alphys, Frisk (Pacifist Route), Frisk, Papyrus, Sans, Toriel, Undyne
 United States Military (1): Guile
 Until Dawn Cast (1): Ashley Brown
 Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar

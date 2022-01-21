@@ -21,7 +21,7 @@ Carter: Carter Kane, Sadie Kane
 Scott: Cyclops, Scott Lang, Young Cyclops
 Nilox: Deag Grav, Deag Nilox
 Samuel: Dr. Loomis, Dr. Samuel Hayden, Falcon, Sam Alexander
-Frisk: Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route)
+Frisk: Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Rose: Gran'ma Ben, Rose Tico
 William: Guile, Maxwell, William Cage
 Han: Han Solo (Old), Han Solo

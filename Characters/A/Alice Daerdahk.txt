@@ -1,6 +1,6 @@
 Alice Daerdahk
 Benukth
-Alice Daerdahk was a human female pugalist fighter and tavern-brawler that joined with the party.
+Alice Daerdahk was is human female pugalist barbarian and tavern-brawler that joined with the party.
 https://media.istockphoto.com/vectors/male-face-silhouette-or-icon-man-avatar-profile-unknown-or-anonymous-vector-id1087531642?k=6&m=1087531642&s=170667a&w=0&h=Gh62OWB5xcC3TRjhULs-uu4YP3GCoDow6FVYa56I5pc=
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1200px-Icon-round-Question_mark.svg.png
 Alice
@@ -25,5 +25,6 @@ White
 
 Dungeons & Dragons
 Sebastian
+
 
 No

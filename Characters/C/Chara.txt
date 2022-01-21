@@ -25,5 +25,6 @@ Green
 Trained Fighter|Unique|3,Determination|SOUL|3,Time Loop|Determination|0,Possession|Spirit|3
 Toby Fox
 Sebastian
-
+Fallen Child
+Demon
 No

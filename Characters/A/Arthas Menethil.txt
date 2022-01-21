@@ -25,5 +25,6 @@ Black
 Paladin|Fallen Paladin|4,Undead|Skeletal|2,Trained Fighter|Knight|3
 Dungeons & Dragons
 Sebastian
-Band of Fools Original,Band of Fools Reboot
+Band of Fools Reboot
+Band of Fools Original
 No

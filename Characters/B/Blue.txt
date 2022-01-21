@@ -25,5 +25,6 @@ Blue
 Summoner|Pokemon Trainer|4,Pokemon|Pidgeot|3,Pokemon|Exeggutor|3,Pokemon|Gyarados|3,Pokemon|Alakazam|3,Pokemon|Blastoise|3,Pokemon|Machamp|3
 Nintendo
 Sebastian
-
+Pokemon Let's Go!,Anime
+Red and Blue
 No

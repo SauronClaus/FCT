@@ -26,4 +26,5 @@ Bone Powers|Inborn|3,Gravity Powers|SOUL Control|2,Trained Fighter|Soldier|1
 Toby Fox
 Sebastian
 
+
 No

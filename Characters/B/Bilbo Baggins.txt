@@ -25,5 +25,6 @@ Crimson
 Trained Fighter|Adventurer|1
 Allen & Unwin
 Sebastian
-
+Lord of the Rings
+The Hobbit
 No
