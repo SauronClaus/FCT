@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Fantastic Four,Genius,Married|The Invisible Woman,Polymorph,Scientist,Stretching
+Avengers,Fantastic Four,Genius,Married|The Invisible Woman,New Yorker,Polymorph,Rich,Scientist,Stretching
 City
 High
 Fantastic Four (Core),Marvel's First Family,Avengers (Extended),Fantastic Four (Extended)

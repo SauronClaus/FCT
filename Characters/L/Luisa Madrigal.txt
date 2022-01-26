@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Super Strong,Stressed,Buff,Parent Child|Augustin Madrigal,Siblings|Isabela Madrigal,Siblings|Mirabel Madrigal,Parent Child|Julieta Madrigal
+Buff,Gentle Giant,Muscles,Parent Child|Augustin Madrigal,Parent Child|Julieta Madrigal,Siblings|Isabela Madrigal,Siblings|Mirabel Madrigal,Stressed,Strong
 Modified Human
 Medium
 The Family Madrigal,Mirabel's Direct Family

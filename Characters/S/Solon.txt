@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Magic User,Post-Human,Secret,Agartharian,Mastermind
+Agartharian,Magic User,Mastermind,Post-Human,Secret
 City
 Low
 Those Who Slither in the Dark

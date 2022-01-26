@@ -13,7 +13,7 @@ Maykr
 Evil
 Antagonist
 Female
-Demon,Empowered,Demonic,Corrupted,Evil Priest,Ruler,Evil King
+Corrupted,Demon,Demon,Demonic,Evil Priest,Evil Ruler,Ruler
 City
 Low
 Hell Priests

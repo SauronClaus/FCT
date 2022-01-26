@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Pacifist,Green,Empath,Psychic
+Empath,Green,Pacifist,Psychic
 Modified Human
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

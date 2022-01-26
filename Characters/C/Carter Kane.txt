@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Blood of Pharaohs,Egyptian Gods,Eye of Horus,Magic User,Romantic Subplot|Zia Rashid,Siblings|Sadie Kane,Sorcerer
+Blood of Pharaohs,Egyptian Gods,Eye of Horus,Magic User,Romantic Subplot|Zia Rashid,Siblings|Sadie Kane
 City
 Medium
 Twenty-First Nome,House of Life,Kanes

@@ -13,7 +13,7 @@ Demigod
 Neutral
 Protagonist
 Male
-Axe,Demigod,God(dess),God Slayer,Greek,Norse,Parent Child|Atreus
+Axe,Demigod,God Slayer,God(dess),Greek,Hybrid,Norse,Parent Child|Atreus
 Country
 High
 

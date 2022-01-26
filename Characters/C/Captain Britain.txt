@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Britain-Themed,Captain Britain,Country-Themed,Patriotism,Siblings|Psylocke
+Britain-Themed,Captain,Captain Britain,Country-Themed,Patriotism,Siblings|Psylocke
 Country
 Low
 Avengers (Extended)

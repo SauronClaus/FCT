@@ -13,7 +13,7 @@ Kryptonian
 Good
 Protagonist
 Male
-Alien,Cosmic,Legendary Hero,Iconic,Justice League,Kryptonian,Leader,Legend,Legion of Superheroes,Most Powerful,Paragon,Powerhouse,Reporter,Superheroes,Trinity (DC)
+Alien,Cosmic,Iconic,Justice League,Kryptonian,Last of Kind,Leader,Legend,Legendary Hero,Legion of Superheroes,Most Powerful,Paragon,Powerhouse,Reporter,Strong,Super-Hearing,Superheroes,Trinity (DC)
 Cosmic
 High
 Justice League (Core),Justice League (Extended),Superman Family,Justice League (film),Justice League Unlimited,Trinity (DC),Justice League Founder

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Rebel,Lazy,Red Hair,Tall
+Lazy,Rebel,Red Hair
 Baseline
 Low
 Mystery Shack Employees

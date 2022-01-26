@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Female
-First Order,Officer,Soldier,Shiny
+First Order,Officer,Shiny,Soldier
 Modified Human
 Medium
 First Order (Star Wars)

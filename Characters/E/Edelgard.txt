@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Female
-Axe,Black Eagles (Fire Emblem),Emperor(ess),Heiress to Empire,House Leaders (Fire Emblem),Master Servant|Hubert,Nobility,Relic,Royalty,Ruler
+Axe,Black Eagles (Fire Emblem),Dragonslayer|Rhea,Emperor(ess),Heiress to Empire,House Leaders (Fire Emblem),Master Servant|Hubert,Nobility,Relic Wielder,Royalty,Ruler,Short
 Baseline
 Medium
 Black Eagles,House Leaders (Fire Emblem)

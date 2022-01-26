@@ -13,7 +13,7 @@ Strandcast
 Evil
 Antagonist
 Male
-Commander,First Order,Sith Lord,Most Powerful,Emperor(ess),Ruler,Scarred
+Commander,Emperor(ess),First Order,Most Powerful,Ruler,Scarred,Sith Lord
 Country
 High
 Sith Lord,First Order

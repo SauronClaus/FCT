@@ -13,7 +13,7 @@ Demon
 Evil
 Antagonist
 Male
-Corrupted,Demon of Earth and Fire,Guardian,Lava Monster,Redemption Arc
+Corrupted,Demon,Fire Being,Guardian,Lava Monster,Redemption Arc
 Country
 Medium
 

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Bully,Cartoon,Frenemy|Baljeet Tjinder,Strong
+Bully,Frenemy|Baljeet Tjinder,Musical,Strong
 Baseline
 Medium
 Phineas and Ferb Main Child Group

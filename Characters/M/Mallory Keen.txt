@@ -13,7 +13,7 @@ Demigod
 Good
 Supporting Protagonist
 Female
-Demigod,Einharjar,Floor 19,Irish,Knives,Norse,Romantic Subplot|Halfborn Gunderson
+Demigod,Einharjar,Floor 19,Freckles,Hybrid,Irish,Knives,Norse,Romantic Subplot|Halfborn Gunderson
 Modified Human
 Low
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang

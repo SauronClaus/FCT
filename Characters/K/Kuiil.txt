@@ -13,7 +13,7 @@ Ugnaught
 Good
 Suppoting Protagonist
 Male
-Mechanic,Mentor,Wise,Old,Former Slave,Patient,Gruff,Catchphrase
+Catchphrase,Former Slave,Grumpy,Mechanic,Mentor,Old,Wise
 Baseline
 Medium
 The Mandalorian Cast

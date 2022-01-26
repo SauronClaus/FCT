@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Bounty Hunter,Parent Child|The Child,Adopted,Mandalorian,Exile
+Adopted,Bounty Hunter,Exile,Mandalorian,Parent Child|The Child
 Modified Human
 High
 The Mandalorian Cast

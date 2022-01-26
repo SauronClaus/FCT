@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Avengers,Bird-Themed,Bird-Powers,Captain America,Flight,Legacy|Captain America
+African American,Avengers,Bird-Themed,Captain America,Legacy|Captain America
 Modified Human
 High
 Avengers (Extended),Captain America Corps,Falcon & the Winter Soldier Main Trio

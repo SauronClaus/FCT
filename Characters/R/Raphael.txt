@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Food,Big,Bulky,Powerhouse,Golden Deer (Fire Emblem),Cheerful,Exuberant,Duo|Ignatz
+Big,Buff,Cheerful,Duo|Ignatz,Gauntlets,Gentle Giant,Golden Deer (Fire Emblem),Musclehead,Muscles,Powerhouse,Strong
 Baseline
 Low
 Golden Deer

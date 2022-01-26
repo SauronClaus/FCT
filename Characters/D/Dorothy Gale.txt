@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Lost in a Strange World,Magical,Ordinary Girl,Farmer,Iconic,Classic Literature Character
+Classic Literature Character,Farmer,Iconic,Lost in a Strange World
 Baseline
 High
 Wizard of Oz Crew

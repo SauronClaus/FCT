@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Champions (Team),Gamma,Genius,Green,Hulks,Powerhouse,Strong
+Champions (Team),Gamma,Genius,Green,Hulks,Muscles,Powerhouse,Strong
 City
 Medium
 Champions (Marvel) (Core),Hulks,Champions (Marvel) (Extended)

@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Commander,Confederacy of Independent Systems,Sith Lord,Soldier,Master Apprentice|Sheev Palpatine,Traitor,Master Apprentice|Yoda,Master Apprentice|Qui-Gon Jinn
+Commander,Confederacy of Independent Systems,Master Apprentice|Sheev Palpatine,Master Apprentice|Yoda,Master Apprentice|Qui-Gon Jinn,Military,Military Officer,Sith Lord,Soldier,Traitor
 City
 High
 Sith Lord,Confederacy of Independent Systems

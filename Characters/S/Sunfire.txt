@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Japanese,Mutant,Superheroes,Fire Powers,X-Men,Arrogant,Anger Issues
+Anger Issues,Arrogant,Fire Powers,Flaming,Japanese,Mutant,Superheroes,X-Men
 City
 Low
 X-Men (Extended),Giant Sized X-Men #1 Team

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Criminal,Pilot,Rebel,Romantic Subplot|Gamora,Suave,Pirate
+Criminal,Guardians of the Galaxy,Guns,Pilot,Pirate,Rebel,Romantic Subplot|Gamora,Suave
 Baseline
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

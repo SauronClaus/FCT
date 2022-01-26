@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Parent Child|Abuela Alma Madrigal,Siblings|Bruno Madrigal,Siblings|Julieta Madrigal,Stressed,Overly Emotional,Weather Powers,Weather-Controlled-By-Emotions,Powers Controlled by Emotions,Parent Child|Dolores Madrigal,Parent Child|Camilo Madrigal,Parent Child|Antonio Madrigal,Married|Felix Madrigal
+Married|Felix Madrigal,Overly Emotional,Parent Child|Abuela Alma Madrigal,Parent Child|Dolores Madrigal,Parent Child|Camilo Madrigal,Parent Child|Antonio Madrigal,Powers Controlled by Emotions,Siblings|Bruno Madrigal,Siblings|Julieta Madrigal,Stressed,Weather Powers,Weather-Controlled-By-Emotions
 Baseline
 Low
 The Family Madrigal

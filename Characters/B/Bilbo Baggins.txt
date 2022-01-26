@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Hobbit,Reluctant Hero,Ring-Bearer,Thorin and Company
+Hobbit/Halfling,Iconic,Reluctant Hero,Ring-Bearer,Thorin and Company
 Baseline
 High
 Thorin and Company

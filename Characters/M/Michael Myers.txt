@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Insane,Murderer,Nemesis|Dr. Loomis,Quiet
+Insane,Murderer,Nemesis|Dr. Loomis,Quiet,Serial Killer
 Modified Human
 Medium
 

@@ -13,7 +13,7 @@ Centaurian
 Neutral
 Supporting Protagonist
 Male
-Criminal,Redeemed,Pirate,Smuggler,Astral Captain,Pilot,Cyborg,Alien Technology
+Alien Technology,Astral Captain,Criminal,Cyborg,Pilot,Pirate,Redemption Arc,Smuggler
 Modified Human
 Medium
 

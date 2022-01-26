@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Shapeshifting,Heat Immunity,Blacksmith,Magic,Gem,Crystal Gem,Armorer,Strong,Redemption Arc
+Alien,Armorer,Artificer,Big,Blacksmith,Crystal Gem,Exile,Gem,Heat Immunity,Magic Entity,Really Old,Rebel,Redemption Arc,Shapeshifter,Soldier,Strong
 Modified Human
 Medium
 Crystal Gems (Extended),Crystal Gems Old Guard

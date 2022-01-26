@@ -13,7 +13,7 @@ Human
 Good
 Cursed Exile
 Male
-Cursed,Dimensional Traveller,Exile,Multiversal Origin
+Cursed,Exile,Interdimensional,Multiversal Origin
 Modified Human
 Low
 

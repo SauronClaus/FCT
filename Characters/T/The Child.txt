@@ -13,7 +13,7 @@ Yoda's Species
 Good
 Protagonist
 Male
-Parent Child|The Mandalorian,Adopted,Force Sensitive,Master Apprentice|Luke Skywalker,Child
+Adopted,Child,Force Sensitive,Master Apprentice|Luke Skywalker,Parent Child|The Mandalorian
 Modified Human
 High
 The Mandalorian Cast

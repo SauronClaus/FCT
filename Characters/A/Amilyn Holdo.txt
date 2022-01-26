@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Resistance (Star Wars),Soldier,Officer,Pilot,Vice-Admiral
+Officer,Pilot,Resistance (Star Wars),Soldier,Vice-Admiral
 Baseline
 Medium
 The Resistance (Star Wars)

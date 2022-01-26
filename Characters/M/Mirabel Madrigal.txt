@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Chosen One,Non-Powered,Siblings|Isabela Madrigal,Siblings|Luisa Madrigal,The Therapist,Bullied
+Bullied,Chosen One,Disney Princess,Glasses,Non-Powered,Siblings|Isabela Madrigal,Siblings|Luisa Madrigal,The Therapist
 Baseline
 Medium
 The Family Madrigal,Mirabel's Direct Family

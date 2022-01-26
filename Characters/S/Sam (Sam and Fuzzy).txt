@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Emperor(ess),Ninja,Ruler,Accidental Adventurer,Taxi Driver,Roadie,Duo|Fuzzy,Royalty,Romantic Subplot|Devahi
+Accidental Adventurer,Duo|Fuzzy,Emperor(ess),Ninja,Roadie,Romantic Subplot|Devahi,Royalty,Ruler,Taxi Driver
 Baseline
 Low
 Ninja Mafia (Sam and Fuzzy)

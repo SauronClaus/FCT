@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Contributor,IRL,Supreme Overlords
+Contributor,Glasses,IRL,Supreme Overlords
 Baseline
 Medium
 Zach Wiebe's Permutations,IRL People,Server Owners,Contributors

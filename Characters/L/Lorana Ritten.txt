@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Female
-Artificer,Battlesmith,Unbroken Gang,Inventor,D&D
+Artificer,Battlesmith,D&D,Inventor,Unbroken Gang
 Modified Human
 Low
 Unbroken Cast 1,Madeline Kopf's Permutations

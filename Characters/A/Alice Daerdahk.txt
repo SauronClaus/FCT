@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Fighter,D&D,Muscles,Muscle-Head
+D&D,Fighter,Musclehead,Muscles
 Modified Human
 Low
 Benukth Crew,Sebastian Polge's Permutations

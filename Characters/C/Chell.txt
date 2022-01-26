@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Teleportation,Nemesis|GlaDOS,Test Subject,Valve,Portals
+Nemesis|GlaDOS,Portals,Teleportation,Test Subject,Valve
 Baseline
 Medium
 

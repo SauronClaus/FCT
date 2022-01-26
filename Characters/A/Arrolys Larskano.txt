@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Artificer,Unbroken Gang,D&D,Scientist,Genius
+Artificer,D&D,Genius,Scientist,Unbroken Gang
 Modified Human
 Low
 Unbroken Cast 2, Colin Frazer's Permutations

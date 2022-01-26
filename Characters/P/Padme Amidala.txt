@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Royalty,Queen,Nobility,Exiled Royalty,Ruler,Diplomat,Romantic Subplot|Anakin Skywalker,Parent Child|Luke Skywalker,Parent Child|Leia Organa
+Diplomat,Exile,Exiled Royalty,Nobility,Parent Child|Luke Skywalker,Parent Child|Leia Organa,Queen,Romantic Subplot|Anakin Skywalker,Royalty,Ruler
 Baseline
 Medium
 Skywalker Family Quartet

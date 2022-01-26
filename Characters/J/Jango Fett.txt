@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Male
-Criminal,Bounty Hunter,Parent Child|Boba Fett,Mandalorian
+Bounty Hunter,Criminal,Mandalorian,Parent Child|Boba Fett
 Baseline
 Medium
 Star Wars Bounty Hunters,Mandalorian

@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Arrogant,Purple,Jerk,Golden Deer (Fire Emblem),Crest,Nobility
+Arrogant,Crest,Golden Deer (Fire Emblem),Honorable,Jerk,Lances,Nobility
 Baseline
 Low
 Golden Deer

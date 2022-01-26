@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Blood of Pharaohs,Egyptian Gods,Eye of Anibus,Magic User,Romantic Subplot|Sadie Kane,Sharing Body,Sorcerer
+Blood of Pharaohs,Egyptian Gods,Eye of Anibus,Magic User,Romantic Subplot|Sadie Kane,Sharing Body
 City
 Medium
 Twenty-First Nome,House of Life

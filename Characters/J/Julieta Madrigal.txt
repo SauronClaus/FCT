@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Parent Child|Abuela Alma Madrigal,Siblings|Bruno Madrigal,Siblings|Pepa Madrigal,Kind,Motherly,Healing,Cooking,Parent Child|Isabela Madrigal,Parent Child|Luisa Madrigal,Parent Child|Mirabel Madrigal,Married|Agustin Madrigal
+Chef,Healing,Kind,Married|Agustin Madrigal,Maternal,Parent Child|Abuela Alma Madrigal,Parent Child|Isabela Madrigal,Parent Child|Luisa Madrigal,Parent Child|Mirabel Madrigal,Siblings|Bruno Madrigal,Siblings|Pepa Madrigal
 Baseline
 Low
 The Family Madrigal,Mirabel's Direct Family

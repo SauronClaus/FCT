@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Magnet Powers,Short,Tech,Magic,Gem,Crystal Gem,Green,Redemption Arc,Nerd,Genius,Inventor,Nasally,Metal Manipulation,Defect
+Alien,Crystal Gem,Defect,Exile,Geek/Nerd,Gem,Genius,Green,Inventor,Magic Entity,Magnet Powers,Metal Manipulation,Military,Monster Hunter,Musical,Nasally,Really Old,Rebel,Redemption Arc,Reformed,Short,Small,Soldier,Tech
 Modified Human
 Medium
 Crystal Gems (Extended)

@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Female
-Magic User,Magical,Ruler,Iconic,Witch,Hag,Old
+Hag,Iconic,Magic User,Old,Ruler,Witch
 Baseline
 High
 

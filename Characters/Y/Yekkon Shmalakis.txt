@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Warlock,Unbroken Gang,D&D,Monster Hunter
+D&D,Monster Hunter,Unbroken Gang,Warlock
 Modified Human
 Low
 Unbroken Cast 1, Colin Frazer's Permutations

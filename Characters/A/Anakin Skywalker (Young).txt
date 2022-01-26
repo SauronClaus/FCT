@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Force Sensitive,Inventor Inventee|C3PO,Inventor,Slave
+Force Sensitive,Inventor,Inventor Inventee|C3PO,Slave
 Baseline
 High
 

@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Male
-Accidental Adventurer,Detective,Cryptid Hunter,Paranormal Investigator,Aunt Uncle|Grunkle Stan,Twins|Mabel Pines,Nemesis|Bill Cipher,Paranoid
+Accidental Adventurer,Aunt Uncle|Grunkle Stan,Cryptid Hunter,Detective,Nemesis|Bill Cipher,Paranoid,Paranormal Investigator,Summer,Twins|Mabel Pines
 Baseline
 Medium
-Mystery Shack Employees,Journal Holders (Gravity Falls)
+Mystery Shack Employees,Journal Holders (Gravity Falls),Pines Family
 
 TV Shows,Cartoon
 Gravity Falls

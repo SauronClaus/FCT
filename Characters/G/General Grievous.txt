@@ -13,7 +13,7 @@ Kaleesh
 Evil
 Antagonist
 Male
-Commander,Confederacy of Independent Systems,Soldier,Warlord,General,Collector,Hoarder,Lung Problems
+Commander,Confederacy of Independent Systems,General,Hoarder,Lung Problems,Military,Military Officer,Soldier,Warlord
 City
 High
 Confederacy of Independent Systems

@@ -13,7 +13,7 @@ Siren
 Good
 Protagonist
 Female
-Astral Force,Siren (Borderlands),Vault Hunter
+Siren (Borderlands),Vault Hunter
 Modified Human
 Low
 Borderlands 3 Vault Hunters,Vault Hunters

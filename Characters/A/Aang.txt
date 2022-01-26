@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bender,Earth Bender,Earth Powers,Fire Bender,Fire Powers,Frozen in Ice,Ice Powers,Monk,Pacifist,Reincarnation,Romantic Subplot|Katara,Water Bender,Water Powers
+Bender,Earth Bender,Earth Powers,Fire Bender,Fire Powers,Frozen in Ice,Ice Powers,Monk,Pacifist,Reincarnation,Romantic Subplot|Katara,Water Bender,Water Powers,Young
 City
 High
 The Gaang,Avatars

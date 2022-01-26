@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Tech,Flying,Wings,Moral Code
+Tech
 Modified Human
 Medium
 MCU Spider-Man Villains

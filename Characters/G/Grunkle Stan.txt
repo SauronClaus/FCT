@@ -13,10 +13,10 @@ Human
 Good
 Supporting Protagonist
 Male
-Aunt Uncle|Mabel Pines,Aunt Uncle|Dipper Pines,Con Man,Criminal,Twins|Stanford Pines
+Aunt Uncle|Mabel Pines,Aunt Uncle|Dipper Pines,Con Artist,Criminal,Glasses,Twins|Stanford Pines
 Baseline
 Medium
-Mystery Shack Employees
+Mystery Shack Employees,Pines Family
 
 TV Shows,Cartoon
 Gravity Falls

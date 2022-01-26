@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Abusive Childhood,Bender,Emperor(ess),Exile,Fire Bender,Fire Lord,Fire Powers,Nobility,Parent Child|Iroh,Parent Child|Ozai,Redemption Arc,Romantic Subplot|Mai,Royalty,Ruler,Siblings|Azula,Tragic Backstory,Traumatized,Yin & Yang|Iroh
+Abusive Childhood,Bender,Edgy,Emo,Emperor(ess),Exile,Fire Bender,Fire Lord,Fire Powers,Nobility,Parent Child|Iroh,Parent Child|Ozai,Redemption Arc,Reformed,Romantic Subplot|Mai,Royalty,Ruler,Siblings|Azula,Tragic Backstory,Traumatized,Yin & Yang|Iroh
 City
 High
 The Gaang

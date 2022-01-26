@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Romantic Subplot|Steven Universe,Crystal Gem,Powerless,Swords,Glasses,Over Achiever
+Child,Crystal Gem,Glasses,Monster Hunter,Non-Powered,Overachiever,Romantic Subplot|Steven Universe,Studious,Swordsman,Young
 Baseline
 High
 Crystal Gems (Extended)

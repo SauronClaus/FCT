@@ -13,7 +13,7 @@ Gungan
 Good
 Protagonist
 Male
-Diplomat,Idiot,Soldier,Officer,Clumsy
+Accident-Prone,Diplomat,Idiot,Officer,Soldier
 Baseline
 High
 

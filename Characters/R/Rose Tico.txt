@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Resistance (Star Wars),Soldier,Positive,Mechanic
+Cheerful,Mechanic,Resistance (Star Wars),Soldier
 Baseline
 Medium
 The Resistance (Star Wars)

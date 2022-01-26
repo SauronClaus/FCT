@@ -13,7 +13,7 @@ Half-Elf
 Good
 Protagonist
 Female
-Band of Fools,Bard,D&D,Half-Elf
+Band of Fools,Bard,D&D,Half-Elf,Hybrid
 Modified Human
 Low
 Band of Fools (Original),Ashleigh Smith's Permutations

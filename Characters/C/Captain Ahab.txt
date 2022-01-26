@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Captain,Peg-Leg,Prosthetic,Sailor,Slightly Insane
+Captain,Classic Literature Character,Peg-Leg,Prosthetic,Sailor,Slightly Insane
 Baseline
 High
 Pequod Crew

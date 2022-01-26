@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Artificer,Engineer,Mercenary,Sentry-Maker,Southern,Team Fortress 2
+Artificer,Engineer,Mercenary,Sentry-Maker,Southern,Team Fortress 2,Valve
 Baseline
 Medium
 Team Fortress Mercs

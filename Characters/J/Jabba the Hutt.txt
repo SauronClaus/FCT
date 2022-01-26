@@ -13,7 +13,7 @@ Hutt
 Evil
 Antagonist
 Male
-Criminal,Iconic,Green,Crime Lord,Slob
+Crime Lord,Criminal,Green,Iconic,Slob
 Baseline
 Medium
 Star Wars Bounty Hunters

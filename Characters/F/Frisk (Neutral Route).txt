@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Androgynous
-Child,Determination,Exile,Sole Human,Player Character,Silent,Soul Powers
+Child,Child Soldier,Determination,Exile,Pixelated,Player Character,Silent,Sole Human,Soul Powers,Strong Will,Time Loop
 Baseline
 Medium
 

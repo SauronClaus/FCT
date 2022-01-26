@@ -13,7 +13,7 @@ Kryptonian
 Good
 Protagonist
 Female
-Alien,Cosmic,Justice League,Kryptonian,Legion of Superheroes,Powerhouse,Superheroes
+Alien,Cosmic,Justice League,Kryptonian,Legion of Superheroes,Powerhouse,Strong,Super-Hearing,Superheroes
 Cosmic
 High
 Justice League (Extended),Superman Family,Teen Titans (Extended),Legion of Superheroes (Extended)

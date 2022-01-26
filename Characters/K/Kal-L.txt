@@ -13,7 +13,7 @@ Kryptonian
 Good
 Protagonist
 Male
-Alien,Cosmic,Earth-2,Golden Age,Legendary Hero,Justice Society of America,Kryptonian,Most Powerful,Multiversal Origin,Powerhouse,Superheroes
+Alien,Cosmic,Earth-2,Golden Age,Justice Society of America,Kryptonian,Legendary Hero,Most Powerful,Multiversal Origin,Powerhouse,Strong,Superheroes
 Cosmic
 Low
 Survivors of the First Crisis (DC Comics),Justice Society of America (Extended)

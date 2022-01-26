@@ -13,7 +13,7 @@ Kree
 Neutral
 Antagonist
 Male
-Soldier,Kree,General,Accuser,Special Forces,Hammer
+Accuser,General,Hammer,Kree,Soldier,Special Forces
 Modified Human
 Medium
 

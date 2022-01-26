@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Native American,Mutant,Superheroes,Strong,X-Men,Early Sacrifice,Matyr
+Early Sacrifice,Matyr,Muscles,Mutant,Native American,Strong,Superheroes,X-Men
 Modified Human
 Low
 X-Men (Extended),Giant Sized X-Men #1 Team

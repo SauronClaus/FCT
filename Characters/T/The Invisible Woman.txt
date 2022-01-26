@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Avengers,Espionage,Fantastic Four,Force Fields,Invisible,Married|Mr. Fantastic,Siblings|The Human Torch
+Avengers,Espionage,Fantastic Four,Force Fields,Invisible,Married|Mr. Fantastic,New Yorker,Shield Generation,Siblings|The Human Torch
 City
 High
 Fantastic Four (Core),Marvel's First Family,Avengers (Extended),Fantastic Four (Extended)

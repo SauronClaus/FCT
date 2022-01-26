@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Monster Hunter,Scholar,Old,Mentor
+Classic Literature Character,Mentor,Monster Hunter,Old,Scholar
 Baseline
 Medium
 Dracula Hunters

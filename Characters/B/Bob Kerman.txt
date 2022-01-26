@@ -13,7 +13,7 @@ Kerbal
 Good
 Protagonist
 Male
-Astronaut,Original Four,Scientist
+Astronaut,Original Four (KSP),Scientist
 Modified Human
 Medium
 Original Four (KSP)

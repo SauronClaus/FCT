@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Spider-Themed (Tangential),Romantic Subplot|Spider-Man
+Romantic Subplot|Spider-Man,Spider-Themed (Tangential)
 Baseline
 High
 Spider-Related (MCU)

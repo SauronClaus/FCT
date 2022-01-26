@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Beast,Genius,Mutant,Mutation,Superheroes,X-Men,X-Men First Class
+Furred,Genius,Mutant,Mutation,Superheroes,X-Men,X-Men First Class
 Modified Human
 High
 Avengers (Extended),X-Men (Core),X-Men First Class,X-Men (Extended)

@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Male
-Problem Child,Psychopath/Sociopath
+Psychopath/Sociopath
 Baseline
 Low
 

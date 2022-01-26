@@ -13,7 +13,7 @@ Human
 Neutral
 Supporting Protagonist
 Female
-Mercenary,Soldier,Rebel,Rebel Alliance,Trained Fighter
+Mercenary,Rebel,Rebel Alliance,Soldier
 Modified Human
 Medium
 The Mandalorian Cast

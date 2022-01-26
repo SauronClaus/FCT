@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Bat-Family,Bird-Themed,Genius,Legacy|Jason Todd,Mastermind,Non-Powered,Robins,Superheroes,Tech,Teen Titans
+Bat-Family,Bird-Themed,Genius,Legacy|Jason Todd,Mastermind,Non-Powered,Robins,Sidekick,Superheroes,Tech,Teen Titans
 Modified Human
 High
 Bat-Family (Core),Bat-Family (Extended),Teen Titans (Extended),Robins,Young Justice (Core),Young Justice (Extended)

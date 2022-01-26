@@ -13,7 +13,7 @@ Zehoberei
 Neutral
 Protagonist
 Female
-Criminal,Rebel,Romantic Subplot|Star-Lord,Assassin,Swordsman,Green,Redeemed,Siblings|Nebula,Parent Child|Thanos,Abused
+Abused,Assassin,Criminal,Green,Guardians of the Galaxy,Parent Child|Thanos,Rebel,Redemption Arc,Reformed,Romantic Subplot|Star-Lord,Siblings|Nebula,Swordsman
 Modified Human
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

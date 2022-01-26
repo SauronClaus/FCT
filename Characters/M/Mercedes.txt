@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Blue Lions (Fire Emblem),Childhood Friends|Annette,Cleric,Crest,Introvert,Priestess,Quiet,Relic,Religious
+Blue Lions (Fire Emblem),Chef,Childhood Friends|Annette,Cleric,Crest,Holy Powers,Maternal,Priestess,Quiet,Relic Wielder,Religious
 Baseline
 Low
 Blue Lions

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Adventurer,Chosen One,Player Character,Rebel,Scientist
+Chosen One,Glasses,Player Character,Rebel,Scientist
 Modified Human
 High
 Resistance (Half-Life)

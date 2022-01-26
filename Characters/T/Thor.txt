@@ -13,7 +13,7 @@ Asgardian
 Good
 Protagonist
 Male
-Asgardian,Avengers,Avengers Founders,Big Three (Marvel),Cosmic,God(dess),Lightning,Thunder,Transforming
+Asgardian,Avengers,Avengers Founders,Big Three (Marvel),Cosmic,God(dess),Hammer,Lightning,Transforming
 Cosmic
 High
 Avengers (Core),Avengers (Extended),Asgardians (Marvel),Big Three (Marvel),Avengers Original Quintet,Avengers Founders

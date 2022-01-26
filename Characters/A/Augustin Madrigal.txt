@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Accident-Prone,Parent Child|Isabela Madrigal,Parent Child|Luisa Madrigal,Parent Child|Mirabel Madrigal,Married|Julieta Madrigal
+Accident-Prone,Glasses,Married|Julieta Madrigal,Parent Child|Isabela Madrigal,Parent Child|Luisa Madrigal,Parent Child|Mirabel Madrigal
 Baseline
 Low
 The Family Madrigal,Mirabel's Direct Family

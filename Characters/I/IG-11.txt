@@ -13,7 +13,7 @@ Robot
 Neutral
 Suppoting Protagonist
 Male
-Bounty Hunter,Robot,Criminal,Reprogrammed,Redemption
+Bounty Hunter,Criminal,Redemption Arc,Reprogrammed,Robot
 Modified Human
 Medium
 The Mandalorian Cast

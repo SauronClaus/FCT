@@ -13,7 +13,7 @@ Warforged
 Neutral
 Protagonist
 Male
-Barbarian,Unbroken Gang,D&D,Comedically Terrible Person,Kidnapper
+Barbarian,Comedically Terrible Person,D&D,Kidnapper,Robot,Unbroken Gang
 Modified Human
 Low
 Unbroken Cast 1, Unbroken Cast 2,Henry Kopf's Permutations

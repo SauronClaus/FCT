@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Overweight,Legacy|Grunkle Stan,Naive
+Legacy|Grunkle Stan,Naive,Overweight
 Baseline
 Low
 Mystery Shack Employees

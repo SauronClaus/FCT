@@ -13,7 +13,7 @@ Argenta
 Evil
 Antagonist
 Male
-Demon,Empowered,Demonic,Corrupted,Evil Priest
+Corrupted,Demon,Demon,Demonic,Evil Priest
 City
 Low
 Hell Priests

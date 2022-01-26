@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Fusion,Gauntlets,Lesbian,Magic,Gem,Crystal Gem,Red,Technically Two Lesbians in a Trenchcoat,Strong,Leader
+Adoptive Mother,Alien,Big,Buff,Cool,Crystal Gem,Exile,Fusion,Gauntlets,Gem,Guardian,Immortal,Leader,Leader,Legend,Lesbian,Magic Entity,Maternal,Monster Hunter,Musical,Powerhouse,Quiet,Really Old,Rebel,Shapeshifter,Soldier,Stoic,Strong,Technically Two Lesbians in a Trenchcoat
 Modified Human
 High
 Crystal Gems (Core),Crystal Gems (Extended)

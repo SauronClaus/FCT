@@ -13,7 +13,7 @@ Yes
 Good
 Protagonist
 Male
-Fancy,Duo|Long Jim
+Duo|Long Jim,Fancy,Fashionista
 Modified Human
 Very Low*
 Sebastian's Doodles

@@ -13,7 +13,7 @@ Human
 Good
 Playable Character
 Female
-Disciplined,Interpol,Martial Artist,Police,Prideful,Revenge-Driven,Street Fighter,Tragic Backstory
+Fighter,Interpol,Martial Artist,Police,Prideful,Revenge-Driven,Street Fighter,Tragic Backstory
 Modified Human
 Medium
 Interpol

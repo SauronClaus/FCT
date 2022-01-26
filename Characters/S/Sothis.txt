@@ -13,7 +13,7 @@ Deity
 Good
 Supporting Protagonist
 Female
-Crest,Deity,God(dess),Immortal,Looks-Like-Child-But-Is-Actually-Old,Mother of Species,Possessing Possessed|Byleth,Possession
+Crest,Deity,God(dess),Immortal,Looks-Like-Child-But-Is-Actually-Old,Parent of Species,Possessing Possessed|Byleth,Possession
 Cosmic
 Medium
 

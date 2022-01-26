@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Androgynous
-Genocidal,Possessing Possessed|Frisk (Genocide Route),Possession,Psychopath/Sociopath,Soul Powers,Spirit,Vengeful Spirit
+Genocidal,Megalomaniac,Narrator,Pixelated,Possessing Possessed|Frisk (Genocide Route),Possession,Psychopath/Sociopath,Sadistic,Soul Powers,Spirit
 Baseline
 Medium
 

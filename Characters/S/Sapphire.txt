@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Cool,Magic,Gem,Crystal Gem,Blue,Married|Ruby,Future Sight,Ice Powers,LGBTQ+
+Alien,Blue,Cool,Crystal Gem,Duo|Ruby,Future Sight,Gem,Ice Powers,LGBTQ+,Lesbian,Magic Entity,Married|Ruby,Rebel
 Modified Human
 Medium
 Crystal Gems (Extended),Crystal Gems Old Guard

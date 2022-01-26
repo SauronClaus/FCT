@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Medical Doctor,Monster Hunter,Psychiatrist
+Classic Literature Character,Medical Doctor,Monster Hunter,Psychiatrist
 Baseline
 Low
 Dracula Hunters

@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Avengers,Avengers Founders,Gamma,Genius,Green,Hulks,Powerhouse,Strong
+Avengers,Avengers Founders,Big,Gamma,Genius,Green,Hulks,Muscles,Powerhouse,Strong
 World
 High
 Avengers (Core),Avengers (Extended),Avengers Original Quintet,Hulks,Avengers Founders

@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Commander,Galactic Empire,Soldier,Military Officer
+Commander,Galactic Empire,Military,Military Officer,Soldier
 Baseline
 Medium
 Galactic Empire

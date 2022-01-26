@@ -13,7 +13,7 @@ Flora colossi
 Good
 Protagonist
 Male
-Criminal,Green,Redeemed,Plant,Tree,Catchphrase,Duo|Rocket Raccoon,Powerhouse
+Catchphrase,Criminal,Duo|Rocket Raccoon,Green,Guardians of the Galaxy,Plant,Plant Life Manipulation,Powerhouse,Redemption Arc
 City
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

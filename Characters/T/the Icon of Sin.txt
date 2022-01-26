@@ -13,7 +13,7 @@ Demon
 Evil
 Protagonist
 Male
-Scourge,Reality Warper,Juggernaut,Artificial,Golem,Augumented,World-Ender
+Artificial,Augumented,Golem,Reality Warper,Unstoppable Juggernaut,World Destroyer
 Country
 Low
 

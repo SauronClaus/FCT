@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Commander,Father,Galactic Empire,Nemesis|Obi-Wan Kenobi,Nemesis|Luke Skywalker,Parent Child|Luke Skywalker,Parent Child|Leia Organa,Sith Lord,Soldier,Master Apprentice|Sheev Palpatine
+Commander,Father,Galactic Empire,Master Apprentice|Sheev Palpatine,Nemesis|Obi-Wan Kenobi,Nemesis|Luke Skywalker,Parent Child|Luke Skywalker,Parent Child|Leia Organa,Sith Lord,Soldier,Terrifying
 City
 High
 Sith Lord,Galactic Empire

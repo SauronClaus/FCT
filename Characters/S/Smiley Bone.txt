@@ -13,7 +13,7 @@ Bone
 Good
 Protagonist
 Male
-Accidental Adventurer,Bone,Cousin|Fone Bone,Cousin|Phoney Bone,Musician,Naive,Stupid
+Accidental Adventurer,Bone,Cousin|Fone Bone,Cousin|Phoney Bone,Idiot,Musician,Naive
 Modified Human
 Medium
 Bone Cousins,Bone Main Cast

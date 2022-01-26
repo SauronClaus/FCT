@@ -13,7 +13,7 @@ Pony
 Good
 Protagonist
 Female
-Apples,Cowboy,Diligent,Farmer,Southern Accent
+Apples,Cowboy,Farmer,Southern
 City
 Low
 Friendship Main Squad (My Little Pony)

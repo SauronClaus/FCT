@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Fire Powers,Punching,Racer,Super Smash Bros
+Fire Powers,Racer,Super Smash Bros
 Modified Human
 Medium
 Super Smash Bros

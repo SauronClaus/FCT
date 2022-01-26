@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-African American,Forgotten Hero,Genius,Powerhouse,Ultimates (Team)
+African American,Forgotten Hero,Genius,Powerhouse,Strong,Ultimates (Team)
 Country
 Low
 Ultimates (Team)

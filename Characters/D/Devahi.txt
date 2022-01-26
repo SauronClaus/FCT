@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Ninja,Accidental Adventurer,Romantic Subplot|Sam (Sam and Fuzzy)
+Accidental Adventurer,Ninja,Romantic Subplot|Sam (Sam and Fuzzy)
 Baseline
 Low
 Ninja Mafia (Sam and Fuzzy)

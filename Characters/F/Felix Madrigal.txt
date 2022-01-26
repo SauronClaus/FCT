@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Fun Loving,Excitable,Jokester,Parent Child|Dolores Madrigal,Parent Child|Camilo Madrigal,Parent Child|Antonio Madrigal,Married|Pepa Madrigal
+Cheerful,Jokester,Married|Pepa Madrigal,Parent Child|Dolores Madrigal,Parent Child|Camilo Madrigal,Parent Child|Antonio Madrigal
 Baseline
 Low
 The Family Madrigal

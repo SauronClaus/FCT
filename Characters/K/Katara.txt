@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Ice Powers,Romantic Subplot|Aang,Siblings|Sokka,Water Bender,Water Powers
+Ice Powers,Ocean,Romantic Subplot|Aang,Siblings|Sokka,Water Bender,Water Powers
 City
 High
 The Gaang

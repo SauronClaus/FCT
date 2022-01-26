@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Angsty,Blue Lions (Fire Emblem),Crest,Edgy,Emo,Nobility,Relic,Surly,Swordsman
+Angsty,Blue Lions (Fire Emblem),Brooding,Childhood Friends|Sylvain,Childhood Friends|Dimitri,Childhood Friends|Ingrid,Crest,Edgy,Emo,Nobility,Relic Wielder,Swordsman
 Baseline
 Low
 Blue Lions,Royal Childhood Friends (Blue Lions)

@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Parent Child|Pepa Madrigal,Parent Child|Felix Madrigal,Siblings|Dolores Madrigal,Siblings|Antonio Madrigal,Shapershifter,Disguise,Theater Kid,Mimicry,Prankster,Jokester
+Disguise,Jokester,Mimicry,Parent Child|Pepa Madrigal,Parent Child|Felix Madrigal,Prankster,Shapeshifter,Siblings|Dolores Madrigal,Siblings|Antonio Madrigal
 Baseline
 Low
 The Family Madrigal

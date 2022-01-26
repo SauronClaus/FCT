@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Painter,Golden Deer (Fire Emblem),Timid,Shy,Duo|Raphael
+Artist,Duo|Raphael,Glasses,Golden Deer (Fire Emblem),Painter,Shy
 Baseline
 Low
 Golden Deer

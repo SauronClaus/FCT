@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Avengers,Avengers Wave #2,Non-Powered,Redemption Arc,Reformed,Thunderbolts (Team),Trick Arrows
+Archer,Avengers,Avengers Wave #2,Non-Powered,Redemption Arc,Reformed,SHIELD (Marvel),Thunderbolts (Team),Trick Arrows
 Baseline
 High
 Avengers (Core),Avengers (Extended),Thunderbolts,Avengers Original Quintet,West Coast Avengers

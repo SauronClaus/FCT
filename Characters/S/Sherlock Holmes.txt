@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Antisocial,Detatched from World,Detective,Drug Addict,Duo|John Watson,Genius,Iconic,Investigator,Nemesis|James Moriarty,Siblings|Mycroft Holmes
+Antisocial,Detatched from World,Detective,Drug Addict,Duo|John Watson,Genius,Iconic,Nemesis|James Moriarty,Siblings|Mycroft Holmes
 Baseline
 High
 Sherlock (TV Show) Cast

@@ -13,7 +13,7 @@ AI
 Neutral
 Supporting Protagonist
 Male
-Artificial,Artificial Intelligence,Alien Technology
+Alien Technology,Artificial,Artificial Intelligence
 City
 Low
 

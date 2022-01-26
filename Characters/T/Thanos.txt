@@ -13,7 +13,7 @@ Titan
 Neutral
 Antagonist
 Male
-Black Order,Iconic,Powerhouse,Titan,Parent Child|Gamora,Parent Child|Nebula
+Black Order,Iconic,Parent Child|Gamora,Parent Child|Nebula,Powerhouse,Titan
 Interuniversal
 High
 The Black Order

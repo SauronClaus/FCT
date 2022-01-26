@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Criminal,Pilot,Rebel,Rebellion (Star Wars),Smuggler,Ruler,Soldier,General
+Criminal,General,Pilot,Rebel,Rebel Alliance,Rebellion (Star Wars),Ruler,Smuggler,Soldier,Suave
 Baseline
 High
 Rebel Alliance (Star Wars)

@@ -13,7 +13,7 @@ Human
 Neutral
 Supporting Protagonist
 Male
-Bounty Hunter,Guild Leader,Redemption,African American,Criminal
+African American,Bounty Hunter,Criminal,Redemption Arc
 Baseline
 Medium
 The Mandalorian Cast

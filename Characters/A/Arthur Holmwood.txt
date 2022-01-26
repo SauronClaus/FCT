@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Monster Hunter,Nobility,Rich
+Classic Literature Character,Monster Hunter,Nobility,Rich
 Baseline
 Low
 Dracula Hunters

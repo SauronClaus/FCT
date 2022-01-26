@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Future Tech,Investigator,Rebel
+Detective,Future Tech,Rebel
 Baseline
 Low
 Detective Skills|Tech|2

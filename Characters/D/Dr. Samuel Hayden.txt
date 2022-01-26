@@ -13,7 +13,7 @@ Robot
 Neutral
 Supporting Protagonist
 Male
-Artificial,Artificial Intelligence,Alien Technology,Celestial,Angelic,Quasi-Divine,Scientist,Doctor
+Alien Technology,Angel,Artificial,Artificial Intelligence,Celestial,Doctor,Quasi-Divine,Scientist
 City
 Low
 

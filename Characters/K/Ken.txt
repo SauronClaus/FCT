@@ -13,7 +13,7 @@ Human
 Good
 Playable Character
 Male
-Father,Husband,Martial Artist,Musclehead,Prideful,Street Fighter,Super Smash Bros
+Father,Martial Artist,Musclehead,Muscles,Prideful,Street Fighter,Super Smash Bros
 Modified Human
 Medium
 Super Smash Bros

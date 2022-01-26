@@ -13,7 +13,7 @@ Human
 Evil
 Protagonist
 Androgynous
-Child,Determination,Exile,Genocidal,Sole Human,Player Character,Possessing Possessed|Chara,Psychopath/Sociopath,Silent,Soul Powers
+Child,Child Soldier,Determination,Exile,Genocidal,Pixelated,Player Character,Possessing Possessed|Chara,Psychopath/Sociopath,Ruthless,Sadistic,Sharing Body,Silent,Sole Human,Soul Powers,Strong Will,Time Loop
 Baseline
 Medium
 

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Damsel in Distress,Nobility,Princess,Romantic Subplot|Mario,Royalty,Super Smash Bros
+Damsel in Distress,Kind,Nobility,Prince(ess),Romantic Subplot|Mario,Royalty,Super Smash Bros
 Modified Human
 High
 Super Smash Bros,Mario Cast

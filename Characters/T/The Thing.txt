@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Catchphrase,Fantastic Four,Iconic,Powerhouse
+Avengers,Catchphrase,Fantastic Four,Iconic,New Yorker,Powerhouse,Strong
 City
 High
 Fantastic Four (Core),Marvel's First Family,Avengers (Extended),Fantastic Four (Extended),Marvel's Floating Super-Hero Poker Game

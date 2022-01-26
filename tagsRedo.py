@@ -12,13 +12,15 @@ characters = {}
 for tagSet in tagsList:
     tagSetList = tagSet.split("; ")
     tag = tagSetList[0]
+    #print(str(tagSetList))
     peopleAttachedFull = tagSetList[1]
     peopleAttached = peopleAttachedFull.split(", ")
     for character in peopleAttached:
         #print(character)
         if len(character.split("|")) == 1:
             tagsExpended = []
-            
+            if character == "":
+                print("Error: " + tag)
             try:
                 characters[character].append(tag)
             except:
@@ -36,11 +38,15 @@ for tagSet in tagsList:
             characterFile = open("Characters\\" + firstLetter + "\\" + characterName + ".txt", "r", encoding='utf8')
             characterInfo = characterFile.read().split("\n")
 
+            if characterName == "":
+                print("Error: " + tag)
             try:
                 characters[characterName].append(tag + "|" + pairedName)
             except:
                 characters[characterName] = []
                 characters[characterName].append(tag + "|" + pairedName)
+
+
 
 characterSearch = "Iron Man"
 stringInfo = ""
@@ -61,15 +67,17 @@ for character in characters.keys():
     tagString = ""
     for tag in characters[character]:
         tagString = tagString + tag + ","
-    print(tagString[0:len(tagString)-1:])
+    #print(tagString[0:len(tagString)-1:])
     newAssembly = characterInfo[0]
     for characterInfoTag in range(1,15):
+        #print("(" + str(character) + "/" + str(characterInfoTag) + ") " + str(characterInfo))
         newAssembly = newAssembly + "\n" + characterInfo[characterInfoTag]
     #newAssembly = newAssembly + "\n" + "COLOR"
     #print("[\n" + newAssembly + "\n]")
     tag = tagString[0:len(tagString)-1:]
     deuxAssembly = ""
     for characterInfoTag in range(16,30):
+        #print("(" + str(character) + "/" + str(characterInfoTag) + ") " + str(characterInfo))
         deuxAssembly = deuxAssembly + "\n" + characterInfo[characterInfoTag]
     characterFile.write(newAssembly + "\n" + tag + deuxAssembly)
     characterFile.close()

@@ -13,7 +13,7 @@ Asgardian
 Neutral
 Antagonist
 Male
-Antihero,Asgardian,Cosmic,God(dess),Prankster,Schemer,Shapeshifter,Trickster
+Antihero,Asgardian,Cosmic,God(dess),Mimicry,Prankster,Schemer,Shapeshifter,Trickster
 Cosmic
 High
 Asgardians

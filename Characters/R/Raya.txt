@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Exile,Guardian,Nemesis|Namaari,Nobility,Princess,Royalty,Wanderer
+Exile,Guardian,Nemesis|Namaari,Nobility,Prince(ess),Royalty,Wanderer
 Baseline
 Medium
 Raya's Band of Wanderers

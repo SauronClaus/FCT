@@ -13,7 +13,7 @@ Tarrasque
 Good
 Protagonist
 Male
-Child,Adopted,Monster,Unbroken Gang,D&D,Parent Child|Reithen Keiros
+Adopted,Child,Child Soldier,D&D,Monster,Parent Child|Reithen Keiros,Unbroken Gang
 Baseline
 Low
 

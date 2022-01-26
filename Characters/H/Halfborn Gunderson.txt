@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Berserker,Einharjar,Floor 19,Norse,Romantic Subplot|Mallory Keen,Viking
+Barbarian,Berserker,Einharjar,Floor 19,Norse,Romantic Subplot|Mallory Keen,Viking
 Modified Human
 Low
 Floor 19,Einharjar (Magnus Chase),Norse Demigods (Rick Riordan),Magnus Chase Ragnarok-Halting Gang

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Criminal,Duo|Chewbacca,Father,Parent Child|Kylo Ren,Pilot,Rebel,Rebellion (Star Wars),Ex|Leia Organa,Smuggler
+Criminal,Duo|Chewbacca,Ex|Leia Organa,Father,Parent Child|Kylo Ren,Pilot,Rebel,Rebellion (Star Wars),Smuggler
 Baseline
 Medium
 Original Trilogy Quintet,Rebel Alliance (Star Wars)

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Alpha Flight,Avengers,Cosmic,Powerhouse,Soldier,Superheroes,Ultimates (Team),Kree
+Alpha Flight,Avengers,Cosmic,Kree,Powerhouse,Soldier,Strong,Superheroes,Ultimates (Team)
 Cosmic
 High
 Avengers (Core),Avengers (Extended),Ultimates (Team),Guardians of the Galaxy (Extended),Alpha Flight

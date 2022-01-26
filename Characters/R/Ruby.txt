@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Fighter,Hotheaded,Magic,Gem,Crystal Gem,Flaming,Married|Sapphire,Red,LGBTQ+
+Alien,Bodyguard,Crystal Gem,Duo|Sapphire,Fighter,Fire Powers,Flaming,Gem,LGBTQ+,Lesbian,Magic Entity,Married|Sapphire,Musclehead,Rebel
 Modified Human
 Medium
 Crystal Gems (Extended),Crystal Gems Old Guard

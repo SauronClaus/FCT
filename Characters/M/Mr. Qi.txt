@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Male
-Mysterious,Pixelated,Reality Off Kelter
+Mysterious,Mysterious Backstory,Pixelated,Reality Off Kelter
 Baseline
 Low
 

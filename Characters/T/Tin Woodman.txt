@@ -13,7 +13,7 @@ Tin Man
 Good
 Supporting Protagonist
 Male
-Artificial,Magical,Classic Literature Character,Metal,Lumberjack
+Artificial,Classic Literature Character,Lumberjack,Magic Entity,Metal
 Baseline
 High
 Wizard of Oz Crew

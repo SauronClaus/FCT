@@ -13,7 +13,7 @@ Snowman
 Good
 Supporting Protagonist
 Male
-Child,Detachable Body Parts,Magic Entity,Musical,Naive,Snowman,Summer,Warm Hugs
+Child,Detachable Body Parts,Long Nose,Magic Entity,Musical,Naive,Snowman,Summer
 Modified Human
 High
 Frozen Quintent

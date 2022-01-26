@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Parent Child|Pepa Madrigal,Parent Child|Bruno Madrigal,Parent Child|Julieta Madrigal,Elderly,Grandmother,Matriarch,Redempetion Arc
+Elderly,Grandparent|Mirabel Madrigal,Grandparent|Luisa Madrigal,Grandparent|Isabela Madrigal,Grandparent|Dolores Abuela Alma Madrigal,Grandparent|Camilo Madrigal,Matriarch,Parent Child|Pepa Madrigal,Parent Child|Bruno Madrigal,Parent Child|Julieta Madrigal,Redemption Arc
 Baseline
 Low
 The Family Madrigal

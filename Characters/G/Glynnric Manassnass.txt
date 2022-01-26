@@ -13,7 +13,7 @@ Half-Elf
 Good
 Protagonist
 Male
-Band of Fools,Bard,D&D,Depowered,Half-Elf,Original Three (Band of Fools),Rogue
+Band of Fools,Bard,D&D,Depowered,Half-Elf,Hybrid,Original Three (Band of Fools),Rogue
 Modified Human
 Low
 Band of Fools (Original),Original Three (Band of Fools),Colin Frazer's Permutations

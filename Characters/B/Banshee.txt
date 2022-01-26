@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Flight,Mutant,Supersonic,X-Men
+Mutant,Supersonics,X-Men
 Baseline
 Low
 X-Men (Extended),Giant Sized X-Men #1 Team

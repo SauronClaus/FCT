@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Parent Child|Abuela Alma Madrigal,Siblings|Pepa Madrigal,Siblings|Julieta Madrigal,Unkempt,Estranged,Bad Rumors,Cursed,Future Sight,Slightly Insane
+Bad Rumors,Cursed,Estranged,Future Sight,Parent Child|Abuela Alma Madrigal,Siblings|Pepa Madrigal,Siblings|Julieta Madrigal,Slightly Insane,Unkempt
 Baseline
 Medium
 The Family Madrigal

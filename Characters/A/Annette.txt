@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Blue Lions (Fire Emblem),Childhood Friends|Mercedes,Crest,Mage,Magic User,Nobility,Overachiever,Relic,Studious
+Blue Lions (Fire Emblem),Childhood Friends|Mercedes,Crest,Magic User,Nobility,Overachiever,Relic Wielder,Short,Studious
 Baseline
 Low
 Blue Lions

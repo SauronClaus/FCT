@@ -13,7 +13,7 @@ Martian
 Good
 Protagonist
 Male
-Alien,Martian,Powerhouse,Shapeshifter,Superheroes,Teen Titans,Young Justice,Green,Overly Excitable
+Alien,Cheerful,Green,Martian,Mimicry,Powerhouse,Psychic,Shapeshifter,Superheroes,Teen Titans,Young Justice
 Cosmic
 Medium
 Young Justice (Extended),Teen Titans (Extended),Young Justice (Core)

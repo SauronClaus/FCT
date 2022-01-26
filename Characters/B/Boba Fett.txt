@@ -13,7 +13,7 @@ Human
 Neutral
 Antagonist
 Male
-Criminal,Bounty Hunter,Clone,Parent Child|Jango Fett,Legacy|Jango Fett,Iconic,Green
+Bounty Hunter,Clone,Crime Lord,Criminal,Green,Iconic,Legacy|Jango Fett,Parent Child|Jango Fett
 Modified Human
 High
 Star Wars Bounty Hunters

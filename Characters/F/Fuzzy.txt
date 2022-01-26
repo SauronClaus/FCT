@@ -13,7 +13,7 @@ Unnamed Bear Species
 Neutral
 Protagonist
 Male
-Ninja,Ruler,Accidental Adventurer,Taxi Driver,Roadie,Duo|Sam (Sam and Fuzzy),Con Man,Criminal
+Accidental Adventurer,Con Artist,Criminal,Duo|Sam (Sam and Fuzzy),Ninja,Roadie,Ruler,Taxi Driver
 Baseline
 Low
 Ninja Mafia (Sam and Fuzzy)

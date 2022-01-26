@@ -13,7 +13,7 @@ Dragon
 Evil
 Antagonist
 Male
-Beast,Dragon,Fire Dragon,Guardian,Hoarder,Massive
+Dragon,Fire Being,Guardian,Heat Immunity,Hoarder,Iconic,Immortal,Massive
 Country
 High
 

@@ -13,7 +13,7 @@ Luphomoid
 Neutral
 Protagonist
 Female
-Criminal,Assassin,Swordsman,Blue,Redeemed,Cyborg,Alien Technology,Antihero,Siblings|Gamora,Parent Child|Thanos,Abused
+Abused,Alien Technology,Antihero,Assassin,Blue,Criminal,Cyborg,Parent Child|Thanos,Redemption Arc,Reformed,Siblings|Gamora,Swordsman
 Modified Human
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

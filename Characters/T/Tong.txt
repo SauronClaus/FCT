@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Male
-Berserker,Criminal,Exile,Gentle Giant,Last of Kind
+Barbarian,Berserker,Criminal,Exile,Gentle Giant,Last of Kind
 Baseline
 Low
 Raya's Band of Wanderers

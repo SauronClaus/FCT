@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Perfect,Golden Child,Plant Life,Beautiful,Parent Child|Augustin Madrigal,Siblings|Luisa Madrigal,Siblings|Mirabel Madrigal,Parent Child|Julieta Madrigal
+Beautiful,Hypnotic Beauty,Parent Child|Augustin Madrigal,Parent Child|Julieta Madrigal,Perfect,Plant Life Manipulation,Siblings|Luisa Madrigal,Siblings|Mirabel Madrigal
 Baseline
 Medium
 The Family Madrigal,Mirabel's Direct Family

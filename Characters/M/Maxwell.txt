@@ -13,7 +13,7 @@ Human
 Evil
 Playable Character
 Male
-Don't Starve,Mastermind,Survivor
+Don't Starve,Mastermind,Survivalist
 Modified Human
 Low
 Survivors of the Constant

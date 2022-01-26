@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Soldier,Mercenary,Golden Deer (Fire Emblem)
+Golden Deer (Fire Emblem),Mercenary,Soldier
 Baseline
 Low
 Golden Deer

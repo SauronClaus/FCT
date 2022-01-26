@@ -13,7 +13,7 @@ Celestial
 Evil
 Antagonist
 Male
-Planet,Massive,Assimilation,Celestial,Parent Child|Star-Lord
+Celestial,Massive,Parent Child|Star-Lord,Planet
 Cosmic
 Medium
 

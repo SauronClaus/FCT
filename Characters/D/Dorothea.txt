@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Bard,Black Eagles (Fire Emblem),Enchantress,Magic User,Scholarship,Singer
+Bard,Black Eagles (Fire Emblem),Magic User,Scholarship,Singer
 Baseline
 Low
 Black Eagles

@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Bird-Themed,Bird Wings,Flight,Mutant,Superheroes,X-Men,X-Men First Class
+Bird-Themed,Mutant,Superheroes,X-Men,X-Men First Class
 Modified Human
 Low
 X-Men First Class,X-Men (Extended)

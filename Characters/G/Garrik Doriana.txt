@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Warlock,Post-Apocalyptic,Government Official,Con Man,Unbroken Gang,Inventor,D&D
+Charismatic,Con Artist,D&D,Government,Inventor,Post-Apocalyptic,Unbroken Gang,Warlock
 Modified Human
 Low
 Unbroken Cast 2,Madeline Kopf's Permutations

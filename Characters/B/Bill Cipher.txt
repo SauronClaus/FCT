@@ -13,7 +13,7 @@ Dream Demon
 Evil
 Antagonist
 Male
-Demon,Evil,Trickster,Nemesis|Stanford Pines,Nemesis|Dipper Pines,Sadistic,Reality Warping,Psychopath,Insane
+Demon,Insane,Nemesis|Stanford Pines,Nemesis|Dipper Pines,Psychopath/Sociopath,Reality Warper,Sadistic,Trickster
 Interuniversal
 Medium
 

@@ -13,7 +13,7 @@ Shih Tzu
 Good
 Supporting Protagonist
 Female
-Overachiever,Duo|Doomslayer,Dog,Animorphic,Super Smash Bros
+Animorphic,Dog,Duo|Doomslayer,Overachiever,Super Smash Bros
 Baseline
 High
 Animal Crossing NPCs,Super Smash Bros

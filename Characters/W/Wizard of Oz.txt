@@ -13,7 +13,7 @@ Human
 Neutral
 Side Character
 Male
-Con Man,Stage Magician,Wizard,Ruler,Iconic
+Con Artist,Iconic,Ruler,Stage Magician,Wizard
 Baseline
 High
 

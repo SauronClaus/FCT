@@ -13,7 +13,7 @@ Raccoon Halfworlder
 Good
 Protagonist
 Male
-Criminal,Duo|Groot,Explosion Happy,Animorphic,Guns,Heavy Artillery,Tech
+Animorphic,Criminal,Duo|Groot,Explosion Happy,Guardians of the Galaxy,Guns,Heavy Artillery,Tech
 City
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)

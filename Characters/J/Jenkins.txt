@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Webcomics,Soldier,Absurdly Strong,Old
+Absurdly Strong,Old,Soldier,Webcomics
 City
 Low
 Tesladyne Industries

@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Renegade Servant,Uptight,Long Nose,Spears,Magic,Gem,Crystal Gem
+Abused,Adoptive Mother,Alien,Crystal Gem,Exile,Former Slave,Gem,Guardian,Immortal,Knight,Lances,Legend,Legendary Hero,Long Nose,Magic Entity,Maternal,Mentor,Monster Hunter,Musical,OCD,Pilot,Really Old,Rebel,Renegade Servant,Royal Guardsman,Soldier,Uptight
 Modified Human
 High
 Crystal Gems (Core),Crystal Gems (Extended),Crystal Gems Old Guard

@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Magic User,Cursed,Shy,Abused,Golden Deer (Fire Emblem),Crest,Nobility
+Abused,Crest,Cursed,Golden Deer (Fire Emblem),Introvert,Magic User,Nobility,Shy
 Baseline
 Low
 Golden Deer

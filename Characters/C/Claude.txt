@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Archer,Crest,Golden Deer (Fire Emblem),House Leaders (Fire Emblem),Relic,Schemer,Trickster
+Archer,Crest,Dragon Rider,Golden Deer (Fire Emblem),House Leaders (Fire Emblem),Relic Wielder,Schemer,Trickster
 Baseline
 Medium
 Golden Deer,House Leaders (Fire Emblem)

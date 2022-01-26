@@ -13,7 +13,7 @@ Lion
 Good
 Supporting Protagonist
 Male
-Animorphic,Cowardly,Classic Literature Character,Lion
+Animorphic,Classic Literature Character,Cowardly,Lion
 Baseline
 High
 Wizard of Oz Crew

@@ -13,7 +13,7 @@ Vampire
 Evil
 Antagonist
 Male
-Iconic,Nobility,Undead,Vampire,Vampire Lord
+Classic Literature Character,Iconic,Nobility,Undead,Vampire
 City
 High
 

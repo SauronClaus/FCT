@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Parent Child|Pepa Madrigal,Parent Child|Felix Madrigal,Siblings|Camilo Madrigal,Siblings|Antonio Madrigal,Super-Hearing,Gossip,Blackmailer
+Gossip,Parent Child|Pepa Madrigal,Parent Child|Felix Madrigal,Siblings|Camilo Madrigal,Siblings|Antonio Madrigal,Super-Hearing
 Baseline
 Low
 The Family Madrigal

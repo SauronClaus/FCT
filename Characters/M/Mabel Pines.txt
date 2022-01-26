@@ -13,10 +13,10 @@ Human
 Good
 Protagonist
 Female
-Accidental Adventurer,Cheerful,Cryptid Hunter,Aunt Uncle|Grunkle Stan,Twins|Dipper Pines,Reality Off Kelter
+Accidental Adventurer,Aunt Uncle|Grunkle Stan,Cheerful,Cryptid Hunter,Reality Off Kelter,Summer,Twins|Dipper Pines
 Baseline
 Medium
-Mystery Shack Employees
+Mystery Shack Employees,Pines Family
 
 TV Shows,Cartoon
 Gravity Falls

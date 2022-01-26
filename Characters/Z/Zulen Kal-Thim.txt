@@ -13,7 +13,7 @@ Eladrin
 Neutral
 Supporting Protagonist
 Male
-Assassin,Neutral,Grim,Edgy,Split Personality,Possessing Possessed|Reithen Keiros,Monk,Unbroken Gang,D&D
+Assassin,D&D,Edgy,Emo,Monk,Possessing Possessed|Reithen Keiros,Possession,Spirit,Split Personality,Unbroken Gang
 Modified Human
 Low
 Sebastian Polge's Permutations

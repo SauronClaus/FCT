@@ -13,7 +13,7 @@ Svartalf
 Good
 Supporting Protagonist
 Male
-Crafter,Demigod,Duo|Hearthstone,Dwarf,Norse,Tailor
+Artificer,Blacksmith,Demigod,Duo|Hearthstone,Dwarf,Hybrid,Norse,Tailor
 Modified Human
 Medium
 Norse Demigods (Rick Riordan),Magnus Chase First Quintet,Magnus Chase Ragnarok-Halting Gang

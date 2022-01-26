@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Male
-Blue Lions (Fire Emblem),Crest,Nobility,Playboy,Relic,Skirt-Chaser
+Blue Lions (Fire Emblem),Childhood Friends|Ingrid,Childhood Friends|Felix,Childhood Friends|Dimitri,Crest,Lances,Nobility,Playboy,Relic Wielder,Skirt-Chaser,Suave
 Baseline
 Low
 Blue Lions,Royal Childhood Friends (Blue Lions)

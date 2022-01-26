@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Assassin,Detatched from World,Hitman,Merciless,Psychopath/Sociopath,Trained
+Assassin,Detatched from World,Hitman,Merciless,Psychopath/Sociopath
 Baseline
 Medium
 

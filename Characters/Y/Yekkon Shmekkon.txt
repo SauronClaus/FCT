@@ -13,7 +13,7 @@ Grung
 Evil
 Protagonist
 Gender Neutral
-Rogue,D&D,Terrible,Jerk,Mastermind,Animorphic,Frog,Green
+Animorphic,Charismatic,Comedically Terrible Person,D&D,Frog,Green,Jerk,Knives,Mastermind,Rogue
 Modified Human
 Low
 Benukth Crew,Sophia Khoudary's Permutations

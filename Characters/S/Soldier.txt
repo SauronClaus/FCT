@@ -13,7 +13,7 @@ Human
 Neutral
 Playable Character
 Male
-Insane,Mercenary,Patriotism,Team Fortress 2
+Insane,Mercenary,Patriotism,Team Fortress 2,Valve
 Baseline
 Medium
 Team Fortress Mercs

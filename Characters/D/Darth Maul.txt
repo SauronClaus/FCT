@@ -13,7 +13,7 @@ Dathomirian Zabrak
 Evil
 Antagonist
 Male
-Commander,Confederacy of Independent Systems,Nemesis|Obi-Wan Kenobi,Sith Lord,Soldier,Master Apprentice|Sheev Palpatine
+Commander,Confederacy of Independent Systems,Master Apprentice|Sheev Palpatine,Nemesis|Obi-Wan Kenobi,Sith Lord,Soldier
 City
 High
 Sith Lord,Confederacy of Independent Systems

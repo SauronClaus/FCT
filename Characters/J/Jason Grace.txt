@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Camp Half-Blood,Camp Jupiter,Chosen One,Demigod,Lightning,Roman,Romantic Subplot|Piper McLean,Storm,Weather Powers
+Camp Half-Blood,Camp Jupiter,Chosen One,Demigod,Hybrid,Lightning,Roman,Romantic Subplot|Piper McLean,Storm,Weather Powers
 City
 Medium
 Heroes of Olympus,Camp Jupiter,Roman Demigods (Rick Riordan)

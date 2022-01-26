@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Avengers,Champions (Team),Earth-16010,Insect-Themed,Legacy|Spider-Man,Multiversal Origin,Next Generation,Spider-Person,Superheroes,Young
+Avengers,Champions (Team),Earth-16010,Insect-Themed,Legacy|Spider-Man,Multiversal Origin,New Yorker,Next Generation,Spider-Person,Spider-Themed (Tangential),Superheroes,Young
 City
 High
 Champions (Marvel) (Core),Champions (Marvel) (Extended),Avengers (Extended),Spider-People

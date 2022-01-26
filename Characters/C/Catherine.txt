@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Knight,Knights of Seiros (Fire Emblem),Loud,Relic,Swordsman,Yin & Yang|Shamir
+Knight,Knights of Seiros (Fire Emblem),Loud,Musclehead,Muscles,Relic Wielder,Strong,Swordsman,Yin & Yang|Shamir
 Baseline
 Low
 Knights of Seiros

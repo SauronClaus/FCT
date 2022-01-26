@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Androgynous
-Child,Determination,Exile,Sole Human,Pacifist,Player Character,Silent,Soul Powers
+Child,Child Soldier,Determination,Exile,Kind,Pacifist,Pixelated,Player Character,Silent,Sole Human,Soul Powers,Strong Will,Time Loop
 Baseline
 Medium
 Undertale Pacifist Friends

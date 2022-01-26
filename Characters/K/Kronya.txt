@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Post-Human,Secret,Agartharian,Disguised,Human-Basher,Racist
+Agartharian,Disguise,Post-Human,Racist,Secret
 City
 Low
 Those Who Slither in the Dark

@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Blue Lions (Fire Emblem),Crest,Honorable,Knight,Nobility,Relic
+Blue Lions (Fire Emblem),Childhood Friends|Sylvain,Childhood Friends|Felix,Childhood Friends|Dimitri,Crest,Honorable,Knight,Lances,Nobility,Relic Wielder,Uptight
 Baseline
 Low
 Blue Lions,Royal Childhood Friends (Blue Lions)

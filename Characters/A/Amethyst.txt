@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Crystal Powers,Crystals,Justice League Dark,Magic Entity,Royalty,Young Justice
+Boisterous,Crystal Powers,Crystals,Justice League Dark,Magic Entity,Royalty,Young Justice
 City
 Low
 Young Justice (Extended)

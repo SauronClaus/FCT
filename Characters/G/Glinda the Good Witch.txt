@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Female
-Magic User,Wizard,Ruler,Iconic,Witch,Fairy
+Fey,Iconic,Magic User,Ruler,Witch
 Baseline
 High
 

@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Renegade,Rebel,Mischevious,Defect,Whips,Magic,Gem,Crystal Gem,Purple
+Alien,Crystal Gem,Defect,Exile,Gem,Guardian,Immortal,Magic Entity,Mischevious,Monster Hunter,Musical,Overweight,Prankster,Really Old,Rebel,Sarcastic,Shapeshifter,Short,Whips
 Modified Human
 High
 Crystal Gems (Core),Crystal Gems (Extended)

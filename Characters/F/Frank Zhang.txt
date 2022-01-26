@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Male
-Archer,Camp Jupiter,Chosen One,Demigod,Roman,Romantic Subplot|Hazel Levesque,Shapeshifter,Warrior
+Archer,Camp Jupiter,Chosen One,Demigod,Hybrid,Roman,Romantic Subplot|Hazel Levesque,Shapeshifter
 City
 Medium
 Heroes of Olympus,Camp Jupiter,Roman Demigods (Rick Riordan)

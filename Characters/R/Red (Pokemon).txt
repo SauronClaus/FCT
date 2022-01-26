@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Champion,Duo|Blue,Kanto,Player Character,Pokemon Trainer
+Champion,Duo|Blue,Kanto,Player Character,Pokemon Trainer,Silent
 Baseline
 High
 Champions (Pokemon),Player Characters (Pokemon)

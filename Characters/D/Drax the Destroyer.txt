@@ -13,7 +13,7 @@ Artifical Human
 Neutral
 Protagonist
 Male
-Criminal,Warrior,Green,Redeemed,Berserker,Destroyer,Pacifist,Former Human,Artifical,Powerhouse
+Artificial,Barbarian,Berserker,Criminal,Destroyer,Former Human,Green,Guardians of the Galaxy,Muscles,Pacifist,Powerhouse,Redemption Arc
 City
 High
 Guardians of the Galaxy (Core),Guardians of the Galaxy (Extended)
