@@ -2,14 +2,14 @@
 1 (1): Terrence the Baby Tarrasque
 2 (1): Noi
 4 (2): Abby Cadabby, Seth
-5 (1): BB-8
+5 (2): Anthonio Madrigal, BB-8
 6 (3): Bean, Big Bird, Scout Finch
 9 (1): Anakin Skywalker (Young)
 10 (4): Ash Ketchum, Boun, Jem Finch, Misty
 11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
 12 (5): Amy Rose, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong
 13 (2): Brian Robeson, Steven Universe
-14 (9): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Padme Amidala, Sadie Kane, Zia Rashid
+14 (8): Ahsoka Tano, Azula, Blaze the Cat, Candace Flynn, Katara, Padme Amidala, Sadie Kane, Zia Rashid
 15 (11): Brock, Carter Kane, Lysithea, Mai, Mirabel Madrigal, Petra (Fire Emblem), Ruby Rose, Sokka, Sonic the Hedgehog, Sven, Wendy Corduroy
 16 (13): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Piper McLean, Vikram Kommareddi, Zuko
 17 (23): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Ignatz, Ingrid, Korra, Laurie Strode, Marianne, Raphael, Sebastian Polge, Weiss Schnee, Yang Xiao Long

@@ -1,7 +1,7 @@
 Alan: Alan Bradley, Alan Scott, Alan Wake
 Alex: Alex DeLarge, Alex Fierro, Alex
 Alice: Alice Daerdahk, Alice Johnson
-Amy: Amethyst, Amy Cahill, Amy Rose
+Amy: Amethyst, Amy Rose
 Anakin: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Anna: Anna Croft, Anna
 Victor: Anole, Cyborg
@@ -30,6 +30,7 @@ Iris: Irey West, Iris West
 Jason: Jason Grace, Jason Todd
 Jonathan: Jonathan Harker, The Human Torch
 Kal: Kal-L, Superboy Prime, Superman
+Kris: Kris, Susie
 Leia: Leia Organa (Old), Leia Organa
 Steven: Pearl, Steven Universe
 Ruby: Ruby Rider, Ruby Rose, Ruby

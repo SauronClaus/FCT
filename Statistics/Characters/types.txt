@@ -5,14 +5,13 @@ Archer (5): Ashe, Atreus, Bernadetta, Bow, Claude
 Artificer (1): Byllemura Ruby-Eye
 Artificial Intelligence (1): VEGA
 Assassin (3): Aphelios, Gamora, Nebula
-Astral Punching (1): Amara
 Astromech Droid (2): BB-8, R2-D2
 Astronaut (6): Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Valentina Kerman
 Average Guy (1): Barry B. Benson
 Barbarian (2): Arthail Consumer of Food, Tong
 Baseline Human (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 Bender (8): Aang, Azula, Bolin, Iroh, Katara, Korra, Toph Beifong, Zuko
-Berserker (3): Brick, Halfborn Gunderson, Raphael
+Berserker (2): Halfborn Gunderson, Raphael
 Bishop (1): Seteth
 Bodyguard (1): Dedue
 Bounty Hunter (5): Boba Fett, Greef Karga, IG-11, Jango Fett, The Mandalorian
@@ -26,7 +25,7 @@ Chairman (1): Dr. Samuel Hayden
 Chef (1): Boun
 Child (3): Austin, Terrence the Baby Tarrasque, The Child
 Chosen One (2): Byleth, Steven Universe
-Civilian (38): Abuela Alma Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
+Civilian (39): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
 Cleric (1): Mercedes
 Con Artist (4): Dyan, Noi, Pan, Uka
 Conman (1): Phoney Bone
@@ -63,7 +62,7 @@ Guard (1): Fedora Turthin
 Guardian (4): Blaze the Cat, Sisu, Te Ka, Toriel
 Guardsman (3): Papyrus, Sans, Undyne
 Hacker (1): Sombra
-Hero (1): Sonic the Hedgehog
+Hero (3): Kris, Sonic the Hedgehog, Susie
 Hitman (1): Anton Chigurh
 Hive Mind Primary (1): Omega (Edge of Tomorrow)
 Hoarder (1): Tamatoa
@@ -132,7 +131,7 @@ Sith Lord (6): Count Dooku, Darth Maul, Darth Vader, General Grievous, Sheev Pal
 Slasher (1): Michael Myers
 Slave (2): Anakin Skywalker (Young), Padme Amidala
 Smuggler (4): Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian
-Soldier (25): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Doomslayer, Finn, Guile, Heavy, Ignatz, Leia Organa (Old), Leia Organa, Mai, Moff Gideon, Pyro, Rita Vrataski, Rose Tico, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
+Soldier (24): Alyx, Ashley Williams, Breach, Brimstone, Captain John H. Miller, Catra, Doomslayer, Finn, Guile, Heavy, Ignatz, Leia Organa (Old), Leia Organa, Mai, Moff Gideon, Pyro, Rita Vrataski, Rose Tico, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Sorcerer (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Space Captain (1): Captain Kirk
 Spirit (1): Chara
@@ -144,7 +143,6 @@ Superheroes (6): Colossus, Cyclops, John Proudstar, Nightcrawler, Sunfire, Wolve
 Supervillain (7): Alexander Luthor Jr., Baron Zemo, Loki, Magneto, Superboy Prime, Ultron, Vulture
 Survivor (1): Laurie Strode
 Swordsman (1): Felix
-Teenager (1): Amy Cahill
 Test Subject (1): Chell
 Time Traveler (1): Billy Pilgrim
 Titan (1): Thanos

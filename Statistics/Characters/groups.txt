@@ -33,9 +33,6 @@ Black Eagles (9): Bernadetta, Byleth, Caspar, Dorothea, Edelgard, Ferdinand, Hub
 Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
-Borderlands 1 Vault Hunters (1): Brick
-Borderlands 2 Vault Hunters (1): Axton
-Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
 Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
@@ -58,6 +55,8 @@ Disney Princesses (3): Anna, Elsa, Moana
 Doom Patrol (Extended) (1): Beast Boy
 Door Monster Creations (2): Extortionist Hobo, LeBron
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+Dreemur Kids (1): Chara
+Dreemurr Humans (3): Frisk, Kris, Susie
 Dumbing of Age Main Cast (1): Amazi-Girl
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 ENCOM (1): Alan Bradley
@@ -231,7 +230,8 @@ Tesladyne Industries (2): Atomic Robo, Jenkins
 The Backyardigans (1): Austin
 The Black Order (1): Thanos
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
-The Family Madrigal (11): Abuela Alma Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+The Family Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+The Fun Gang (2): Kris, Susie
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 The Mandalorian Cast (6): Cara Dune, Greef Karga, IG-11, Kuiil, The Child, The Mandalorian
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
@@ -258,7 +258,6 @@ United States Military (1): Guile
 Until Dawn Cast (1): Ashley Brown
 Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Valorant Agents (2): Breach, Brimstone
-Vault Hunters (3): Amara, Axton, Brick
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 West Coast Avengers (1): Hawkeye

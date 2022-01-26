@@ -13,10 +13,10 @@ Human
 Depends
 Protagonist
 Androgynous
-Child,Child,Child Soldier,Determination,Exile,Innocent,Kind,Pixelated,Player Character,Possessing Possessed|Chara,Sharing Body,Silent,Sole Human,Soul Powers,Strong Will,Time Loop
+Child,Child Soldier,Determination,Exile,Innocent,Kind,Pixelated,Player Character,Possessing Possessed|Chara,Sharing Body,Silent,Sole Human,Soul Powers,Strong Will,Time Loop
 Baseline
 Medium
-Undertale Pacifist Friends
+Undertale Pacifist Friends,Dreemurr Humans
 
 Video Games,Pixelated
 Undertale

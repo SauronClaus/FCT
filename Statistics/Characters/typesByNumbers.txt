@@ -1,7 +1,7 @@
 Superhero (90): Adam Warlock, Agent Venom, Alan Scott, Amadeus Cho, Amazi-Girl, America Chavez, Angel, Anole, Aquaman, Armor, Aurora, Banshee, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast Boy, Beast, Bentley-23, Black Canary, Black Lightning, Black Panther, Black Widow, Blink, Blue Marvel, Booster Gold, Brainiac 5, Cannonball, Captain America, Captain Britain, Captain Marvel Jr., Captain Marvel, Carol Danvers, Cassie Lang, Cyborg, Damian Wayne, Dick Grayson, Falcon, Green Arrow, Hal Jordan, Hank Pym, Harbringer, Hawkeye, Hawkgirl, Hope van Dyne, Hulk, Irey West, Iron Lad, Iron Man, Ironheart, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Stewart, Kal-L, Mantis, Martian Manhunter, Mary Marvel, Max Mercury, Miles Morales, Miss Martian, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Nadia Van Dyne, Northstar, Psylocke, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, Storm, Supergirl, Superman, Ted Kord, The Human Torch, The Invisible Woman, The Thing, Thor, Tim Drake, Vision, Viv Vision, Wally West II, Wally West, War Machine, Wonder Woman, Young Cyclops
 Adventurer (45): Alice Daerdahk, Arrolys Larskano, Bilbo Baggins, Blitzen, Bobby, Calypso, Cowardly Lion, Devahi, Dorothy Gale, Eldon Spark Turen, Fone Bone, Frank Zhang, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Fuzzy, Garrik Doriana, Glynnric Manassnass, Groot, Hazel Levesque, IKCFAMWSIIF, Jason Grace, Kalathos Sunstrider, Kareem Par-Al, Lorana Ritten, Luigi, Mario, Maui, Mirabel Madrigal, Moana, Nahara, Olaf, Piper McLean, Raya, Reithen Keiros, Rocket Raccoon, Sam (Sam and Fuzzy), Scarecrow (Oz), Smiley Bone, Star-Lord, Tin Woodman, Yekkon Shmalakis, Yekkon Shmekkon, Zulen Kal-Thim
-Civilian (38): Abuela Alma Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
-Soldier (25): Alyx, Ashley Williams, Axton, Breach, Brimstone, Captain John H. Miller, Catra, Doomslayer, Finn, Guile, Heavy, Ignatz, Leia Organa (Old), Leia Organa, Mai, Moff Gideon, Pyro, Rita Vrataski, Rose Tico, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
+Civilian (39): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
+Soldier (24): Alyx, Ashley Williams, Breach, Brimstone, Captain John H. Miller, Catra, Doomslayer, Finn, Guile, Heavy, Ignatz, Leia Organa (Old), Leia Organa, Mai, Moff Gideon, Pyro, Rita Vrataski, Rose Tico, Scout, Shamir, Suki, Thomas Jefferson Jr., Ty Lee, William Cage
 Fighter (17): Adora, Akihide Karatsu, Ally, Amy Rose, Annabeth Chase, Aragorn, Arya, Banjo, Boromir, Chun-Li, Glimmer, Kazooie, Ken, Mallory Keen, Rikk, Rumy, Ryu
 Wizard (15): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amos Kane, Annette, Arthur Weasley, Bill Weasley, Fleur Delacour, Ginny Weasley, Harry Potter, Hearthstone, Hermione Granger, Lord Voldemort, Ron Weasley, Wizard of Oz
 Baseline Human (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
@@ -31,9 +31,9 @@ Officer (3): Amilyn Holdo, Captain Phasma, Grand Moff Tarkin
 Assassin (3): Aphelios, Gamora, Nebula
 Child (3): Austin, Terrence the Baby Tarrasque, The Child
 Witch (3): Bayonetta, Glinda the Good Witch, Wicked Witch of the West
-Berserker (3): Brick, Halfborn Gunderson, Raphael
 Inventor (3): Doctor Eggman, Dr. Bunsen Honeydew, Leo Valdez
 Queen (3): Elsa, Gran'ma Ben, Hippolyta
+Hero (3): Kris, Sonic the Hedgehog, Susie
 Post-Human God Killer (3): Kronya, Solon, Thales
 Guardsman (3): Papyrus, Sans, Undyne
 Precog (2): Agatha, Anna Croft
@@ -55,6 +55,7 @@ Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Chosen One (2): Byleth, Steven Universe
 Secret Agent (2): Carmen Cortez, Juni Cortez
 Exile (2): Flowey, Jar Jar Binks
+Berserker (2): Halfborn Gunderson, Raphael
 Doctor (2): John Seward, John Watson
 Bureaucrat (2): Jori-En Blurred, Squee
 Mage (2): Lysithea, Marianne
@@ -66,9 +67,7 @@ Butler (1): Alfred Pennyworth
 Dreamer (1): Alice Johnson
 Monster Hunter (1): Alucard
 Government Agent (1): Amanda Waller
-Astral Punching (1): Amara
 Princess Warrior (1): Amethyst
-Teenager (1): Amy Cahill
 Operative (1): Amy Ferrier
 Phantom Thief (1): Ann Takamaki
 World Destroyer (1): Anti-Monitor
@@ -151,7 +150,6 @@ Bishop (1): Seteth
 Mastermind (1): Seth
 Dragon (1): Smaug
 Hacker (1): Sombra
-Hero (1): Sonic the Hedgehog
 Goddess (1): Sothis
 Paranormal Investigator (1): Stanford Pines
 Hoarder (1): Tamatoa

@@ -14,6 +14,6 @@ Undertale
 Indie Video Games
 Video Games,Pixelated
 Black
-Medium
+Low
 Modified Human
 Sebastian

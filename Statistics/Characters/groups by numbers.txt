@@ -3,7 +3,7 @@ Justice League (Extended) (22): Aquaman, Barry Allen, Bart Allen, Batman, Black 
 X-Men (Extended) (21): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, John Proudstar, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
 Super Smash Bros (14): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
-The Family Madrigal (11): Abuela Alma Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+The Family Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 Teen Titans (Extended) (11): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Supergirl, Tim Drake, Wally West II, Wally West
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
@@ -98,7 +98,6 @@ Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
 Survivors of the First Crisis (DC Comics) (3): Alexander Luthor Jr., Kal-L, Superboy Prime
 Fans! Cast (3): Ally, Rikk, Rumy
 Fans! Polyamorous Group (3): Ally, Rikk, Rumy
-Vault Hunters (3): Amara, Axton, Brick
 Young Avengers (Extended) (3): America Chavez, Cassie Lang, Iron Lad
 Kanes (3): Amos Kane, Carter Kane, Sadie Kane
 X-Men First Class (3): Angel, Beast, Cyclops
@@ -133,6 +132,7 @@ Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
 Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
+Dreemurr Humans (3): Frisk, Kris, Susie
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
 Those Who Slither in the Dark (3): Kronya, Solon, Thales
@@ -179,6 +179,7 @@ Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Amazons (2): Hippolyta, Wonder Woman
 Exiles (2): Iron Lad, Psylocke
 Kaeshev Alapati's Permutations (2): Jori-En Blurred, Squee
+The Fun Gang (2): Kris, Susie
 Shadaloo (2): M. Bison, Seth
 Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 Spider-People (2): Miles Morales, Spider-Man
@@ -191,7 +192,6 @@ ENCOM (1): Alan Bradley
 Order of the Pheonix I (1): Albus Dumbledore
 Hogwarts Professors (1): Albus Dumbledore
 Eureka! Citizens (1): Allison Blake
-Borderlands 3 Vault Hunters (1): Amara
 Shortpacked! Store (1): Amazi-Girl
 Dumbing of Age Main Cast (1): Amazi-Girl
 Detective Skills|Tech|2 (1): Amy Ferrier
@@ -204,7 +204,6 @@ Aarav Gupta's Permutations (1): Arthail Consumer of Food
 Until Dawn Cast (1): Ashley Brown
 Atlantis Crew (Disney) (1): Audrey Ramirez
 The Backyardigans (1): Austin
-Borderlands 2 Vault Hunters (1): Axton
 Arrowverse Main Cast (1): Barry Allen
 Overwatch Heroes (1): Bastion
 Ender's Jeesh (1): Bean
@@ -216,7 +215,6 @@ Exiles (Core) (1): Blink
 Paper Mario: The Origami King Cast (1): Bobby
 Raya and the Last Dragon Crew (1): Boun
 Legion of Superheroes (Core) (1): Brainiac 5
-Borderlands 1 Vault Hunters (1): Brick
 Straw Hat Pirates (1): Brook
 Battle Tendency Cast (1): Caesar Anthonio Zeppeli
 Zeppeli Family (1): Caesar Anthonio Zeppeli
@@ -234,6 +232,7 @@ C Company (Saving Private Ryan) (1): Captain John H. Miller
 Star Trek: The Original Series Crew (1): Captain Kirk
 The Nautilus Crew (1): Captain Nemo
 Super Pal Trio (1): Catra
+Dreemur Kids (1): Chara
 Interpol (1): Chun-Li
 Triwizard Tournament Competitors (1): Fleur Delacour
 Seven Soldiers of Victory (1): Green Arrow

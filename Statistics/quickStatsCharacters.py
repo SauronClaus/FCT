@@ -18,7 +18,15 @@ def quickStatsCharacters():
                 characterFile = open(basepath + "/" + entry, "r", encoding='utf8')
                 characterInfo = characterFile.read().split("\n")
                 if len(characterInfo) == 30:
-                    completedCharacters.append(entry[0:len(entry)-4:])
+                    weird = False
+                    for lineNum in range(len(characterInfo)):
+                        line = characterInfo[lineNum]
+                        if line[0:1:] in numbers and lineNum != 9:
+                            weird = True
+                            weirdCharacters.append(entry[0:len(entry)-4:])
+                            print(entry[0:len(entry)-4:])
+                    if weird == False:
+                        completedCharacters.append(entry[0:len(entry)-4:])
                 else:
                     if len(characterInfo) == 5:
                         undoneCharacters.append(entry[0:len(entry)-4:])
@@ -906,3 +914,6 @@ def quickStatsCharacters():
             tagFileByNumbers.write(tagString + "\n")
 
     print("Completed Characters Updates!")
+
+
+quickStatsCharacters()

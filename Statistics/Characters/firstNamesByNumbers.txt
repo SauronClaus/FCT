@@ -5,7 +5,6 @@ Samuel (4): Dr. Loomis, Dr. Samuel Hayden, Falcon, Sam Alexander
 Frisk (4): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Alan (3): Alan Bradley, Alan Scott, Alan Wake
 Alex (3): Alex DeLarge, Alex Fierro, Alex
-Amy (3): Amethyst, Amy Cahill, Amy Rose
 Anakin (3): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Barry (3): Barry Allen, Barry B. Benson, Barry Wheeler
 Bill (3): Bill Cipher, Bill Kerman, Bill Weasley
@@ -15,6 +14,7 @@ William (3): Guile, Maxwell, William Cage
 Kal (3): Kal-L, Superboy Prime, Superman
 Ruby (3): Ruby Rider, Ruby Rose, Ruby
 Alice (2): Alice Daerdahk, Alice Johnson
+Amy (2): Amethyst, Amy Rose
 Anna (2): Anna Croft, Anna
 Victor (2): Anole, Cyborg
 Ashley (2): Ashley Brown, Ashley Williams
@@ -31,6 +31,7 @@ Harrison (2): Harrison Truscott (Evil), Harrison Truscott
 Iris (2): Irey West, Iris West
 Jason (2): Jason Grace, Jason Todd
 Jonathan (2): Jonathan Harker, The Human Torch
+Kris (2): Kris, Susie
 Leia (2): Leia Organa (Old), Leia Organa
 Steven (2): Pearl, Steven Universe
 Sebastian (2): Sebastian Polge, Sebastian
@@ -64,7 +65,6 @@ Alucard (1): Alucard
 Alyx (1): Alyx
 Amadeus (1): Amadeus Cho
 Amanda (1): Amanda Waller
-Amara (1): Amara
 Amber O'Malley (1): Amazi-Girl
 America (1): America Chavez
 Amethyst (1): Amethyst (Steven Universe)
@@ -77,6 +77,7 @@ Ann (1): Ann Takamaki
 Annabeth (1): Annabeth Chase
 Annette (1): Annette
 Annie (1): Annie Montrose
+Anthonio (1): Anthonio Madrigal
 Anton (1): Anton Chigurh
 Aphelios (1): Aphelios
 Apollo (1): Apollo
@@ -102,7 +103,6 @@ Audrey (1): Audrey Ramirez
 Agustín (1): Augustin Madrigal
 Jeanne-Marie (1): Aurora
 Austin (1): Austin
-Axton (1): Axton
 Azula (1): Azula
 Baljeet (1): Baljeet Tjinder
 Banjo (1): Banjo
@@ -145,7 +145,6 @@ Boun (1): Boun
 Bow (1): Bow
 Querl (1): Brainiac 5
 Breach (1): Breach
-Brick (1): Brick
 Brimstone (1): Brimstone
 Brock (1): Brock
 Brom (1): Brom
