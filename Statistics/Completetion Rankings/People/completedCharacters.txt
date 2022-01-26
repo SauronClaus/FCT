@@ -2,6 +2,7 @@ Aang
 Abby Cadabby
 Abigail
 Abraham Van Helsing
+Abuela Alma Madrigal
 Adam Warlock
 Adora
 Adrian Monk
@@ -36,6 +37,7 @@ Amara
 Amazi-Girl
 America Chavez
 Amethyst
+Amethyst (Steven Universe)
 Amilyn Holdo
 Amos Kane
 Amy Cahill
@@ -80,6 +82,7 @@ Atomic Robo
 Atreus
 Atticus Finch
 Audrey Ramirez
+Augustin Madrigal
 Aurora
 Austin
 Axton
@@ -114,6 +117,7 @@ Bill Cipher
 Bill Kerman
 Bill Weasley
 Billy Pilgrim
+Bismuth
 Black Canary
 Black Lightning
 Black Panther
@@ -145,6 +149,7 @@ Brom
 Brook
 Brown Stupid Rat Creature
 Bruce Ng
+Bruno Madrigal
 Bucky Barnes
 Buford Van Stomm
 Byleth
@@ -153,6 +158,7 @@ C3PO
 Caesar Anthonio Zeppeli
 Cal Kestis
 Calypso
+Camilo Madrigal
 Candace Flynn
 Cannonball
 Captain Ahab
@@ -182,6 +188,7 @@ Chun-Li
 Claude
 Colin Frazer
 Colossus
+Connie Maheswaran
 Count Dooku
 Cowardly Lion
 Culverton Smith
@@ -202,6 +209,7 @@ Dick Grayson
 Dimitri
 Dipper Pines
 Doctor Eggman
+Dolores Madrigal
 Doomslayer
 Dorothea
 Dorothy Gale
@@ -225,6 +233,7 @@ Extortionist Hobo
 Falcon
 Fedora Turthin
 Felix
+Felix Madrigal
 Ferdinand
 Finn
 Flayn
@@ -238,6 +247,7 @@ Frisk (Neutral Route)
 Frisk (Pacifist Route)
 Fuzzy
 Gamora
+Garnet
 Garrik Doriana
 General Grievous
 Ginny Weasley
@@ -285,6 +295,7 @@ Iroh
 Iron Lad
 Iron Man
 Ironheart
+Isabela Madrigal
 Isabelle
 Jabba the Hutt
 Jai West
@@ -300,12 +311,14 @@ Jem Finch
 Jenkins
 Jesse Quick
 Jim Gordon
+John Proudstar
 John Seward
 John Stewart
 John Watson
 Jonathan Harker
 Jono Jenkins
 Jori-En Blurred
+Julieta Madrigal
 Juni Cortez
 Kal-L
 Kalathos Sunstrider
@@ -321,6 +334,7 @@ Kronya
 Kuiil
 Kylo Ren
 Lando Calrissian
+Lapis Lazuli
 Laurie Strode
 LeBron
 Leah
@@ -335,6 +349,7 @@ Lorana Ritten
 Lord Voldemort
 Lorenz
 Luigi
+Luisa Madrigal
 Luke Skywalker
 Lysithea
 M. Bison
@@ -360,6 +375,7 @@ Mettaton
 Michael Myers
 Miles Morales
 Mina Harker
+Mirabel Madrigal
 Miss Martian
 Misty
 Moana
@@ -384,8 +400,11 @@ Padme Amidala
 Pan
 Papyrus
 Pariah
+Pearl
 Penny
+Pepa Madrigal
 Percy Jackson
+Peridot
 Petra (Fire Emblem)
 Phoney Bone
 Piper McLean
@@ -411,6 +430,7 @@ Ron Weasley
 Ronan the Accuser
 Rosalina
 Rose Tico
+Ruby
 Ruby Rider
 Ruby Rose
 Rumy
@@ -421,6 +441,7 @@ Sam (Stardew Valley)
 Sam Alexander
 Samirah al-Abbas
 Sans
+Sapphire
 Scarecrow (Oz)
 Scarlet Witch
 Scorpion
@@ -452,8 +473,10 @@ Spy
 Squee
 Stanford Pines
 Star-Lord
+Steven Universe
 Storm
 Suki
+Sunfire
 Superboy Prime
 Supergirl
 Superman
@@ -487,7 +510,7 @@ Valentina Kerman
 Vikram Kommareddi
 Vision
 Viv Vision
-Vulture (MCU)
+Vulture
 Wally West
 Wally West II
 Walt Stone

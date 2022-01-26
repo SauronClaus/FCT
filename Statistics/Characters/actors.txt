@@ -52,9 +52,11 @@ Dwight Schultz (2): Barry Allen, Magneto
 Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
 Eric Jacobson (3): Bert, Glinda the Good Witch, Wicked Witch of the West
 Erica Lindbeck (3): Blaze the Cat, Carol Danvers, Psylocke
+Erica Luttrell (2): Ms. Marvel, Sapphire
 Ethan Chou (3): Arthas Menethil, Ethan Chou, Kalathos Sunstrider
 Frank Oz (3): Bert, Yoda, Yoda
 Fred Tatasciore (7): Beast, Drax the Destroyer, Groot, Hulk, Magneto, Qui-Gon Jinn, Ultron
+Gaku Space (2): Akuma, Sunfire
 Gary Schwartz (2): Demoman, Heavy
 George Buza (2): Beast, Magneto
 Gerald Mohr (2): Hal Jordan, Mr. Fantastic
@@ -82,6 +84,7 @@ Jeremy Irons (2): Alfred Pennyworth, Brom
 Jess Harnell (2): Cowardly Lion, Darth Maul
 Jessica Chisum (2): Princess Daisy, Princess Peach
 John DiMaggio (5): Aquaman, Colossus, General Grievous, Rocket Raccoon, Ronan the Accuser
+John Leguizamo (2): Bruno Madrigal, Luigi
 John Patrick Lowrie (2): Sniper, Soldier
 John Wesley Shipp (2): Barry Allen, Jay Garrick
 Jonathan Groff (2): Kristoff, Sven
@@ -122,7 +125,7 @@ Michael B. Jordan (2): Cyborg, The Human Torch
 Michael Bell (2): Cyclops, Hulk
 Michael Donovan (4): Count Dooku, Guile, Hulk, Jabba the Hutt
 Michael Gough (3): Alfred Pennyworth, Arthur Holmwood, Scarecrow (Oz)
-Michael Keaton (2): Batman, Vulture (MCU)
+Michael Keaton (2): Batman, Vulture
 Miss Piggy (2): Glinda the Good Witch, Wicked Witch of the West
 Neal McDonough (2): Damian Wayne, Hulk
 Neil Patrick Harris (3): Barry Allen, Dick Grayson, Spider-Man
@@ -162,6 +165,7 @@ Tony Daniels (2): Hawkeye, Wolverine
 Travis Willingham (6): Booster Gold, Captain Britain, Guile, Hulk, The Human Torch, Thor
 Trevor Devall (9): Boba Fett, Captain America, Colossus, Cyclops, Jango Fett, Jar Jar Binks, Nightcrawler, Rocket Raccoon, Sheev Palpatine
 Troy Baker (7): Alucard, Dick Grayson, Groot, Hawkeye, Jason Todd, Loki, Tim Drake
+Uzo Aduba (2): Bismuth, Glinda the Good Witch
 Vanessa Marshall (3): Black Canary, Black Widow, Gamora
 Wally Wingert (3): Hank Pym, Mr. Fantastic, Ultron
 Wendy Tremont King (2): Gran'ma Ben, Thorn Harvestar

@@ -1,87 +1,88 @@
 
-Avatar (TV Show) (1/45):
+Avatar (TV Show) (1/46):
 	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
-	-All (1/45): Avatar The Last Airbender
+	-All (1/46): Avatar The Last Airbender
 
-Band of Fools (1/45):
+Band of Fools (1/46):
 	-Band of Fools Original (1/1): Band of Fools (original)
-	-All (1/45): Band of Fools (original)
+	-All (1/46): Band of Fools (original)
 
-Bone (1/45):
+Bone (1/46):
 	-Bone (1/1): Bone
-	-All (1/45): Bone
+	-All (1/46): Bone
 
-Classic Literature (1/45):
+Classic Literature (1/46):
 	-Oz Books (1/1): Wizard of Oz
-	-All (1/45): Wizard of Oz
+	-All (1/46): Wizard of Oz
 
-DC (1/45):
+DC (1/46):
 	-DC Comics (1/1): Crisis on Infinite Earths
-	-All (1/45): Crisis on Infinite Earths
+	-All (1/46): Crisis on Infinite Earths
 
-Disney (14/45):
-	-Marvel (2/14): Guardians of the Galaxy, Guardians of the Galaxy Vol 2
-	-Star Wars (10/14): Mandalorian 1, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
-	-Moana (1/14): Moana
-	-Raya and the Last Dragon (1/14): Raya and the Last Dragon
-	-All (14/45): Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
+Disney (15/46):
+	-Encanto (1/15): Encanto
+	-Marvel (2/15): Guardians of the Galaxy, Guardians of the Galaxy Vol 2
+	-Star Wars (10/15): Mandalorian 1, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
+	-Moana (1/15): Moana
+	-Raya and the Last Dragon (1/15): Raya and the Last Dragon
+	-All (15/46): Encanto, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII
 
-Dracula (1/45):
+Dracula (1/46):
 	-Dracula (1/1): Dracula
-	-All (1/45): Dracula
+	-All (1/46): Dracula
 
-Edge of Tomorrow (1/45):
+Edge of Tomorrow (1/46):
 	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
-	-All (1/45): Edge of Tomorrow (film)
+	-All (1/46): Edge of Tomorrow (film)
 
-Fire Emblem (5/45):
+Fire Emblem (5/46):
 	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All (5/45): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/46): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Frozen (1/45):
+Frozen (1/46):
 	-Frozen (1/1): Frozen
-	-All (1/45): Frozen
+	-All (1/46): Frozen
 
-Halloween (1/45):
+Halloween (1/46):
 	-Halloween (1/1): Halloween
-	-All (1/45): Halloween
+	-All (1/46): Halloween
 
-Harry Potter (1/45):
+Harry Potter (1/46):
 	-Harry Potter (1/1): Harry Potter
-	-All (1/45): Harry Potter
+	-All (1/46): Harry Potter
 
-Indie Video Games (3/45):
+Indie Video Games (3/46):
 	-Undertale (3/3): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All (3/45): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (3/46): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Kindred (1/45):
+Kindred (1/46):
 	-Kindred (1/1): Kindred (novel)
-	-All (1/45): Kindred (novel)
+	-All (1/46): Kindred (novel)
 
-Mario (2/45):
+Mario (2/46):
 	-Mario (2/2): Mario 64, Mario Galaxy
-	-All (2/45): Mario 64, Mario Galaxy
+	-All (2/46): Mario 64, Mario Galaxy
 
-Marvel (4/45):
+Marvel (4/46):
 	-MCU (4/4): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
-	-All (4/45): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
+	-All (4/46): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
 
-Percy Jackson and the Olympians (1/45):
+Percy Jackson and the Olympians (1/46):
 	-Kane Chronicles (1/1): Kane Chronicles
-	-All (1/45): Kane Chronicles
+	-All (1/46): Kane Chronicles
 
-RWBY (1/45):
+RWBY (1/46):
 	-RWBY (1/1): RWBY
-	-All (1/45): RWBY
+	-All (1/46): RWBY
 
-Sherlock Holmes Shows (1/45):
+Sherlock Holmes Shows (1/46):
 	-BBC Shows (1/1): Sherlock
-	-All (1/45): Sherlock
+	-All (1/46): Sherlock
 
-Valve (1/45):
+Valve (1/46):
 	-Half-Life (1/1): Half Life 2
-	-All (1/45): Half Life 2
+	-All (1/46): Half Life 2
 
-id Software (2/45):
+id Software (2/46):
 	-Doom (2/2): Doom, Doom Eternal
-	-All (2/45): Doom, Doom Eternal
+	-All (2/46): Doom, Doom Eternal

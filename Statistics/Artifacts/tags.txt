@@ -50,6 +50,7 @@ Electric Power (1): Pikachu
 Elemental Weapon (1): Mjolnir
 Elements of Harmony (1): Element of Honesty (My Little Pony)
 Elvish-Forged (1): Sting
+Energy (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
 Environmental Protection (1): HEV Suit
 Evil (2): Nazelth, the Venom Symbiote
 Exosuit (1): Iron Man Suit
@@ -64,6 +65,8 @@ Force (1): Human SOUL
 Fragment (1): Iarno Albrek's Shattered Staff
 Gatling Gun (1): Barret's Gatling Gun-Arm (Final Fantasy VII)
 Gauntlet (2): Ember Celica, The Infinity Gauntlet
+Gauntlets (1): Garnet's Gauntlets
+Gem Weapon (7): Amethyst's Whip, Breaking Point, Connie's Sword, Garnet's Gauntlets, Limb Enhancers, Pearl's Spear, Rose's Shield
 Ghost-Slayer (1): Andúril
 Glaive (1): Osiris
 Glass (1): Iarno Albrek's Shattered Staff
@@ -81,6 +84,7 @@ Hatchet (1): The Hatchet
 Healing (1): Medi Gun
 Healing Gun (1): Medi Gun
 Heriditary (1): Atreus' Knife
+High-Tech (1): Breaking Point
 Historical Weapon (1): the One Ring
 Human-Trait (1): Human SOUL
 Iconic (3): Captain America's Shield, Iron Man Suit, Portal Gun
@@ -103,9 +107,10 @@ Lasso (1): The Lasso of Truth
 Legacy (1): The Shield of Heroes
 Legion of Superheroes (1): Legion Flight Ring
 Lightning (1): Mjolnir
+Limb Enhancers (1): Limb Enhancers
 MacGuffin (1): The Infinity Gauntlet
 Magic Space Rocks (1): The Soul Stone
-Magical (13): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Nazelth, Osiris, Riptide, Ruby Slippers, The Lasso of Truth, The Shield of Heroes, The Surprisingly Effective Dagger, The Sword of Summer (Jack), White Raven's Wrappings
+Magical (20): Amethyst's Whip, Breaking Point, Connie's Sword, Garnet's Gauntlets, Juno's Gladius, Katoptris, Leviathan Axe, Limb Enhancers, Maui's Fishhook, Nazelth, Osiris, Pearl's Spear, Riptide, Rose's Shield, Ruby Slippers, The Lasso of Truth, The Shield of Heroes, The Surprisingly Effective Dagger, The Sword of Summer (Jack), White Raven's Wrappings
 Magical Fire (1): The Deck of Green Cards
 Magical Paint (1): Marvelous Pigments
 Magical Quality (1): Element of Honesty (My Little Pony)
@@ -164,7 +169,7 @@ Sentient (10): Arrow of Dodona, Courtney, Festus, Nazelth, Osiris, Pikachu, Skee
 Shadaloo (1): The Tanden Engine
 Shadow Book (1): The Codex Umbra
 Shapeshifting (1): Maui's Fishhook
-Shield (3): Aegis Shield, Captain America's Shield, The Shield of Heroes
+Shield (4): Aegis Shield, Captain America's Shield, Rose's Shield, The Shield of Heroes
 Shoes (1): Ruby Slippers
 Shortsword (1): Sting
 Singing (1): Yaka Arrow Controller
@@ -174,11 +179,12 @@ Skull (1): San's Gaster Blaster
 Smoke (1): Eversmoking Bottle
 Soul (1): Human SOUL
 Space-Based (1): The Starheart (DC Comics)
-Spear (4): Lance of Ruin, Luin, Nazelth, Spear of Assal
+Spear (5): Lance of Ruin, Luin, Nazelth, Pearl's Spear, Spear of Assal
 Spellcasting Focus (1): Iarno Albrek's Shattered Staff
 Staff (2): Caduceus Staff, Loki's Scepter
 Street Fighter (1): The Tanden Engine
-Sword (14): Andúril, Blutgang, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Osiris, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
+Summoned (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
+Sword (15): Andúril, Blutgang, Connie's Sword, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Osiris, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Symbiote (1): the Venom Symbiote
 Tech (4): Crescent Rose, Iron Man Suit, Long Fall Boots, Portal Gun
 Teleportation (2): Portal Gun, Ruby Slippers
@@ -202,7 +208,7 @@ Wand (1): Thyrus
 Wands (1): The Elder Wand
 Waterfowl (1): Expand-o-Duck
 Weapon (1): Aang's Glider Staff
-Whip (1): The Lasso of Truth
+Whip (2): Amethyst's Whip, The Lasso of Truth
 Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
 Worthy (1): Mjolnir
 Wrappings (1): White Raven's Wrappings

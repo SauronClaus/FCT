@@ -1,24 +1,24 @@
-Characters (41.160000000000004%):
-   -512 completed characters.
-   -729 incomplete characters.
+Characters (42.19%):
+   -535 completed characters.
+   -728 incomplete characters.
    -0 characters with no restrictions.
    -0 unsubstitutable characters.
    -0 guild locked characters.
-   -3 unupdated characters.
-   -0 weird characters.
-   -1244 total characters.
-Franchises: (24.32%):
-   -45 completed franchises.
+   -4 unupdated characters.
+   -1 weird characters.
+   -1268 total characters.
+Franchises: (24.73%):
+   -46 completed franchises.
    -134 incomplete franchises.
    -3 unupdated franchises.
    -3 weird franchises.
-   -185 total franchises.
+   -186 total franchises.
 Artifacts: (100.0%):
-   -99 completed artifacts.
+   -106 completed artifacts.
    -0 incomplete artifacts.
    -0 unupdated artifacts.
    -0 weird artifacts.
-   -99 total artifacts.
+   -106 total artifacts.
 Adjectives: (100.0%):
    -85 completed adjectives.
    -0 incomplete adjectives.
@@ -31,9 +31,9 @@ Minions: (100.0%):
    -0 unupdated minions.
    -0 weird minions.
    -17 total minions.
-Variations: (100.0%):
-   -393 completed versions.
+Variations: (99.03%):
+   -407 completed versions.
    -0 incomplete versions.
    -0 unupdated versions.
-   -0 weird versions.
-   -393 total versions.
+   -4 weird versions.
+   -411 total versions.

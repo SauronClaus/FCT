@@ -1,3 +1,4 @@
+
 ATLA
 Adam West
 Adult
@@ -6,6 +7,7 @@ Amadeus Cho
 Amber O'Malley (Dumbing of Age)
 Amber O'Malley (Shortpacked!)
 Andrew Garfield
+Animated
 Animated
 Animated
 Animated
@@ -45,6 +47,8 @@ Classic
 Classic
 Classic
 Classic
+Classic
+Classic
 Classic (Comics)
 Clone Wars
 Clone Wars
@@ -52,6 +56,8 @@ Clone Wars
 Clone Wars
 Clone Wars
 Colin Frazer
+Comics
+Comics
 Comics
 Comics
 Comics
@@ -131,6 +137,7 @@ Earth-295
 Earth-616
 Eric Matterson
 Evil
+Evil Ryu
 Extremis
 Eye of Horus
 Eye of Isis
@@ -152,8 +159,11 @@ Films
 Flowey
 Force Ghost
 Force Ghost
+Future
+Future
 Future Foundation
 Galar
+Games
 Games
 Games
 Genocide
@@ -218,6 +228,7 @@ MCU
 MCU
 MCU
 MCU
+MCU
 MCU (Captain America)
 MCU (Falcon)
 Maestro
@@ -230,6 +241,7 @@ Mk. 1
 Mk. 3
 Mk. 85
 Modern
+Modern Age
 Modern Age
 Modern Age
 Modern Age
@@ -260,6 +272,7 @@ Patch
 Peter B. Parker (Into the Spiderverse)
 Photoshop Flowey
 Pokemon Let's Go!
+Post-Merging
 Post-Redemption
 Post-The Ring of Fire
 Post-Timeskip
@@ -286,6 +299,7 @@ Post-Timeskip
 Post-Timeskip
 Post-Timeskip
 Post-Timeskip
+Pre-Merging
 Pre-Redemption
 Pre-Redemption Arc
 Pre-The Ring of Fire

@@ -1,3 +1,4 @@
+Madrigal: Abuela Alma Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 Kane: Amos Kane, Carter Kane, Sadie Kane
 Rose: Amy Rose, Ruby Rose
 Skywalker: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
@@ -33,5 +34,6 @@ Harker: Jonathan Harker, Mina Harker
 Organa: Leia Organa (Old), Leia Organa
 Mario: Luigi, Mario
 Holmes: Mycroft Holmes, Sherlock Holmes
+Universe: Pearl, Steven Universe
 Maximoff: Quicksilver, Scarlet Witch
 El: Superboy Prime, Superman

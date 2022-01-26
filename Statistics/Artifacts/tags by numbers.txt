@@ -1,15 +1,18 @@
-Sword (14): Andúril, Blutgang, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Osiris, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
-Magical (13): Juno's Gladius, Katoptris, Leviathan Axe, Maui's Fishhook, Nazelth, Osiris, Riptide, Ruby Slippers, The Lasso of Truth, The Shield of Heroes, The Surprisingly Effective Dagger, The Sword of Summer (Jack), White Raven's Wrappings
+Magical (20): Amethyst's Whip, Breaking Point, Connie's Sword, Garnet's Gauntlets, Juno's Gladius, Katoptris, Leviathan Axe, Limb Enhancers, Maui's Fishhook, Nazelth, Osiris, Pearl's Spear, Riptide, Rose's Shield, Ruby Slippers, The Lasso of Truth, The Shield of Heroes, The Surprisingly Effective Dagger, The Sword of Summer (Jack), White Raven's Wrappings
+Sword (15): Andúril, Blutgang, Connie's Sword, Dragon Gem, Gambol Shroud, Juno's Gladius, Myrtenaster, Osiris, Raya's Whip Sword, Riptide, Sting, Sword of Protection, Sword of the Creator, The Sword of Summer (Jack), Thunderbrand
 Relic (Fire Emblem) (12): Aegis Shield, Areadbhar, Aymr, Blutgang, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand, Thyrus
 Sentient (10): Arrow of Dodona, Courtney, Festus, Nazelth, Osiris, Pikachu, Skeets, The Surprisingly Effective Dagger, The Sword of Summer (Jack), the Venom Symbiote
+Gem Weapon (7): Amethyst's Whip, Breaking Point, Connie's Sword, Garnet's Gauntlets, Limb Enhancers, Pearl's Spear, Rose's Shield
 Gun (6): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, Portal Gun, San's Gaster Blaster
+Spear (5): Lance of Ruin, Luin, Nazelth, Pearl's Spear, Spear of Assal
+Shield (4): Aegis Shield, Captain America's Shield, Rose's Shield, The Shield of Heroes
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
+Summoned (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
+Energy (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
 Dagger (4): Annabeth's Knife, Atreus' Knife, Katoptris, The Surprisingly Effective Dagger
 Demigod Weapons (4): Annabeth's Knife, Juno's Gladius, Katoptris, Riptide
 Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
 Tech (4): Crescent Rose, Iron Man Suit, Long Fall Boots, Portal Gun
-Spear (4): Lance of Ruin, Luin, Nazelth, Spear of Assal
-Shield (3): Aegis Shield, Captain America's Shield, The Shield of Heroes
 Celestial Bronze (3): Annabeth's Knife, Katoptris, Riptide
 Themed (3): Batarang, Batmobile, Batwing
 Sacred Weapon (3): Caduceus Staff, Spear of Assal, The Inexhaustable
@@ -22,6 +25,7 @@ Flight (2): Aang's Glider Staff, Ruby Slippers
 Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
 Construct (2): Alan Scott's Ring, Green Lantern Ring
 Lantern Corps (2): Alan Scott's Ring, Green Lantern Ring
+Whip (2): Amethyst's Whip, The Lasso of Truth
 Cursed Weapon (2): Annabeth's Knife, the One Ring
 Prophesized Weapon (2): Annabeth's Knife, Black Arrow (LOTR)
 Ammunition (2): Arrow of Dodona, Black Arrow (LOTR)
@@ -69,6 +73,7 @@ Plane (1): Batwing
 Bracers (1): Bracelets of Submission
 Bracelets (1): Bracelets of Submission
 Bullet-Deflecting (1): Bracelets of Submission
+High-Tech (1): Breaking Point
 Vibranium (1): Captain America's Shield
 Mech Suit (1): Combat Jacket (Edge of Tomorrow)
 Gliding (1): Courtney
@@ -91,6 +96,7 @@ Robot Animal (1): Festus
 Power-Up (1): Fire Flower
 Fire (1): Fire Flower
 Katana (1): Gambol Shroud
+Gauntlets (1): Garnet's Gauntlets
 Crowbar (1): Gordon Freeman's Crowbar
 Improvised Weapon (1): Gordon Freeman's Crowbar
 Bludgeoning (1): Gordon Freeman's Crowbar
@@ -114,6 +120,7 @@ Legion of Superheroes (1): Legion Flight Ring
 Two-Handed (1): Leviathan Axe
 Norse (1): Leviathan Axe
 Dwarven-Forged (1): Leviathan Axe
+Limb Enhancers (1): Limb Enhancers
 Mind Control (1): Loki's Scepter
 Boots (1): Long Fall Boots
 Fall Damage Reduction (1): Long Fall Boots
@@ -175,7 +182,6 @@ MacGuffin (1): The Infinity Gauntlet
 God-Item (1): The Infinity Gauntlet
 Cloak (1): The Invisiblity Cloak
 Invisibility (1): The Invisiblity Cloak
-Whip (1): The Lasso of Truth
 Lasso (1): The Lasso of Truth
 Truth-Forcing (1): The Lasso of Truth
 Ocean Vessel (1): The Nautilus

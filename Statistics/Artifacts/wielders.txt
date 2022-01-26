@@ -4,6 +4,7 @@ Adora (1): Sword of Protection
 Agent Venom (1): the Venom Symbiote
 Alan Scott (2): Alan Scott's Ring, The Starheart (DC Comics)
 Albus Dumbledore (1): The Elder Wand
+Amethyst (1): Amethyst's Whip
 Amy Rose (1): Piko Piko Hammer
 Annabeth Chase (1): Annabeth's Knife
 Annette (1): Crusher (Fire Emblem)
@@ -21,6 +22,7 @@ Batman (3): Batarang, Batmobile, Batwing
 Bernadetta (1): The Inexhaustable
 Bilbo Baggins (1): Sting
 Bilbo Baggins,Frodo Baggins,Sauron (1): the One Ring
+Bismuth (1): Breaking Point
 Blake Belladonna (1): Gambol Shroud
 Blitzen (1): Expand-o-Duck
 Booster Gold (2): Legion Flight Ring, Skeets
@@ -35,6 +37,7 @@ Cassie Lang (1): Pym Particles
 Catherine (1): Thunderbrand
 Chell (2): Long Fall Boots, Portal Gun
 Claude (1): Failnaught
+Connie Maheswaran (1): Connie's Sword
 Dimitri (1): Areadbhar
 Dorothy Gale (1): Ruby Slippers
 Edelgard (1): Aymr
@@ -46,6 +49,7 @@ Frisk (Genocide Route) (1): Human SOUL
 Frisk (Neutral Route) (1): Human SOUL
 Frisk (Pacifist Route) (1): Human SOUL
 Frodo Baggins (1): Sting
+Garnet (1): Garnet's Gauntlets
 Glynnric Manassnass (2): Eversmoking Bottle, Immovable Rod
 Gordon Freeman (2): Gordon Freeman's Crowbar, HEV Suit
 Hal Jordan (1): Green Lantern Ring
@@ -78,7 +82,9 @@ Maxwell (1): The Codex Umbra
 Medic (1): Medi Gun
 Mercedes (1): Rafail Gem
 Nadia van Dyne (1): Pym Particles
+Pearl (1): Pearl's Spear
 Percy Jackson (1): Riptide
+Peridot (1): Limb Enhancers
 Piper McLean (1): Katoptris
 Raya (1): Raya's Whip Sword
 Reithen Keiros (3): Courtney, The Surprisingly Effective Dagger, White Raven's Wrappings
@@ -92,6 +98,7 @@ Seteth (1): Spear of Assal
 Seth (1): The Tanden Engine
 Sombra (1): Machine Pistol
 Spider-Man (1): the Venom Symbiote
+Steven Universe (2): Breaking Point, Rose's Shield
 Sylvain (1): Lance of Ruin
 Thanos (2): The Infinity Gauntlet, The Soul Stone
 Thor (1): Mjolnir

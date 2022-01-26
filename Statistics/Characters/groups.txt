@@ -49,6 +49,9 @@ Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manas
 Confederacy of Independent Systems (3): Count Dooku, Darth Maul, General Grievous
 Contributors (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Cortez Family (2): Carmen Cortez, Juni Cortez
+Crystal Gems (Core) (4): Amethyst (Steven Universe), Garnet, Pearl, Steven Universe
+Crystal Gems (Extended) (10): Amethyst (Steven Universe), Bismuth, Connie Maheswaran, Garnet, Lapis Lazuli, Pearl, Peridot, Ruby, Sapphire, Steven Universe
+Crystal Gems Old Guard (4): Bismuth, Pearl, Ruby, Sapphire
 Death Eaters (1): Lord Voldemort
 Detective Skills|Tech|2 (1): Amy Ferrier
 Disney Princesses (3): Anna, Elsa, Moana
@@ -85,7 +88,7 @@ Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Future Foundation (1): Bentley-23
 GCPD (1): Jim Gordon
 Galactic Empire (3): Darth Vader, Grand Moff Tarkin, Sheev Palpatine
-Giant Sized X-Men #1 Team (6): Banshee, Colossus, Cyclops, Nightcrawler, Storm, Wolverine
+Giant Sized X-Men #1 Team (8): Banshee, Colossus, Cyclops, John Proudstar, Nightcrawler, Storm, Sunfire, Wolverine
 Golden Deer (9): Byleth, Claude, Hilda, Ignatz, Leonie, Lorenz, Lysithea, Marianne, Raphael
 Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
@@ -129,7 +132,7 @@ Koopa Troopa (2): Bowser Jr., Bowser
 League of Legends Champions (1): Aphelios
 Legion of Superheroes (Core) (1): Brainiac 5
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
-MCU Spider-Man Villains (1): Vulture (MCU)
+MCU Spider-Man Villains (1): Vulture
 Madeline Kopf's Permutations (2): Garrik Doriana, Lorana Ritten
 Magnus Chase First Quintet (4): Blitzen, Hearthstone, Magnus Chase, Samirah al-Abbas
 Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
@@ -137,6 +140,7 @@ Mandalorian (1): Jango Fett
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 Marvel's First Family (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Marvel's Floating Super-Hero Poker Game (1): The Thing
+Mirabel's Direct Family (5): Augustin Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal
 Mystery Shack Employees (5): Dipper Pines, Grunkle Stan, Mabel Pines, Soos Ramirez, Wendy Corduroy
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
 New Mutants (Core) (1): Cannonball
@@ -226,6 +230,7 @@ Tesladyne Industries (2): Atomic Robo, Jenkins
 The Backyardigans (1): Austin
 The Black Order (1): Thanos
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
+The Family Madrigal (11): Abuela Alma Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 The Mandalorian Cast (6): Cara Dune, Greef Karga, IG-11, Kuiil, The Child, The Mandalorian
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
@@ -259,7 +264,7 @@ West Coast Avengers (1): Hawkeye
 Wizard of Oz Crew (4): Cowardly Lion, Dorothy Gale, Scarecrow (Oz), Tin Woodman
 Wolverines (1): Wolverine
 X-Men (Core) (7): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm, Wolverine
-X-Men (Extended) (19): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Wolverine, Young Cyclops
+X-Men (Extended) (21): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, John Proudstar, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
 X-Men First Class (3): Angel, Beast, Cyclops
 Young Avengers (Extended) (3): America Chavez, Cassie Lang, Iron Lad
 Young Avengers Founders (1): Iron Lad

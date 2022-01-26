@@ -62,6 +62,7 @@ Matt Lanter (2): Agent Venom, Anakin Skywalker
 Logan Miller (2): Agent Venom, Sam Alexander
 Rosario Dawson (2): Ahsoka Tano, Barbara Gordon
 Zach Wiebe (2): Akkar, Zach Wiebe
+Gaku Space (2): Akuma, Sunfire
 Corey Burton (2): Alan Scott, Count Dooku
 Jude Law (2): Albus Dumbledore, John Watson
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
@@ -77,18 +78,20 @@ Christopher Gorham (2): Barry Allen, Wizard of Oz
 Alan Tudyk (2): Barry Allen, Green Arrow
 John Wesley Shipp (2): Barry Allen, Jay Garrick
 Dwight Schultz (2): Barry Allen, Magneto
-Michael Keaton (2): Batman, Vulture (MCU)
+Michael Keaton (2): Batman, Vulture
 George Buza (2): Beast, Magneto
 Kelsey Grammer (2): Beast, Tin Woodman
 Kate Mara (2): Beth Johanssen, The Invisible Woman
 Martin Freeman (2): Bilbo Baggins, John Watson
 Andrew Scott (2): Billy Pilgrim, James Moriarty
+Uzo Aduba (2): Bismuth, Glinda the Good Witch
 Khary Payton (2): Black Lightning, Cyborg
 Lucien Dodge (2): Blue, Felix
 Daniel Logan (2): Boba Fett, Boba Fett
 Billy West (2): Booster Gold, Rocket Raccoon
 Liam O'Brien (2): Brainiac 5, Nightcrawler
 Benedict Wong (2): Bruce Ng, Tong
+John Leguizamo (2): Bruno Madrigal, Luigi
 Sebastian Stan (2): Bucky Barnes, Dr. Chris Beck
 Chris Evans (2): Captain America, The Human Torch
 Brian Bloom (2): Captain America, Cyborg
@@ -156,6 +159,7 @@ Marc Graue (2): Luigi, Mario
 Julien Bardakoff (2): Luigi, Luigi
 Lou Albano (2): Mario, Mario
 Dorian Harewood (2): Martian Manhunter, War Machine
+Erica Luttrell (2): Ms. Marvel, Sapphire
 Jessica Chisum (2): Princess Daisy, Princess Peach
 Jen Taylor (2): Princess Daisy, Princess Peach
 Dennis Bateman (2): Pyro, Spy

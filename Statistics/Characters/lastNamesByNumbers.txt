@@ -1,3 +1,4 @@
+Madrigal (11): Abuela Alma Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 West (5): Irey West, Iris West, Jai West, Wally West II, Wally West
 Skywalker (4): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Weasley (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
@@ -33,6 +34,7 @@ Harker (2): Jonathan Harker, Mina Harker
 Organa (2): Leia Organa (Old), Leia Organa
 Mario (2): Luigi, Mario
 Holmes (2): Mycroft Holmes, Sherlock Holmes
+Universe (2): Pearl, Steven Universe
 Maximoff (2): Quicksilver, Scarlet Witch
 El (2): Superboy Prime, Superman
 Cadabby (1): Abby Cadabby
@@ -137,6 +139,7 @@ Li (1): Chun-Li
 von Riegan (1): Claude
 Frazer (1): Colin Frazer
 Rasputin (1): Colossus
+Maheswaran (1): Connie Maheswaran
 Dooku (1): Count Dooku
 Smith (1): Culverton Smith
 Franklin (1): Dana Franklin
@@ -197,6 +200,7 @@ Grace (1): Jason Grace
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
 Chambers (1): Jesse Quick
+Proudstar (1): John Proudstar
 Seward (1): John Seward
 Stewart (1): John Stewart
 Watson (1): John Watson
@@ -206,6 +210,7 @@ Par-Al (1): Kareem Par-Al
 Masters (1): Ken
 Bjorgman (1): Kristoff
 Calrissian (1): Lando Calrissian
+Lazuli (1): Lapis Lazuli
 Strode (1): Laurie Strode
 Valdez (1): Leo Valdez
 Pinelli (1): Leonie
@@ -263,6 +268,7 @@ Ramírez (1): Soos Ramirez
 Parker (1): Spider-Man
 Quill (1): Star-Lord
 Munroe (1): Storm
+Yoshida (1): Sunfire
 Zor-El (1): Supergirl
 Gautier (1): Sylvain
 Kā (1): Te Ka
@@ -278,7 +284,7 @@ Beifong (1): Toph Beifong
 Lee (1): Ty Lee
 Kommareddi (1): Vikram Kommareddi
 Vision (1): Viv Vision
-Toomes (1): Vulture (MCU)
+Toomes (1): Vulture
 Rhodes (1): War Machine
 Schnee (1): Weiss Schnee
 Corduroy (1): Wendy Corduroy
