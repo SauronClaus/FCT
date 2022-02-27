@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Male
-Eternal,Immortal,Superhero,Manipulator,Psychic
+Eternal,Immortal,Manipulator,Psychic,Superheroes
 City
 High
 Eternals

@@ -13,7 +13,7 @@ Monster
 Good
 Supporting Protagonist
 Female
-Hero,Magic User,Lightner,Anxious,Shy,Pixelated,Monster,Romantic Subplot|Susie,LGBTQ+,Crush|Susie,Childhood Friends|Kris,Animal-Person
+Animal-Person,Anxious,Childhood Friends|Kris,Crush|Susie,LGBTQ+,Lightner,Magic User,Monster,Pixelated,Romantic Subplot|Susie,Shy
 Modified Human
 Medium
 The Fun Gang

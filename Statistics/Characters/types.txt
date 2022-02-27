@@ -25,7 +25,7 @@ Chairman (1): Dr. Samuel Hayden
 Chef (1): Boun
 Child (3): Austin, Terrence the Baby Tarrasque, The Child
 Chosen One (2): Byleth, Steven Universe
-Civilian (39): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
+Civilian (40): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bert, Big Bird, Bruno Madrigal, Camilo Madrigal, Candace Flynn, Colin Frazer, Connie Maheswaran, Dana Franklin, Dapper Cyclops, Dipper Pines, Dolores Madrigal, Ernie, Ethan Chou, Felix Madrigal, Grunkle Stan, Harrison Truscott, Isabela Madrigal, Jem Finch, Jonathan Harker, Jono Jenkins, Julieta Madrigal, Karun Patel, Kuiil, LeBron, Long Jim, Luisa Madrigal, Mabel Pines, Mina Harker, MJ Watson (MCU), Pepa Madrigal, Quincey Morris, Scout Finch, Sebastian Polge, Soos Ramirez, Vikram Kommareddi, Wendy Corduroy, Zach Wiebe
 Cleric (1): Mercedes
 Con Artist (4): Dyan, Noi, Pan, Uka
 Conman (1): Phoney Bone
@@ -45,9 +45,11 @@ Dreamer (1): Alice Johnson
 Emperor (1): Ozai
 Empress (1): Edelgard
 Engineer (2): Audrey Ramirez, Engineer
-Evil King (2): Asgore, Bowser
+Evil King (3): Asgore, Bowser, King
 Evil Priest (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
 Evil Prince (1): Bowser Jr.
+Evil Queen (1): Queen
+Evil Ruler (1): Briar Harvestar
 Exile (2): Flowey, Jar Jar Binks
 Explorer (4): Bastion, Captain Nemo, Kristoff, Sven
 Explosions Expert (1): Demoman
@@ -62,7 +64,7 @@ Guard (1): Fedora Turthin
 Guardian (4): Blaze the Cat, Sisu, Te Ka, Toriel
 Guardsman (3): Papyrus, Sans, Undyne
 Hacker (1): Sombra
-Hero (3): Kris, Sonic the Hedgehog, Susie
+Hero (7): Berdly, Kris, Lancer, Noelle Holiday, Ralsei, Sonic the Hedgehog, Susie
 Hitman (1): Anton Chigurh
 Hive Mind Primary (1): Omega (Edge of Tomorrow)
 Hoarder (1): Tamatoa
@@ -70,6 +72,8 @@ Hobo (1): Extortionist Hobo
 Hooligan (1): Alex DeLarge
 Horror Game Character (1): Ashley Brown
 Huntress (4): Blake Belladonna, Ruby Rose, Weiss Schnee, Yang Xiao Long
+Immortal Adversitary (1): Kro
+Immortal Protector (10): Ajak, Druig, Gilgamesh, Ikaris, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
 Inventor (3): Doctor Eggman, Dr. Bunsen Honeydew, Leo Valdez
 Jedi (7): Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
 Jedi Knight (2): Ahsoka Tano, Anakin Skywalker
@@ -82,7 +86,7 @@ Martial Artist (2): Akuma, Caesar Anthonio Zeppeli
 Mastermind (1): Seth
 Medic (1): Medic
 Mercenary (4): Cara Dune, Sniper, Soldier, Spy
-Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Minion (3): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Kingdok
 Monster Hunter (1): Alucard
 Musician (2): Animal, Brook
 Naval Captain (1): Captain George Pollard Jr.
@@ -119,6 +123,7 @@ Reporter (1): Iris West
 Rich Guy (1): Arthur Holmwood
 Rogue (2): Alex Fierro, Araithia Shokta
 Saintess (1): Flayn
+Salesperson (1): Spamton
 Scholar (1): Linhardt
 Scientist (2): Alphys, Gordon Freeman
 Secret Agent (2): Carmen Cortez, Juni Cortez

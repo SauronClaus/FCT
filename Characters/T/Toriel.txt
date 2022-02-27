@@ -13,7 +13,7 @@ Goat Monster
 Good
 Supporting Protagonist
 Female
-Adoptive Mother,Bad Jokes,Ex|Asgore,Exile,Furred,Maternal,Nobility,Pixelated,Queen,Royalty,Ruler,Teacher,Animal-Person
+Adoptive Mother,Animal-Person,Bad Jokes,Ex|Asgore,Exile,Furred,Maternal,Nobility,Pixelated,Queen,Royalty,Ruler,Teacher
 Baseline
 Medium
 Undertale Pacifist Friends

@@ -13,7 +13,7 @@ Monster
 Good
 Supporting Protagonist
 Male
-Axes,Lightner,Geek/Nerd,Annoying,Tech User,Pixelated,Monster,Bird-Themed,Animal-Person
+Animal-Person,Annoying,Axes,Bird-Themed,Geek/Nerd,Lightner,Monster,Pixelated,Tech
 Modified Human
 Medium
 

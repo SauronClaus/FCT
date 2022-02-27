@@ -13,7 +13,7 @@ Rat Creature
 Evil
 Antagonist
 Male
-Big,Ruler,Evil King,Evil Ruler,Lackey
+Big,Evil Ruler,King,Ruler
 Modified Human
 Medium
 Rat Creature Horde (Bone)

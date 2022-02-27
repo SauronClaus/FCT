@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Female
-Eternal,Immortal,Superhero,Speedsters,Thief,Silent
+Eternal,Immortal,Silent,Speedsters,Superheroes,Thief
 City
 High
 Eternals

@@ -13,7 +13,7 @@ Koopa
 Evil
 Antagonist
 Male
-Koopa,Nobility,Parent Child|Bowser,Prankster,Prince(ess),Royalty,Super Smash Bros,Tech
+Koopa,Nobility,Parent Child|Bowser,Prankster,Prince(ss),Royalty,Super Smash Bros,Tech
 Modified Human
 High
 Super Smash Bros,Koopa Troopa

@@ -13,7 +13,7 @@ Monster
 Evil
 Supporting Protagonist
 Male
-Darkner,Abused,Pixelated,Monster,Idiot,Prankster,Trickster,Redemption Arc,Reformed,Parent Child|King,Incomptent
+Abused,Darkner,Idiot,Incomptent,Monster,Parent Child|King,Pixelated,Prankster,Redemption Arc,Reformed,Trickster
 Modified Human
 High
 The Fun Gang

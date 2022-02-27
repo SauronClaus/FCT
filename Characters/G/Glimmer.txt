@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Best Friends Squad,Nobility,Photokinesis,Prince(ess),Queen,Rebel,Rebellion (She-Ra),Romantic Subplot|Bow,Royalty,Ruler,Teleportation,The Princess Alliance
+Best Friends Squad,Nobility,Photokinesis,Prince(ss),Queen,Rebel,Rebellion (She-Ra),Romantic Subplot|Bow,Royalty,Ruler,Teleportation,The Princess Alliance
 Modified Human
 Low
 Best Friends Squad,The Rebellion (She-Ra),The Princess Alliance

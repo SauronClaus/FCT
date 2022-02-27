@@ -13,7 +13,7 @@ Monster
 Evil
 Antagonist
 Female
-Darkner,Pixelated,Monster,Evil Ruler,Queen,Incomptent,Tech
+Darkner,Evil Ruler,Incomptent,Monster,Pixelated,Queen,Tech
 City
 Medium
 

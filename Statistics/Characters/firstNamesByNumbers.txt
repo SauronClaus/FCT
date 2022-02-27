@@ -31,7 +31,6 @@ Harrison (2): Harrison Truscott (Evil), Harrison Truscott
 Iris (2): Irey West, Iris West
 Jason (2): Jason Grace, Jason Todd
 Jonathan (2): Jonathan Harker, The Human Torch
-Kris (2): Kris, Susie
 Leia (2): Leia Organa (Old), Leia Organa
 Steven (2): Pearl, Steven Universe
 Sebastian (2): Sebastian Polge, Sebastian
@@ -50,6 +49,7 @@ Aerith (1): Aerith Gainsborough
 Agatha (1): Agatha
 Eugene (1): Agent Venom
 Ahsoka (1): Ahsoka Tano
+Ajak (1): Ajak
 Akihide (1): Akihide Karatsu
 Akkar (1): Akkar
 Akuma (1): Akuma
@@ -120,6 +120,7 @@ Julian (1): Bean
 Garfield (1): Beast Boy
 Hank (1): Beast
 Bentley (1): Bentley-23
+Berdly (1): Berdly
 Bernadetta (1): Bernadetta
 Bert (1): Bert
 Beth (1): Beth Johanssen
@@ -145,6 +146,7 @@ Boun (1): Boun
 Bow (1): Bow
 Querl (1): Brainiac 5
 Breach (1): Breach
+Briar (1): Briar Harvestar
 Brimstone (1): Brimstone
 Brock (1): Brock
 Brom (1): Brom
@@ -197,6 +199,7 @@ Dorothea (1): Dorothea
 Dorothy (1): Dorothy Gale
 Bunsen (1): Dr. Bunsen Honeydew
 Christopher (1): Dr. Chris Beck
+Druig (1): Druig
 Dyan (1): Dyan
 Edelgard (1): Edelgard
 Ego (1): Ego
@@ -222,6 +225,7 @@ Gamora (1): Gamora
 Garnet (1): Garnet
 Garrik (1): Garrik Doriana
 Qymaen (1): General Grievous
+Gilgamesh (1): Gilgamesh
 Ginevra (1): Ginny Weasley
 Glimmer (1): Glimmer
 Glinda (1): Glinda the Good Witch
@@ -251,6 +255,7 @@ Hope (1): Hope van Dyne
 Hubert (1): Hubert
 Robert (1): Hulk
 Ignatz (1): Ignatz
+Ikaris (1): Ikaris
 IKCFAMWSIIF (1): IKCFAMWSIIF
 Ingrid (1): Ingrid
 Iroh (1): Iroh
@@ -274,16 +279,23 @@ Julieta (1): Julieta Madrigal
 Juni (1): Juni Cortez
 Kalathos (1): Kalathos Sunstrider
 Kareem (1): Kareem Par-Al
+Karun (1): Karun Patel
 Katara (1): Katara
 Kazooie (1): Kazooie
 Ken (1): Ken
 Makyr (1): Khan Makyr
+King (1): King
+Kingdok (1): Kingdok
+Kingo (1): Kingo
 Korra (1): Korra
 Kratos (1): Kratos
+Kris (1): Kris
 Kristoff (1): Kristoff
+Kro (1): Kro
 Kronya (1): Kronya
 Kuiil (1): Kuiil
 Ben (1): Kylo Ren
+Lancer (1): Lancer
 Lando (1): Lando Calrissian
 Lapis (1): Lapis Lazuli
 Laurie (1): Laurie Strode
@@ -306,6 +318,7 @@ Mace (1): Mace Windu
 Max (1): Magneto
 Magnus (1): Magnus Chase
 Mai (1): Mai
+Makkari (1): Makkari
 Mallory (1): Mallory Keen
 Marianne (1): Marianne
 Mario (1): Mario
@@ -332,6 +345,7 @@ Nahara (1): Nahara
 Namaari (1): Namaari
 Nebula (1): Nebula
 Kurt (1): Nightcrawler
+Noelle (1): Noelle Holiday
 Noi (1): Noi
 Jean-Paul (1): Northstar
 Obi-Wan (1): Obi-Wan Kenobi
@@ -346,15 +360,18 @@ Pepa (1): Pepa Madrigal
 Percy (1): Percy Jackson
 Peridot (1): Peridot
 Petra (1): Petra (Fire Emblem)
+Phastos (1): Phastos
 Phoncible (1): Phoney Bone
 Piper (1): Piper McLean
 Poe (1): Poe Dameron
 Daisy (1): Princess Daisy
 Peach (1): Princess Peach
 Elizabeth (1): Psylocke
+Queen (1): Queen
 Qui-Gon (1): Qui-Gon Jinn
 Pietro (1): Quicksilver
 Quincey (1): Quincey Morris
+Ralsei (1): Ralsei
 Raphael (1): Raphael
 Raya (1): Raya
 Red (1): Red (Pokemon)
@@ -377,6 +394,7 @@ Wanda (1): Scarlet Witch
 Hanzo (1): Scorpion
 Jean (1): Scout Finch
 Jeremy (1): Scout
+Sersi (1): Sersi
 Seteth (1): Seteth
 Seth (1): Seth
 Shamir (1): Shamir
@@ -393,12 +411,15 @@ Olivia (1): Sombra
 Sonic (1): Sonic the Hedgehog
 Jesus (1): Soos Ramirez
 Sothis (1): Sothis
+Spamton (1): Spamton
+Sprite (1): Sprite
 Squee (1): Squee
 Stanford (1): Stanford Pines
 Ororo (1): Storm
 Suki (1): Suki
 Shiro (1): Sunfire
 Kara (1): Supergirl
+Susie (1): Susie
 Sven (1): Sven
 Sylvain (1): Sylvain
 Tamatoa (1): Tamatoa
@@ -411,6 +432,7 @@ Grogu (1): The Child
 Susan (1): The Invisible Woman
 Din (1): The Mandalorian
 Benjamin (1): The Thing
+Thena (1): Thena
 Thomas (1): Thomas Jefferson Jr.
 Thor (1): Thor
 Thorn (1): Thorn Harvestar

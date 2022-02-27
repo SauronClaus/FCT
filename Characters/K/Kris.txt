@@ -13,7 +13,7 @@ Human
 Depends
 Protagonist
 Androgynous
-Hero,Swords,Lightner,Chosen One,Leader,Silent,Player Character,Adopted,Pixelated,Possessed,Sharing Body,Soul Powers,Childhood Friends|Noelle Holiday
+Adopted,Childhood Friends|Noelle Holiday,Chosen One,Leader,Lightner,Pixelated,Player Character,Possessed,Sharing Body,Silent,Soul Powers,Swordsman
 Modified Human
 High
 The Fun Gang,Dreemurr Humans

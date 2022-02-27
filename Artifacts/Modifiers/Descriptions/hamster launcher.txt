@@ -1,0 +1,3 @@
+hamster launcher
+A cannon that shoots hamsters.
+https://live.staticflickr.com/5469/8856100153_2eac517101_z.jpg

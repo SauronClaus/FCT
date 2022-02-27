@@ -13,7 +13,7 @@ Bone
 Good
 Protagonist
 Female
-Chosen One,Dream Powers,Exile,Exiled Royalty,Nobility,Prince(ess),Queen,Romantic Subplot|Fone Bone,Royalty,Ruler
+Chosen One,Dream Powers,Exile,Exiled Royalty,Nobility,Prince(ss),Queen,Romantic Subplot|Fone Bone,Royalty,Ruler
 Modified Human
 Medium
 Bone Main Cast,Valley Inhabitants (Bone)

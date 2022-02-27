@@ -13,7 +13,7 @@ Demigod
 Good
 Protagonist
 Female
-Amazon,Justice League,Justice League Dark,Legend,Nobility,Paragon,Parent Child|Hippolyta,Powerhouse,Prince(ess),Royalty,Strong,Superheroes,Superheroes,Trinity (DC)
+Amazon,Justice League,Justice League Dark,Legend,Nobility,Paragon,Parent Child|Hippolyta,Powerhouse,Prince(ss),Royalty,Strong,Superheroes,Superheroes,Trinity (DC)
 Country
 High
 Justice League (Core),Justice League (Extended),Justice League (film),Justice League Unlimited,Amazons,Trinity (DC),Justice League Founder

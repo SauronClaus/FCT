@@ -4,6 +4,7 @@ X-Men (Extended) (21): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Canno
 Super Smash Bros (14): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 The Family Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Eternals (11): Ajak, Druig, Gilgamesh, Ikaris, Karun Patel, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
 The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 Teen Titans (Extended) (11): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Supergirl, Tim Drake, Wally West II, Wally West
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
@@ -63,6 +64,7 @@ Sith Lord (5): Count Dooku, Darth Maul, Darth Vader, Sheev Palpatine, Snoke
 Mystery Shack Employees (5): Dipper Pines, Grunkle Stan, Mabel Pines, Soos Ramirez, Wendy Corduroy
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
+The Fun Gang (5): Kris, Lancer, Noelle Holiday, Ralsei, Susie
 Sesame Street Residents (4): Abby Cadabby, Bert, Big Bird, Ernie
 Best Friends Squad (4): Adora, Bow, Catra, Glimmer
 The Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
@@ -86,6 +88,7 @@ Pines Family (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Noi's Family (4): Dyan, Noi, Pan, Uka
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
+Friends from College (Eternals) (4): Ikaris, Phastos, Sersi, Sprite
 Unbroken Cast 1 (4): IKCFAMWSIIF, Lorana Ritten, Reithen Keiros, Yekkon Shmalakis
 Sherlock (TV Show) Cast (4): Inspector Lestrade, John Watson, Mycroft Holmes, Sherlock Holmes
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
@@ -116,12 +119,14 @@ Justice League International (3): Batman, Booster Gold, Ted Kord
 Star Wars Droids (3): BB-8, C3PO, R2-D2
 Teen Titans (Core) (3): Beast Boy, Dick Grayson, Wally West
 Teen Titans Go! Cast (3): Beast Boy, Cyborg, Dick Grayson
+Rat Creature Horde (Bone) (3): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Kingdok
 Kanto Gym Leaders (3): Blue, Brock, Misty
 Star Wars Bounty Hunters (3): Boba Fett, Jabba the Hutt, Jango Fett
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
 Harrison Truscott's Permutations (3): Byllemura Ruby-Eye, Harrison Truscott (Evil), Harrison Truscott
 Big Three (Marvel) (3): Captain America, Iron Man, Thor
 Shazam Family (3): Captain Marvel Jr., Captain Marvel, Mary Marvel
+Dreemurr Humans (3): Chara, Frisk, Kris
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
 Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
 Server Owners (3): Colin Frazer, Jono Jenkins, Zach Wiebe
@@ -132,7 +137,6 @@ Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
 Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
-Dreemurr Humans (3): Frisk, Kris, Susie
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
 Those Who Slither in the Dark (3): Kronya, Solon, Thales
@@ -160,7 +164,6 @@ Birds of Prey (Core) (2): Barbara Gordon, Black Canary
 Birds of Prey (Extended) (2): Barbara Gordon, Black Canary
 Outsiders (2): Batman, Black Lightning
 Ares III Mission Crew (2): Beth Johanssen, Dr. Chris Beck
-Rat Creature Horde (Bone) (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Champions (Pokemon) (2): Blue, Red (Pokemon)
 Koopa Troopa (2): Bowser Jr., Bowser
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
@@ -179,7 +182,6 @@ Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Amazons (2): Hippolyta, Wonder Woman
 Exiles (2): Iron Lad, Psylocke
 Kaeshev Alapati's Permutations (2): Jori-En Blurred, Squee
-The Fun Gang (2): Kris, Susie
 Shadaloo (2): M. Bison, Seth
 Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 Spider-People (2): Miles Morales, Spider-Man
@@ -232,7 +234,6 @@ C Company (Saving Private Ryan) (1): Captain John H. Miller
 Star Trek: The Original Series Crew (1): Captain Kirk
 The Nautilus Crew (1): Captain Nemo
 Super Pal Trio (1): Catra
-Dreemur Kids (1): Chara
 Interpol (1): Chun-Li
 Triwizard Tournament Competitors (1): Fleur Delacour
 Seven Soldiers of Victory (1): Green Arrow

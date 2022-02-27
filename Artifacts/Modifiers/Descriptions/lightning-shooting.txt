@@ -1,0 +1,3 @@
+lightning-shooting
+With the ability to shoot lightning.
+https://en.wikipedia.org/wiki/Lightning

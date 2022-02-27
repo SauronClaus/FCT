@@ -41,6 +41,8 @@ Bruce Banner
 Bruce Wayne
 Burt Ward
 Captain Marvel
+Chapter 1
+Chapter 2
 Child
 Christopher Reeves
 Classic
@@ -129,6 +131,11 @@ DC TV Shows
 DC TV Shows
 DC TV Shows
 Dark Knight Trilogy
+Dark World
+Dark World
+Dark World
+Dark World
+Deltarune
 Demon
 Devil Hulk
 Donald Blake
@@ -252,6 +259,7 @@ Nightwing (Modern Age)
 Nightwing (Original)
 Normal
 Normal
+Normal
 Old (Comics)
 Old Ben Kenobi
 Old Thor
@@ -265,6 +273,10 @@ Original Trilogy
 Original Trilogy
 Original Trilogy
 Original Trilogy
+Overworld
+Overworld
+Overworld
+Overworld
 Pacifist
 Pacifist Route and Neutral Route
 Padmé Amidala
@@ -365,6 +377,7 @@ Sinnoh
 Sinnoh
 Solo film
 Solon
+Spamton NEO
 Stinger (Comics)
 Symbiote Suit (Comics)
 Te Fiti
@@ -386,6 +399,7 @@ Tobey MacGuire
 Tom Riddle
 Tomas
 Twitch Plays Pokemon
+Undertale
 Undyne the Undying
 Unova
 Video Game

@@ -10,41 +10,42 @@ characters = {}
 
 
 for tagSet in tagsList:
-    tagSetList = tagSet.split("; ")
-    tag = tagSetList[0]
-    #print(str(tagSetList))
-    peopleAttachedFull = tagSetList[1]
-    peopleAttached = peopleAttachedFull.split(", ")
-    for character in peopleAttached:
-        #print(character)
-        if len(character.split("|")) == 1:
-            tagsExpended = []
-            if character == "":
-                print("Error: " + tag)
-            try:
-                characters[character].append(tag)
-            except:
-                characters[character] = []
-                characters[character].append(tag)
-        else:
-            #print("-" + character)
-            charactersNames = character.split("|")
-            characterName = charactersNames[0]
-            pairedName = charactersNames[1]
-            firstLetter = characterName[0:1:]
-            if firstLetter in numbers:
-                firstLetter = "#"
-            tagsExpended = []
-            characterFile = open("Characters\\" + firstLetter + "\\" + characterName + ".txt", "r", encoding='utf8')
-            characterInfo = characterFile.read().split("\n")
+    if tagSet != "":
+        tagSetList = tagSet.split("; ")
+        tag = tagSetList[0]
+        #print(str(tagSetList))
+        peopleAttachedFull = tagSetList[1]
+        peopleAttached = peopleAttachedFull.split(", ")
+        for character in peopleAttached:
+            #print(character)
+            if len(character.split("|")) == 1:
+                tagsExpended = []
+                if character == "":
+                    print("Error: " + tag)
+                try:
+                    characters[character].append(tag)
+                except:
+                    characters[character] = []
+                    characters[character].append(tag)
+            else:
+                #print("-" + character)
+                charactersNames = character.split("|")
+                characterName = charactersNames[0]
+                pairedName = charactersNames[1]
+                firstLetter = characterName[0:1:]
+                if firstLetter in numbers:
+                    firstLetter = "#"
+                tagsExpended = []
+                characterFile = open("Characters\\" + firstLetter + "\\" + characterName + ".txt", "r", encoding='utf8')
+                characterInfo = characterFile.read().split("\n")
 
-            if characterName == "":
-                print("Error: " + tag)
-            try:
-                characters[characterName].append(tag + "|" + pairedName)
-            except:
-                characters[characterName] = []
-                characters[characterName].append(tag + "|" + pairedName)
+                if characterName == "":
+                    print("Error: " + tag)
+                try:
+                    characters[characterName].append(tag + "|" + pairedName)
+                except:
+                    characters[characterName] = []
+                    characters[characterName].append(tag + "|" + pairedName)
 
 
 

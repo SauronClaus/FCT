@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Male
-Eternal,Immortal,Superhero,Genius,Inventor,Tech User,Tech,LGBTQ+
+Eternal,Genius,Immortal,Inventor,LGBTQ+,Superheroes,Tech,Tech
 City
 High
 Eternals,Friends from College (Eternals)

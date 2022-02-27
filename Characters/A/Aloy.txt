@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Chosen One,Clone,Machine Hunter,Nature,Tribal
+Chosen One,Clone,Machine Hunter,Nature,Tribal,Trick Arrows
 Modified Human
 Medium
 

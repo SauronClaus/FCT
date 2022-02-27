@@ -13,7 +13,7 @@ Monster
 Good
 Protagonist
 Female
-Hero,Axes,Lightner,Chosen One,Bully,Abused,Pixelated,Monster,Romantic Subplot|Noelle Holiday,LGBTQ+
+Abused,Axes,Bully,Chosen One,LGBTQ+,Lightner,Monster,Pixelated,Romantic Subplot|Noelle Holiday
 Modified Human
 High
 The Fun Gang

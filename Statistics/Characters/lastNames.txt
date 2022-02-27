@@ -13,6 +13,7 @@ Wayne: Batman, Damian Wayne
 Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Fett: Boba Fett, Jango Fett
 Carter: Booster Gold, Maxwell
+Harvestar: Briar Harvestar, Gran'ma Ben, Thorn Harvestar
 Braddock: Captain Britain, Psylocke
 Freeman: Captain Marvel Jr., Gordon Freeman
 Batson: Captain Marvel, Mary Marvel
@@ -23,7 +24,6 @@ Summers: Cyclops, Young Cyclops
 Pines: Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Howlett: Doomslayer, Wolverine
 Bone: Fone Bone, Phoney Bone, Smiley Bone
-Harvestar: Gran'ma Ben, Thorn Harvestar
 Solo: Han Solo (Old), Han Solo, Kylo Ren
 Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne

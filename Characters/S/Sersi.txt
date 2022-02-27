@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Female
-Matter Manipulation,Eternal,Immortal,Superhero,Teacher
+Eternal,Immortal,Matter Manipulation,Superheroes,Teacher
 City
 High
 Eternals,Friends from College (Eternals)
@@ -21,7 +21,7 @@ Eternals,Friends from College (Eternals)
 Movies
 MCU
 
-Forest Green
+Dark Green
 
 Disney
 Sebastian

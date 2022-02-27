@@ -55,8 +55,7 @@ Disney Princesses (3): Anna, Elsa, Moana
 Doom Patrol (Extended) (1): Beast Boy
 Door Monster Creations (2): Extortionist Hobo, LeBron
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
-Dreemur Kids (1): Chara
-Dreemurr Humans (3): Frisk, Kris, Susie
+Dreemurr Humans (3): Chara, Frisk, Kris
 Dumbing of Age Main Cast (1): Amazi-Girl
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 ENCOM (1): Alan Bradley
@@ -64,6 +63,7 @@ Einharjar (Magnus Chase) (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mal
 Electric Mayhem (1): Animal
 Ender's Jeesh (1): Bean
 Essex Crew (1): Captain George Pollard Jr.
+Eternals (11): Ajak, Druig, Gilgamesh, Ikaris, Karun Patel, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
 Ethan Chou's Permutations (2): Ethan Chou, Kalathos Sunstrider
 Eureka! Citizens (1): Allison Blake
 Excalibur (Marvel) (1): Psylocke
@@ -82,6 +82,7 @@ First Order (Star Wars) (2): Captain Phasma, Kylo Ren
 Flash Family (9): Barry Allen, Bart Allen, Irey West, Jai West, Jay Garrick, Jesse Quick, Max Mercury, Wally West II, Wally West
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Flynn-Fletcher Family (1): Candace Flynn
+Friends from College (Eternals) (4): Ikaris, Phastos, Sersi, Sprite
 Friendship Main Squad (My Little Pony) (1): Applejack
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
 Future Foundation (1): Bentley-23
@@ -164,7 +165,7 @@ Phineas and Ferb Main Child Group (2): Baljeet Tjinder, Buford Van Stomm
 Pines Family (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Player Characters (Pokemon) (1): Red (Pokemon)
 Pokemon Anime Kanto Trio (3): Ash Ketchum, Brock, Misty
-Rat Creature Horde (Bone) (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
+Rat Creature Horde (Bone) (3): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Kingdok
 Raya and the Last Dragon Crew (1): Boun
 Raya's Band of Wanderers (8): Dyan, Namaari, Noi, Pan, Raya, Sisu, Tong, Uka
 Rebel Alliance (Star Wars) (10): C3PO, Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Leia Organa (Old), Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
@@ -231,7 +232,7 @@ The Backyardigans (1): Austin
 The Black Order (1): Thanos
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
 The Family Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
-The Fun Gang (2): Kris, Susie
+The Fun Gang (5): Kris, Lancer, Noelle Holiday, Ralsei, Susie
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 The Mandalorian Cast (6): Cara Dune, Greef Karga, IG-11, Kuiil, The Child, The Mandalorian
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew

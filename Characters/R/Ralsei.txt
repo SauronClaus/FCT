@@ -13,7 +13,7 @@ Monster
 Good
 Protagonist
 Male
-Hero,Magic User,Healer,Furry,Darkner,Chosen One,Shy,Nice,Cheerful,Pixelated,Monster,Animal-Person
+Animal-Person,Cheerful,Chosen One,Darkner,Furred,Healer,Magic User,Monster,Nice,Pixelated,Shy
 Modified Human
 High
 The Fun Gang

@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Female
-Eternal,Immortal,Superhero,Trickster,Prankster,Illusions,Traitor,Redemption Arc,Looks-Like-Child-But-Is-Actually-Old,Crush|Ikaris
+Crush|Ikaris,Eternal,Illusions,Immortal,Looks-Like-Child-But-Is-Actually-Old,Prankster,Redemption Arc,Superheroes,Traitor,Trickster
 City
 High
 Eternals,Friends from College (Eternals)

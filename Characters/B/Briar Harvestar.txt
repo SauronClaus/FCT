@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Female
-Dream Powers,Exile,Exiled Royalty,Corrupted,Old,Princess,Royalty,Ruler,Mysterious,Possessed,Siblings|Gran'ma Ben  
+Corrupted,Dream Powers,Exile,Exiled Royalty,Mysterious,Old,Possessed,Royalty,Ruler,Siblings|Gran'ma Ben  Bruno Madrigal
 Modified Human
 Medium
 

@@ -13,7 +13,7 @@ Skeleton
 Good
 Supporting Protagonist
 Male
-Bad Jokes,Fourth-Wall Breaking,Guardian,Guardsman,Jokester,Lazy,Merciless,Pixelated,Royal Guardsman,Ruthless,Scientist,Short,Siblings|Papyrus,Skeleton
+Bad Jokes,Fourth-Wall Breaking,Guardian,Guardsman,Jokester,Lazy,Merciless,Pixelated,Royal Guardsman,Ruthless,Scientist,Short,Siblings|Papyrus,Skeleton,Undead
 Baseline
 High
 Undertale Pacifist Friends,Royal Guardsmen (Undertale)

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Female
-Bird-Themed,Birds of Prey,Justice League,Romantic Subplot|Green Arrow,Superheroes
+Bird-Themed,Birds of Prey,Justice League,Romantic Subplot|Green Arrow,Sound Powers,Superheroes
 Baseline
 Medium
 Justice League (Extended),Birds of Prey (Core),Birds of Prey (Extended)

@@ -1,4 +1,4 @@
 High (24): Age of Ultron, Avatar The Last Airbender, Avengers I, Captain America Civil War, Doom, Doom Eternal, Dracula, Frozen, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Harry Potter, Mandalorian 1, Moana, Spider-Man Homecoming, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII, Wizard of Oz
-Medium (13): Crisis on Infinite Earths, Edge of Tomorrow (film), Encanto, Half Life 2, Halloween, Kane Chronicles, Mario 64, Mario Galaxy, RWBY, Raya and the Last Dragon, Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+Medium (15): Crisis on Infinite Earths, Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route), Edge of Tomorrow (film), Encanto, Eternals, Half Life 2, Halloween, Kane Chronicles, Mario 64, Mario Galaxy, RWBY, Raya and the Last Dragon, Undertale (Neutral Route)
+Low (6): Band of Fools (original), Bone, Kindred (novel), Sherlock, Undertale (Genocide Route), Undertale (Pacifist Route)
 Very Low (5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-Low (4): Band of Fools (original), Bone, Kindred (novel), Sherlock

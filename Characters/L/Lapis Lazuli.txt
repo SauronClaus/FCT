@@ -13,7 +13,7 @@ Gem
 Good
 Protagonist
 Female
-Alien,Anxious,Blue,Crystal Gem,Exile,Gem,Introvert,Magic Entity,Musical,Ocean,Really Old,Rebel,Redemption Arc,Shy,Traumatized,Water Powers,Water Powers
+Alien,Anxious,Blue,Crystal Gem,Exile,Gem,Introvert,Magic Entity,Musical,Ocean,Really Old,Rebel,Redemption Arc,Shy,Traumatized,Water Powers
 Modified Human
 Medium
 Crystal Gems (Extended)

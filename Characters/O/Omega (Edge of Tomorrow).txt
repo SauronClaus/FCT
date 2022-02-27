@@ -13,7 +13,7 @@ Mimic (Alien)
 Evil
 Antagonist
 Not Applicable
-Alien,Hive Mind,Invader,Massive,Reality Loop,Time Loop
+Alien,Hive Mind,Invader,Massive,Time Loop
 City
 Medium
 

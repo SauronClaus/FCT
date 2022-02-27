@@ -13,7 +13,7 @@ Monster
 Evil
 Antagonist
 Male
-Darkner,Bully,Pixelated,Monster,Evil Ruler,King,Parent Child|Lancer
+Bully,Darkner,Evil Ruler,King,Monster,Parent Child|Lancer,Pixelated
 City
 Medium
 

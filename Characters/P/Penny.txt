@@ -13,7 +13,7 @@ Human
 Good
 NPC
 Female
-Abusive Childhood,LGBTQ+,Pixelated,Reader,Stardew Valley Bachelorettes,Teacher
+Abused,LGBTQ+,Pixelated,Reader,Stardew Valley Bachelorettes,Teacher
 Baseline
 Low
 Stardew Valley Bachelorettes,Stardew Valley Residents

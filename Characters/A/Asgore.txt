@@ -13,7 +13,7 @@ Goat Monster
 Neutral
 Antagonist
 Male
-Big,Evil Ruler,Ex|Toriel,Furred,King,Nobility,Pixelated,Reluctant Villain,Royalty,Animal-Person
+Animal-Person,Big,Evil Ruler,Ex|Toriel,Furred,King,Nobility,Pixelated,Reluctant Villain,Royalty
 City
 Medium
 

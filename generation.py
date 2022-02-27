@@ -35,14 +35,13 @@ def generate(guildID):
     RNG = random.randint(0,len(franchises)-1)
     print("Chose " + franchises[RNG] + " (" + str(RNG) + "/" + str(len(franchises)) + ")")
     franchiseName = franchises[RNG]
-
     firstChar = franchiseName[0:1:]
     if firstChar in numbers:
         firstChar = "#"
+    
     print("Opening path to " + franchiseName + ": Franchises\\" + firstChar + "\\" + franchiseName + ".txt")
     print("\n")
     
-
     franchiseFile = open("Franchises\\" + firstChar + "\\" + franchiseName + ".txt", "r", encoding='utf8')
     franchiseInfo = franchiseFile.read().split("\n")
     

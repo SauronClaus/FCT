@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Male
-Eternal,Immortal,Superhero,Actor,Bollywood,Indian
+Actor,Bollywood,Eternal,Immortal,Indian,Right-Hand Man Leader|Karun Patel,Superheroes
 City
 High
 Eternals

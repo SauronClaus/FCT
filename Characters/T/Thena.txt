@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Female
-Eternal,Immortal,Superhero,Warrior,Slightly Insane,Berserker,Nemesis|Kro
+Berserker,Eternal,Immortal,Nemesis|Kro,Slightly Insane,Superheroes
 City
 High
 Eternals

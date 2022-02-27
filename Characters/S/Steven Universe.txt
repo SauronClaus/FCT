@@ -13,7 +13,7 @@ Human-Gem Hybrid
 Good
 Protagonist
 Male
-Charismatic,Cheerful,Child,Child Soldier,Chosen One,Crystal Gem,Dream Powers,Force Fields,Guardian,Healing,Hybrid,Iconic,Immortal,Innocent,Kind,Leader,Monster Hunter,Moral Compass,Most Powerful,Musical,Musician,Naive,Nobility,Parent of Species,Pink,Prince(ess),Psychic,Reincarnation,Romantic Subplot|Connie Maheswaran,Shield Generation,Shields,Singer,The Therapist,Traumatized,Young
+Charismatic,Cheerful,Child,Child Soldier,Chosen One,Crystal Gem,Dream Powers,Force Fields,Guardian,Healing,Hybrid,Iconic,Immortal,Innocent,Kind,Leader,Monster Hunter,Moral Compass,Most Powerful,Musical,Musician,Naive,Nice,Nobility,Parent of Species,Pink,Prince(ss),Psychic,Pure,Reincarnation,Romantic Subplot|Connie Maheswaran,Shield Generation,Shields,Singer,The Therapist,Traumatized,Young
 City
 High
 Crystal Gems (Core),Crystal Gems (Extended)

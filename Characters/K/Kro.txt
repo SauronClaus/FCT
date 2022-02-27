@@ -13,7 +13,7 @@ Deviant
 Evil
 Antagonist
 Male
-Deviant,Immortal,Power Stealing,Nemesis|Thena
+Deviant,Immortal,Nemesis|Thena,Power Stealing
 City
 Medium
 

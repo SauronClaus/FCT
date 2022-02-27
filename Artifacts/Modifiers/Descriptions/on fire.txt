@@ -1,0 +1,3 @@
+on fire
+The object is set on fire. This fire does not hurt the wielder, but can hurt other people and can spread.
+https://en.wikipedia.org/wiki/Fire

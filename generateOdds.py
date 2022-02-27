@@ -108,3 +108,56 @@ def chooseVersion(subVersions):
     version = swapList[RNG]
     print(version + " chosen!")
     return version
+
+def chooseArtifact(genList, subArtifactName, subArtifactInfo, origArtifactName, origArtifactInfo, guildID): 
+    subArtifactRarity = subArtifactInfo[12]
+    if True == True:
+        if subArtifactRarity == "Very Low":
+            RNG = random.randint(1,2)
+            if RNG == 1:
+                genList.append(subArtifactName)
+            if subArtifactRarity == "Very Low*":
+                RNG = random.randint(1,100)
+                if RNG == 13:
+                    print(">>>>>>>>>>>>>>>EVIL HARRISON PICKED<<<<<<<<<<<<<<<")
+                    for x in range(100):
+                        genList.append(subArtifactName)
+            if subArtifactRarity == "Low":
+                genList.append(subArtifactName)
+            if subArtifactRarity == "Medium":
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+            if subArtifactRarity == "High":
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+        else:
+            #print("Found Rarity: " + subRarity)
+            if subArtifactRarity == "Very Low":
+                RNG = random.randint(1,2)
+                if RNG == 1:
+                    genList.append(subArtifactName)
+                    genList.append(subArtifactName)
+            if subArtifactRarity == "Very Low*":
+                RNG = random.randint(1,100)
+                if RNG == 13:
+                    print(">>>>>>>>>>>>>>>EVIL HARRISON PICKED<<<<<<<<<<<<<<<")
+                    for x in range(100):
+                        genList.append(subArtifactName)
+            if subArtifactRarity == "Low":
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+            if subArtifactRarity == "Medium":
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+            if subArtifactRarity == "High":
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+                genList.append(subArtifactName)
+
+    return genList  

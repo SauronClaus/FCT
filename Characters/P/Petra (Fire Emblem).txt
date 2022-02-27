@@ -13,7 +13,7 @@ Human
 Good
 Party Member
 Female
-Black Eagles (Fire Emblem),Fighter-Princess,Foreign,Nobility,Prince(ess),Royalty,Swordsman
+Black Eagles (Fire Emblem),Fighter-Princess,Foreign,Nobility,Prince(ss),Royalty,Swordsman
 Baseline
 Low
 Black Eagles

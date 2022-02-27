@@ -13,7 +13,7 @@ Mutant
 Good
 Protagonist
 Male
-Charismatic,Eye Powers,Iconic,Leader,Mutant,Paragon,Rebel,Superheroes,X-Men,X-Men First Class
+Charismatic,Eye Powers,Iconic,Laser,Leader,Mutant,Paragon,Rebel,Superheroes,X-Men,X-Men First Class
 City
 High
 X-Men (Core),X-Men First Class,X-Men (Extended),Giant Sized X-Men #1 Team

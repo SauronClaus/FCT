@@ -13,7 +13,7 @@ Robot
 Good
 Protagonist
 Male
-Artificial,Genius,Immortal,Robot,Science Power,Tech,Tesla-Tech,Webcomics
+Artificial,Genius,Immortal,Robot,Science Powered,Tech,Tesla-Tech,Webcomics
 City
 Low
 Tesladyne Industries

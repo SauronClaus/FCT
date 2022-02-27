@@ -13,7 +13,7 @@ Monster
 Evil
 Antagonist
 Male
-Darkner,Pixelated,Sales Man,Con Man,Secret Boss,Catchphrase
+Catchphrase,Con Artist,Darkner,Pixelated,Sales Man
 City
 High
 

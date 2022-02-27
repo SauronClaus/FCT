@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Depends
-Black Eagles (Fire Emblem),Blue Lions (Fire Emblem),Chosen One,Crest,Demigod,Dragonslayer|Rhea,Fisherman,Golden Deer (Fire Emblem),Knights of Seiros (Fire Emblem),Most Powerful,Player Character,Possessing Possessed|Sothis,Relic Wielder,Sharing Body,The Therapist
+Black Eagles (Fire Emblem),Blue Lions (Fire Emblem),Chosen One,Crest,Demigod,Dragonslayer|Rhea,Fisherman,Golden Deer (Fire Emblem),Knights of Seiros (Fire Emblem),Most Powerful,Player Character,Possessed,Possessing Possessed|Sothis,Relic Wielder,Sharing Body,The Therapist
 City
 High
 Black Eagles,Blue Lions,Golden Deer,Knights of Seiros

@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Male
-Eternal,Immortal,Superhero,Muscles,Cheerful,Chef
+Cheerful,Chef,Eternal,Immortal,Muscles,Superheroes
 City
 High
 Eternals

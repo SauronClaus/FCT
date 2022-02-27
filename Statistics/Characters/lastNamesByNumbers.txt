@@ -6,6 +6,7 @@ Kerman (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Pines (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Kane (3): Amos Kane, Carter Kane, Sadie Kane
 Finch (3): Atticus Finch, Jem Finch, Scout Finch
+Harvestar (3): Briar Harvestar, Gran'ma Ben, Thorn Harvestar
 Bone (3): Fone Bone, Phoney Bone, Smiley Bone
 Solo (3): Han Solo (Old), Han Solo, Kylo Ren
 van Dyne (3): Hope van Dyne, Janet van Dyne, Nadia Van Dyne
@@ -27,7 +28,6 @@ Lang (2): Cassie Lang, Scott Lang
 Stone (2): Cyborg, Walt Stone
 Summers (2): Cyclops, Young Cyclops
 Howlett (2): Doomslayer, Wolverine
-Harvestar (2): Gran'ma Ben, Thorn Harvestar
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
 Jenkins (2): Jenkins, Jono Jenkins
 Harker (2): Jonathan Harker, Mina Harker
@@ -206,6 +206,7 @@ Watson (1): John Watson
 L (1): Kal-L
 Sunstrider (1): Kalathos Sunstrider
 Par-Al (1): Kareem Par-Al
+Patel (1): Karun Patel
 Masters (1): Ken
 Bjorgman (1): Kristoff
 Calrissian (1): Lando Calrissian
@@ -237,6 +238,7 @@ Rambeau (1): Monica Rambeau
 Qi (1): Mr. Qi
 Khan (1): Ms. Marvel
 Wagner (1): Nightcrawler
+Holiday (1): Noelle Holiday
 Kenobi (1): Obi-Wan Kenobi
 Naberrie (1): Padme Amidala
 Mossa (1): Pariah
@@ -264,6 +266,7 @@ Palpatine (1): Sheev Palpatine
 Mundy (1): Sniper
 Colomar (1): Sombra
 Ramírez (1): Soos Ramirez
+Spamton (1): Spamton
 Parker (1): Spider-Man
 Quill (1): Star-Lord
 Munroe (1): Storm

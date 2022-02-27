@@ -10,6 +10,7 @@ Aerith Gainsborough
 Agatha
 Agent Venom
 Ahsoka Tano
+Ajak
 Akihide Karatsu
 Akkar
 Akuma
@@ -54,6 +55,7 @@ Annabeth Chase
 Annette
 Annie Montrose
 Anole
+Anthonio Madrigal
 Anti-Monitor
 Anton Chigurh
 Aphelios
@@ -107,6 +109,7 @@ Bean
 Beast
 Beast Boy
 Bentley-23
+Berdly
 Bernadetta
 Bert
 Beth Johanssen
@@ -142,6 +145,7 @@ Bowser Jr.
 Brainiac 5
 Breach
 Brian Robeson
+Briar Harvestar
 Brick
 Brimstone
 Brock
@@ -219,6 +223,7 @@ Dr. Loomis
 Dr. Samuel Hayden
 Dracula
 Drax the Destroyer
+Druig
 Dyan
 Edelgard
 Ego
@@ -250,6 +255,7 @@ Gamora
 Garnet
 Garrik Doriana
 General Grievous
+Gilgamesh
 Ginny Weasley
 Glimmer
 Glinda the Good Witch
@@ -287,6 +293,7 @@ Hulk
 IG-11
 IKCFAMWSIIF
 Ignatz
+Ikaris
 Ingrid
 Inspector Lestrade
 Irey West
@@ -323,16 +330,23 @@ Juni Cortez
 Kal-L
 Kalathos Sunstrider
 Kareem Par-Al
+Karun Patel
 Katara
 Kazooie
 Ken
 Khan Makyr
+King
+Kingdok
+Kingo
 Korra
 Kratos
+Kris
 Kristoff
+Kro
 Kronya
 Kuiil
 Kylo Ren
+Lancer
 Lando Calrissian
 Lapis Lazuli
 Laurie Strode
@@ -359,6 +373,7 @@ Mace Windu
 Magneto
 Magnus Chase
 Mai
+Makkari
 Mallory Keen
 Mantis
 Marianne
@@ -390,6 +405,7 @@ Nahara
 Namaari
 Nebula
 Nightcrawler
+Noelle Holiday
 Noi
 Northstar
 Obi-Wan Kenobi
@@ -406,6 +422,7 @@ Pepa Madrigal
 Percy Jackson
 Peridot
 Petra (Fire Emblem)
+Phastos
 Phoney Bone
 Piper McLean
 Poe Dameron
@@ -413,10 +430,12 @@ Princess Daisy
 Princess Peach
 Psylocke
 Pyro
+Queen
 Qui-Gon Jinn
 Quicksilver
 Quincey Morris
 R2-D2
+Ralsei
 Raphael
 Raya
 Red (Pokemon)
@@ -450,6 +469,7 @@ Scout
 Scout Finch
 Sebastian
 Sebastian Polge
+Sersi
 Seteth
 Seth
 Shamir
@@ -468,7 +488,9 @@ Sombra
 Sonic the Hedgehog
 Soos Ramirez
 Sothis
+Spamton
 Spider-Man
+Sprite
 Spy
 Squee
 Stanford Pines
@@ -480,6 +502,7 @@ Sunfire
 Superboy Prime
 Supergirl
 Superman
+Susie
 Sven
 Sylvain
 Tamatoa
@@ -493,6 +516,7 @@ The Human Torch
 The Invisible Woman
 The Mandalorian
 The Thing
+Thena
 Thomas Jefferson Jr.
 Thor
 Thorn Harvestar

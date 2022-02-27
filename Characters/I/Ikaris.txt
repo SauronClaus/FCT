@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Male
-Eternal,Immortal,Superhero,Traitor,Super-Strength,Laser Vision,Strong,Paragon
+Eternal,Immortal,Laser,Paragon,Strong,Superheroes,Traitor
 City
 High
 Eternals,Friends from College (Eternals)

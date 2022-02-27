@@ -13,7 +13,7 @@ Human
 Neutral
 Protagonist
 Male
-Angsty,Blue Lions (Fire Emblem),Childhood Friends|Sylvain,Childhood Friends|Ingrid,Childhood Friends|Felix,Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prideful,Prince(ess),Relic Wielder,Royalty,Ruler,Traumatized,Unkempt
+Angsty,Blue Lions (Fire Emblem),Childhood Friends|Sylvain,Childhood Friends|Ingrid,Childhood Friends|Felix,Crest,House Leaders (Fire Emblem),King,Lances,Master Servant|Dedue,Nobility,Prideful,Prince(ss),Relic Wielder,Royalty,Ruler,Traumatized,Unkempt
 Baseline
 Medium
 Blue Lions,House Leaders (Fire Emblem),Royal Childhood Friends (Blue Lions)
