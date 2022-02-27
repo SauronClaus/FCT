@@ -1,4 +1,30 @@
 Gimli
 Lord of the Rings
+Gimli, son of Glóin, was a Dwarf of the House of Durin and a member of the Fellowship of the Ring. Unlike other Dwarves, he readily fought alongside Elves in the War of the Ring against Sauron at the end of the Third Age. After the defeat of Sauron, in the early Fourth Age, he was given the lordship over the Glittering Caves at Helm's Deep. 
+https://static.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest/scale-to-width-down/700?cb=20121008105956
+https://lotr.fandom.com/wiki/Gimli
+Gimli
+Son of Glóin
+Gimli, Son of Glóin|Gimli|Elf-friend|Lockbearer|Lord of the Glittering Caves
+John Rhys-Davies|David Buck
+101|10
+Adventurer
+Hobbit
+Good
+Protagonist
+Male
+Dwarf,Fellowship of the Ring,Warrior,Fighter,Duo|Legolas
+Baseline
+High
+Fellowship of the Ring
+
+Books,Movies
+Lord of the Rings
+
+Silver
+
+Allen & Unwin
+Sebastian
 
 
+No

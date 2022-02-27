@@ -1,4 +1,30 @@
 Samwise Gamgee
 Lord of the Rings
+Samwise Gamgee, known as Sam, was a hobbit of the Shire. He was Frodo Baggins' gardener and best friend. Sam proved himself to be Frodo's closest and most dependable companion, the most loyal of the Fellowship of the Ring, and played a critical role in protecting Frodo and destroying the One Ring. 
+https://static.wikia.nocookie.net/lotr/images/2/20/Sam.jpg/revision/latest/scale-to-width-down/620?cb=20070623123241
+https://lotr.fandom.com/wiki/Samwise_Gamgee
+Samwise
+Gamgee
+Samwise Gamgee|Sam|Perhael|Banazîr Galbasi|Samwise Gardner
+Sean Astin|Vladimir Matveev|Michael Scholes|Roddy McDowall
+38|3
+Adventurer
+Hobbit
+Good
+Protagonist
+Male
+Hobbit/Halfling,Reluctant Hero,Ring-Bearer,Fellowship of the Ring,Duo|Frodo Baggins,Red Hair,Chef,Gardener
+Baseline
+High
+Fellowship of the Ring
+
+Books,Movies
+Lord of the Rings
+
+Red
+
+Allen & Unwin
+Sebastian
 
 
+No
