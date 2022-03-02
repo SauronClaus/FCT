@@ -15,7 +15,7 @@ Protagonist
 Female
 Genius,Inventor,LGBTQ+,Monster Hunter,Prosthetic,Romantic Subplot|Blake Belladonna,Siblings|Ruby Rose
 Baseline
-Medium
+Low
 Team RWBY
 I Burn|https://open.spotify.com/track/2dPe9cYwR1oWclYqs8fIlY?si=074303e3cc8b4301
 TV Shows,CGI

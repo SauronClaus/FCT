@@ -55,7 +55,7 @@ def quickStatsVersions():
     readFile = open("Statistics\\Versions\\rarities.txt", "w",encoding='utf8')
     sortedDict = sorted(rarities, key=rarities.get, reverse=True)
     for entry in sortedDict:
-        print(str(entry) + ": " + str(rarities[entry]))
+        #print(str(entry) + ": " + str(rarities[entry]))
         assemble = str(entry) + " (" + str(rarities[entry]) + "):"
         writeArray = []
         if entry == "High":
@@ -72,7 +72,7 @@ def quickStatsVersions():
         readFile.write(assemble[0:len(assemble)-1:] + "\n")
     
 
-    print(quickStatNum)
+    #print(quickStatNum)
 
     statsFile.write(quickStatNum)
 

@@ -14,7 +14,6 @@ Chris Hartley
 Chrisjen Avasarala
 Chrom
 Cid Highwind
-Circe
 Cirilla Fiona Elen Riannon
 Cisco
 Cliff Steelspike
@@ -54,7 +53,6 @@ Darius
 Darkeater Midir
 Daruk
 Darunia
-Dash Parr
 Data
 Deadshot
 Desmond Miles
@@ -92,7 +90,6 @@ EDI
 Ed Tom Bell
 El Diablo
 Elasti-Girl
-Elastigirl
 Eleven
 Elias Stork
 Elise
@@ -132,9 +129,7 @@ Franklin Richards
 Franky
 Fred Weasley
 Freddy Krueger
-Frodo Baggins
 Frothen Threewords
-Frozone
 Funshine Bear
 Futaba Sakura
 G-Man
@@ -143,7 +138,6 @@ Gaige
 Galasso
 Gale Hawthorne
 Gambit
-Gandalf
 Gangplank
 Garrus Vakarian
 Genji
@@ -152,7 +146,6 @@ George Weasley
 Geralt of Rivia
 Gideon Jura
 Gilderoy Lockhart
-Gimli
 Giorno Giovanna
 Giovanni
 Glob Herman
@@ -302,7 +295,6 @@ Lee Hyunsung
 Lee Jihye
 Lee Jordan
 Legion
-Legolas
 Leland Stottlemeyer
 Leon Kowalski
 Leslie Bean
@@ -359,7 +351,6 @@ Melina
 Meowth
 Mera
 Merrin
-Merry Brandybuck
 Meta Knight
 Michael Burnam
 Michael De Santa
@@ -390,7 +381,6 @@ Mouse Finbar
 Moze
 Mr. Game and Watch
 Mr. Hooper
-Mr. Incredible
 Mr. L
 Mr. Noodle
 Mr. Resetti
@@ -435,7 +425,6 @@ Nova
 Nymphadora Tonks
 Oaken
 Obsidean
-Odysseus
 Officer K
 Ogabith Wisend
 Okuyasu Nijimura
@@ -551,7 +540,6 @@ Samantha Cook
 Samara
 Sameen Shaw
 Samus Aran
-Samwise Gamgee
 Sandy
 Saphira
 Sarah Ross
@@ -664,7 +652,6 @@ Valentine
 Valerie Richards
 Vaughn
 Vector the Crocodile
-Venom
 Vergil
 Vi
 Victor Frankenstein
@@ -676,7 +663,6 @@ Vincent Kapoor
 Vincent Valentine
 Vincenzo Santorini
 Vinsmoke Sanji
-Violet Parr
 Viper
 Virgil
 Vladek Spiegelman

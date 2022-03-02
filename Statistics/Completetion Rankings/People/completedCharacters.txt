@@ -19,12 +19,15 @@ Alan Scott
 Alan Wake
 Albus Dumbledore
 Alex
+Alex (Minecraft)
 Alex DeLarge
 Alex Fierro
 Alexander Luthor Jr.
 Alfred Pennyworth
 Alice Daerdahk
 Alice Johnson
+All for One
+All-Might
 Allison Blake
 Ally
 Alois
@@ -46,6 +49,7 @@ Amy Ferrier
 Amy Rose
 Anakin Skywalker
 Anakin Skywalker (Young)
+Anan Kurose
 Angel
 Animal
 Ann Takamaki
@@ -55,9 +59,9 @@ Annabeth Chase
 Annette
 Annie Montrose
 Anole
-Anthonio Madrigal
 Anti-Monitor
 Anton Chigurh
+Antonio Madrigal
 Aphelios
 Apollo
 Applejack
@@ -82,6 +86,7 @@ Ashley Williams
 Athena
 Atomic Robo
 Atreus
+Atsuhiro Sako
 Atticus Finch
 Audrey Ramirez
 Augustin Madrigal
@@ -162,6 +167,7 @@ C3PO
 Caesar Anthonio Zeppeli
 Cal Kestis
 Calypso
+Calypso (The Odyssey)
 Camilo Madrigal
 Candace Flynn
 Cannonball
@@ -188,7 +194,9 @@ Catra
 Chara
 Chell
 Chewbacca
+Chiyo Shuzenji
 Chun-Li
+Circe
 Claude
 Colin Frazer
 Colossus
@@ -198,16 +206,20 @@ Cowardly Lion
 Culverton Smith
 Cyborg
 Cyclops
+Dabi
 Damian Wayne
 Dana Franklin
 Dapper Cyclops
 Darth Maul
 Darth Vader
+Dash Parr
+Deadpool
 Deag Grav
 Deag Nilox
 Deag Ragnak
 Dedue
 Demoman
+Denki Kaminari
 Devahi
 Dick Grayson
 Dimitri
@@ -225,8 +237,11 @@ Dracula
 Drax the Destroyer
 Druig
 Dyan
+Ectoplasm
 Edelgard
 Ego
+Eijiro Kirishima
+Elastigirl
 Eldon Spark Turen
 Elliot
 Elsa
@@ -250,12 +265,17 @@ Frisk
 Frisk (Genocide Route)
 Frisk (Neutral Route)
 Frisk (Pacifist Route)
+Frodo Baggins
+Frozone
+Fumikage Tokoyami
 Fuzzy
 Gamora
+Gandalf
 Garnet
 Garrik Doriana
 General Grievous
 Gilgamesh
+Gimli
 Ginny Weasley
 Glimmer
 Glinda the Good Witch
@@ -274,6 +294,7 @@ Halfborn Gunderson
 Han Solo
 Han Solo (Old)
 Hank Pym
+Hanta Sero
 Harbringer
 Harrison Truscott
 Harrison Truscott (Evil)
@@ -285,13 +306,18 @@ Hazel Levesque
 Hearthstone
 Heavy
 Hermione Granger
+Higari Maijima
 Hilda
+Himiko Toga
 Hippolyta
+Hiryu Rin
+Hizashi Yamada
 Hope van Dyne
 Hubert
 Hulk
 IG-11
 IKCFAMWSIIF
+Ibara Shiozaki
 Ignatz
 Ikaris
 Ingrid
@@ -304,6 +330,8 @@ Iron Man
 Ironheart
 Isabela Madrigal
 Isabelle
+Itsuka Kendo
+Izuku Midoriya
 Jabba the Hutt
 Jai West
 James Moriarty
@@ -318,6 +346,7 @@ Jem Finch
 Jenkins
 Jesse Quick
 Jim Gordon
+Jin Bubaigawara
 John Proudstar
 John Seward
 John Stewart
@@ -327,31 +356,42 @@ Jono Jenkins
 Jori-En Blurred
 Julieta Madrigal
 Juni Cortez
+Jurota Shishida
+Juzo Honenuki
 Kal-L
 Kalathos Sunstrider
 Kareem Par-Al
 Karun Patel
 Katara
+Katsuki Bakugo
 Kazooie
 Ken
+Ken Ishiyama
 Khan Makyr
 King
 Kingdok
 Kingo
+Kinoko Komori
+Koji Koda
+Kojiro Bondo
 Korra
+Kosei Tsuburaba
 Kratos
 Kris
 Kristoff
 Kro
 Kronya
 Kuiil
+Kurogiri
 Kylo Ren
+Kyoka Jiro
 Lancer
 Lando Calrissian
 Lapis Lazuli
 Laurie Strode
 LeBron
 Leah
+Legolas
 Leia Organa
 Leia Organa (Old)
 Leo Valdez
@@ -375,28 +415,38 @@ Magnus Chase
 Mai
 Makkari
 Mallory Keen
+Manga Fukidashi
 Mantis
 Marianne
 Mario
 Martian Manhunter
 Maru
 Mary Marvel
+Mashirao Ojiro
 Maui
 Max Mercury
 Maxwell
 Medic
+Mei Hatsume
 Mercedes
+Merry Brandybuck
 Mettaton
+Mezo Shoji
 Michael Myers
 Miles Morales
+Mina Ashido
 Mina Harker
+Minoru Mineta
 Mirabel Madrigal
+Mirage
 Miss Martian
 Misty
 Moana
 Moff Gideon
+Momo Yaoyorozu
 Monica Rambeau
 Mr. Fantastic
+Mr. Incredible
 Mr. Qi
 Ms. Marvel
 Mycroft Holmes
@@ -404,11 +454,17 @@ Nadia Van Dyne
 Nahara
 Namaari
 Nebula
+Neito Monoma
+Nemuri Kayama
+Nezu
 Nightcrawler
+Nirengeki Shoda
 Noelle Holiday
 Noi
 Northstar
 Obi-Wan Kenobi
+Ochaco Uraraka
+Odysseus
 Olaf
 Omega (Edge of Tomorrow)
 Ozai
@@ -420,12 +476,16 @@ Pearl
 Penny
 Pepa Madrigal
 Percy Jackson
+Peregrin Took
 Peridot
 Petra (Fire Emblem)
 Phastos
 Phoney Bone
 Piper McLean
+Player (Terraria)
 Poe Dameron
+Polyphemus
+Pony Tsunotori
 Princess Daisy
 Princess Peach
 Psylocke
@@ -439,9 +499,11 @@ Ralsei
 Raphael
 Raya
 Red (Pokemon)
+Reiko Yanagi
 Reithen Keiros
 Rey
 Rhea
+Rikido Sato
 Rikk
 Rita Vrataski
 Rocket Raccoon
@@ -453,12 +515,14 @@ Ruby
 Ruby Rider
 Ruby Rose
 Rumy
+Ryo Inui
 Ryu
 Sadie Kane
 Sam (Sam and Fuzzy)
 Sam (Stardew Valley)
 Sam Alexander
 Samirah al-Abbas
+Samwise Gamgee
 Sans
 Sapphire
 Scarecrow (Oz)
@@ -469,16 +533,23 @@ Scout
 Scout Finch
 Sebastian
 Sebastian Polge
+Sekijiro Kan
+Sen Kaibara
 Sersi
 Seteth
 Seth
+Setsuna Tokage
 Shamir
 Shane
 Sheev Palpatine
 Sherlock Holmes
+Shihai Kuroiro
+Shota Aizawa
+Shoto Todoroki
 Sisu
 Smaug
 Smiley Bone
+Snipe
 Sniper
 Snoke
 Sokka
@@ -490,11 +561,13 @@ Soos Ramirez
 Sothis
 Spamton
 Spider-Man
+Spinner
 Sprite
 Spy
 Squee
 Stanford Pines
 Star-Lord
+Steve (Minecraft)
 Steven Universe
 Storm
 Suki
@@ -505,10 +578,13 @@ Superman
 Susie
 Sven
 Sylvain
+Syndrome
 Tamatoa
 Te Ka
 Ted Kord
+Tenya Ida
 Terrence the Baby Tarrasque
+Tetsutetsu Tetsutetsu
 Thales
 Thanos
 The Child
@@ -522,16 +598,22 @@ Thor
 Thorn Harvestar
 Tim Drake
 Tin Woodman
+Togaru Kamakiri
+Tomura Shigaraki
 Tong
 Toph Beifong
 Toriel
+Toru Hakagure
+Tsuyu Asui
 Ty Lee
 Uka
 Ultron
 Undyne
 VEGA
 Valentina Kerman
+Venom
 Vikram Kommareddi
+Violet Parr
 Vision
 Viv Vision
 Vulture
@@ -551,7 +633,10 @@ Yekkon Shmalakis
 Yekkon Shmekkon
 Yoda
 Yondu
+Yosetsu Awase
 Young Cyclops
+Yuga Aoyama
+Yui Kodai
 Zach Wiebe
 Zia Rashid
 Zuko

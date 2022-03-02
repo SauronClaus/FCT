@@ -1,8 +1,9 @@
-Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Madrigal (12): Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 West (5): Irey West, Iris West, Jai West, Wally West II, Wally West
 Skywalker (4): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Weasley (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Kerman (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
+Parr (4): Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
 Pines (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Kane (3): Amos Kane, Carter Kane, Sadie Kane
 Finch (3): Atticus Finch, Jem Finch, Scout Finch
@@ -11,13 +12,17 @@ Bone (3): Fone Bone, Phoney Bone, Smiley Bone
 Solo (3): Han Solo (Old), Han Solo, Kylo Ren
 van Dyne (3): Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 Richards (3): Iron Lad, Mr. Fantastic, The Invisible Woman
+Shigaraki (2): All for One, Tomura Shigaraki
 Rose (2): Amy Rose, Ruby Rose
 Chase (2): Annabeth Chase, Magnus Chase
+Sato (2): Asami Sato, Rikido Sato
 Williams (2): Ashley Williams, Ironheart
+Sako (2): Atsuhiro Sako, Kurogiri
 Beaubier (2): Aurora, Northstar
 Gordon (2): Barbara Gordon, Jim Gordon
 Allen (2): Barry Allen, Bart Allen
 Wayne (2): Batman, Damian Wayne
+Baggins (2): Bilbo Baggins, Frodo Baggins
 Fett (2): Boba Fett, Jango Fett
 Carter (2): Booster Gold, Maxwell
 Braddock (2): Captain Britain, Psylocke
@@ -27,6 +32,8 @@ Cortez (2): Carmen Cortez, Juni Cortez
 Lang (2): Cassie Lang, Scott Lang
 Stone (2): Cyborg, Walt Stone
 Summers (2): Cyclops, Young Cyclops
+Todoroki (2): Dabi, Shoto Todoroki
+Wilson (2): Deadpool, Falcon
 Howlett (2): Doomslayer, Wolverine
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
 Jenkins (2): Jenkins, Jono Jenkins
@@ -56,6 +63,7 @@ Luthor (1): Alexander Luthor Jr.
 Pennyworth (1): Alfred Pennyworth
 Daerdahk (1): Alice Daerdahk
 Johnson (1): Alice Johnson
+Yagi (1): All-Might
 Blake (1): Allison Blake
 Rangeld (1): Alois
 Tepes (1): Alucard
@@ -66,7 +74,9 @@ O'Malley (1): Amazi-Girl
 Chavez (1): America Chavez
 Winston (1): Amethyst
 Holdo (1): Amilyn Holdo
+Cahill (1): Amy Cahill
 Ferrier (1): Amy Ferrier
+Kurose (1): Anan Kurose
 Worthington (1): Angel
 Takamaki (1): Ann Takamaki
 Croft (1): Anna Croft
@@ -84,7 +94,6 @@ Holmwood (1): Arthur Holmwood
 Chyornyj (1): Artyom
 Undómiel (1): Arwen
 Dröttning (1): Arya
-Sato (1): Asami Sato
 Dreemurr (1): Asgore
 Ketchum (1): Ash Ketchum
 Ubert (1): Ashe
@@ -103,7 +112,6 @@ McCoy (1): Beast
 Wittman (1): Bentley-23
 von Varley (1): Bernadetta
 Johanssen (1): Beth Johanssen
-Baggins (1): Bilbo Baggins
 Cipher (1): Bill Cipher
 Pilgrim (1): Billy Pilgrim
 Lance (1): Black Canary
@@ -134,6 +142,7 @@ Dune (1): Cara Dune
 Danvers (1): Carol Danvers
 von Bergliez (1): Caspar
 Charon (1): Catherine
+Shuzenji (1): Chiyo Shuzenji
 Li (1): Chun-Li
 von Riegan (1): Claude
 Frazer (1): Colin Frazer
@@ -146,6 +155,7 @@ Cyclops (1): Dapper Cyclops
 Maul (1): Darth Maul
 Molinaro (1): Dedue
 DeGroot (1): Demoman
+Kaminari (1): Denki Kaminari
 Grayson (1): Dick Grayson
 Blaiddyd (1): Dimitri
 Robotnik (1): Doctor Eggman
@@ -158,18 +168,21 @@ Hayden (1): Dr. Samuel Hayden
 Dracula (1): Dracula
 Douglas (1): Drax the Destroyer
 von Hresvelg (1): Edelgard
+Kirishima (1): Eijiro Kirishima
 Turen (1): Eldon Spark Turen
 Conagher (1): Engineer
 Chou (1): Ethan Chou
-Wilson (1): Falcon
 Turthin (1): Fedora Turthin
 Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
 Zhang (1): Frank Zhang
+Best (1): Frozone
+Tokoyami (1): Fumikage Tokoyami
 Titan (1): Gamora
 Doriana (1): Garrik Doriana
 Sheelal (1): General Grievous
+Son of Glóin (1): Gimli
 Manassnass (1): Glynnric Manassnass
 Tarkin (1): Grand Moff Tarkin
 Karga (1): Greef Karga
@@ -178,6 +191,7 @@ Guile (1): Guile
 Jordan (1): Hal Jordan
 Gunderson (1): Halfborn Gunderson
 Pym (1): Hank Pym
+Sero (1): Hanta Sero
 Michaels (1): Harbringer
 Potter (1): Harry Potter
 Barton (1): Hawkeye
@@ -185,13 +199,20 @@ Hol (1): Hawkgirl
 Levesque (1): Hazel Levesque
 Alderman (1): Hearthstone
 Granger (1): Hermione Granger
+Maijima (1): Higari Maijima
 Goneril (1): Hilda
+Toga (1): Himiko Toga
+Rin (1): Hiryu Rin
+Yamada (1): Hizashi Yamada
 von Vestra (1): Hubert
 Banner (1): Hulk
+Shiozaki (1): Ibara Shiozaki
 Victor (1): Ignatz
 Galatea (1): Ingrid
 Lestrade (1): Inspector Lestrade
 Stark (1): Iron Man
+Kendo (1): Itsuka Kendo
+Midoriya (1): Izuku Midoriya
 Tiure (1): Jabba the Hutt
 Moriarty (1): James Moriarty
 Binks (1): Jar Jar Binks
@@ -199,16 +220,26 @@ Grace (1): Jason Grace
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
 Chambers (1): Jesse Quick
+Bubaigawara (1): Jin Bubaigawara
 Proudstar (1): John Proudstar
 Seward (1): John Seward
 Stewart (1): John Stewart
 Watson (1): John Watson
+Shishida (1): Jurota Shishida
+Honenuki (1): Juzo Honenuki
 L (1): Kal-L
 Sunstrider (1): Kalathos Sunstrider
 Par-Al (1): Kareem Par-Al
 Patel (1): Karun Patel
+Bakugo (1): Katsuki Bakugo
+Ishiyama (1): Ken Ishiyama
 Masters (1): Ken
+Komori (1): Kinoko Komori
+Koda (1): Koji Koda
+Bondo (1): Kojiro Bondo
+Tsuburaba (1): Kosei Tsuburaba
 Bjorgman (1): Kristoff
+Jiro (1): Kyoka Jiro
 Calrissian (1): Lando Calrissian
 Lazuli (1): Lapis Lazuli
 Strode (1): Laurie Strode
@@ -224,57 +255,83 @@ Bison (1): M. Bison
 Windu (1): Mace Windu
 Eisenhardt (1): Magneto
 Keen (1): Mallory Keen
+Fukidashi (1): Manga Fukidashi
 Brandt (1): Mantis
 Edmund (1): Marianne
 J'onzz (1): Martian Manhunter
+Ojiro (1): Mashirao Ojiro
 Ludwig (1): Medic
+Hatsume (1): Mei Hatsume
 von Martritz (1): Mercedes
+Brandybuck (1): Merry Brandybuck
+Shoji (1): Mezo Shoji
 Myers (1): Michael Myers
 Morales (1): Miles Morales
+Ashido (1): Mina Ashido
+Mineta (1): Minoru Mineta
 M'orzz (1): Miss Martian
 Jones-Watson (1): MJ Watson (MCU)
 Gideon (1): Moff Gideon
+Yaoyorozu (1): Momo Yaoyorozu
 Rambeau (1): Monica Rambeau
 Qi (1): Mr. Qi
 Khan (1): Ms. Marvel
+Monoma (1): Neito Monoma
+Kayama (1): Nemuri Kayama
 Wagner (1): Nightcrawler
+Shoda (1): Nirengeki Shoda
 Holiday (1): Noelle Holiday
 Kenobi (1): Obi-Wan Kenobi
+Uraraka (1): Ochaco Uraraka
 Naberrie (1): Padme Amidala
 Mossa (1): Pariah
 Jackson (1): Percy Jackson
+Took (1): Peregrin Took
 Macneary (1): Petra (Fire Emblem)
 McLean (1): Piper McLean
 Dameron (1): Poe Dameron
+Tsunotori (1): Pony Tsunotori
 Toadstool (1): Princess Peach
 Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
 Kirsten (1): Raphael
+Yanagi (1): Reiko Yanagi
 Keiros (1): Reithen Keiros
 Vrataski (1): Rita Vrataski
 Raccoon (1): Rocket Raccoon
 Tico (1): Rose Tico
 Rider (1): Ruby Rider
+Inui (1): Ryo Inui
 Hoshi (1): Ryu
 Samms (1): Sam (Sam and Fuzzy)
 Alexander (1): Sam Alexander
 al-Abbas (1): Samirah al-Abbas
+Gamgee (1): Samwise Gamgee
 Hasashi (1): Scorpion
 Polge (1): Sebastian Polge
+Kan (1): Sekijiro Kan
+Kaibara (1): Sen Kaibara
+Tokage (1): Setsuna Tokage
 Nevrand (1): Shamir
 Palpatine (1): Sheev Palpatine
+Kuroiro (1): Shihai Kuroiro
+Aizawa (1): Shota Aizawa
 Mundy (1): Sniper
 Colomar (1): Sombra
 Ramírez (1): Soos Ramirez
 Spamton (1): Spamton
 Parker (1): Spider-Man
+Iguchi (1): Spinner
 Quill (1): Star-Lord
 Munroe (1): Storm
 Yoshida (1): Sunfire
 Zor-El (1): Supergirl
 Gautier (1): Sylvain
+Pine (1): Syndrome
 Kā (1): Te Ka
 Kord (1): Ted Kord
+Ida (1): Tenya Ida
+Tetsutetsu (1): Tetsutetsu Tetsutetsu
 Storm (1): The Human Torch
 Djarin (1): The Mandalorian
 Grimm (1): The Thing
@@ -282,7 +339,10 @@ Jefferson (1): Thomas Jefferson Jr.
 Odinson (1): Thor
 Drake (1): Tim Drake
 Chopper (1): Tin Woodman
+Kamakiri (1): Togaru Kamakiri
 Beifong (1): Toph Beifong
+Hagakure (1): Toru Hakagure
+Asui (1): Tsuyu Asui
 Lee (1): Ty Lee
 Kommareddi (1): Vikram Kommareddi
 Vision (1): Viv Vision
@@ -298,6 +358,9 @@ Long (1): Yang Xiao Long
 Shmalakis (1): Yekkon Shmalakis
 Shmekkon (1): Yekkon Shmekkon
 Udonta (1): Yondu
+Awase (1): Yosetsu Awase
+Aoyama (1): Yuga Aoyama
+Kodai (1): Yui Kodai
 Wiebe (1): Zach Wiebe
 Rashid (1): Zia Rashid
 Kal-Thim (1): Zulen Kal-Thim

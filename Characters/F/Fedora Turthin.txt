@@ -13,7 +13,7 @@ Warforged
 Good
 Protagonist
 Female
-D&D,Fighter,Guardsman,Heavily Armored,Really Old,Shields,Town Guard,Town Guard,Unbroken Gang
+D&D,Fighter,Guardsman,Heavily Armored,Really Old,Shields,Time Displaced,Town Guard,Town Guard,Unbroken Gang
 Modified Human
 Low
 Unbroken Cast 2,Sebastian Polge's Permutations

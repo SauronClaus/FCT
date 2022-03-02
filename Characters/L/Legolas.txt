@@ -13,7 +13,7 @@ Elf
 Good
 Protagonist
 Male
-Elf,Fellowship of the Ring,Warrior,Archer,Duo|Gimli,Immortal
+Archer,Duo|Gimli,Elf,Fellowship of the Ring,Immortal,Warrior
 Baseline
 High
 Fellowship of the Ring

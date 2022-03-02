@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Hobbit/Halfling,Iconic,Reluctant Hero,Ring-Bearer,Fellowship of the Ring,Duo|Samwise Gamgee
+Duo|Samwise Gamgee,Fellowship of the Ring,Hobbit/Halfling,Iconic,Reluctant Hero,Ring-Bearer
 Baseline
 High
 Fellowship of the Ring

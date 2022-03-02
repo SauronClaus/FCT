@@ -1,15 +1,19 @@
-Madrigal: Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Madrigal: Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Shigaraki: All for One, Tomura Shigaraki
 Kane: Amos Kane, Carter Kane, Sadie Kane
 Rose: Amy Rose, Ruby Rose
 Skywalker: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Chase: Annabeth Chase, Magnus Chase
 Weasley: Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
+Sato: Asami Sato, Rikido Sato
 Williams: Ashley Williams, Ironheart
+Sako: Atsuhiro Sako, Kurogiri
 Finch: Atticus Finch, Jem Finch, Scout Finch
 Beaubier: Aurora, Northstar
 Gordon: Barbara Gordon, Jim Gordon
 Allen: Barry Allen, Bart Allen
 Wayne: Batman, Damian Wayne
+Baggins: Bilbo Baggins, Frodo Baggins
 Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Fett: Boba Fett, Jango Fett
 Carter: Booster Gold, Maxwell
@@ -21,6 +25,9 @@ Cortez: Carmen Cortez, Juni Cortez
 Lang: Cassie Lang, Scott Lang
 Stone: Cyborg, Walt Stone
 Summers: Cyclops, Young Cyclops
+Todoroki: Dabi, Shoto Todoroki
+Parr: Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
+Wilson: Deadpool, Falcon
 Pines: Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Howlett: Doomslayer, Wolverine
 Bone: Fone Bone, Phoney Bone, Smiley Bone

@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Hobbit/Halfling,Reluctant Hero,Ring-Bearer,Fellowship of the Ring,Duo|Frodo Baggins,Red Hair,Chef,Gardener
+Chef,Duo|Frodo Baggins,Fellowship of the Ring,Gardener,Hobbit/Halfling,Red Hair,Reluctant Hero,Ring-Bearer
 Baseline
 High
 Fellowship of the Ring

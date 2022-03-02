@@ -15,7 +15,7 @@ Protagonist
 Female
 Cool,Heiress,Ice Powers,Monster Hunter
 Baseline
-Medium
+Low
 Team RWBY
 Mirror Mirror|https://open.spotify.com/track/3TQRpzYeESmq2jC6IzxYBg?si=9414bf8a0bbc482b
 TV Shows,CGI

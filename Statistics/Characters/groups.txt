@@ -33,6 +33,9 @@ Black Eagles (9): Bernadetta, Byleth, Caspar, Dorothea, Edelgard, Ferdinand, Hub
 Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone
 Bone Main Cast (5): Fone Bone, Gran'ma Ben, Phoney Bone, Smiley Bone, Thorn Harvestar
+Borderlands 1 Vault Hunters (1): Brick
+Borderlands 2 Vault Hunters (1): Axton
+Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
 Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
@@ -42,6 +45,9 @@ Champions (Marvel) (Core) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel
 Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
 Champions (Pokemon) (2): Blue, Red (Pokemon)
 Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
+Class 1-A (20): Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Izuku Midoriya, Katsuki Bakugo, Koji Koda, Kyoka Jiro, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Momo Yaoyorozu, Ochaco Uraraka, Rikido Sato, Shoto Todoroki, Tenya Ida, Toru Hakagure, Tsuyu Asui, Yuga Aoyama
+Class 1-B (20): Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Jurota Shishida, Juzo Honenuki, Kinoko Komori, Kojiro Bondo, Kosei Tsuburaba, Manga Fukidashi, Neito Monoma, Nirengeki Shoda, Pony Tsunotori, Reiko Yanagi, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Yosetsu Awase, Yui Kodai
+Class 1-H (1): Mei Hatsume
 Colin Frazer's Permutations (3): Colin Frazer, Eldon Spark Turen, Glynnric Manassnass
 Confederacy of Independent Systems (3): Count Dooku, Darth Maul, General Grievous
 Contributors (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
@@ -74,7 +80,7 @@ Fans! Cast (3): Ally, Rikk, Rumy
 Fans! Polyamorous Group (3): Ally, Rikk, Rumy
 Fantastic Four (Core) (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Fantastic Four (Extended) (8): Bentley-23, Black Panther, Mr. Fantastic, Spider-Man, Storm, The Human Torch, The Invisible Woman, The Thing
-Fellowship of the Ring (2): Aragorn, Boromir
+Fellowship of the Ring (9): Aragorn, Boromir, Frodo Baggins, Gandalf, Gimli, Legolas, Merry Brandybuck, Peregrin Took, Samwise Gamgee
 Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
 Finch Family (3): Atticus Finch, Jem Finch, Scout Finch
 First Order (1): Snoke
@@ -130,6 +136,7 @@ Kanto Gym Leaders (3): Blue, Brock, Misty
 Knights of Seiros (7): Alois, Byleth, Catherine, Flayn, Rhea, Seteth, Shamir
 Koopa Troopa (2): Bowser Jr., Bowser
 League of Legends Champions (1): Aphelios
+League of Villains (7): Atsuhiro Sako, Dabi, Himiko Toga, Jin Bubaigawara, Kurogiri, Spinner, Tomura Shigaraki
 Legion of Superheroes (Core) (1): Brainiac 5
 Legion of Superheroes (Extended) (2): Brainiac 5, Supergirl
 MCU Spider-Man Villains (1): Vulture
@@ -159,6 +166,7 @@ Original Trilogy Quintet (8): C3PO, Chewbacca, Han Solo (Old), Han Solo, Leia Or
 Outsiders (2): Batman, Black Lightning
 Overwatch Heroes (1): Bastion
 Paper Mario: The Origami King Cast (1): Bobby
+Parr Family (4): Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
 Pequod Crew (1): Captain Ahab
 Phantom Thieves of Hearts (1): Ann Takamaki
 Phineas and Ferb Main Child Group (2): Baljeet Tjinder, Buford Van Stomm
@@ -172,6 +180,7 @@ Rebel Alliance (Star Wars) (10): C3PO, Chewbacca, Han Solo (Old), Han Solo, Land
 Red Hood and the Outlaws (1): Jason Todd
 Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
+Retired Supers (3): Elastigirl, Frozone, Mr. Incredible
 Robins (4): Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
@@ -211,13 +220,13 @@ Straw Hat Pirates (1): Brook
 Suicide Squad (Core) (2): Amanda Waller, Captain Boomerang
 Suicide Squad (Extended) (2): Amanda Waller, Captain Boomerang
 Super Pal Trio (1): Catra
-Super Smash Bros (14): Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu
+Super Smash Bros (16): Alex (Minecraft), Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu, Steve (Minecraft)
 Super Smash Bros DLC (2): Banjo, Kazooie
 Super Smash Bros Original Cast (1): Mario
 Superman Family (2): Supergirl, Superman
 Survivors of the Constant (1): Maxwell
 Survivors of the First Crisis (DC Comics) (3): Alexander Luthor Jr., Kal-L, Superboy Prime
-Symbiote Squad (1): Agent Venom
+Symbiote Squad (2): Agent Venom, Venom
 Talon (1): Sombra
 Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
@@ -231,7 +240,7 @@ Tesladyne Industries (2): Atomic Robo, Jenkins
 The Backyardigans (1): Austin
 The Black Order (1): Thanos
 The Clone Wars Primary Trio (3): Ahsoka Tano, Anakin Skywalker, Obi-Wan Kenobi
-The Family Madrigal (12): Abuela Alma Madrigal, Anthonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+The Family Madrigal (12): Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 The Fun Gang (5): Kris, Lancer, Noelle Holiday, Ralsei, Susie
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 The Mandalorian Cast (6): Cara Dune, Greef Karga, IG-11, Kuiil, The Child, The Mandalorian
@@ -241,7 +250,7 @@ The Princess Alliance (3): Adora, Bow, Glimmer
 The Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
 The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 The Rogues (Flash) (1): Captain Boomerang
-Thorin and Company (1): Bilbo Baggins
+Thorin and Company (2): Bilbo Baggins, Gandalf
 Those Who Slither in the Dark (3): Kronya, Solon, Thales
 Thunderbolts (1): Hawkeye
 Time Displaced X-Men (1): Young Cyclops
@@ -250,6 +259,7 @@ Trials of Apollo Crew (1): Apollo
 Trinity (DC) (3): Batman, Superman, Wonder Woman
 Triwizard Tournament Competitors (1): Fleur Delacour
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
+UA Staff (13): All-Might, Anan Kurose, Chiyo Shuzenji, Ectoplasm, Higari Maijima, Hizashi Yamada, Ken Ishiyama, Nemuri Kayama, Nezu, Ryo Inui, Sekijiro Kan, Shota Aizawa, Snipe
 USAvengers (1): Cannonball
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 Unbroken Cast 1 (4): IKCFAMWSIIF, Lorana Ritten, Reithen Keiros, Yekkon Shmalakis
@@ -259,13 +269,15 @@ United States Military (1): Guile
 Until Dawn Cast (1): Ashley Brown
 Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Valorant Agents (2): Breach, Brimstone
+Vault Hunters (3): Amara, Axton, Brick
 Vikram Kommareddi's Permutations (1): Vikram Kommareddi
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 West Coast Avengers (1): Hawkeye
 Wizard of Oz Crew (4): Cowardly Lion, Dorothy Gale, Scarecrow (Oz), Tin Woodman
 Wolverines (1): Wolverine
+X-Force (Core) (1): Deadpool
 X-Men (Core) (7): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm, Wolverine
-X-Men (Extended) (21): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, John Proudstar, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
+X-Men (Extended) (22): Angel, Anole, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, Deadpool, John Proudstar, Magneto, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
 X-Men First Class (3): Angel, Beast, Cyclops
 Young Avengers (Extended) (3): America Chavez, Cassie Lang, Iron Lad
 Young Avengers Founders (1): Iron Lad

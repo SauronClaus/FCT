@@ -15,7 +15,7 @@ Protagonist
 Female
 Animal-Person,Animal-Themed,Cat-Themed,Chainsaw,Chosen One,LGBTQ+,Monster Hunter,Romantic Subplot|Yang Xiao Long
 Baseline
-Medium
+Low
 Team RWBY
 From Shadows|https://open.spotify.com/track/1ayNGRbGFU50USY5IBhaWu?si=c65a8488b2e04490
 TV Shows,CGI

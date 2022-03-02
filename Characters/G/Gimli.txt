@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Dwarf,Fellowship of the Ring,Warrior,Fighter,Duo|Legolas
+Duo|Legolas,Dwarf,Fellowship of the Ring,Fighter,Warrior
 Baseline
 High
 Fellowship of the Ring

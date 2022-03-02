@@ -13,7 +13,7 @@ Mermaid
 Neutral
 Supporting Protagonist
 Female
-Buff,Commander,Guardsman,LGBTQ+,Lesbian,Pixelated,Romantic Subplot|Alphys,Royal Guardsman,Soldier,Strong,Strong Will
+Buff,Commander,Guardsman,Irregular Quantity of Eyes,LGBTQ+,Lesbian,Pixelated,Romantic Subplot|Alphys,Royal Guardsman,Soldier,Strong,Strong Will
 Modified Human
 Medium
 Undertale Pacifist Friends,Royal Guardsmen (Undertale)

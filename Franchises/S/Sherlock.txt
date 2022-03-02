@@ -14,6 +14,6 @@ BBC Shows
 Sherlock Holmes Shows
 TV Shows
 Beige
-Low
+Medium
 Baseline
 Sebastian,Ashleigh,Aarav

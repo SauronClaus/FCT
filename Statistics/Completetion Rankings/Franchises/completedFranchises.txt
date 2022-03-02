@@ -30,6 +30,7 @@ Kindred (novel)
 Mandalorian 1
 Mario 64
 Mario Galaxy
+Minecraft
 Moana
 RWBY
 Raya and the Last Dragon
@@ -44,6 +45,9 @@ Star Wars V
 Star Wars VI
 Star Wars VII
 Star Wars VIII
+Terraria
+The Incredibles
+The Odyssey
 Undertale (Genocide Route)
 Undertale (Neutral Route)
 Undertale (Pacifist Route)

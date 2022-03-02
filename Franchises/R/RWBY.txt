@@ -14,6 +14,6 @@ RWBY
 RWBY
 TV Shows,CGI
 Red
-Medium
+Low
 Modified Human
 Sebastian

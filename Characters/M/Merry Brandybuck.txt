@@ -13,7 +13,7 @@ Hobbit
 Good
 Protagonist
 Male
-Hobbit/Halfling,Accidental Adventurer,Fellowship of the Ring,Duo|Pippin Brandybuck,Mischevious
+Accidental Adventurer,Duo|Pippin Brandybuck,Fellowship of the Ring,Hobbit/Halfling,Mischevious
 Baseline
 High
 Fellowship of the Ring

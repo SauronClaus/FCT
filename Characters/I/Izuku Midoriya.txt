@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-All-For-One,Childhood Friends|Katsuki Bakugo,Chosen One,Class 1-A,Crush|Ochaco Uraraka,Geek/Nerd,Leader,Legacy|All-Might,Muscles,Nemesis|Tomura Shigaraki,Nice,Overly Emotional,Possessed,Powerhouse,Pure,Quirk,Rival|Katsuki Bakugo,Strategist,Strong,Strong Will,Superhero in Training,Superheroes
+All-For-One,Childhood Friends|Katsuki Bakugo,Chosen One,Class 1-A,Crush|Ochaco Uraraka,Determination,Geek/Nerd,Leader,Legacy|All-Might,Muscles,Nemesis|Tomura Shigaraki,Nice,Overly Emotional,Possessed,Powerhouse,Pure,Quirk,Rival|Katsuki Bakugo,Strategist,Strong,Strong Will,Superhero in Training,Superheroes
 Country
 High
 Class 1-A

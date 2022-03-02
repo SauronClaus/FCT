@@ -13,7 +13,7 @@ Istar
 Good
 Protagonist
 Male
-Fellowship of the Ring,Wizard,Old,Immortal,Wise,Magic User,Mentor,Most Powerful,Thorin and Company
+Fellowship of the Ring,Immortal,Magic User,Mentor,Most Powerful,Old,Thorin and Company,Wise,Wizard
 Country
 High
 Fellowship of the Ring,Thorin and Company

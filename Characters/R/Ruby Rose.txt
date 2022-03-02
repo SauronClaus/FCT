@@ -15,7 +15,7 @@ Protagonist
 Female
 Chosen One,Inventor,Monster Hunter,Scythe,Siblings|Yang Xiao Long
 Baseline
-Medium
+Low
 Team RWBY
 Red Like Roses|https://open.spotify.com/track/13qjycCLStZb9sJje6v0MC?si=8e8218a977e6424e
 TV Shows,CGI

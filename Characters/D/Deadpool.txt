@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Superheroes,X-Men (Extended),X-Force,Regeneration,Mercenary,Violent,Fourth-Wall Breaking,Guns,Cancer
+Cancer,Fourth-Wall Breaking,Guns,Mercenary,Regeneration,Superheroes,Violent,X-Force,X-Men (Extended)
 Modified Human
 High
 X-Men (Extended),X-Force (Core)
