@@ -13,7 +13,7 @@ Cyclops
 Good
 Supporting Protagonist
 Male
-Camp Half-Blood,Cyclops,Greek,Musclehead,Muscles,Blacksmith,General,Commander,Siblings|Percy Jackson
+Blacksmith,Camp Half-Blood,Commander,Cyclops,General,Greek,Musclehead,Muscles,Siblings|Percy Jackson
 Modified Human
 Low
 Camp Half-Blood

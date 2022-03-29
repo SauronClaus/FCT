@@ -13,7 +13,7 @@ Nymph
 Good
 Supporting Protagonist
 Female
-Nymph,Greek,Hunters of Artemis,Immortal
+Greek,Hunters of Artemis,Immortal,Nymph
 Modified Human
 Low
 Hunters of Artemis

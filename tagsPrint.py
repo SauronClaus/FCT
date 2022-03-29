@@ -26,7 +26,7 @@ for letter in alphabet:
                         needToUpdateCharacters.append(entry[0:len(entry)-4:])
                     else:
                         weirdCharacters.append(entry[0:len(entry)-4:])
-            allCharacters.append(entry[0:len(entry)-4:])
+            allCharacters.append(entry[0:len(entry)-4:])    
             #if characterInfo[0] != entry[0:len(entry)-4:]:
                 #print("Check " + characterInfo[0] + " (" + entry[0:len(entry)-4:] + ")")
 

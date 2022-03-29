@@ -9,9 +9,9 @@ from generateAllPeople import genMinions
 
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+franchisesList = ["RANDOM", "RANDOM", "RANDOM", "RANDOM", "RANDOM"]
 
-
-def generate(guildID):
+def generate(guildID, matchNum):
     franchises = []
 
     for letter in alphabet:
@@ -32,9 +32,12 @@ def generate(guildID):
 
     print("Franchise generation completed.")
 
-    RNG = random.randint(0,len(franchises)-1)
-    print("Chose " + franchises[RNG] + " (" + str(RNG) + "/" + str(len(franchises)) + ")")
-    franchiseName = franchises[RNG]
+    franchiseName = franchisesList[matchNum]
+    if franchiseName == "RANDOM":
+        RNG = random.randint(0,len(franchises)-1)
+        print("Chose " + franchises[RNG] + " (" + str(RNG) + "/" + str(len(franchises)) + ")")
+        franchiseName = franchises[RNG]
+
     firstChar = franchiseName[0:1:]
     if firstChar in numbers:
         firstChar = "#"

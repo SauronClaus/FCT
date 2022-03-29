@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Astronaut,NASA,Romantic Subplot|Beth Johanssen
+Astronaut,Doctor,NASA,Romantic Subplot|Beth Johanssen
 Baseline
 Low
 Ares III Mission Crew

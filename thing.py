@@ -173,7 +173,7 @@ async def on_message(message):
                 numberOfMatches = int(matchSplit[1])
             for matchNum in range(1,numberOfMatches+1):
                 print("Generating match!")
-                replacement = generate(message.guild.id)
+                replacement = generate(message.guild.id, matchNum-1)
                 additives = replacement[4]
 
                 people = allPeople()

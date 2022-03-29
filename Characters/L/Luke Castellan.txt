@@ -13,7 +13,7 @@ Demigod
 Evil
 Antagonist
 Male
-Camp Half-Blood,Chosen One,Demigod,God Slayer,Greek,Hybrid,Traitor,Redemption Arc,Immortal,Possessed
+Camp Half-Blood,Chosen One,Demigod,God Slayer,Greek,Hybrid,Immortal,Possessed,Redemption Arc,Traitor
 Modified Human
 Medium
 Camp Half-Blood,Greek Demigods (Rick Riordan),Original Prophecy
