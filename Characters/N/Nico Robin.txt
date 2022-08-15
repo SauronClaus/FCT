@@ -13,7 +13,7 @@ Human
 Good
 Supporting Protagonist
 Female
-Devil Fruit,Archeologist,Criminal,Straw Hat Pirates,Pirate,Last of Kind
+Archeologist,Criminal,Devil Fruit,Last of Kind,Pirate,Straw Hat Pirates
 Modified Human
 Medium
 Straw Hat Pirates

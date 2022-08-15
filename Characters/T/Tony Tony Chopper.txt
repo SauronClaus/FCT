@@ -13,7 +13,7 @@ Reindeer
 Good
 Supporting Protagonist
 Male
-Devil Fruit,Doctor,Animal,Animal-Person,Straw Hat Pirates,Genius,Reindeer,Pirate
+Animal,Animal-Person,Devil Fruit,Doctor,Genius,Pirate,Reindeer,Straw Hat Pirates
 Modified Human
 Medium
 Straw Hat Pirates

@@ -64,9 +64,8 @@ async def on_ready():
                     okQuant+=reaction.count
                 if reaction.emoji == "⬇":
                     downQuant+=reaction.count
-            async for reaction in message.users():
-                
-            file.write("[" + str(upQuant-1) + "-" + str(okQuant-1) + "-" + str(downQuant-1) + "] " + message.content + "\n" + "\t[" + str(upQuant-1) +  + "-" + str(okQuant-1) + "-" + str(downQuant-1) + "] ")
+            async for reaction in message.users(): 
+                file.write("[" + str(upQuant-1) + "-" + str(okQuant-1) + "-" + str(downQuant-1) + "] " + message.content + "\n" + "\t[" + str(upQuant-1) +  + "-" + str(okQuant-1) + "-" + str(downQuant-1) + "] ")
 
     file.close()
 

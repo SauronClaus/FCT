@@ -16,7 +16,7 @@ Male
 Brawler,Captain,Devil Fruit,Idiot,Pirate,Straw Hat Pirates,Stretching,Supernovas (One Piece)
 Country
 High
-Straw Hat Pirates
+Straw Hat Pirates,ASL Brothers
 
 Anime,Manga
 One Piece

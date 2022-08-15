@@ -36,7 +36,7 @@ userID = int(tokens[2])
 
 trueToken = testToken
 
-switch = True
+switch = False
 if switch == True:
     trueToken = botToken
 

@@ -13,7 +13,7 @@ Cyborg
 Good
 Supporting Protagonist
 Male
-Devil Fruit,Genius,Cyborg,Shipwright,Straw Hat Pirates,Genius,Pirate
+Cyborg,Devil Fruit,Genius,Genius,Pirate,Shipwright,Straw Hat Pirates
 Modified Human
 Medium
 Straw Hat Pirates

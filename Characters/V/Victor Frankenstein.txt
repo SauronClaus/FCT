@@ -1,4 +1,30 @@
-Victor Frankenstein
+Frankenstein
+Victor Frankenstein is the protagonist in Mary Shelley's 1818 novel, Frankenstein; or, The Modern Prometheus. He is an Italian-Swiss scientist (born in Naples, Italy) who, after studying chemical processes and the decay of living things, gains an insight into the creation of life and gives life to his own creature (often referred to as Frankenstein's monster, or often colloquially referred to as simply "Frankenstein"). Victor later regrets meddling with nature through his creation, as he inadvertently endangers his own life and the lives of his family and friends when the creature seeks revenge against him. He is first introduced in the novel when he is seeking to catch the monster near the North Pole and is saved from near death by Robert Walton and his crew.
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Frontispiece_to_Frankenstein_1831.jpg/330px-Frontispiece_to_Frankenstein_1831.jpg
+https://en.wikipedia.org/wiki/Victor_Frankenstein
+Victor
+Frankenstein
+Victor Frankenstein|Dr. Frankenstein|Heinrich "Henry" von Frankenstein
+Augustus Phillips|Colin Clive|Cedric Hardwicke|Peter Cushing|Ralph Bates|Kenneth Branagh|Benedict Cumberbatch|Sting|Jonny Lee Miller|Alec Newman|Samuel West|Aden Young|David Anders|Harry Treadaway|Helen McCrory|Raul Julia|James McAvoy|Tim Curry|Gene Wilder|Charlie Tahan|Arthur Darvill
+
+Scientist
+Human
+Neutral
+Protagonist
+Male
+Mad Genius,Father,Parent Child|Frankenstein's Monster,Creator,Scientist,Classic Literature Character,Genius
+Baseline
+Medium
+
+
+Books,Movies
 Frankenstein
 
+Grey
 
+
+Lackington, Hughes, Harding, Mavor, & Jones.
+Sebastian
+
+
+No

@@ -13,7 +13,7 @@ Artificial Human
 Evil
 Antagonist
 Male
-Artificial Human,Gentleman,Lab Experiment,League of Villains,Quirk,Supervillains,Teleportation
+Artificial Human,Gentleman,Lab Experiment,League of Villains,Quirk,Reanimated Corpse,Supervillains,Teleportation
 Modified Human
 Low
 League of Villains

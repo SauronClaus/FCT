@@ -13,7 +13,7 @@ Fishman
 Good
 Supporting Protagonist
 Male
-Devil Fruit,Helsman,Honorable,Martial Artist,Straw Hat Pirates,Warlord of the Seas,Pirate
+Devil Fruit,Helsman,Honorable,Martial Artist,Pirate,Straw Hat Pirates,Warlord of the Seas
 Modified Human
 Medium
 Straw Hat Pirates
