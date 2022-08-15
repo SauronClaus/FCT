@@ -7,34 +7,35 @@
 9 (1): Anakin Skywalker (Young)
 10 (5): Ash Ketchum, Boun, Dash Parr, Jem Finch, Misty
 11 (6): Blue, Ginny Weasley, Harry Potter, Hermione Granger, Red (Pokemon), Ron Weasley
-12 (5): Amy Rose, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong
+12 (6): Amy Rose, Bianca di Angelo, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong
 13 (2): Brian Robeson, Steven Universe
 14 (10): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Padme Amidala, Sadie Kane, Violet Parr, Zia Rashid
-15 (51): Brock, Carter Kane, Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Lysithea, Mai, Manga Fukidashi, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Mirabel Madrigal, Momo Yaoyorozu, Neito Monoma, Nirengeki Shoda, Ochaco Uraraka, Petra (Fire Emblem), Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ruby Rose, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Sokka, Sonic the Hedgehog, Sven, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Toru Hakagure, Tsuyu Asui, Wendy Corduroy, Yosetsu Awase, Yuga Aoyama, Yui Kodai
+15 (53): Brock, Carter Kane, Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Lysithea, Mai, Manga Fukidashi, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Mirabel Madrigal, Momo Yaoyorozu, Neito Monoma, Nico di Angelo, Nirengeki Shoda, Ochaco Uraraka, Paul Atreides, Petra (Fire Emblem), Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ruby Rose, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Sokka, Sonic the Hedgehog, Sven, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Toru Hakagure, Tsuyu Asui, Wendy Corduroy, Yosetsu Awase, Yuga Aoyama, Yui Kodai
 16 (15): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Himiko Toga, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Mei Hatsume, Piper McLean, Vikram Kommareddi, Zuko
 17 (23): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Ignatz, Ingrid, Korra, Laurie Strode, Marianne, Raphael, Sebastian Polge, Weiss Schnee, Yang Xiao Long
 18 (17): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Dorothea, Fleur Delacour, Harrison Truscott (Evil), Harrison Truscott, Hilda, Lorenz, Percy Jackson, Raya, Zach Wiebe
 19 (6): Jono Jenkins, Leia Organa, Leonie, Luke Skywalker, Rey, Sylvain
 20 (6): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert, Spinner, Tomura Shigaraki
 21 (6): Adora, Bill Weasley, Dolores Madrigal, Elsa, Kristoff, Michael Myers
-22 (5): Aerith Gainsborough, Anakin Skywalker, Darth Maul, Mercedes, Soos Ramirez
+22 (6): Aerith Gainsborough, Anakin Skywalker, Darth Maul, Luke Castellan, Mercedes, Soos Ramirez
 23 (3): Dabi, Finn, Rose Tico
-24 (2): Alyx, Artyom
+24 (3): Alyx, Artyom, Thalia Grace
 25 (2): Ashley Williams, Shamir
 27 (4): Captain Kirk, Catherine, Gordon Freeman, Sherlock Holmes
-28 (5): Anan Kurose, Barry Allen, Chun-Li, Ken Ishiyama, Peregrin Took
+28 (6): Anan Kurose, Barry Allen, Chun-Li, Ken Ishiyama, Neo, Peregrin Took
 29 (4): Beth Johanssen, Captain George Pollard Jr., John Watson, Kylo Ren
 30 (10): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Hizashi Yamada, Ken, Ryu, Sekijiro Kan, Shota Aizawa, Sombra
 31 (4): Atsuhiro Sako, Jin Bubaigawara, Kurogiri, Nemuri Kayama
 32 (3): C3PO, Han Solo, Poe Dameron
-33 (1): Ryo Inui
+33 (2): Grover Underwood, Ryo Inui
 34 (2): Guile, Mycroft Holmes
 35 (2): Barret Wallace, Obi-Wan Kenobi
 36 (3): Boba Fett, Dr. Chris Beck, Merry Brandybuck
 37 (1): Allison Blake
 38 (1): Samwise Gamgee
-40 (3): Boromir, Higari Maijima, Odysseus
-41 (4): Alan Wake, Arthur Weasley, Darth Vader, Ectoplasm
+40 (4): Boromir, Higari Maijima, Odysseus, Rick Martinez
+41 (5): Alan Wake, Arthur Weasley, Darth Vader, Ectoplasm, Melissa Lewis
+42 (2): Alex Vogel, Mark Watney
 43 (1): Bard the Bowman
 45 (3): Alois, Captain Nemo, Medic
 47 (1): Lando Calrissian

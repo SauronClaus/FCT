@@ -12,6 +12,7 @@ Bone (3): Fone Bone, Phoney Bone, Smiley Bone
 Solo (3): Han Solo (Old), Han Solo, Kylo Ren
 van Dyne (3): Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 Richards (3): Iron Lad, Mr. Fantastic, The Invisible Woman
+Smith (2): Agent Smith, Culverton Smith
 Shigaraki (2): All for One, Tomura Shigaraki
 Rose (2): Amy Rose, Ruby Rose
 Chase (2): Annabeth Chase, Magnus Chase
@@ -20,8 +21,10 @@ Williams (2): Ashley Williams, Ironheart
 Sako (2): Atsuhiro Sako, Kurogiri
 Beaubier (2): Aurora, Northstar
 Gordon (2): Barbara Gordon, Jim Gordon
+Harkonnen (2): Baron Vladimir Harkonnen, Glossu Rabban Harkonnen
 Allen (2): Barry Allen, Bart Allen
 Wayne (2): Batman, Damian Wayne
+di Angelo (2): Bianca di Angelo, Nico di Angelo
 Baggins (2): Bilbo Baggins, Frodo Baggins
 Fett (2): Boba Fett, Jango Fett
 Carter (2): Booster Gold, Maxwell
@@ -35,7 +38,9 @@ Summers (2): Cyclops, Young Cyclops
 Todoroki (2): Dabi, Shoto Todoroki
 Wilson (2): Deadpool, Falcon
 Howlett (2): Doomslayer, Wolverine
+Atreides (2): Duke Leto Atreides, Paul Atreides
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
+Grace (2): Jason Grace, Thalia Grace
 Jenkins (2): Jenkins, Jono Jenkins
 Harker (2): Jonathan Harker, Mina Harker
 Organa (2): Leia Organa (Old), Leia Organa
@@ -59,6 +64,7 @@ Wake (1): Alan Wake
 Dumbledore (1): Albus Dumbledore
 DeLarge (1): Alex DeLarge
 Fierro (1): Alex Fierro
+Vogel (1): Alex Vogel
 Luthor (1): Alexander Luthor Jr.
 Pennyworth (1): Alfred Pennyworth
 Daerdahk (1): Alice Daerdahk
@@ -144,12 +150,12 @@ von Bergliez (1): Caspar
 Charon (1): Catherine
 Shuzenji (1): Chiyo Shuzenji
 Li (1): Chun-Li
+La Rue (1): Clarisse La Rue
 von Riegan (1): Claude
 Frazer (1): Colin Frazer
 Rasputin (1): Colossus
 Maheswaran (1): Connie Maheswaran
 Dooku (1): Count Dooku
-Smith (1): Culverton Smith
 Franklin (1): Dana Franklin
 Cyclops (1): Dapper Cyclops
 Maul (1): Darth Maul
@@ -167,6 +173,7 @@ Loomis (1): Dr. Loomis
 Hayden (1): Dr. Samuel Hayden
 Dracula (1): Dracula
 Douglas (1): Drax the Destroyer
+Idaho (1): Duncan Idaho
 von Hresvelg (1): Edelgard
 Kirishima (1): Eijiro Kirishima
 Turen (1): Eldon Spark Turen
@@ -187,12 +194,14 @@ Manassnass (1): Glynnric Manassnass
 Tarkin (1): Grand Moff Tarkin
 Karga (1): Greef Karga
 Queen (1): Green Arrow
+Underwood (1): Grover Underwood
 Guile (1): Guile
 Jordan (1): Hal Jordan
 Gunderson (1): Halfborn Gunderson
 Pym (1): Hank Pym
 Sero (1): Hanta Sero
 Michaels (1): Harbringer
+Lyme (1): Harry Lyme
 Potter (1): Harry Potter
 Barton (1): Hawkeye
 Hol (1): Hawkgirl
@@ -216,7 +225,6 @@ Midoriya (1): Izuku Midoriya
 Tiure (1): Jabba the Hutt
 Moriarty (1): James Moriarty
 Binks (1): Jar Jar Binks
-Grace (1): Jason Grace
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
 Chambers (1): Jesse Quick
@@ -234,6 +242,7 @@ Patel (1): Karun Patel
 Bakugo (1): Katsuki Bakugo
 Ishiyama (1): Ken Ishiyama
 Masters (1): Ken
+McCallister (1): Kevin McCallister
 Komori (1): Kinoko Komori
 Koda (1): Koji Koda
 Bondo (1): Kojiro Bondo
@@ -250,6 +259,7 @@ Laufeyson (1): Loki
 Ritten (1): Lorana Ritten
 Riddle (1): Lord Voldemort
 Gloucester (1): Lorenz
+Castellan (1): Luke Castellan
 Ordelia (1): Lysithea
 Bison (1): M. Bison
 Windu (1): Mace Windu
@@ -258,10 +268,13 @@ Keen (1): Mallory Keen
 Fukidashi (1): Manga Fukidashi
 Brandt (1): Mantis
 Edmund (1): Marianne
+Watney (1): Mark Watney
 J'onzz (1): Martian Manhunter
+Murchins (1): Marv Murchins
 Ojiro (1): Mashirao Ojiro
 Ludwig (1): Medic
 Hatsume (1): Mei Hatsume
+Lewis (1): Melissa Lewis
 von Martritz (1): Mercedes
 Brandybuck (1): Merry Brandybuck
 Shoji (1): Mezo Shoji
@@ -274,10 +287,12 @@ Jones-Watson (1): MJ Watson (MCU)
 Gideon (1): Moff Gideon
 Yaoyorozu (1): Momo Yaoyorozu
 Rambeau (1): Monica Rambeau
+Noodle (1): Mr. Noodle
 Qi (1): Mr. Qi
 Khan (1): Ms. Marvel
 Monoma (1): Neito Monoma
 Kayama (1): Nemuri Kayama
+Anderson (1): Neo
 Wagner (1): Nightcrawler
 Shoda (1): Nirengeki Shoda
 Holiday (1): Noelle Holiday
@@ -297,6 +312,7 @@ Morris (1): Quincey Morris
 Kirsten (1): Raphael
 Yanagi (1): Reiko Yanagi
 Keiros (1): Reithen Keiros
+Martinez (1): Rick Martinez
 Vrataski (1): Rita Vrataski
 Raccoon (1): Rocket Raccoon
 Tico (1): Rose Tico
@@ -363,4 +379,5 @@ Aoyama (1): Yuga Aoyama
 Kodai (1): Yui Kodai
 Wiebe (1): Zach Wiebe
 Rashid (1): Zia Rashid
+Nightshade (1): Zoë Nightshade
 Kal-Thim (1): Zulen Kal-Thim

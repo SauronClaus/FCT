@@ -143,7 +143,6 @@ Garrus Vakarian
 Genji
 George Hammond
 George Weasley
-Geralt of Rivia
 Gideon Jura
 Gilderoy Lockhart
 Giorno Giovanna
@@ -156,7 +155,6 @@ Gramma Tala
 Grandpa
 Greez Dritus
 Grover
-Grover Underwood
 Grumpy Bear
 Grunt
 Hades
@@ -333,7 +331,6 @@ Makoto Niijima
 Makoto Yuki
 Malcolm Beech
 Marion Ravenwood
-Mark Watney
 Markus
 Marth
 Marvel Boy
@@ -375,14 +372,12 @@ Mordenkainen
 Mordin Solus
 Morgana
 Morinth
-Morpheus
 Morris
 Mouse Finbar
 Moze
 Mr. Game and Watch
 Mr. Hooper
 Mr. L
-Mr. Noodle
 Mr. Resetti
 Mr. Scratch
 Mr. Snuffleupagus
@@ -405,13 +400,11 @@ Ned
 Ned Land
 Negative Man
 Nelix
-Neo
 Ness
 Neville Longbottom
 Newt Scamander
 Neytiri
 Nico Robin
-Nico di Angelo
 Nicol Bolas
 Nightthrasher
 Nimona
@@ -611,7 +604,6 @@ Tempest
 Tenderheart Bear
 Terry Bogard
 Teyo Verada
-Thalia Grace
 Thane Krios
 The Boy
 The Chief
@@ -633,7 +625,6 @@ Tony Tony Chopper
 Tracer
 Trevor Belmont
 Trevor Philips
-Trinity
 Tripitaka
 Tron
 Twilight Sparkle
@@ -641,7 +632,6 @@ Twintelle
 Twisted Fate
 Tyrion
 Tyrone
-Tyson
 U.S. Agent
 Ultra Car
 Uniqua

@@ -13,7 +13,7 @@ Demigod
 Good
 Supporting Protagonist
 Female
-Camp Half-Blood,Demigod,Early Sacrifice,Greek,Hunters of Artemis,Hybrid,Immortal,Fridged,Time Displaced,Twins|Nico di Angelo
+Camp Half-Blood,Demigod,Early Sacrifice,Fridged,Greek,Hunters of Artemis,Hybrid,Immortal,Time Displaced,Twins|Nico di Angelo
 Modified Human
 Low
 Camp Half-Blood,Hunters of Artemis

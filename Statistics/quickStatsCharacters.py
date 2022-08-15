@@ -21,7 +21,7 @@ def quickStatsCharacters():
                     weird = False
                     for lineNum in range(len(characterInfo)):
                         line = characterInfo[lineNum]
-                        if line[0:1:] in numbers and lineNum != 9 and line != "2K Games" and line != "39 Clues":
+                        if line[0:1:] in numbers and lineNum != 9 and line != "2K Games" and line != "39 Clues" and line != "20th Century Fox":
                             weird = True
                             weirdCharacters.append(entry[0:len(entry)-4:])
                             print("Check:" + entry[0:len(entry)-4:])

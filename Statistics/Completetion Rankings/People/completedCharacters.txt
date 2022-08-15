@@ -8,6 +8,7 @@ Adora
 Adrian Monk
 Aerith Gainsborough
 Agatha
+Agent Smith
 Agent Venom
 Ahsoka Tano
 Ajak
@@ -22,6 +23,7 @@ Alex
 Alex (Minecraft)
 Alex DeLarge
 Alex Fierro
+Alex Vogel
 Alexander Luthor Jr.
 Alfred Pennyworth
 Alice Daerdahk
@@ -63,6 +65,7 @@ Anti-Monitor
 Anton Chigurh
 Antonio Madrigal
 Aphelios
+Apoc
 Apollo
 Applejack
 Aquaman
@@ -100,6 +103,7 @@ Banjo
 Banshee
 Barbara Gordon
 Bard the Bowman
+Baron Vladimir Harkonnen
 Baron Zemo
 Barret Wallace
 Barry Allen
@@ -118,6 +122,7 @@ Berdly
 Bernadetta
 Bert
 Beth Johanssen
+Bianca di Angelo
 Big Bird
 Big the Cat
 Bilbo Baggins
@@ -191,12 +196,14 @@ Caspar
 Cassie Lang
 Catherine
 Catra
+Chani
 Chara
 Chell
 Chewbacca
 Chiyo Shuzenji
 Chun-Li
 Circe
+Clarisse La Rue
 Claude
 Colin Frazer
 Colossus
@@ -229,6 +236,7 @@ Dolores Madrigal
 Doomslayer
 Dorothea
 Dorothy Gale
+Dozer
 Dr. Bunsen Honeydew
 Dr. Chris Beck
 Dr. Loomis
@@ -236,6 +244,8 @@ Dr. Samuel Hayden
 Dracula
 Drax the Destroyer
 Druig
+Duke Leto Atreides
+Duncan Idaho
 Dyan
 Ectoplasm
 Edelgard
@@ -274,11 +284,13 @@ Gandalf
 Garnet
 Garrik Doriana
 General Grievous
+Geralt of Rivia
 Gilgamesh
 Gimli
 Ginny Weasley
 Glimmer
 Glinda the Good Witch
+Glossu Rabban Harkonnen
 Glynnric Manassnass
 Gordon Freeman
 Gran'ma Ben
@@ -286,6 +298,7 @@ Grand Moff Tarkin
 Greef Karga
 Green Arrow
 Groot
+Grover Underwood
 Grunkle Stan
 Guile
 Hal Jordan
@@ -298,6 +311,7 @@ Hanta Sero
 Harbringer
 Harrison Truscott
 Harrison Truscott (Evil)
+Harry Lyme
 Harry Potter
 Harvey
 Hawkeye
@@ -367,6 +381,7 @@ Katsuki Bakugo
 Kazooie
 Ken
 Ken Ishiyama
+Kevin McCallister
 Khan Makyr
 King
 Kingdok
@@ -385,6 +400,7 @@ Kuiil
 Kurogiri
 Kylo Ren
 Kyoka Jiro
+Lady Jessica
 Lancer
 Lando Calrissian
 Lapis Lazuli
@@ -404,6 +420,7 @@ Lord Voldemort
 Lorenz
 Luigi
 Luisa Madrigal
+Luke Castellan
 Luke Skywalker
 Lysithea
 M. Bison
@@ -419,8 +436,10 @@ Manga Fukidashi
 Mantis
 Marianne
 Mario
+Mark Watney
 Martian Manhunter
 Maru
+Marv Murchins
 Mary Marvel
 Mashirao Ojiro
 Maui
@@ -428,6 +447,7 @@ Max Mercury
 Maxwell
 Medic
 Mei Hatsume
+Melissa Lewis
 Mercedes
 Merry Brandybuck
 Mettaton
@@ -445,8 +465,11 @@ Moana
 Moff Gideon
 Momo Yaoyorozu
 Monica Rambeau
+Morpheus
+Mouse (Matrix)
 Mr. Fantastic
 Mr. Incredible
+Mr. Noodle
 Mr. Qi
 Ms. Marvel
 Mycroft Holmes
@@ -456,7 +479,9 @@ Namaari
 Nebula
 Neito Monoma
 Nemuri Kayama
+Neo
 Nezu
+Nico di Angelo
 Nightcrawler
 Nirengeki Shoda
 Noelle Holiday
@@ -472,6 +497,7 @@ Padme Amidala
 Pan
 Papyrus
 Pariah
+Paul Atreides
 Pearl
 Penny
 Pepa Madrigal
@@ -503,6 +529,7 @@ Reiko Yanagi
 Reithen Keiros
 Rey
 Rhea
+Rick Martinez
 Rikido Sato
 Rikk
 Rita Vrataski
@@ -577,15 +604,18 @@ Supergirl
 Superman
 Susie
 Sven
+Switch
 Sylvain
 Syndrome
 Tamatoa
+Tank
 Te Ka
 Ted Kord
 Tenya Ida
 Terrence the Baby Tarrasque
 Tetsutetsu Tetsutetsu
 Thales
+Thalia Grace
 Thanos
 The Child
 The Human Torch
@@ -604,8 +634,10 @@ Tong
 Toph Beifong
 Toriel
 Toru Hakagure
+Trinity
 Tsuyu Asui
 Ty Lee
+Tyson
 Uka
 Ultron
 Undyne
@@ -639,6 +671,7 @@ Yuga Aoyama
 Yui Kodai
 Zach Wiebe
 Zia Rashid
+Zoë Nightshade
 Zuko
 Zulen Kal-Thim
 the Icon of Sin

@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Witcher,Magic User,Adventurer,Soldier,Monster Hunter,Fighter,Stoic,Swordsman,Iconic
+Adventurer,Fighter,Iconic,Magic User,Monster Hunter,Soldier,Stoic,Swordsman,Witcher
 City
 High
 

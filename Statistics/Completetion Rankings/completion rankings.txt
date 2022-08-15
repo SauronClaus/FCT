@@ -1,18 +1,18 @@
-Characters (47.28%):
-   -644 completed characters.
-   -713 incomplete characters.
+Characters (48.88%):
+   -677 completed characters.
+   -703 incomplete characters.
    -0 characters with no restrictions.
    -0 unsubstitutable characters.
    -0 guild locked characters.
    -3 unupdated characters.
    -2 weird characters.
-   -1362 total characters.
-Franchises: (28.27%):
-   -54 completed franchises.
-   -131 incomplete franchises.
+   -1385 total characters.
+Franchises: (32.16%):
+   -64 completed franchises.
+   -129 incomplete franchises.
    -3 unupdated franchises.
    -3 weird franchises.
-   -191 total franchises.
+   -199 total franchises.
 Artifacts: (100.0%):
    -106 completed artifacts.
    -0 incomplete artifacts.

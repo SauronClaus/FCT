@@ -13,7 +13,7 @@ Eternal
 Good
 Protagonist
 Female
-Eternal,Healer,Immortal,Maternal,Fridged,Superheroes
+Eternal,Fridged,Healer,Immortal,Maternal,Superheroes
 City
 High
 Eternals

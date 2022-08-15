@@ -1,4 +1,5 @@
 Madrigal: Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Smith: Agent Smith, Culverton Smith
 Shigaraki: All for One, Tomura Shigaraki
 Kane: Amos Kane, Carter Kane, Sadie Kane
 Rose: Amy Rose, Ruby Rose
@@ -11,8 +12,10 @@ Sako: Atsuhiro Sako, Kurogiri
 Finch: Atticus Finch, Jem Finch, Scout Finch
 Beaubier: Aurora, Northstar
 Gordon: Barbara Gordon, Jim Gordon
+Harkonnen: Baron Vladimir Harkonnen, Glossu Rabban Harkonnen
 Allen: Barry Allen, Bart Allen
 Wayne: Batman, Damian Wayne
+di Angelo: Bianca di Angelo, Nico di Angelo
 Baggins: Bilbo Baggins, Frodo Baggins
 Kerman: Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Fett: Boba Fett, Jango Fett
@@ -30,12 +33,14 @@ Parr: Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
 Wilson: Deadpool, Falcon
 Pines: Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Howlett: Doomslayer, Wolverine
+Atreides: Duke Leto Atreides, Paul Atreides
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Solo: Han Solo (Old), Han Solo, Kylo Ren
 Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 West: Irey West, Iris West, Jai West, Wally West II, Wally West
 Richards: Iron Lad, Mr. Fantastic, The Invisible Woman
+Grace: Jason Grace, Thalia Grace
 Jenkins: Jenkins, Jono Jenkins
 Harker: Jonathan Harker, Mina Harker
 Organa: Leia Organa (Old), Leia Organa

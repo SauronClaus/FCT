@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-Genius,Iconic,Inventor,Tech,Child,Traps,Christmas Movies
+Child,Christmas Movies,Genius,Iconic,Inventor,Tech,Traps
 Baseline
 Medium
 

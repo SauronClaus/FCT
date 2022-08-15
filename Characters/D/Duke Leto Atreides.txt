@@ -13,7 +13,7 @@ Human
 Good
 Side Character
 Male
-Duke,Married|Lady Jessica,Nobility,Parent Child|Paul Atreides,Soldier,Fridged
+Duke,Fridged,Married|Lady Jessica,Nobility,Parent Child|Paul Atreides,Soldier
 Baseline
 Low
 House Atreides

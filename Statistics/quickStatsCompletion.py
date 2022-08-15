@@ -1,4 +1,4 @@
-# This file fills out the file labled "completion rankings.txt" along with serving as a spring board for the three methods imported.
+# This file fills out the file labled "completion rankings.txt" along with serving as a spring board for the five methods imported.
 
 alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]

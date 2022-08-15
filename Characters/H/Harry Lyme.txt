@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Christmas Movies,Comedically Invulnerable,Slapstick Routine,Robber,Thief,Duo|Marv Murchins,Mastermind,Idiot
+Christmas Movies,Comedically Invulnerable,Duo|Marv Murchins,Idiot,Mastermind,Slapstick Routine,Thief
 Baseline
 Medium
 

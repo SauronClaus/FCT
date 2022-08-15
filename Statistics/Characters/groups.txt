@@ -7,7 +7,7 @@ Alpha Flight (4): Aurora, Carol Danvers, Northstar, Wolverine
 Amazons (2): Hippolyta, Wonder Woman
 Animal Crossing NPCs (1): Isabelle
 Ant-Man Cast (6): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang
-Ares III Mission Crew (2): Beth Johanssen, Dr. Chris Beck
+Ares III Mission Crew (6): Alex Vogel, Beth Johanssen, Dr. Chris Beck, Mark Watney, Melissa Lewis, Rick Martinez
 Arrowverse Main Cast (1): Barry Allen
 Asgardians (1): Loki
 Asgardians (Marvel) (1): Thor
@@ -37,7 +37,7 @@ Borderlands 1 Vault Hunters (1): Brick
 Borderlands 2 Vault Hunters (1): Axton
 Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
-Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
+Camp Half-Blood (12): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Thalia Grace, Tyson
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
 Champions (Extended) (1): Nadia Van Dyne
@@ -67,6 +67,7 @@ Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasle
 ENCOM (1): Alan Bradley
 Einharjar (Magnus Chase) (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Electric Mayhem (1): Animal
+Elmo's World (1): Mr. Noodle
 Ender's Jeesh (1): Bean
 Essex Crew (1): Captain George Pollard Jr.
 Eternals (11): Ajak, Druig, Gilgamesh, Ikaris, Karun Patel, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
@@ -88,6 +89,7 @@ First Order (Star Wars) (2): Captain Phasma, Kylo Ren
 Flash Family (9): Barry Allen, Bart Allen, Irey West, Jai West, Jay Garrick, Jesse Quick, Max Mercury, Wally West II, Wally West
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Flynn-Fletcher Family (1): Candace Flynn
+Fremen (1): Chani
 Friends from College (Eternals) (4): Ikaris, Phastos, Sersi, Sprite
 Friendship Main Squad (My Little Pony) (1): Applejack
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
@@ -96,7 +98,7 @@ GCPD (1): Jim Gordon
 Galactic Empire (3): Darth Vader, Grand Moff Tarkin, Sheev Palpatine
 Giant Sized X-Men #1 Team (8): Banshee, Colossus, Cyclops, John Proudstar, Nightcrawler, Storm, Sunfire, Wolverine
 Golden Deer (9): Byleth, Claude, Hilda, Ignatz, Leonie, Lorenz, Lysithea, Marianne, Raphael
-Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
+Greek Demigods (Rick Riordan) (6): Annabeth Chase, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean
 Green Lantern Corps (3): Alan Scott, Hal Jordan, John Stewart
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Guardians of the Galaxy (Core) (7): Drax the Destroyer, Gamora, Groot, Mantis, Nebula, Rocket Raccoon, Star-Lord
@@ -105,12 +107,15 @@ Harrison Truscott's Permutations (3): Byllemura Ruby-Eye, Harrison Truscott (Evi
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Hell Priests (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
 Henry Kopf's Permutations (1): IKCFAMWSIIF
-Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean
+Heroes of Olympus (8): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Nico di Angelo, Percy Jackson, Piper McLean
 High Five (Ready Player One) (1): Akihide Karatsu
 Hogwarts Professors (1): Albus Dumbledore
+House Atreides (4): Duke Leto Atreides, Duncan Idaho, Lady Jessica, Paul Atreides
+House Harkonnen (2): Baron Vladimir Harkonnen, Glossu Rabban Harkonnen
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Hulks (2): Amadeus Cho, Hulk
+Hunters of Artemis (3): Bianca di Angelo, Thalia Grace, Zoë Nightshade
 IRL People (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Infinity Watch (1): Adam Warlock
 Interpol (1): Chun-Li
@@ -150,6 +155,7 @@ Marvel's Floating Super-Hero Poker Game (1): The Thing
 Mirabel's Direct Family (5): Augustin Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal
 Mystery Shack Employees (5): Dipper Pines, Grunkle Stan, Mabel Pines, Soos Ramirez, Wendy Corduroy
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
+Nebuchadnezzar Crew (8): Apoc, Dozer, Morpheus, Mouse (Matrix), Neo, Switch, Tank, Trinity
 New Mutants (Core) (1): Cannonball
 New Mutants (Extended) (1): Cannonball
 Ninja Mafia (Sam and Fuzzy) (3): Devahi, Fuzzy, Sam (Sam and Fuzzy)
@@ -160,7 +166,7 @@ OSS (2): Carmen Cortez, Juni Cortez
 Order of the Pheonix I (1): Albus Dumbledore
 Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour
 Original Four (KSP) (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
-Original Prophecy (2): Annabeth Chase, Percy Jackson
+Original Prophecy (3): Annabeth Chase, Luke Castellan, Percy Jackson
 Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider
 Original Trilogy Quintet (8): C3PO, Chewbacca, Han Solo (Old), Han Solo, Leia Organa (Old), Leia Organa, Luke Skywalker, R2-D2
 Outsiders (2): Batman, Black Lightning
@@ -244,6 +250,7 @@ The Family Madrigal (12): Abuela Alma Madrigal, Antonio Madrigal, Augustin Madri
 The Fun Gang (5): Kris, Lancer, Noelle Holiday, Ralsei, Susie
 The Gaang (5): Aang, Katara, Sokka, Toph Beifong, Zuko
 The Mandalorian Cast (6): Cara Dune, Greef Karga, IG-11, Kuiil, The Child, The Mandalorian
+The Matrix Main Trio (3): Morpheus, Neo, Trinity
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
 The Nautilus Crew (1): Captain Nemo
 The Princess Alliance (3): Adora, Bow, Glimmer

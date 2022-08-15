@@ -1,26 +1,34 @@
 
-Avatar (TV Show) (1/54):
+20th Century Fox (1/64):
+	-Home Alone (1/1): Home Alone
+	-All (1/64): Home Alone
+
+Andy Weir Novels (1/64):
+	-The Martian (1/1): Martian
+	-All (1/64): Martian
+
+Avatar (TV Show) (1/64):
 	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
-	-All (1/54): Avatar The Last Airbender
+	-All (1/64): Avatar The Last Airbender
 
-Band of Fools (1/54):
+Band of Fools (1/64):
 	-Band of Fools Original (1/1): Band of Fools (original)
-	-All (1/54): Band of Fools (original)
+	-All (1/64): Band of Fools (original)
 
-Bone (1/54):
+Bone (1/64):
 	-Bone (1/1): Bone
-	-All (1/54): Bone
+	-All (1/64): Bone
 
-Classic Literature (2/54):
+Classic Literature (2/64):
 	-Greek Classics (1/2): The Odyssey
 	-Oz Books (1/2): Wizard of Oz
-	-All (2/54): The Odyssey, Wizard of Oz
+	-All (2/64): The Odyssey, Wizard of Oz
 
-DC (1/54):
+DC (1/64):
 	-DC Comics (1/1): Crisis on Infinite Earths
-	-All (1/54): Crisis on Infinite Earths
+	-All (1/64): Crisis on Infinite Earths
 
-Disney (17/54):
+Disney (17/64):
 	-Encanto (1/17): Encanto
 	-MCU (1/17): Eternals
 	-Marvel (2/17): Guardians of the Galaxy, Guardians of the Galaxy Vol 2
@@ -28,73 +36,80 @@ Disney (17/54):
 	-Moana (1/17): Moana
 	-Raya and the Last Dragon (1/17): Raya and the Last Dragon
 	-The Incredibles (1/17): The Incredibles
-	-All (17/54): Encanto, Eternals, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII, The Incredibles
+	-All (17/64): Encanto, Eternals, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII, The Incredibles
 
-Dracula (1/54):
+Dracula (1/64):
 	-Dracula (1/1): Dracula
-	-All (1/54): Dracula
+	-All (1/64): Dracula
 
-Edge of Tomorrow (1/54):
+Edge of Tomorrow (1/64):
 	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
-	-All (1/54): Edge of Tomorrow (film)
+	-All (1/64): Edge of Tomorrow (film)
 
-Fire Emblem (5/54):
+Fire Emblem (5/64):
 	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All (5/54): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/64): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Frozen (1/54):
+Frozen (1/64):
 	-Frozen (1/1): Frozen
-	-All (1/54): Frozen
+	-All (1/64): Frozen
 
-Halloween (1/54):
+Halloween (1/64):
 	-Halloween (1/1): Halloween
-	-All (1/54): Halloween
+	-All (1/64): Halloween
 
-Harry Potter (1/54):
+Harry Potter (1/64):
 	-Harry Potter (1/1): Harry Potter
-	-All (1/54): Harry Potter
+	-All (1/64): Harry Potter
 
-Indie Video Games (6/54):
+Indie Video Games (6/64):
 	-Deltarune (3/6): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route)
 	-Undertale (3/6): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All (6/54): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route), Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (6/64): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route), Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Kindred (1/54):
+Kindred (1/64):
 	-Kindred (1/1): Kindred (novel)
-	-All (1/54): Kindred (novel)
+	-All (1/64): Kindred (novel)
 
-Mario (2/54):
+Mario (2/64):
 	-Mario (2/2): Mario 64, Mario Galaxy
-	-All (2/54): Mario 64, Mario Galaxy
+	-All (2/64): Mario 64, Mario Galaxy
 
-Marvel (4/54):
+Marvel (4/64):
 	-MCU (4/4): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
-	-All (4/54): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
+	-All (4/64): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
 
-Microsoft (1/54):
+Microsoft (1/64):
 	-Mojang (1/1): Minecraft
-	-All (1/54): Minecraft
+	-All (1/64): Minecraft
 
-Percy Jackson and the Olympians (1/54):
-	-Kane Chronicles (1/1): Kane Chronicles
-	-All (1/54): Kane Chronicles
+Percy Jackson and the Olympians (7/64):
+	-Kane Chronicles (1/7): Kane Chronicles
+	-Percy Jackson (5/7): Sea of Monsters, The Battle of the Labyrinth, The Last Olympian, The Lightning Thief, The Titan's Curse
+	-Magnus Chase (1/7): The Sword of Summer
+	-All (7/64): Kane Chronicles, Sea of Monsters, The Battle of the Labyrinth, The Last Olympian, The Lightning Thief, The Sword of Summer, The Titan's Curse
 
-RWBY (1/54):
+RWBY (1/64):
 	-RWBY (1/1): RWBY
-	-All (1/54): RWBY
+	-All (1/64): RWBY
 
-Re-Logic (1/54):
+Re-Logic (1/64):
 	-Re-Logic (1/1): Terraria
-	-All (1/54): Terraria
+	-All (1/64): Terraria
 
-Sherlock Holmes Shows (1/54):
+Sherlock Holmes Shows (1/64):
 	-BBC Shows (1/1): Sherlock
-	-All (1/54): Sherlock
+	-All (1/64): Sherlock
 
-Valve (1/54):
+Valve (1/64):
 	-Half-Life (1/1): Half Life 2
-	-All (1/54): Half Life 2
+	-All (1/64): Half Life 2
 
-id Software (2/54):
+Warner Bros. (2/64):
+	-Dune (1/2): Dune Part One
+	-The Matrix (1/2): Matrix
+	-All (2/64): Dune Part One, Matrix
+
+id Software (2/64):
 	-Doom (2/2): Doom, Doom Eternal
-	-All (2/54): Doom, Doom Eternal
+	-All (2/64): Doom, Doom Eternal

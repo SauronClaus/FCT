@@ -7,6 +7,7 @@ Super Smash Bros (16): Alex (Minecraft), Banjo, Bayonetta, Bowser Jr., Bowser, C
 UA Staff (13): All-Might, Anan Kurose, Chiyo Shuzenji, Ectoplasm, Higari Maijima, Hizashi Yamada, Ken Ishiyama, Nemuri Kayama, Nezu, Ryo Inui, Sekijiro Kan, Shota Aizawa, Snipe
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 The Family Madrigal (12): Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
+Camp Half-Blood (12): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Thalia Grace, Tyson
 Eternals (11): Ajak, Druig, Gilgamesh, Ikaris, Karun Patel, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
 The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 Teen Titans (Extended) (11): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Supergirl, Tim Drake, Wally West II, Wally West
@@ -24,6 +25,8 @@ Team Fortress Mercs (9): Demoman, Engineer, Heavy, Medic, Pyro, Scout, Sniper, S
 Band of Fools (Original) (8): Akkar, Arthail Consumer of Food, Byllemura Ruby-Eye, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
 Magnus Chase Ragnarok-Halting Gang (8): Alex Fierro, Blitzen, Halfborn Gunderson, Hearthstone, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
 Bat-Family (Extended) (8): Alfred Pennyworth, Barbara Gordon, Batman, Damian Wayne, Dick Grayson, Jason Todd, Jim Gordon, Tim Drake
+Heroes of Olympus (8): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Nico di Angelo, Percy Jackson, Piper McLean
+Nebuchadnezzar Crew (8): Apoc, Dozer, Morpheus, Mouse (Matrix), Neo, Switch, Tank, Trinity
 Giant Sized X-Men #1 Team (8): Banshee, Colossus, Cyclops, John Proudstar, Nightcrawler, Storm, Sunfire, Wolverine
 Fantastic Four (Extended) (8): Bentley-23, Black Panther, Mr. Fantastic, Spider-Man, Storm, The Human Torch, The Invisible Woman, The Thing
 Original Trilogy Quintet (8): C3PO, Chewbacca, Han Solo (Old), Han Solo, Leia Organa (Old), Leia Organa, Luke Skywalker, R2-D2
@@ -34,7 +37,6 @@ Knights of Seiros (7): Alois, Byleth, Catherine, Flayn, Rhea, Seteth, Shamir
 Undertale Pacifist Friends (7): Alphys, Frisk (Pacifist Route), Frisk, Papyrus, Sans, Toriel, Undyne
 Champions (Marvel) (Core) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
 Champions (Marvel) (Extended) (7): Amadeus Cho, Ironheart, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
-Heroes of Olympus (7): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Percy Jackson, Piper McLean
 Justice League Founder (7): Aquaman, Barry Allen, Batman, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 League of Villains (7): Atsuhiro Sako, Dabi, Himiko Toga, Jin Bubaigawara, Kurogiri, Spinner, Tomura Shigaraki
 Justice League (Core) (7): Barry Allen, Batman, Cyborg, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
@@ -44,8 +46,10 @@ IRL People (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebas
 Guardians of the Galaxy (Core) (7): Drax the Destroyer, Gamora, Groot, Mantis, Nebula, Rocket Raccoon, Star-Lord
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+Ares III Mission Crew (6): Alex Vogel, Beth Johanssen, Dr. Chris Beck, Mark Watney, Melissa Lewis, Rick Martinez
 Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebastian, Shane
 Skywalkers (Star Wars) (6): Anakin Skywalker, Kylo Ren, Leia Organa (Old), Leia Organa, Luke Skywalker, Rey
+Greek Demigods (Rick Riordan) (6): Annabeth Chase, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
 Band of Fools (Redux) (6): Arthail Consumer of Food, Byllemura Ruby-Eye, Eldon Spark Turen, Jori-En Blurred, Kalathos Sunstrider, Squee
 Avengers Original Quintet (6): Black Widow, Captain America, Hawkeye, Hulk, Iron Man, Thor
@@ -63,7 +67,6 @@ Young Justice (Extended) (5): Amethyst, Bart Allen, Miss Martian, Tim Drake, Wal
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
-Camp Half-Blood (5): Annabeth Chase, Apollo, Leo Valdez, Percy Jackson, Piper McLean
 Mirabel's Direct Family (5): Augustin Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal
 Sith Lord (5): Count Dooku, Darth Maul, Darth Vader, Sheev Palpatine, Snoke
 Mystery Shack Employees (5): Dipper Pines, Grunkle Stan, Mabel Pines, Soos Ramirez, Wendy Corduroy
@@ -77,7 +80,6 @@ Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fle
 Crystal Gems (Core) (4): Amethyst (Steven Universe), Garnet, Pearl, Steven Universe
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
 Skywalker Family Quartet (4): Anakin Skywalker, Leia Organa, Luke Skywalker, Padme Amidala
-Greek Demigods (Rick Riordan) (4): Annabeth Chase, Leo Valdez, Percy Jackson, Piper McLean
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
 Alpha Flight (4): Aurora, Carol Danvers, Northstar, Wolverine
 Sequel Trilogy Main Cast (4): BB-8, Finn, Poe Dameron, Rey
@@ -91,6 +93,7 @@ Parr Family (4): Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
 Hell Priests (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
 Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
 Pines Family (4): Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
+House Atreides (4): Duke Leto Atreides, Duncan Idaho, Lady Jessica, Paul Atreides
 Noi's Family (4): Dyan, Noi, Pan, Uka
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Gryffindor (Harry Potter's Years) (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
@@ -113,6 +116,7 @@ Kanes (3): Amos Kane, Carter Kane, Sadie Kane
 X-Men First Class (3): Angel, Beast, Cyclops
 The Muppet Show (3): Animal, Beaker, Dr. Bunsen Honeydew
 Disney Princesses (3): Anna, Elsa, Moana
+Original Prophecy (3): Annabeth Chase, Luke Castellan, Percy Jackson
 Unbroken Cast 2 (3): Arrolys Larskano, Fedora Turthin, Garrik Doriana
 Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
@@ -126,6 +130,7 @@ Justice League International (3): Batman, Booster Gold, Ted Kord
 Star Wars Droids (3): BB-8, C3PO, R2-D2
 Teen Titans (Core) (3): Beast Boy, Dick Grayson, Wally West
 Teen Titans Go! Cast (3): Beast Boy, Cyborg, Dick Grayson
+Hunters of Artemis (3): Bianca di Angelo, Thalia Grace, Zoë Nightshade
 Rat Creature Horde (Bone) (3): Blue Stupid Rat Creature, Brown Stupid Rat Creature, Kingdok
 Kanto Gym Leaders (3): Blue, Brock, Misty
 Star Wars Bounty Hunters (3): Boba Fett, Jabba the Hutt, Jango Fett
@@ -148,6 +153,7 @@ Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
 Those Who Slither in the Dark (3): Kronya, Solon, Thales
+The Matrix Main Trio (3): Morpheus, Neo, Trinity
 Avatars (2): Aang, Korra
 Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
 Symbiote Squad (2): Agent Venom, Venom
@@ -161,7 +167,6 @@ Suicide Squad (Core) (2): Amanda Waller, Captain Boomerang
 Suicide Squad (Extended) (2): Amanda Waller, Captain Boomerang
 Sonic the Hedgehog (Main Cast) (2): Amy Rose, Sonic the Hedgehog
 Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
-Original Prophecy (2): Annabeth Chase, Percy Jackson
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
 Young X-Men (2): Anole, Armor
  Colin Frazer's Permutations (2): Arrolys Larskano, Yekkon Shmalakis
@@ -170,8 +175,8 @@ Phineas and Ferb Main Child Group (2): Baljeet Tjinder, Buford Van Stomm
 Super Smash Bros DLC (2): Banjo, Kazooie
 Birds of Prey (Core) (2): Barbara Gordon, Black Canary
 Birds of Prey (Extended) (2): Barbara Gordon, Black Canary
+House Harkonnen (2): Baron Vladimir Harkonnen, Glossu Rabban Harkonnen
 Outsiders (2): Batman, Black Lightning
-Ares III Mission Crew (2): Beth Johanssen, Dr. Chris Beck
 Thorin and Company (2): Bilbo Baggins, Gandalf
 Champions (Pokemon) (2): Blue, Red (Pokemon)
 Koopa Troopa (2): Bowser Jr., Bowser
@@ -244,6 +249,7 @@ C Company (Saving Private Ryan) (1): Captain John H. Miller
 Star Trek: The Original Series Crew (1): Captain Kirk
 The Nautilus Crew (1): Captain Nemo
 Super Pal Trio (1): Catra
+Fremen (1): Chani
 Interpol (1): Chun-Li
 X-Force (Core) (1): Deadpool
 Triwizard Tournament Competitors (1): Fleur Delacour
@@ -268,6 +274,7 @@ Super Smash Bros Original Cast (1): Mario
 Survivors of the Constant (1): Maxwell
 Class 1-H (1): Mei Hatsume
 Spider-Related (MCU) (1): MJ Watson (MCU)
+Elmo's World (1): Mr. Noodle
 Champions (Extended) (1): Nadia Van Dyne
 Abby Smetana's Permutations (1): Nahara
 Excalibur (Marvel) (1): Psylocke

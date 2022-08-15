@@ -1,5 +1,5 @@
 Alan: Alan Bradley, Alan Scott, Alan Wake
-Alex: Alex (Minecraft), Alex DeLarge, Alex Fierro, Alex
+Alex: Alex (Minecraft), Alex DeLarge, Alex Fierro, Alex Vogel, Alex
 Alice: Alice Daerdahk, Alice Johnson
 Amy: Amethyst, Amy Cahill, Amy Rose
 Anakin: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
@@ -29,6 +29,7 @@ Rose: Gran'ma Ben, Rose Tico
 William: Guile, Maxwell, William Cage
 Han: Han Solo (Old), Han Solo
 Harrison: Harrison Truscott (Evil), Harrison Truscott
+Harry: Harry Lyme, Harry Potter
 Robert: Hulk, Mr. Incredible
 Iris: Irey West, Iris West
 Jason: Jason Grace, Jason Todd
@@ -36,6 +37,8 @@ Jonathan: Jonathan Harker, The Human Torch
 Kal: Kal-L, Superboy Prime, Superman
 Ken: Ken Ishiyama, Ken
 Leia: Leia Organa (Old), Leia Organa
+Luke: Luke Castellan, Luke Skywalker
+Thomas: Neo, Thomas Jefferson Jr.
 Steven: Pearl, Steven Universe
 Ruby: Ruby Rider, Ruby Rose, Ruby
 Sebastian: Sebastian Polge, Sebastian

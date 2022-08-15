@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Christmas Movies,Comedically Invulnerable,Slapstick Routine,Robber,Thief,Duo|Harry Lyme,Idiot
+Christmas Movies,Comedically Invulnerable,Duo|Harry Lyme,Idiot,Slapstick Routine,Thief
 Baseline
 Medium
 
