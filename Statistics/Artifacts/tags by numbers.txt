@@ -4,6 +4,7 @@ Relic (Fire Emblem) (12): Aegis Shield, Areadbhar, Aymr, Blutgang, Crusher (Fire
 Sentient (10): Arrow of Dodona, Courtney, Festus, Nazelth, Osiris, Pikachu, Skeets, The Surprisingly Effective Dagger, The Sword of Summer (Jack), the Venom Symbiote
 Gem Weapon (7): Amethyst's Whip, Breaking Point, Connie's Sword, Garnet's Gauntlets, Limb Enhancers, Pearl's Spear, Rose's Shield
 Gun (6): Barret's Gatling Gun-Arm (Final Fantasy VII), Crescent Rose, Gambol Shroud, Machine Pistol, Portal Gun, San's Gaster Blaster
+Axe (5): Aymr, Freikugel, Leviathan Axe, Stormbreaker, The Hatchet
 Spear (5): Lance of Ruin, Luin, Nazelth, Pearl's Spear, Spear of Assal
 Shield (4): Aegis Shield, Captain America's Shield, Rose's Shield, The Shield of Heroes
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
@@ -11,7 +12,6 @@ Summoned (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
 Energy (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
 Dagger (4): Annabeth's Knife, Atreus' Knife, Katoptris, The Surprisingly Effective Dagger
 Demigod Weapons (4): Annabeth's Knife, Juno's Gladius, Katoptris, Riptide
-Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
 Tech (4): Crescent Rose, Iron Man Suit, Long Fall Boots, Portal Gun
 Celestial Bronze (3): Annabeth's Knife, Katoptris, Riptide
 Themed (3): Batarang, Batmobile, Batwing
@@ -20,7 +20,9 @@ Iconic (3): Captain America's Shield, Iron Man Suit, Portal Gun
 Hammer (3): Crusher (Fire Emblem), Mjolnir, Piko Piko Hammer
 Whip-Sword (3): Dragon Gem, Raya's Whip Sword, Sword of the Creator
 Armor (3): HEV Suit, Iron Man Suit, Long Fall Boots
+Wands (3): Hagrid's Umbrella, The Elder Wand, Wand
 Transforming (3): Juno's Gladius, Nazelth, Riptide
+Returning (3): Mjolnir, Riptide, Stormbreaker
 Flight (2): Aang's Glider Staff, Ruby Slippers
 Green Lantern Ring (2): Alan Scott's Ring, Green Lantern Ring
 Construct (2): Alan Scott's Ring, Green Lantern Ring
@@ -45,7 +47,9 @@ Greek (2): Katoptris, Riptide
 Infinity Stone (2): Loki's Scepter, The Soul Stone
 Aperture Science (2): Long Fall Boots, Portal Gun
 Science (2): Long Fall Boots, Portal Gun
-Returning (2): Mjolnir, Riptide
+Elemental Weapon (2): Mjolnir, Stormbreaker
+Lightning (2): Mjolnir, Stormbreaker
+Dwarven Forged (2): Mjolnir, Stormbreaker
 Evil (2): Nazelth, the Venom Symbiote
 Teleportation (2): Portal Gun, Ruby Slippers
 Deathly Hallows (2): The Elder Wand, The Invisiblity Cloak
@@ -134,9 +138,6 @@ Fishhook (1): Maui's Fishhook
 Healing (1): Medi Gun
 Healing Gun (1): Medi Gun
 Worthy (1): Mjolnir
-Elemental Weapon (1): Mjolnir
-Lightning (1): Mjolnir
-Dwarven Forged (1): Mjolnir
 Rapier (1): Myrtenaster
 Absorbing (1): Nazelth
 Glaive (1): Osiris
@@ -174,7 +175,6 @@ Object (1): The Crown of Horns
 Sacred (1): The Crown of Horns
 Draconic (1): The Crown of Horns
 Magical Fire (1): The Deck of Green Cards
-Wands (1): The Elder Wand
 Hatchet (1): The Hatchet
 Tool (1): The Hatchet
 Omnipotentence (1): The Infinity Gauntlet

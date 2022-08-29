@@ -15,3 +15,4 @@ Rat Creature Horde
 Shadow Demons
 Stormtroopers
 Ultron Sentries
+Velociraptors

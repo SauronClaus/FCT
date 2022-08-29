@@ -16,6 +16,7 @@ Akihide Karatsu
 Akkar
 Akuma
 Alan Bradley
+Alan Grant
 Alan Scott
 Alan Wake
 Albus Dumbledore
@@ -117,6 +118,7 @@ Beaker
 Bean
 Beast
 Beast Boy
+Beauregard Lionett
 Bentley-23
 Berdly
 Bernadetta
@@ -169,8 +171,10 @@ Buford Van Stomm
 Byleth
 Byllemura Ruby-Eye
 C3PO
+Caduceus Clay
 Caesar Anthonio Zeppeli
 Cal Kestis
+Caleb Widogast
 Calypso
 Calypso (The Odyssey)
 Camilo Madrigal
@@ -227,6 +231,7 @@ Deag Ragnak
 Dedue
 Demoman
 Denki Kaminari
+Dennis Nedry
 Devahi
 Dick Grayson
 Dimitri
@@ -253,6 +258,7 @@ Ego
 Eijiro Kirishima
 Elastigirl
 Eldon Spark Turen
+Ellie Sattler
 Elliot
 Elsa
 Emily
@@ -266,11 +272,14 @@ Felix
 Felix Madrigal
 Ferdinand
 Finn
+Fjord
 Flayn
 Fleur Delacour
 Flowey
 Fone Bone
 Frank Zhang
+Frankenstein Monster
+Franky
 Frisk
 Frisk (Genocide Route)
 Frisk (Neutral Route)
@@ -301,6 +310,7 @@ Groot
 Grover Underwood
 Grunkle Stan
 Guile
+Hagrid
 Hal Jordan
 Haley
 Halfborn Gunderson
@@ -331,6 +341,7 @@ Hubert
 Hulk
 IG-11
 IKCFAMWSIIF
+Ian Malcolm
 Ibara Shiozaki
 Ignatz
 Ikaris
@@ -359,8 +370,10 @@ Jebediah Kerman
 Jem Finch
 Jenkins
 Jesse Quick
+Jester Lavorre
 Jim Gordon
 Jin Bubaigawara
+Jinbe
 John Proudstar
 John Seward
 John Stewart
@@ -412,6 +425,7 @@ Leia Organa
 Leia Organa (Old)
 Leo Valdez
 Leonie
+Lex Murphy
 Linhardt
 Loki
 Long Jim
@@ -465,6 +479,7 @@ Moana
 Moff Gideon
 Momo Yaoyorozu
 Monica Rambeau
+Monkey D. Luffy
 Morpheus
 Mouse (Matrix)
 Mr. Fantastic
@@ -476,11 +491,13 @@ Mycroft Holmes
 Nadia Van Dyne
 Nahara
 Namaari
+Nami
 Nebula
 Neito Monoma
 Nemuri Kayama
 Neo
 Nezu
+Nico Robin
 Nico di Angelo
 Nightcrawler
 Nirengeki Shoda
@@ -512,6 +529,7 @@ Player (Terraria)
 Poe Dameron
 Polyphemus
 Pony Tsunotori
+Portgas D. Ace
 Princess Daisy
 Princess Peach
 Psylocke
@@ -520,7 +538,9 @@ Queen
 Qui-Gon Jinn
 Quicksilver
 Quincey Morris
+Quirinus Quirrell
 R2-D2
+Rachel Elizabeth Dare
 Ralsei
 Raphael
 Raya
@@ -536,6 +556,7 @@ Rita Vrataski
 Rocket Raccoon
 Ron Weasley
 Ronan the Accuser
+Roronoa Zoro
 Rosalina
 Rose Tico
 Ruby
@@ -544,6 +565,7 @@ Ruby Rose
 Rumy
 Ryo Inui
 Ryu
+Sabo
 Sadie Kane
 Sam (Sam and Fuzzy)
 Sam (Stardew Valley)
@@ -627,10 +649,12 @@ Thomas Jefferson Jr.
 Thor
 Thorn Harvestar
 Tim Drake
+Tim Murphy
 Tin Woodman
 Togaru Kamakiri
 Tomura Shigaraki
 Tong
+Tony Tony Chopper
 Toph Beifong
 Toriel
 Toru Hakagure
@@ -641,10 +665,14 @@ Tyson
 Uka
 Ultron
 Undyne
+Usopp
 VEGA
 Valentina Kerman
 Venom
+Veth Brenatto
+Victor Frankenstein
 Vikram Kommareddi
+Vinsmoke Sanji
 Violet Parr
 Vision
 Viv Vision
@@ -661,6 +689,7 @@ Wizard of Oz
 Wolverine
 Wonder Woman
 Yang Xiao Long
+Yasha Nydoorin
 Yekkon Shmalakis
 Yekkon Shmekkon
 Yoda

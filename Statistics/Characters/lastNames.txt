@@ -35,6 +35,7 @@ Pines: Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Howlett: Doomslayer, Wolverine
 Atreides: Duke Leto Atreides, Paul Atreides
 Bone: Fone Bone, Phoney Bone, Smiley Bone
+Frankenstein: Frankenstein Monster, Victor Frankenstein
 Solo: Han Solo (Old), Han Solo, Kylo Ren
 Truscott: Harrison Truscott (Evil), Harrison Truscott
 van Dyne: Hope van Dyne, Janet van Dyne, Nadia Van Dyne
@@ -44,6 +45,7 @@ Grace: Jason Grace, Thalia Grace
 Jenkins: Jenkins, Jono Jenkins
 Harker: Jonathan Harker, Mina Harker
 Organa: Leia Organa (Old), Leia Organa
+Murphy: Lex Murphy, Tim Murphy
 Mario: Luigi, Mario
 Holmes: Mycroft Holmes, Sherlock Holmes
 Universe: Pearl, Steven Universe

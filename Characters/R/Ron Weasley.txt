@@ -7,7 +7,7 @@ Ron
 Weasley
 Ron Weasley|Wheezy|Roonil Wazlib
 Rupert Grint|Paul Thornley
-11|1
+17|1
 Wizard
 Human
 Good
@@ -20,7 +20,7 @@ Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years),Weasl
 
 Books,Movies
 Harry Potter
-
+Wand
 Weasley Orange
 
 Bloomsbury Publishing

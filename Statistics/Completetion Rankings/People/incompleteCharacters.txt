@@ -122,11 +122,9 @@ Floyd Pepper
 Fox McCloud
 Fozzie Bear
 Frank Moses
-Frankenstein's monster
 Franklin Clinton
 Franklin Delano Donut
 Franklin Richards
-Franky
 Fred Weasley
 Freddy Krueger
 Frothen Threewords
@@ -365,7 +363,6 @@ Miss Piggy
 Misty Knight
 Moaning Myrtle
 Molly Weasley
-Monkey D. Luffy
 Moondragon
 Mordecai
 Mordenkainen
@@ -386,7 +383,6 @@ Murgath
 Myr-Getakksis
 Mythra
 Nabooru
-Nami
 Namor the Sub-Mariner
 Nana
 Nancy Thompson
@@ -404,7 +400,6 @@ Ness
 Neville Longbottom
 Newt Scamander
 Neytiri
-Nico Robin
 Nicol Bolas
 Nightthrasher
 Nimona
@@ -474,7 +469,6 @@ Quasar
 Queequeg
 Quinn McKenna
 Rachael Tyrell
-Rachel Elizabeth Dare
 Raiden
 Rainbow Dash
 Ramses
@@ -510,7 +504,6 @@ Roland
 Ronald Reagan
 Root
 Roran
-Roronoa Zoro
 Rouge the Bat
 Rowena Ravenclaw
 Rowlf the Dog
@@ -621,7 +614,6 @@ Timothy
 Tina Goldstein
 Toad
 Tom Nook
-Tony Tony Chopper
 Tracer
 Trevor Belmont
 Trevor Philips
@@ -637,14 +629,12 @@ Ultra Car
 Uniqua
 Urbosa
 Urdnot Wrex
-Usopp
 Valentine
 Valerie Richards
 Vaughn
 Vector the Crocodile
 Vergil
 Vi
-Victor Frankenstein
 Vika Olsen
 Viktor Krum
 Vin
@@ -652,7 +642,6 @@ Vincent
 Vincent Kapoor
 Vincent Valentine
 Vincenzo Santorini
-Vinsmoke Sanji
 Viper
 Virgil
 Vladek Spiegelman

@@ -5,15 +5,16 @@ Class 1-A (20): Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero,
 Class 1-B (20): Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Jurota Shishida, Juzo Honenuki, Kinoko Komori, Kojiro Bondo, Kosei Tsuburaba, Manga Fukidashi, Neito Monoma, Nirengeki Shoda, Pony Tsunotori, Reiko Yanagi, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Yosetsu Awase, Yui Kodai
 Super Smash Bros (16): Alex (Minecraft), Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu, Steve (Minecraft)
 UA Staff (13): All-Might, Anan Kurose, Chiyo Shuzenji, Ectoplasm, Higari Maijima, Hizashi Yamada, Ken Ishiyama, Nemuri Kayama, Nezu, Ryo Inui, Sekijiro Kan, Shota Aizawa, Snipe
+Camp Half-Blood (13): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Rachel Elizabeth Dare, Thalia Grace, Tyson
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 The Family Madrigal (12): Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
-Camp Half-Blood (12): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Thalia Grace, Tyson
 Eternals (11): Ajak, Druig, Gilgamesh, Ikaris, Karun Patel, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
 The Resistance (Star Wars) (11): Amilyn Holdo, BB-8, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 Teen Titans (Extended) (11): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Supergirl, Tim Drake, Wally West II, Wally West
 Avengers (Core) (11): Black Panther, Black Widow, Captain America, Carol Danvers, Hawkeye, Hulk, Iron Man, Janet van Dyne, Spider-Man, Thor, Vision
 Guardians of the Galaxy (Extended) (10): Adam Warlock, Agent Venom, Carol Danvers, Drax the Destroyer, Gamora, Groot, Mantis, Nebula, Rocket Raccoon, Star-Lord
 Crystal Gems (Extended) (10): Amethyst (Steven Universe), Bismuth, Connie Maheswaran, Garnet, Lapis Lazuli, Pearl, Peridot, Ruby, Sapphire, Steven Universe
+Straw Hat Pirates (10): Brook, Franky, Jinbe, Monkey D. Luffy, Nami, Nico Robin, Roronoa Zoro, Tony Tony Chopper, Usopp, Vinsmoke Sanji
 Rebel Alliance (Star Wars) (10): C3PO, Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Leia Organa (Old), Leia Organa, Luke Skywalker, Obi-Wan Kenobi, R2-D2
 Jedi Order (9): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
 Blue Lions (9): Annette, Ashe, Byleth, Dedue, Dimitri, Felix, Ingrid, Mercedes, Sylvain
@@ -42,10 +43,12 @@ League of Villains (7): Atsuhiro Sako, Dabi, Himiko Toga, Jin Bubaigawara, Kurog
 Justice League (Core) (7): Barry Allen, Batman, Cyborg, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League Unlimited (7): Batman, Hawkgirl, John Stewart, Martian Manhunter, Superman, Wally West, Wonder Woman
 X-Men (Core) (7): Beast, Colossus, Cyclops, Nightcrawler, Psylocke, Storm, Wolverine
+Mighty Nein (7): Beauregard Lionett, Caduceus Clay, Caleb Widogast, Fjord, Jester Lavorre, Veth Brenatto, Yasha Nydoorin
 IRL People (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Guardians of the Galaxy (Core) (7): Drax the Destroyer, Gamora, Groot, Mantis, Nebula, Rocket Raccoon, Star-Lord
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
 Dracula Hunters (6): Abraham Van Helsing, Arthur Holmwood, John Seward, Jonathan Harker, Mina Harker, Quincey Morris
+Jurassic Park (First Film) (6): Alan Grant, Dennis Nedry, Ellie Sattler, Ian Malcolm, Lex Murphy, Tim Murphy
 Ares III Mission Crew (6): Alex Vogel, Beth Johanssen, Dr. Chris Beck, Mark Watney, Melissa Lewis, Rick Martinez
 Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebastian, Shane
 Skywalkers (Star Wars) (6): Anakin Skywalker, Kylo Ren, Leia Organa (Old), Leia Organa, Luke Skywalker, Rey
@@ -153,6 +156,7 @@ Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Iron Men Corps (3): Iron Man, Ironheart, War Machine
 Those Who Slither in the Dark (3): Kronya, Solon, Thales
+ASL Brothers (3): Monkey D. Luffy, Portgas D. Ace, Sabo
 The Matrix Main Trio (3): Morpheus, Neo, Trinity
 Avatars (2): Aang, Korra
 Final Fantasy VII Party (2): Aerith Gainsborough, Barret Wallace
@@ -196,6 +200,7 @@ Valley Inhabitants (Bone) (2): Gran'ma Ben, Thorn Harvestar
 Amazons (2): Hippolyta, Wonder Woman
 Exiles (2): Iron Lad, Psylocke
 Kaeshev Alapati's Permutations (2): Jori-En Blurred, Squee
+Death Eaters (2): Lord Voldemort, Quirinus Quirrell
 Shadaloo (2): M. Bison, Seth
 Te Fiti's Lonely Hearts Club Crew (2): Maui, Moana
 Spider-People (2): Miles Morales, Spider-Man
@@ -232,7 +237,6 @@ Paper Mario: The Origami King Cast (1): Bobby
 Raya and the Last Dragon Crew (1): Boun
 Legion of Superheroes (Core) (1): Brainiac 5
 Borderlands 1 Vault Hunters (1): Brick
-Straw Hat Pirates (1): Brook
 Battle Tendency Cast (1): Caesar Anthonio Zeppeli
 Zeppeli Family (1): Caesar Anthonio Zeppeli
 Stinger Mantis Crew (1): Cal Kestis
@@ -255,6 +259,9 @@ X-Force (Core) (1): Deadpool
 Triwizard Tournament Competitors (1): Fleur Delacour
 Seven Soldiers of Victory (1): Green Arrow
 United States Military (1): Guile
+Hogwarts Staff (1): Hagrid
+Order of the Phoenix (1): Hagrid
+Hogwarts Staff (All Seven Books) (1): Hagrid
 Thunderbolts (1): Hawkeye
 West Coast Avengers (1): Hawkeye
  Unbroken Cast 2 (1): IKCFAMWSIIF
@@ -269,7 +276,6 @@ Jono Jenkin's Permutations (1): Jono Jenkins
 Ashleigh Smith's Permutations (1): Kareem Par-Al
 Sith Lords (1): Kylo Ren
 Asgardians (1): Loki
-Death Eaters (1): Lord Voldemort
 Super Smash Bros Original Cast (1): Mario
 Survivors of the Constant (1): Maxwell
 Class 1-H (1): Mei Hatsume
@@ -280,6 +286,7 @@ Abby Smetana's Permutations (1): Nahara
 Excalibur (Marvel) (1): Psylocke
 Player Characters (Pokemon) (1): Red (Pokemon)
 Jack Noland's Permutations (1): Ruby Rider
+Revolutionaries (One Piece) (1): Sabo
 Nova Corps (1): Sam Alexander
 Shirai Ryu (1): Scorpion
 First Order (1): Snoke

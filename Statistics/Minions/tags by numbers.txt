@@ -5,10 +5,11 @@ Hive Mind (5): Alphas (Edge of Tomorrow), B2 Series Battle Droids, Chitauri, Dro
 Horde (5): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow), Flying Monkeys, Rat Creature Horde, Shadow Demons
 Lasers (5): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Stormtroopers, Ultron Sentries
 Robots (4): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Ultron Sentries
+Beasts (3): Creatures of Grimm, Rat Creature Horde, Velociraptors
 Aliens (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
 Invaders (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
 Shadow Monsters (2): Creatures of Grimm, Shadow Demons
-Beasts (2): Creatures of Grimm, Rat Creature Horde
+Monsters (2): Creatures of Grimm, Velociraptors
 Animals (2): Creatures of Grimm, Flying Monkeys
 Industrial Army (2): Fire Benders, Fire Nation Army
 Idiots (1): B1 Series Battle Droids
@@ -17,7 +18,6 @@ Alien Horde (1): Chitauri
 Invading Army (1): Chitauri
 Alien (1): Chitauri
 Evil God Spawn (1): Creatures of Grimm
-Monsters (1): Creatures of Grimm
 Magic Users (1): Death Eaters
 Masked (1): Death Eaters
 Anonymous (1): Death Eaters
@@ -34,3 +34,4 @@ Religious Organization (1): Knights of Seiros
 Intangible (1): Shadow Demons
 Anti-Matter (1): Shadow Demons
 Flight (1): Ultron Sentries
+Animal (1): Velociraptors

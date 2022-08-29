@@ -1,41 +1,45 @@
 
 Avatar (TV Show):
 	-Avatar: The Last Airbender (2/2): Fire Benders, Fire Nation Army
-	-All  (2/17): Fire Benders, Fire Nation Army
+	-All  (2/18): Fire Benders, Fire Nation Army
 
 Bone:
 	-Bone (1/1): Rat Creature Horde
-	-All  (1/17): Rat Creature Horde
+	-All  (1/18): Rat Creature Horde
 
 DC:
 	-DC Comics (1/1): Shadow Demons
-	-All  (1/17): Shadow Demons
+	-All  (1/18): Shadow Demons
 
 Edge of Tomorrow:
 	-Edge of Tomorrow (2/2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
-	-All  (2/17): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
+	-All  (2/18): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
 
 Fire Emblem:
 	-Fire Emblem: Three Houses (2/2): Adrestian Army, Knights of Seiros
-	-All  (2/17): Adrestian Army, Knights of Seiros
+	-All  (2/18): Adrestian Army, Knights of Seiros
 
 Harry Potter:
 	-Harry Potter (1/1): Death Eaters
-	-All  (1/17): Death Eaters
+	-All  (1/18): Death Eaters
+
+Jurassic Park:
+	-Jurassic Park (1/1): Velociraptors
+	-All  (1/18): Velociraptors
 
 Marvel:
 	-MCU (2/2): Chitauri, Ultron Sentries
-	-All  (2/17): Chitauri, Ultron Sentries
+	-All  (2/18): Chitauri, Ultron Sentries
 
 RWBY:
 	-RWBY (1/1): Creatures of Grimm
-	-All  (1/17): Creatures of Grimm
+	-All  (1/18): Creatures of Grimm
 
 Star Wars:
 	-Star Wars Prequel Trilogy (3/4): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas
 	-Star Wars Original Trilogy (1/4): Stormtroopers
-	-All  (4/17): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Stormtroopers
+	-All  (4/18): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Stormtroopers
 
 The Wizard of Oz:
 	-The Wizard of Oz (1/1): Flying Monkeys
-	-All  (1/17): Flying Monkeys
+	-All  (1/18): Flying Monkeys

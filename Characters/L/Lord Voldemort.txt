@@ -13,14 +13,14 @@ Human
 Evil
 Antagonist
 Male
-Death Eater,Magic User,Nemesis|Harry Potter,Undead,Wizard
+Death Eater,Half-Blood (Harry Potter),Magic User,Nemesis|Harry Potter,Possessing Possessed|Quirinus Quirrell,Possession,Undead,Wizard
 City
 High
 Death Eaters
 Voldemort|https://open.spotify.com/track/5tkKVAnmp5d36BXdWvbbCe
-Movies
+Books,Movies
 Harry Potter
-The Elder Wand
+The Elder Wand,Wand
 Black
 
 Bloomsbury Publishing

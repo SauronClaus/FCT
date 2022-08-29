@@ -1,5 +1,6 @@
 Beasts (1): Creatures of Grimm
 Chitauri (1): Chitauri
+Dinosaurs (1): Velociraptors
 Human (2): Adrestian Army, Knights of Seiros
 Humans (4): Death Eaters, Fire Benders, Fire Nation Army, Stormtroopers
 Mimic (Edge of Tomorrow) (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)

@@ -7,7 +7,7 @@ Harry
 Potter
 Harry Potter|The Boy Who Lived|The Chosen One
 Daniel Radcliffe|Joe Sowerbutts|Tom Attenborough|Harry Robinson|Daniel Larner|Adam Sopp
-11|1
+17|1
 Wizard
 Human
 Good
@@ -20,7 +20,7 @@ Dumbledore's Army,Harry Potter Main Trio,Gryffindor (Harry Potter's Years)
 
 Books,Movies
 Harry Potter
-The Invisiblity Cloak
+The Invisiblity Cloak,Wand
 Black
 
 Bloomsbury Publishing

@@ -39,6 +39,7 @@ Garnet's Gauntlets (1): Garnet
 Gordon Freeman's Crowbar (1): Gordon Freeman
 Green Lantern Ring (1): Hal Jordan
 HEV Suit (1): Gordon Freeman
+Hagrid's Umbrella (1): Rubeus Hagrid
 Human SOUL (3): Frisk (Pacifist Route), Frisk (Neutral Route), Frisk (Genocide Route)
 Iarno Albrek's Shattered Staff (1): Kalathos Sunstrider
 Immovable Rod (1): Glynnric Manassnass
@@ -77,6 +78,7 @@ San's Gaster Blaster (1): Sans
 Skeets (1): Booster Gold
 Spear of Assal (2): Seteth, Ferdinand
 Sting (2): Frodo Baggins, Bilbo Baggins
+Stormbreaker (1): Thor
 Sword of Protection (1): Adora
 Sword of the Creator (1): Byleth
 The Codex Umbra (1): Maxwell

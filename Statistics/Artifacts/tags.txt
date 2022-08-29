@@ -9,7 +9,7 @@ Aperture Science (2): Long Fall Boots, Portal Gun
 Armor (3): HEV Suit, Iron Man Suit, Long Fall Boots
 Armored (2): Batmobile, Batwing
 Arrow (1): Yaka Arrow Controller
-Axe (4): Aymr, Freikugel, Leviathan Axe, The Hatchet
+Axe (5): Aymr, Freikugel, Leviathan Axe, Stormbreaker, The Hatchet
 Bending Augumenter (1): Aang's Glider Staff
 Big (1): The Crown of Horns
 Bludgeoning (1): Gordon Freeman's Crowbar
@@ -43,11 +43,11 @@ Distraction (1): Eversmoking Bottle
 Draconic (1): The Crown of Horns
 Dragon (1): Festus
 Duck (1): Expand-o-Duck
-Dwarven Forged (1): Mjolnir
+Dwarven Forged (2): Mjolnir, Stormbreaker
 Dwarven-Forged (1): Leviathan Axe
 Eldritch Horror (1): The Codex Umbra
 Electric Power (1): Pikachu
-Elemental Weapon (1): Mjolnir
+Elemental Weapon (2): Mjolnir, Stormbreaker
 Elements of Harmony (1): Element of Honesty (My Little Pony)
 Elvish-Forged (1): Sting
 Energy (4): Amethyst's Whip, Garnet's Gauntlets, Pearl's Spear, Rose's Shield
@@ -106,7 +106,7 @@ Laser (1): San's Gaster Blaster
 Lasso (1): The Lasso of Truth
 Legacy (1): The Shield of Heroes
 Legion of Superheroes (1): Legion Flight Ring
-Lightning (1): Mjolnir
+Lightning (2): Mjolnir, Stormbreaker
 Limb Enhancers (1): Limb Enhancers
 MacGuffin (1): The Infinity Gauntlet
 Magic Space Rocks (1): The Soul Stone
@@ -150,7 +150,7 @@ Rapid-Fire (1): Machine Pistol
 Rapier (1): Myrtenaster
 Relic (Fire Embelm) (1): Rafail Gem
 Relic (Fire Emblem) (12): Aegis Shield, Areadbhar, Aymr, Blutgang, Crusher (Fire Emblem), Failnaught, Freikugel, Lance of Ruin, Luin, Sword of the Creator, Thunderbrand, Thyrus
-Returning (2): Mjolnir, Riptide
+Returning (3): Mjolnir, Riptide, Stormbreaker
 Ring (4): Alan Scott's Ring, Green Lantern Ring, Legion Flight Ring, the One Ring
 Rings (1): Ring of Fire Resistance
 Robot (1): Skeets
@@ -205,7 +205,7 @@ Vehicle (2): Batmobile, Batwing
 Vibranium (1): Captain America's Shield
 Visions of Future (1): Katoptris
 Wand (1): Thyrus
-Wands (1): The Elder Wand
+Wands (3): Hagrid's Umbrella, The Elder Wand, Wand
 Waterfowl (1): Expand-o-Duck
 Weapon (1): Aang's Glider Staff
 Whip (2): Amethyst's Whip, The Lasso of Truth

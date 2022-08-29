@@ -39,11 +39,13 @@ Todoroki (2): Dabi, Shoto Todoroki
 Wilson (2): Deadpool, Falcon
 Howlett (2): Doomslayer, Wolverine
 Atreides (2): Duke Leto Atreides, Paul Atreides
+Frankenstein (2): Frankenstein Monster, Victor Frankenstein
 Truscott (2): Harrison Truscott (Evil), Harrison Truscott
 Grace (2): Jason Grace, Thalia Grace
 Jenkins (2): Jenkins, Jono Jenkins
 Harker (2): Jonathan Harker, Mina Harker
 Organa (2): Leia Organa (Old), Leia Organa
+Murphy (2): Lex Murphy, Tim Murphy
 Mario (2): Luigi, Mario
 Holmes (2): Mycroft Holmes, Sherlock Holmes
 Universe (2): Pearl, Steven Universe
@@ -59,6 +61,7 @@ Thompson (1): Agent Venom
 Tano (1): Ahsoka Tano
 Karatsu (1): Akihide Karatsu
 Bradley (1): Alan Bradley
+Grant (1): Alan Grant
 Scott (1): Alan Scott
 Wake (1): Alan Wake
 Dumbledore (1): Albus Dumbledore
@@ -115,6 +118,7 @@ Wheeler (1): Barry Wheeler
 Delphiki (1): Bean
 Logan (1): Beast Boy
 McCoy (1): Beast
+Lionett (1): Beauregard Lionett
 Wittman (1): Bentley-23
 von Varley (1): Bernadetta
 Johanssen (1): Beth Johanssen
@@ -133,8 +137,10 @@ Ng (1): Bruce Ng
 Barnes (1): Bucky Barnes
 Stomm (1): Buford Van Stomm
 Ruby-Eye (1): Byllemura Ruby-Eye
+Clay (1): Caduceus Clay
 Zeppeli (1): Caesar Anthonio Zeppeli
 Kestis (1): Cal Kestis
+Ermendrud (1): Caleb Widogast
 Flynn (1): Candace Flynn
 Guthrie (1): Cannonball
 Rogers (1): Captain America
@@ -162,6 +168,7 @@ Maul (1): Darth Maul
 Molinaro (1): Dedue
 DeGroot (1): Demoman
 Kaminari (1): Denki Kaminari
+Nedry (1): Dennis Nedry
 Grayson (1): Dick Grayson
 Blaiddyd (1): Dimitri
 Robotnik (1): Doctor Eggman
@@ -177,6 +184,7 @@ Idaho (1): Duncan Idaho
 von Hresvelg (1): Edelgard
 Kirishima (1): Eijiro Kirishima
 Turen (1): Eldon Spark Turen
+Sattler (1): Ellie Sattler
 Conagher (1): Engineer
 Chou (1): Ethan Chou
 Turthin (1): Fedora Turthin
@@ -184,6 +192,7 @@ Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
 Zhang (1): Frank Zhang
+Cutty (1): Franky
 Best (1): Frozone
 Tokoyami (1): Fumikage Tokoyami
 Titan (1): Gamora
@@ -196,6 +205,7 @@ Karga (1): Greef Karga
 Queen (1): Green Arrow
 Underwood (1): Grover Underwood
 Guile (1): Guile
+Hagrid (1): Hagrid
 Jordan (1): Hal Jordan
 Gunderson (1): Halfborn Gunderson
 Pym (1): Hank Pym
@@ -215,6 +225,7 @@ Rin (1): Hiryu Rin
 Yamada (1): Hizashi Yamada
 von Vestra (1): Hubert
 Banner (1): Hulk
+Malcolm (1): Ian Malcolm
 Shiozaki (1): Ibara Shiozaki
 Victor (1): Ignatz
 Galatea (1): Ingrid
@@ -228,6 +239,7 @@ Binks (1): Jar Jar Binks
 Todd (1): Jason Todd
 Garrick (1): Jay Garrick
 Chambers (1): Jesse Quick
+Lavorre (1): Jester Lavorre
 Bubaigawara (1): Jin Bubaigawara
 Proudstar (1): John Proudstar
 Seward (1): John Seward
@@ -287,12 +299,14 @@ Jones-Watson (1): MJ Watson (MCU)
 Gideon (1): Moff Gideon
 Yaoyorozu (1): Momo Yaoyorozu
 Rambeau (1): Monica Rambeau
+Monkey (1): Monkey D. Luffy
 Noodle (1): Mr. Noodle
 Qi (1): Mr. Qi
 Khan (1): Ms. Marvel
 Monoma (1): Neito Monoma
 Kayama (1): Nemuri Kayama
 Anderson (1): Neo
+Nico (1): Nico Robin
 Wagner (1): Nightcrawler
 Shoda (1): Nirengeki Shoda
 Holiday (1): Noelle Holiday
@@ -306,15 +320,19 @@ Macneary (1): Petra (Fire Emblem)
 McLean (1): Piper McLean
 Dameron (1): Poe Dameron
 Tsunotori (1): Pony Tsunotori
+Portgas (1): Portgas D. Ace
 Toadstool (1): Princess Peach
 Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
+Quirrell (1): Quirinus Quirrell
+Dare (1): Rachel Elizabeth Dare
 Kirsten (1): Raphael
 Yanagi (1): Reiko Yanagi
 Keiros (1): Reithen Keiros
 Martinez (1): Rick Martinez
 Vrataski (1): Rita Vrataski
 Raccoon (1): Rocket Raccoon
+Roronoa (1): Roronoa Zoro
 Tico (1): Rose Tico
 Rider (1): Ruby Rider
 Inui (1): Ryo Inui
@@ -356,11 +374,14 @@ Odinson (1): Thor
 Drake (1): Tim Drake
 Chopper (1): Tin Woodman
 Kamakiri (1): Togaru Kamakiri
+Tony Tony (1): Tony Tony Chopper
 Beifong (1): Toph Beifong
 Hagakure (1): Toru Hakagure
 Asui (1): Tsuyu Asui
 Lee (1): Ty Lee
+Brenatto (1): Veth Brenatto
 Kommareddi (1): Vikram Kommareddi
+Vinsmoke (1): Vinsmoke Sanji
 Vision (1): Viv Vision
 Toomes (1): Vulture
 Rhodes (1): War Machine
@@ -371,6 +392,7 @@ Cage (1): William Cage
 Diggs (1): Wizard of Oz
 Prince (1): Wonder Woman
 Long (1): Yang Xiao Long
+Nydoorin (1): Yasha Nydoorin
 Shmalakis (1): Yekkon Shmalakis
 Shmekkon (1): Yekkon Shmekkon
 Udonta (1): Yondu

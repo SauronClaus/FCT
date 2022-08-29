@@ -1,6 +1,7 @@
  Colin Frazer's Permutations (2): Arrolys Larskano, Yekkon Shmalakis
  Unbroken Cast 2 (1): IKCFAMWSIIF
 501st Legion (Star Wars) (2): Ahsoka Tano, Anakin Skywalker
+ASL Brothers (3): Monkey D. Luffy, Portgas D. Ace, Sabo
 Aarav Gupta's Permutations (1): Arthail Consumer of Food
 Abby Smetana's Permutations (1): Nahara
 Alpha Flight (4): Aurora, Carol Danvers, Northstar, Wolverine
@@ -37,7 +38,7 @@ Borderlands 1 Vault Hunters (1): Brick
 Borderlands 2 Vault Hunters (1): Axton
 Borderlands 3 Vault Hunters (1): Amara
 C Company (Saving Private Ryan) (1): Captain John H. Miller
-Camp Half-Blood (12): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Thalia Grace, Tyson
+Camp Half-Blood (13): Annabeth Chase, Apollo, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Rachel Elizabeth Dare, Thalia Grace, Tyson
 Camp Jupiter (3): Frank Zhang, Hazel Levesque, Jason Grace
 Captain America Corps (3): Bucky Barnes, Captain America, Falcon
 Champions (Extended) (1): Nadia Van Dyne
@@ -55,7 +56,7 @@ Cortez Family (2): Carmen Cortez, Juni Cortez
 Crystal Gems (Core) (4): Amethyst (Steven Universe), Garnet, Pearl, Steven Universe
 Crystal Gems (Extended) (10): Amethyst (Steven Universe), Bismuth, Connie Maheswaran, Garnet, Lapis Lazuli, Pearl, Peridot, Ruby, Sapphire, Steven Universe
 Crystal Gems Old Guard (4): Bismuth, Pearl, Ruby, Sapphire
-Death Eaters (1): Lord Voldemort
+Death Eaters (2): Lord Voldemort, Quirinus Quirrell
 Detective Skills|Tech|2 (1): Amy Ferrier
 Disney Princesses (3): Anna, Elsa, Moana
 Doom Patrol (Extended) (1): Beast Boy
@@ -110,6 +111,8 @@ Henry Kopf's Permutations (1): IKCFAMWSIIF
 Heroes of Olympus (8): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Nico di Angelo, Percy Jackson, Piper McLean
 High Five (Ready Player One) (1): Akihide Karatsu
 Hogwarts Professors (1): Albus Dumbledore
+Hogwarts Staff (1): Hagrid
+Hogwarts Staff (All Seven Books) (1): Hagrid
 House Atreides (4): Duke Leto Atreides, Duncan Idaho, Lady Jessica, Paul Atreides
 House Harkonnen (2): Baron Vladimir Harkonnen, Glossu Rabban Harkonnen
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
@@ -126,6 +129,7 @@ Jack Noland's Permutations (1): Ruby Rider
 Jedi Order (9): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
 Jono Jenkin's Permutations (1): Jono Jenkins
 Journal Holders (Gravity Falls) (2): Dipper Pines, Stanford Pines
+Jurassic Park (First Film) (6): Alan Grant, Dennis Nedry, Ellie Sattler, Ian Malcolm, Lex Murphy, Tim Murphy
 Justice League (Core) (7): Barry Allen, Batman, Cyborg, Hal Jordan, Martian Manhunter, Superman, Wonder Woman
 Justice League (Extended) (22): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Black Lightning, Booster Gold, Captain Marvel Jr., Captain Marvel, Cyborg, Green Arrow, Hal Jordan, Hawkgirl, Hippolyta, John Stewart, Martian Manhunter, Mary Marvel, Supergirl, Superman, Ted Kord, Wally West, Wonder Woman
 Justice League (film) (6): Aquaman, Barry Allen, Batman, Cyborg, Superman, Wonder Woman
@@ -152,6 +156,7 @@ Mandalorian (1): Jango Fett
 Mario Cast (4): Luigi, Mario, Princess Daisy, Princess Peach
 Marvel's First Family (4): Mr. Fantastic, The Human Torch, The Invisible Woman, The Thing
 Marvel's Floating Super-Hero Poker Game (1): The Thing
+Mighty Nein (7): Beauregard Lionett, Caduceus Clay, Caleb Widogast, Fjord, Jester Lavorre, Veth Brenatto, Yasha Nydoorin
 Mirabel's Direct Family (5): Augustin Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal
 Mystery Shack Employees (5): Dipper Pines, Grunkle Stan, Mabel Pines, Soos Ramirez, Wendy Corduroy
 NASA (The Martian) (2): Annie Montrose, Bruce Ng
@@ -165,6 +170,7 @@ Nova Corps (1): Sam Alexander
 OSS (2): Carmen Cortez, Juni Cortez
 Order of the Pheonix I (1): Albus Dumbledore
 Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour
+Order of the Phoenix (1): Hagrid
 Original Four (KSP) (4): Bill Kerman, Bob Kerman, Jebediah Kerman, Valentina Kerman
 Original Prophecy (3): Annabeth Chase, Luke Castellan, Percy Jackson
 Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnass, Kalathos Sunstrider
@@ -187,6 +193,7 @@ Red Hood and the Outlaws (1): Jason Todd
 Resistance (Half-Life) (2): Alyx, Gordon Freeman
 Resistance (Sonic) (2): Amy Rose, Sonic the Hedgehog
 Retired Supers (3): Elastigirl, Frozone, Mr. Incredible
+Revolutionaries (One Piece) (1): Sabo
 Robins (4): Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Roman Demigods (Rick Riordan) (3): Frank Zhang, Hazel Levesque, Jason Grace
 Royal Childhood Friends (Blue Lions) (4): Dimitri, Felix, Ingrid, Sylvain
@@ -222,7 +229,7 @@ Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebast
 Stardew Valley Residents (12): Abigail, Alex, Elliot, Emily, Haley, Harvey, Leah, Maru, Penny, Sam (Stardew Valley), Sebastian, Shane
 Stardew Valley Trio (3): Abigail, Sam (Stardew Valley), Sebastian
 Stinger Mantis Crew (1): Cal Kestis
-Straw Hat Pirates (1): Brook
+Straw Hat Pirates (10): Brook, Franky, Jinbe, Monkey D. Luffy, Nami, Nico Robin, Roronoa Zoro, Tony Tony Chopper, Usopp, Vinsmoke Sanji
 Suicide Squad (Core) (2): Amanda Waller, Captain Boomerang
 Suicide Squad (Extended) (2): Amanda Waller, Captain Boomerang
 Super Pal Trio (1): Catra

@@ -20,7 +20,7 @@ Order of the Pheonix I,Order of the Pheonix II,Hogwarts Professors
 
 Books,Movies
 Harry Potter
-The Elder Wand
+The Elder Wand,Wand
 White
 Magical Powers|Wizard|6,Magical Knowledge|Scholar|5,Scholar|Monster Scholar|3,Scholar|Magic Scholar|5,Wise Man|Old|5
 Bloomsbury Publishing

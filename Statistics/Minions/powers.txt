@@ -1,48 +1,48 @@
 
 Consciousness Transferring:
-	-Hive Mind (1/1): Ultron Sentries (Tier 3)
-	-All  (1/17): Ultron Sentries (Tier 3)
+	-Hive Mind (1/1): Velociraptors (Tier 3)
+	-All  (1/18): Velociraptors (Tier 3)
 
 Disintegration:
-	-Inborn (1/1): Ultron Sentries (Tier 3)
-	-All  (1/17): Ultron Sentries (Tier 3)
+	-Inborn (1/1): Velociraptors (Tier 3)
+	-All  (1/18): Velociraptors (Tier 3)
 
 Enhanced Physical Abilities:
-	-Inborn (2/4): Ultron Sentries (Tier 2), Ultron Sentries (Tier 2)
-	-Racial Trait (2/4): Ultron Sentries (Tier 3), Ultron Sentries (Tier 2)
-	-All  (4/17): Ultron Sentries (Tier 2), Ultron Sentries (Tier 3), Ultron Sentries (Tier 2), Ultron Sentries (Tier 2)
+	-Inborn (2/4): Velociraptors (Tier 2), Velociraptors (Tier 2)
+	-Racial Trait (2/4): Velociraptors (Tier 3), Velociraptors (Tier 2)
+	-All  (4/18): Velociraptors (Tier 2), Velociraptors (Tier 3), Velociraptors (Tier 2), Velociraptors (Tier 2)
 
 Flight:
-	-Inborn (1/2): Ultron Sentries (Tier 2)
-	-Inbuilt (1/2): Ultron Sentries (Tier 2)
-	-All  (2/17): Ultron Sentries (Tier 2), Ultron Sentries (Tier 2)
+	-Inborn (1/2): Velociraptors (Tier 2)
+	-Inbuilt (1/2): Velociraptors (Tier 2)
+	-All  (2/18): Velociraptors (Tier 2), Velociraptors (Tier 2)
 
 Intangible:
-	-Inborn (1/1): Ultron Sentries (Tier 3)
-	-All  (1/17): Ultron Sentries (Tier 3)
+	-Inborn (1/1): Velociraptors (Tier 3)
+	-All  (1/18): Velociraptors (Tier 3)
 
 Laser:
-	-Plasma Cannons (1/1): Ultron Sentries (Tier 3)
-	-All  (1/17): Ultron Sentries (Tier 3)
+	-Plasma Cannons (1/1): Velociraptors (Tier 3)
+	-All  (1/18): Velociraptors (Tier 3)
 
 Magical Powers:
-	-Wizard (1/1): Ultron Sentries (Tier 5)
-	-All  (1/17): Ultron Sentries (Tier 5)
+	-Wizard (1/1): Velociraptors (Tier 5)
+	-All  (1/18): Velociraptors (Tier 5)
 
 Pyrokinesis:
-	-Fire Bending (1/1): Ultron Sentries (Tier 4)
-	-All  (1/17): Ultron Sentries (Tier 4)
+	-Fire Bending (1/1): Velociraptors (Tier 4)
+	-All  (1/18): Velociraptors (Tier 4)
 
 Time Loop:
-	-Alien (1/1): Ultron Sentries (Tier 4)
-	-All  (1/17): Ultron Sentries (Tier 4)
+	-Alien (1/1): Velociraptors (Tier 4)
+	-All  (1/18): Velociraptors (Tier 4)
 
 Trained Fighter:
-	-Future Military (1/1): Ultron Sentries (Tier 2)
-	-All  (1/17): Ultron Sentries (Tier 2)
+	-Future Military (1/1): Velociraptors (Tier 2)
+	-All  (1/18): Velociraptors (Tier 2)
 
 Trained Fighters:
-	-Fantasy Soldier (1/4): Ultron Sentries (Tier 2)
-	-Industrial Military (2/4): Ultron Sentries (Tier 2), Ultron Sentries (Tier 2)
-	-Knight (1/4): Ultron Sentries (Tier 2)
-	-All  (4/17): Ultron Sentries (Tier 2), Ultron Sentries (Tier 2), Ultron Sentries (Tier 2), Ultron Sentries (Tier 2)
+	-Fantasy Soldier (1/4): Velociraptors (Tier 2)
+	-Industrial Military (2/4): Velociraptors (Tier 2), Velociraptors (Tier 2)
+	-Knight (1/4): Velociraptors (Tier 2)
+	-All  (4/18): Velociraptors (Tier 2), Velociraptors (Tier 2), Velociraptors (Tier 2), Velociraptors (Tier 2)

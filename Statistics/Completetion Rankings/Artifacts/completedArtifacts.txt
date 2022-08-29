@@ -40,6 +40,7 @@ Garnet's Gauntlets
 Gordon Freeman's Crowbar
 Green Lantern Ring
 HEV Suit
+Hagrid's Umbrella
 Human SOUL
 Iarno Albrek's Shattered Staff
 Immovable Rod
@@ -78,6 +79,7 @@ San's Gaster Blaster
 Skeets
 Spear of Assal
 Sting
+Stormbreaker
 Sword of Protection
 Sword of the Creator
 The Codex Umbra
@@ -98,6 +100,7 @@ The Sword of Summer (Jack)
 The Tanden Engine
 Thunderbrand
 Thyrus
+Wand
 Wand of Wands
 Wand of Wild Magic
 White Raven's Wrappings
