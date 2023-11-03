@@ -8,7 +8,7 @@ Mikhail
 Heavy|Heavy Weapons Guy|Mikhail|Misha
 Gary Schwartz
 
-Soldier
+Mercenary
 Human
 Neutral
 Playable Character

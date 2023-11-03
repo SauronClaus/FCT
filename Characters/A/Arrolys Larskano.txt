@@ -16,7 +16,7 @@ Male
 Artificer,D&D,Genius,Scientist,Unbroken Gang
 Modified Human
 Low
-Unbroken Cast 2, Colin Frazer's Permutations
+Unbroken Cast 2,Colin Frazer's Permutations
 
 Dungeons & Dragons
 Unbroken

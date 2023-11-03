@@ -16,7 +16,7 @@ Female
 Body-Swapped,Future Sight,Mutant,Ninja,Psychic,X-Men
 Modified Human
 Medium
-X-Men (Core),X-Men (Extended),Exiles,Excalibur (Marvel)
+X-Men (Core),X-Men (Extended),Exiles (Extended),Excalibur (Marvel)
 
 Superhero Comics,Comics,Movies
 Marvel

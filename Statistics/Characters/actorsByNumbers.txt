@@ -10,11 +10,11 @@ Fred Tatasciore (7): Beast, Drax the Destroyer, Groot, Hulk, Magneto, Qui-Gon Ji
 Yuri Lowenthal (6): Alucard, Jason Todd, Nightcrawler, Northstar, Spider-Man, Tim Drake
 Sebastian Polge (6): Arthas Menethil, Fedora Turthin, Reithen Keiros, Sebastian Polge, Terrence the Baby Tarrasque, Zulen Kal-Thim
 Grey DeLisle (6): Azula, Black Canary, Carol Danvers, Dorothy Gale, Padme Amidala, Psylocke
+Dee Bradley Baker (6): Boba Fett, Eda Clawthorne, Hank Pym, Mr. Fantastic, Nightcrawler, Venom
 Tom Kane (6): Boba Fett, Gandalf, Jim Gordon, Magneto, Ultron, Yoda
 Jason Spisak (6): Deadpool, Deag Ragnak, Hal Jordan, Jason Todd, Loki, Wally West
 John DiMaggio (5): Aquaman, Colossus, General Grievous, Rocket Raccoon, Ronan the Accuser
 Colin Frazer (5): Arrolys Larskano, Colin Frazer, Eldon Spark Turen, Glynnric Manassnass, Yekkon Shmalakis
-Dee Bradley Baker (5): Boba Fett, Hank Pym, Mr. Fantastic, Nightcrawler, Venom
 Scott Porter (5): Bucky Barnes, Cyclops, Damian Wayne, Dick Grayson, Star-Lord
 Jennifer Hale (5): Carol Danvers, Iris West, Mantis, Scarlet Witch, Trinity
 Matthew Mercer (5): Dick Grayson, Hawkeye, Iron Man, Luke Skywalker, Tim Drake
@@ -29,13 +29,16 @@ Scott Menville (4): Bucky Barnes, Dick Grayson, Quicksilver, Tim Drake
 Crispin Freeman (4): Colossus, Loki, Martian Manhunter, Scott Lang
 Christopher Lee (4): Count Dooku, Dracula, Frankenstein Monster, Mycroft Holmes
 Michael Donovan (4): Count Dooku, Guile, Hulk, Jabba the Hutt
+Zeno Robinson (4): Cyborg, Emperor Belos, Hunter, Lando Calrissian
 Kari Wahlgren (4): Dorothy Gale, Hope van Dyne, Janet van Dyne, The Invisible Woman
 Masakazu Nishida (4): Ectoplasm, Kosei Tsuburaba, Mezo Shoji, Sen Kaibara
+Alex Hirsch (4): Grunkle Stan, King Clawthorne, Soos Ramirez, Stanford Pines
 Eric Bauza (3): Adam Warlock, Amadeus Cho, Luke Skywalker
 Jonathan Groff (3): Agent Smith, Kristoff, Sven
 Matt Lanter (3): Agent Venom, Anakin Skywalker, Venom
 Michael Gough (3): Alfred Pennyworth, Arthur Holmwood, Scarecrow (Oz)
 Ashly Burch (3): Aloy, Ms. Marvel, Nebula
+Mae Whitman (3): Amity Blight, Barbara Gordon, Katara
 Jake Lloyd (3): Anakin Skywalker (Young), Anakin Skywalker, Darth Vader
 Ethan Chou (3): Arthas Menethil, Ethan Chou, Kalathos Sunstrider
 Veronica Taylor (3): Ash Ketchum, Nico Robin, Vinsmoke Sanji
@@ -63,7 +66,6 @@ Will Friedle (3): Deadpool, Dick Grayson, Star-Lord
 Henry Cavill (3): Geralt of Rivia, Sherlock Holmes, Superman
 Stephen Stanton (3): Grand Moff Tarkin, Obi-Wan Kenobi, Scarecrow (Oz)
 Kevin Michael Richardson (3): Groot, Jabba the Hutt, Lando Calrissian
-Alex Hirsch (3): Grunkle Stan, Soos Ramirez, Stanford Pines
 Wally Wingert (3): Hank Pym, Mr. Fantastic, Ultron
 Sam Riegel (3): Hawkeye, Spider-Man, Veth Brenatto
 Robbie Daymond (3): Hubert, Spider-Man, Venom
@@ -97,7 +99,6 @@ Kimberly Brooks (2): Ashley Williams, Psylocke
 Tsuguo Mogami (2): Atsuhiro Sako, Kurogiri
 Kent Williams (2): Atsuhiro Sako, Kurogiri
 Gregory Peck (2): Atticus Finch, Captain Ahab
-Mae Whitman (2): Barbara Gordon, Katara
 John Eric Bentley (2): Barret Wallace, Frozone
 Christopher Gorham (2): Barry Allen, Wizard of Oz
 Alan Tudyk (2): Barry Allen, Green Arrow
@@ -129,7 +130,6 @@ Zendaya (2): Chani, MJ Watson (MCU)
 Phil Morris (2): Colossus, Martian Manhunter
 Jeff Bennett (2): Count Dooku, Jango Fett
 Jess Harnell (2): Cowardly Lion, Darth Maul
-Zeno Robinson (2): Cyborg, Lando Calrissian
 Michael B. Jordan (2): Cyborg, The Human Torch
 Michael Bell (2): Cyclops, Hulk
 Norm Spencer (2): Cyclops, Drax the Destroyer

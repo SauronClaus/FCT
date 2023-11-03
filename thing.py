@@ -21,6 +21,9 @@ from all import allFranchises
 from all import allGroups
 
 from generateAllPeople import genMinions
+
+from generateNew import generateFranchise
+from generateNew import generateMatch
 numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 
@@ -166,6 +169,7 @@ async def on_message(message):
                 except:
                     await message.channel.send("Couldn't find minion " + info[8:len(info):] + ".")
             print("Completed!\n")
+        #Get info on a character. Syntax is "~info [TYPE] [NAME]"- where type is person, minion, artifact, or franchise.
         if "~match" in message.content:
             matchSplit = message.content.split("match ")
             numberOfMatches = 1
@@ -513,6 +517,13 @@ async def on_message(message):
             if fctPolls.id == 523962430179770369 and fctPolls.id == 876602515372781679 and matchNum == 5:
                 await fctPolls.send("<@&613144506757283974>")
             print("\nCompleted all!")
+        if "~newMatch" in message.content: 
+            matchSplit = message.content.split("match ")
+            numberOfMatches = 1
+            if len(matchSplit) > 1:
+                numberOfMatches = int(matchSplit[1])
+            for matchNum in range(1,numberOfMatches+1):
+                generateFranchise()
         if message.content == "~test minions":
             # List all files in a directory using os.listdir
             basepath = 'Minions/'
@@ -532,5 +543,5 @@ async def on_message(message):
                 embed = infoPerson(person, "")
                 await message.channel.send(embed=embed)
             print("Completed!\n")
-
+        #print all the members of a group. 
 client.run(trueToken)

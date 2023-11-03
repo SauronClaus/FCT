@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/C-3PO
 C-3PO|Threepio
 
 32|3
-Protocol Droid
+Droid
 Robot
 Good
 Supporting Protagonist

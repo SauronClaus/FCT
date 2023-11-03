@@ -25,6 +25,7 @@ Carter: Carter Kane, Sadie Kane
 Scott: Cyclops, Scott Lang, Young Cyclops
 Nilox: Deag Grav, Deag Nilox
 Samuel: Dr. Loomis, Dr. Samuel Hayden, Falcon, Sam Alexander
+Hunter: Emperor Belos, Hunter
 Frisk: Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk
 Rose: Gran'ma Ben, Rose Tico
 William: Guile, Maxwell, William Cage
@@ -37,6 +38,7 @@ Jason: Jason Grace, Jason Todd
 Jonathan: Jonathan Harker, The Human Torch
 Kal: Kal-L, Superboy Prime, Superman
 Ken: Ken Ishiyama, Ken
+King: King Clawthorne, King
 Leia: Leia Organa (Old), Leia Organa
 Luke: Luke Castellan, Luke Skywalker
 Thomas: Neo, Thomas Jefferson Jr.

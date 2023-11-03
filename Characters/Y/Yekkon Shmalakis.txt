@@ -16,7 +16,7 @@ Male
 D&D,Monster Hunter,Unbroken Gang,Warlock
 Modified Human
 Low
-Unbroken Cast 1, Colin Frazer's Permutations
+Unbroken Cast 1,Colin Frazer's Permutations
 
 Dungeons & Dragons
 Unbroken

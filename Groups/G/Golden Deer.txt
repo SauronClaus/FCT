@@ -1,0 +1,20 @@
+Golden Deer
+Fire Emblem: Three Houses
+The Golden Deer are one of the three student houses at the Garreg Mach Monastery Officers Academy in Fire Emblem: Three Houses. At Rhea's invitation, Byleth must choose between the Golden Deer and the other two houses, the Black Eagles and the Blue Lions, to personally teach.
+https://pbs.twimg.com/media/D_nHNghUIAAs3Hp.jpg
+https://fireemblem.fandom.com/wiki/Golden_Deer
+Golden Deer
+Byleth,Claude,Hilda,Ignatz,Leonie,Lorenz,Lysithea,Marianne,Raphael
+
+School House
+
+Military Unit,School House,Fantasy Weapons,Magic Users,Fodlan,Country Sanctioned,Nobility,Students
+Neutral
+Baseline
+Medium
+Video Games
+Yellow
+Fire Emblem
+Nintendo
+Sebastian
+No

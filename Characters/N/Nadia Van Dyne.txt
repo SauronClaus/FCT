@@ -16,7 +16,7 @@ Female
 Adopted,Genius,Insect-Themed,Legacy|Janet van Dyne,Parent Child|Hank Pym,Parent Child|Janet van Dyne,Russian,Size-Changing,Superheroes,Tech
 City
 High
-Ant-Man Cast,Champions (Extended),Avengers (Extended)
+Ant-Man Cast,Champions (Marvel) (Extended),Avengers (Extended)
 
 Movies
 Marvel

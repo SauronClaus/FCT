@@ -34,6 +34,7 @@ Wilson: Deadpool, Falcon
 Pines: Dipper Pines, Grunkle Stan, Mabel Pines, Stanford Pines
 Howlett: Doomslayer, Wolverine
 Atreides: Duke Leto Atreides, Paul Atreides
+Clawthorne: Eda Clawthorne, King Clawthorne
 Bone: Fone Bone, Phoney Bone, Smiley Bone
 Frankenstein: Frankenstein Monster, Victor Frankenstein
 Solo: Han Solo (Old), Han Solo, Kylo Ren

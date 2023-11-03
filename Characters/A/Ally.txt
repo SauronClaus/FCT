@@ -8,7 +8,7 @@ Ally
 Ally
 
 
-Fighter
+Adventurer
 Human
 Good
 Protagonist

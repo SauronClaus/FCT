@@ -8,7 +8,7 @@ Ludwig
 Dr. Ludwig|The Medic
 Robin Atkin Downes
 45|4
-Medic
+Mercenary
 Human
 Neutral
 Playable Character

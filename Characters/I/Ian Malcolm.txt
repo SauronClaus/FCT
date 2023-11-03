@@ -8,7 +8,7 @@ Malcolm
 Dr. Ian Malcolm|Ian Malcolm
 Jeff Goldblum|Bradley Duffy
 
-Scientist
+Mathematician
 Human
 Good
 Protagonist

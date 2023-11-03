@@ -8,7 +8,7 @@ Jeremy
 Scout|Jeremy
 Nathan Vetterlein
 
-Soldier
+Mercenary
 Human
 Neutral
 Playable Character

@@ -4,7 +4,7 @@ Adrian Hough (2): Alan Grant, Nightcrawler
 Adrian Pasdar (2): Hawkeye, Iron Man
 Akeno Watanabe (2): Izuku Midoriya, Nemuri Kayama
 Alan Tudyk (2): Barry Allen, Green Arrow
-Alex Hirsch (3): Grunkle Stan, Soos Ramirez, Stanford Pines
+Alex Hirsch (4): Grunkle Stan, King Clawthorne, Soos Ramirez, Stanford Pines
 Alison Sealy-Smith (2): Gamora, Storm
 Allegra Clark (2): Dorothea, Shamir
 Andrew Chaikin (2): Jango Fett, Phoney Bone
@@ -57,7 +57,7 @@ David Kaye (4): Akuma, Ultron, Vision, Wolverine
 David Naughton (2): Jay Garrick, Mr. Fantastic
 David W. Collins (2): Darth Maul, Jabba the Hutt
 David Wald (2): Snipe, Tetsutetsu Tetsutetsu
-Dee Bradley Baker (5): Boba Fett, Hank Pym, Mr. Fantastic, Nightcrawler, Venom
+Dee Bradley Baker (6): Boba Fett, Eda Clawthorne, Hank Pym, Mr. Fantastic, Nightcrawler, Venom
 Deep Roy (2): Tin Woodman, Yoda
 Dennis Bateman (2): Pyro, Spy
 Donald Glover (2): Lando Calrissian, Miles Morales
@@ -150,7 +150,7 @@ Lou Ferrigno (2): Hulk, Hulk
 Luci Christian (3): Chiyo Shuzenji, Nami, Ochaco Uraraka
 Lucien Dodge (2): Blue, Felix
 Madeline Kopf (2): Garrik Doriana, Lorana Ritten
-Mae Whitman (2): Barbara Gordon, Katara
+Mae Whitman (3): Amity Blight, Barbara Gordon, Katara
 Malcolm McDowell (2): Alex DeLarge, Dr. Loomis
 Marc Graue (2): Luigi, Mario
 Mark Hamill (3): Luke Skywalker, Ozai, Wolverine
@@ -234,4 +234,4 @@ Yuko Kobayashi (2): Blue, Nico Robin
 Yuri Lowenthal (6): Alucard, Jason Todd, Nightcrawler, Northstar, Spider-Man, Tim Drake
 Zach Wiebe (2): Akkar, Zach Wiebe
 Zendaya (2): Chani, MJ Watson (MCU)
-Zeno Robinson (2): Cyborg, Lando Calrissian
+Zeno Robinson (4): Cyborg, Emperor Belos, Hunter, Lando Calrissian

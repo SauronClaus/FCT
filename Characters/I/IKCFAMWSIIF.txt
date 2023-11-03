@@ -16,7 +16,7 @@ Male
 Barbarian,Comedically Terrible Person,D&D,Kidnapper,Robot,Unbroken Gang
 Modified Human
 Low
-Unbroken Cast 1, Unbroken Cast 2,Henry Kopf's Permutations
+Unbroken Cast 1,Unbroken Cast 2,Henry Kopf's Permutations
 
 Dungeons & Dragons
 Unbroken

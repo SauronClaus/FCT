@@ -16,7 +16,7 @@ Male
 Gentle Giant,Half-Giant,Magic User,Monster Lover,Teacher,Wizard
 City
 Medium
-Hogwarts Staff,Order of the Phoenix,Hogwarts Staff (All Seven Books)
+Hogwarts Staff,Order of the Phoenix I, Order of the Pheonix II,Hogwarts Staff (All Seven Books),Hogwarts Professors
 
 Books,Movies
 Harry Potter

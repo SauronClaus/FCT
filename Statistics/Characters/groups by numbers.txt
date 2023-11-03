@@ -67,6 +67,7 @@ Sebastian Polge's Permutations (5): Alice Daerdahk, Fedora Turthin, Reithen Keir
 Royal Guardsmen (Undertale) (5): Alphys, Mettaton, Papyrus, Sans, Undyne
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 Young Justice (Extended) (5): Amethyst, Bart Allen, Miss Martian, Tim Drake, Wally West
+Teenage Protagonists (Owl House) (5): Amity Blight, Gus Porter, Hunter, Luz Noceda, Willow Park
 House of Life (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Twenty-First Nome (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Frozen Quintent (5): Anna, Elsa, Kristoff, Olaf, Sven
@@ -81,6 +82,7 @@ Best Friends Squad (4): Adora, Bow, Catra, Glimmer
 The Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
 Order of the Pheonix II (4): Albus Dumbledore, Arthur Weasley, Bill Weasley, Fleur Delacour
 Crystal Gems (Core) (4): Amethyst (Steven Universe), Garnet, Pearl, Steven Universe
+Hexside Students (4): Amity Blight, Gus Porter, Luz Noceda, Willow Park
 Sonic the Hedgehog (Extended Cast) (4): Amy Rose, Big the Cat, Blaze the Cat, Sonic the Hedgehog
 Skywalker Family Quartet (4): Anakin Skywalker, Leia Organa, Luke Skywalker, Padme Amidala
 Weasley Family (4): Arthur Weasley, Bill Weasley, Ginny Weasley, Ron Weasley
@@ -148,6 +150,7 @@ Server Owners (3): Colin Frazer, Jono Jenkins, Zach Wiebe
 Confederacy of Independent Systems (3): Count Dooku, Darth Maul, General Grievous
 Galactic Empire (3): Darth Vader, Grand Moff Tarkin, Sheev Palpatine
 Ninja Mafia (Sam and Fuzzy) (3): Devahi, Fuzzy, Sam (Sam and Fuzzy)
+Owl House Inhabitants (3): Eda Clawthorne, King Clawthorne, Luz Noceda
 Retired Supers (3): Elastigirl, Frozone, Mr. Incredible
 Children of the Goddess (Fire Emblem) (3): Flayn, Rhea, Seteth
 Bone Cousins (3): Fone Bone, Phoney Bone, Smiley Bone

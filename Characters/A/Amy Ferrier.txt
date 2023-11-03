@@ -16,7 +16,7 @@ Female
 Detective,Future Tech,Rebel
 Baseline
 Low
-Detective Skills|Tech|2
+
 Indie Video Games
 Video Games
 Tacoma

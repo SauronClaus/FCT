@@ -16,7 +16,7 @@ Male
 Commander,Emperor(ess),First Order,Most Powerful,Ruler,Scarred,Sith Lord
 Country
 High
-Sith Lord,First Order
+Sith Lord,First Order (Star Wars)
 
 Movies
 Star Wars

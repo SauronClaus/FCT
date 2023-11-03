@@ -8,7 +8,7 @@ Brick
 Brick
 Marcus Mauldin
 
-Berserker
+Adventurer
 Human
 Neutral
 Protagonist

@@ -16,7 +16,7 @@ Male
 Android,Armor Suit,Exiles (Team),Romantic Subplot|Cassie Lang,Tech,Time Traveler,Young Avengers
 City
 Low
-Young Avengers Founders,Young Avengers (Extended),Exiles,Kang the Conqueror Permutations
+Young Avengers Founders,Young Avengers (Extended),Exiles (Core),Exiles (Extended),Kang the Conqueror Permutations
 
 Superhero Comics,Comics
 Marvel

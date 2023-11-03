@@ -109,6 +109,7 @@ Harry Potter Main Trio (3): Harry Potter, Hermione Granger, Ron Weasley
 Hell Priests (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
 Henry Kopf's Permutations (1): IKCFAMWSIIF
 Heroes of Olympus (8): Annabeth Chase, Frank Zhang, Hazel Levesque, Jason Grace, Leo Valdez, Nico di Angelo, Percy Jackson, Piper McLean
+Hexside Students (4): Amity Blight, Gus Porter, Luz Noceda, Willow Park
 High Five (Ready Player One) (1): Akihide Karatsu
 Hogwarts Professors (1): Albus Dumbledore
 Hogwarts Staff (1): Hagrid
@@ -177,6 +178,7 @@ Original Three (Band of Fools) (3): Arthail Consumer of Food, Glynnric Manassnas
 Original Trilogy Quintet (8): C3PO, Chewbacca, Han Solo (Old), Han Solo, Leia Organa (Old), Leia Organa, Luke Skywalker, R2-D2
 Outsiders (2): Batman, Black Lightning
 Overwatch Heroes (1): Bastion
+Owl House Inhabitants (3): Eda Clawthorne, King Clawthorne, Luz Noceda
 Paper Mario: The Origami King Cast (1): Bobby
 Parr Family (4): Dash Parr, Elastigirl, Mr. Incredible, Violet Parr
 Pequod Crew (1): Captain Ahab
@@ -249,6 +251,7 @@ Teen Titans (Core) (3): Beast Boy, Dick Grayson, Wally West
 Teen Titans (Extended) (11): Bart Allen, Captain Marvel Jr., Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Supergirl, Tim Drake, Wally West II, Wally West
 Teen Titans Founders (2): Dick Grayson, Wally West
 Teen Titans Go! Cast (3): Beast Boy, Cyborg, Dick Grayson
+Teenage Protagonists (Owl House) (5): Amity Blight, Gus Porter, Hunter, Luz Noceda, Willow Park
 Tesladyne Industries (2): Atomic Robo, Jenkins
 The Backyardigans (1): Austin
 The Black Order (1): Thanos

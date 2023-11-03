@@ -29,6 +29,7 @@ Calypso (2): Calypso (The Odyssey), Calypso
 Steve (2): Captain America, Steve (Minecraft)
 Carter (2): Carter Kane, Sadie Kane
 Nilox (2): Deag Grav, Deag Nilox
+Hunter (2): Emperor Belos, Hunter
 Rose (2): Gran'ma Ben, Rose Tico
 Han (2): Han Solo (Old), Han Solo
 Harrison (2): Harrison Truscott (Evil), Harrison Truscott
@@ -38,6 +39,7 @@ Iris (2): Irey West, Iris West
 Jason (2): Jason Grace, Jason Todd
 Jonathan (2): Jonathan Harker, The Human Torch
 Ken (2): Ken Ishiyama, Ken
+King (2): King Clawthorne, King
 Leia (2): Leia Organa (Old), Leia Organa
 Luke (2): Luke Castellan, Luke Skywalker
 Thomas (2): Neo, Thomas Jefferson Jr.
@@ -79,6 +81,7 @@ Amber O'Malley (1): Amazi-Girl
 America (1): America Chavez
 Amethyst (1): Amethyst (Steven Universe)
 Amilyn (1): Amilyn Holdo
+Amity (1): Amity Blight
 Amos (1): Amos Kane
 Amitjyoti (1): Amy Ferrier
 Anan (1): Anan Kurose
@@ -228,6 +231,7 @@ Druig (1): Druig
 Leto (1): Duke Leto Atreides
 Duncan (1): Duncan Idaho
 Dyan (1): Dyan
+Edalyn (1): Eda Clawthorne
 Edelgard (1): Edelgard
 Ego (1): Ego
 Eijiro (1): Eijiro Kirishima
@@ -276,6 +280,7 @@ Oliver (1): Green Arrow
 Groot (1): Groot
 Grover (1): Grover Underwood
 Stanley (1): Grunkle Stan
+Augustus (1): Gus Porter
 Rubeus (1): Hagrid
 Harold (1): Hal Jordan
 Haley (1): Haley
@@ -338,7 +343,6 @@ Katsuki (1): Katsuki Bakugo
 Kazooie (1): Kazooie
 Kevin (1): Kevin McCallister
 Makyr (1): Khan Makyr
-King (1): King
 Kingdok (1): Kingdok
 Kingo (1): Kingo
 Kinoko (1): Kinoko Komori
@@ -372,6 +376,7 @@ Tom (1): Lord Voldemort
 Lorenz (1): Lorenz
 Luigi (1): Luigi
 Luisa (1): Luisa Madrigal
+Luz (1): Luz Noceda
 Lysithea (1): Lysithea
 Master (1): M. Bison
 Mabel (1): Mabel Pines
@@ -572,6 +577,7 @@ Walt (1): Walt Stone
 Weiss (1): Weiss Schnee
 Wendy (1): Wendy Corduroy
 Elphaba (1): Wicked Witch of the West
+Willow (1): Willow Park
 Oscar (1): Wizard of Oz
 Diana (1): Wonder Woman
 Yang (1): Yang Xiao Long

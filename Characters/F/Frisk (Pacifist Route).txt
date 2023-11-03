@@ -8,7 +8,7 @@ Frisk
 Frisk|The Human|Human|kid|buddy
 
 
-Adventurer
+Civilian
 Human
 Good
 Protagonist

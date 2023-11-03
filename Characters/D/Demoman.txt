@@ -8,7 +8,7 @@ DeGroot
 The Demoman|Tavish Finnegan DeGroot
 Gary Schwartz
 
-Explosions Expert
+Mercenary
 Human
 Neutral
 Playable Character

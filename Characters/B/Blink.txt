@@ -16,7 +16,7 @@ Female
 Earth-295,Exiles (Team),Interdimensional,Multiversal Origin,Mutant,Reality Hopping,Teleportation,X-Men
 Modified Human
 Low
-Exiles (Core),X-Men (Extended)
+Exiles (Core),X-Men (Extended),Exiles (Extended)
 
 Superhero Comics,Comics
 Marvel

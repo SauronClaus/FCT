@@ -8,7 +8,7 @@ Skywalker
 Anakin Skywalker|The Chosen One
 Hayden Christensen|Mat Lucas|Matt Lanter|Jake Lloyd
 22|2
-Jedi Knight
+Jedi
 Human
 Good
 Protagonist

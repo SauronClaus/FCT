@@ -8,7 +8,7 @@ Conagher
 Engineer|Engie|Dell Conagher
 Grant Goodeve|Nolan North
 
-Engineer
+Mercenary
 Human
 Neutral
 Playable Character

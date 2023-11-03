@@ -46,6 +46,7 @@ America Chavez
 Amethyst
 Amethyst (Steven Universe)
 Amilyn Holdo
+Amity Blight
 Amos Kane
 Amy Cahill
 Amy Ferrier
@@ -253,6 +254,7 @@ Duke Leto Atreides
 Duncan Idaho
 Dyan
 Ectoplasm
+Eda Clawthorne
 Edelgard
 Ego
 Eijiro Kirishima
@@ -262,6 +264,7 @@ Ellie Sattler
 Elliot
 Elsa
 Emily
+Emperor Belos
 Engineer
 Ernie
 Ethan Chou
@@ -310,6 +313,7 @@ Groot
 Grover Underwood
 Grunkle Stan
 Guile
+Gus Porter
 Hagrid
 Hal Jordan
 Haley
@@ -339,6 +343,7 @@ Hizashi Yamada
 Hope van Dyne
 Hubert
 Hulk
+Hunter
 IG-11
 IKCFAMWSIIF
 Ian Malcolm
@@ -397,6 +402,7 @@ Ken Ishiyama
 Kevin McCallister
 Khan Makyr
 King
+King Clawthorne
 Kingdok
 Kingo
 Kinoko Komori
@@ -436,6 +442,7 @@ Luigi
 Luisa Madrigal
 Luke Castellan
 Luke Skywalker
+Luz Noceda
 Lysithea
 M. Bison
 MJ Watson (MCU)
@@ -685,6 +692,7 @@ Weiss Schnee
 Wendy Corduroy
 Wicked Witch of the West
 William Cage
+Willow Park
 Wizard of Oz
 Wolverine
 Wonder Woman

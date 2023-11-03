@@ -8,7 +8,7 @@ https://wiki.teamfortress.com/wiki/Pyro
 Pyro
 Dennis Bateman
 
-Soldier
+Mercenary
 Human
 Neutral
 Playable Character

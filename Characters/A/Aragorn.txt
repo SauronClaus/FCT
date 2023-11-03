@@ -8,7 +8,7 @@ Elessar
 Aragorn II Elessar|Elessar|Strider|King Elessar Telcontar
 John Hurt|Viggo Mortensen
 87|8
-Fighter
+Exile
 Human
 Good
 Supporting Protagonist

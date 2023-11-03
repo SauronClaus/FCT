@@ -9,9 +9,9 @@
 11 (3): Blue, Ginny Weasley, Red (Pokemon)
 12 (6): Amy Rose, Bianca di Angelo, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong
 13 (3): Brian Robeson, Lex Murphy, Steven Universe
-14 (10): Ahsoka Tano, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Katara, Padme Amidala, Sadie Kane, Violet Parr, Zia Rashid
+14 (14): Ahsoka Tano, Amity Blight, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Gus Porter, Katara, Luz Noceda, Padme Amidala, Sadie Kane, Violet Parr, Willow Park, Zia Rashid
 15 (54): Brock, Carter Kane, Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Lysithea, Mai, Manga Fukidashi, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Mirabel Madrigal, Momo Yaoyorozu, Neito Monoma, Nico di Angelo, Nirengeki Shoda, Ochaco Uraraka, Paul Atreides, Petra (Fire Emblem), Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ruby Rose, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Sokka, Sonic the Hedgehog, Sven, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Tony Tony Chopper, Toru Hakagure, Tsuyu Asui, Wendy Corduroy, Yosetsu Awase, Yuga Aoyama, Yui Kodai
-16 (15): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Himiko Toga, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Mei Hatsume, Piper McLean, Vikram Kommareddi, Zuko
+16 (17): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Emperor Belos, Himiko Toga, Hunter, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Mei Hatsume, Piper McLean, Vikram Kommareddi, Zuko
 17 (29): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Harry Potter, Hermione Granger, Ignatz, Ingrid, Korra, Laurie Strode, Marianne, Monkey D. Luffy, Rachel Elizabeth Dare, Raphael, Ron Weasley, Sebastian Polge, Usopp, Weiss Schnee, Yang Xiao Long
 18 (18): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Dorothea, Fleur Delacour, Harrison Truscott (Evil), Harrison Truscott, Hilda, Lorenz, Nami, Percy Jackson, Raya, Zach Wiebe
 19 (8): Jono Jenkins, Leia Organa, Leonie, Luke Skywalker, Rey, Roronoa Zoro, Sylvain, Vinsmoke Sanji

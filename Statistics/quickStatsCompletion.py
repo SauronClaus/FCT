@@ -286,9 +286,9 @@ def quickStatsCompletion():
                 VersionsFile = open(basepath + "\\" + folder + "\\" + entry, "r", encoding='utf8')
                 VersionsInfo = VersionsFile.read().split("\n")
                 if len(VersionsInfo) == 2:
-                    completedVersions.append(entry[0:len(entry)-4:])
+                    completedVersions.append(entry[0:len(entry)-4:] + " (" + folder + ")")
                 else:
-                    weirdVersions.append(entry[0:len(entry)-4:])
+                    weirdVersions.append(entry[0:len(entry)-4:] + " (" + folder + ")")
                 allVersions.append(entry[0:len(entry)-4:])
                 VersionsFile.close()
     completedVersions.sort()
