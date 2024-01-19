@@ -29,7 +29,6 @@ Scott Menville (4): Bucky Barnes, Dick Grayson, Quicksilver, Tim Drake
 Crispin Freeman (4): Colossus, Loki, Martian Manhunter, Scott Lang
 Christopher Lee (4): Count Dooku, Dracula, Frankenstein Monster, Mycroft Holmes
 Michael Donovan (4): Count Dooku, Guile, Hulk, Jabba the Hutt
-Zeno Robinson (4): Cyborg, Emperor Belos, Hunter, Lando Calrissian
 Kari Wahlgren (4): Dorothy Gale, Hope van Dyne, Janet van Dyne, The Invisible Woman
 Masakazu Nishida (4): Ectoplasm, Kosei Tsuburaba, Mezo Shoji, Sen Kaibara
 Alex Hirsch (4): Grunkle Stan, King Clawthorne, Soos Ramirez, Stanford Pines
@@ -60,7 +59,7 @@ Benjamin Diskin (3): Caspar, Spider-Man, Venom
 Colleen O'Shaughnessey (3): Cassie Lang, Janet van Dyne, Kronya
 Luci Christian (3): Chiyo Shuzenji, Nami, Ochaco Uraraka
 Idina Menzel (3): Circe, Elsa, Wicked Witch of the West
- (3): Count Dooku, Storm, Vinsmoke Sanji
+Zeno Robinson (3): Cyborg, Hunter, Lando Calrissian
 Kirby Morrow (3): Cyclops, General Grievous, The Human Torch
 Will Friedle (3): Deadpool, Dick Grayson, Star-Lord
 Henry Cavill (3): Geralt of Rivia, Sherlock Holmes, Superman

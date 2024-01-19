@@ -1,4 +1,3 @@
- (3): Count Dooku, Storm, Vinsmoke Sanji
 Aaron Dismuke (2): Kosei Tsuburaba, Roronoa Zoro
 Adrian Hough (2): Alan Grant, Nightcrawler
 Adrian Pasdar (2): Hawkeye, Iron Man
@@ -234,4 +233,4 @@ Yuko Kobayashi (2): Blue, Nico Robin
 Yuri Lowenthal (6): Alucard, Jason Todd, Nightcrawler, Northstar, Spider-Man, Tim Drake
 Zach Wiebe (2): Akkar, Zach Wiebe
 Zendaya (2): Chani, MJ Watson (MCU)
-Zeno Robinson (4): Cyborg, Emperor Belos, Hunter, Lando Calrissian
+Zeno Robinson (3): Cyborg, Hunter, Lando Calrissian

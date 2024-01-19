@@ -1,6 +1,5 @@
 #Locates all the characters of a particular franchise, and performs the notepad thing on them for ease of editing.
 import os
-import psutil
 import time
 import discord
 
@@ -44,7 +43,7 @@ async def on_ready():
     }
     file = open("Franchises to Change.txt", "w", encoding='utf8')
     x = 0
-    pollChannel = client.get_channel(948259558592229436)
+    pollChannel = client.get_channel(620964009679650847)
     async for message in pollChannel.history(limit=None):
         if message.reactions != []:
             print(str(message.reactions))

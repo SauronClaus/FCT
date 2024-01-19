@@ -1,39 +1,42 @@
 Superheroes (124): Agent Venom, Ajak, Alan Scott, All-Might, Amazi-Girl, Anan Kurose, Angel, Aurora, Barbara Gordon, Barry Allen, Bart Allen, Batman, Beast, Black Canary, Carol Danvers, Cassie Lang, Chiyo Shuzenji, Colossus, Cyclops, Damian Wayne, Dash Parr, Deadpool, Denki Kaminari, Dick Grayson, Druig, Ectoplasm, Eijiro Kirishima, Elastigirl, Frozone, Fumikage Tokoyami, Gilgamesh, Hal Jordan, Hank Pym, Hanta Sero, Hawkgirl, Higari Maijima, Hippolyta, Hiryu Rin, Hizashi Yamada, Hope van Dyne, Ibara Shiozaki, Ikaris, Irey West, Itsuka Kendo, Izuku Midoriya, Jai West, Janet van Dyne, Jason Todd, Jay Garrick, Jesse Quick, John Proudstar, John Stewart, Jurota Shishida, Juzo Honenuki, Kal-L, Katsuki Bakugo, Ken Ishiyama, Kingo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Makkari, Manga Fukidashi, Martian Manhunter, Mashirao Ojiro, Max Mercury, Mei Hatsume, Mezo Shoji, Miles Morales, Mina Ashido, Minoru Mineta, Miss Martian, Momo Yaoyorozu, Monica Rambeau, Mr. Incredible, Ms. Marvel, Nadia Van Dyne, Neito Monoma, Nemuri Kayama, Nezu, Nightcrawler, Nirengeki Shoda, Northstar, Ochaco Uraraka, Phastos, Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ryo Inui, Sam Alexander, Scott Lang, Sekijiro Kan, Sen Kaibara, Sersi, Setsuna Tokage, Shihai Kuroiro, Shota Aizawa, Shoto Todoroki, Snipe, Sprite, Storm, Sunfire, Supergirl, Superman, Tenya Ida, Tetsutetsu Tetsutetsu, Thena, Tim Drake, Togaru Kamakiri, Toru Hakagure, Tsuyu Asui, Venom, Violet Parr, Viv Vision, Wally West II, Wally West, Wolverine, Wonder Woman, Yosetsu Awase, Young Cyclops, Yuga Aoyama, Yui Kodai
-Romantic Subplot (91): Aang (Katara), Adora (Catra), Alan Grant (Ellie Sattler), Alex Fierro (Magnus Chase), Alphys (Undyne), Amity Blight (Luz Noceda), Amy Rose (Sonic the Hedgehog), Anakin Skywalker (Padme Amidala), Annabeth Chase (Percy Jackson), Arwen (Aragorn), Asami Sato (Korra), Barry Allen (Iris West), Beauregard Lionett (Yasha Nydoorin), Beth Johanssen (Dr. Chris Beck), Black Canary (Green Arrow), Blake Belladonna (Yang Xiao Long), Bow (Glimmer), Calypso (Leo Valdez), Carter Kane (Zia Rashid), Cassie Lang (Iron Lad), Catra (Adora), Chani (Paul Atreides), Connie Maheswaran (Steven Universe), Devahi (Sam (Sam and Fuzzy)), Dr. Chris Beck (Beth Johanssen), Ellie Sattler (Alan Grant), Fjord (Jester Lavorre), Fone Bone (Thorn Harvestar), Frank Zhang (Hazel Levesque), Gamora (Star-Lord), Ginny Weasley (Harry Potter), Glimmer (Bow), Green Arrow (Black Canary), Halfborn Gunderson (Mallory Keen), Han Solo (Leia Organa), Harry Potter (Ginny Weasley), Hazel Levesque (Frank Zhang), Hermione Granger (Ron Weasley), Hope van Dyne (Scott Lang), Iris West (Barry Allen), Iron Lad (Cassie Lang), Jason Grace (Piper McLean), Jester Lavorre (Fjord), Jonathan Harker (Mina Harker), Katara (Aang), Korra (Asami Sato), Kristoff (Anna), Kylo Ren (Rey), Leia Organa (Han Solo), Leo Valdez (Calypso), Luigi (Princess Daisy), Luz Noceda (Amity Blight), Magnus Chase (Alex Fierro), Mai (Zuko), Mallory Keen (Halfborn Gunderson), Mario (Princess Peach), Mina Harker (Jonathan Harker), MJ Watson (MCU) (Spider-Man), Neo (Trinity), Noelle Holiday (Susie), Ochaco Uraraka (Izuku Midoriya), Padme Amidala (Anakin Skywalker), Paul Atreides (Chani), Percy Jackson (Annabeth Chase), Piper McLean (Jason Grace), Princess Daisy (Luigi), Princess Peach (Mario), Rey (Kylo Ren), Rita Vrataski (William Cage), Ron Weasley (Hermione Granger), Sadie Kane (Walt Stone), Sam (Sam and Fuzzy) (Devahi), Scarlet Witch (Vision), Scott Lang (Hope van Dyne), Sokka (Suki), Sonic the Hedgehog (Amy Rose), Star-Lord (Gamora), Steven Universe (Connie Maheswaran), Suki (Sokka), Susie (Noelle Holiday), Thorn Harvestar (Fone Bone), Trinity (Neo), Ty Lee (Zuko), Undyne (Alphys), Vision (Scarlet Witch), Walt Stone (Sadie Kane), William Cage (Rita Vrataski), Yang Xiao Long (Blake Belladonna), Yasha Nydoorin (Beauregard Lionett), Zia Rashid (Carter Kane), Zuko (Mai)
+Romantic Subplot (94): Aang (Katara), Adora (Catra), Alan Grant (Ellie Sattler), Alex Fierro (Magnus Chase), Alphys (Undyne), Amity Blight (Luz Noceda), Amy Rose (Sonic the Hedgehog), Anakin Skywalker (Padme Amidala), Annabeth Chase (Percy Jackson), Arwen (Aragorn), Asami Sato (Korra), Barry Allen (Iris West), Beauregard Lionett (Yasha Nydoorin), Beth Johanssen (Dr. Chris Beck), Black Canary (Green Arrow), Blake Belladonna (Yang Xiao Long), Bow (Glimmer), Brian Laborn (Taylor Hebert), Calypso (Leo Valdez), Carter Kane (Zia Rashid), Cassie Lang (Iron Lad), Catra (Adora), Chani (Paul Atreides), Connie Maheswaran (Steven Universe), Devahi (Sam (Sam and Fuzzy)), Dr. Chris Beck (Beth Johanssen), Ellie Sattler (Alan Grant), Fjord (Jester Lavorre), Fone Bone (Thorn Harvestar), Francis Krouse (Noelle Meinhardt), Frank Zhang (Hazel Levesque), Gamora (Star-Lord), Ginny Weasley (Harry Potter), Glimmer (Bow), Green Arrow (Black Canary), Halfborn Gunderson (Mallory Keen), Han Solo (Leia Organa), Harry Potter (Ginny Weasley), Hazel Levesque (Frank Zhang), Hermione Granger (Ron Weasley), Hope van Dyne (Scott Lang), Iris West (Barry Allen), Iron Lad (Cassie Lang), Jason Grace (Piper McLean), Jester Lavorre (Fjord), Jonathan Harker (Mina Harker), Katara (Aang), Korra (Asami Sato), Kristoff (Anna), Kylo Ren (Rey), Leia Organa (Han Solo), Leo Valdez (Calypso), Luigi (Princess Daisy), Luz Noceda (Amity Blight), Magnus Chase (Alex Fierro), Mai (Zuko), Mallory Keen (Halfborn Gunderson), Mario (Princess Peach), Mina Harker (Jonathan Harker), MJ Watson (MCU) (Spider-Man), Neo (Trinity), Noelle Holiday (Susie), Ochaco Uraraka (Izuku Midoriya), Padme Amidala (Anakin Skywalker), Paul Atreides (Chani), Percy Jackson (Annabeth Chase), Piper McLean (Jason Grace), Princess Daisy (Luigi), Princess Peach (Mario), Rey (Kylo Ren), Rita Vrataski (William Cage), Ron Weasley (Hermione Granger), Sadie Kane (Walt Stone), Sam (Sam and Fuzzy) (Devahi), Scarlet Witch (Vision), Scott Lang (Hope van Dyne), Sokka (Suki), Sonic the Hedgehog (Amy Rose), Star-Lord (Gamora), Steven Universe (Connie Maheswaran), Suki (Sokka), Susie (Noelle Holiday), Taylor Hebert (Brian Laborn), Thorn Harvestar (Fone Bone), Trinity (Neo), Ty Lee (Zuko), Undyne (Alphys), Vision (Scarlet Witch), Walt Stone (Sadie Kane), William Cage (Rita Vrataski), Yang Xiao Long (Blake Belladonna), Yasha Nydoorin (Beauregard Lionett), Zia Rashid (Carter Kane), Zuko (Mai)
 Parent Child (78): Abuela Alma Madrigal (Pepa Madrigal), Antonio Madrigal (Pepa Madrigal), Atreus (Kratos), Atticus Finch (Scout Finch), Augustin Madrigal (Isabela Madrigal), Azula (Ozai), Barbara Gordon (Jim Gordon), Batman (Damian Wayne), Boba Fett (Jango Fett), Bowser Jr. (Bowser), Bowser (Bowser Jr.), Bruno Madrigal (Abuela Alma Madrigal), Camilo Madrigal (Pepa Madrigal), Cassie Lang (Scott Lang), Damian Wayne (Batman), Darth Vader (Luke Skywalker), Dash Parr (Elastigirl), Dolores Madrigal (Pepa Madrigal), Duke Leto Atreides (Paul Atreides), Eda Clawthorne (Luz Noceda), Ego (Star-Lord), Elastigirl (Dash Parr), Emperor Belos (Hunter), Felix Madrigal (Dolores Madrigal), Flayn (Seteth), Frankenstein Monster (Victor Frankenstein), Gamora (Thanos), Han Solo (Old) (Kylo Ren), Han Solo (Kylo Ren), Hank Pym (Hope van Dyne), Hippolyta (Wonder Woman), Hope van Dyne (Hank Pym), Hunter (Emperor Belos), Irey West (Wally West), Iroh (Zuko), Isabela Madrigal (Augustin Madrigal), Jai West (Wally West), Janet van Dyne (Hope van Dyne), Jango Fett (Boba Fett), Jem Finch (Atticus Finch), Jim Gordon (Barbara Gordon), Julieta Madrigal (Abuela Alma Madrigal), King Clawthorne (Eda Clawthorne), King (Lancer), Kratos (Atreus), Kylo Ren (Leia Organa), Lady Jessica (Paul Atreides), Lancer (King), Leia Organa (Old) (Darth Vader), Leia Organa (Darth Vader), Luisa Madrigal (Augustin Madrigal), Luke Skywalker (Darth Vader), Luz Noceda (Eda Clawthorne), Magneto (Scarlet Witch), Mr. Incredible (Dash Parr), Nadia Van Dyne (Hank Pym), Nebula (Thanos), Ozai (Azula), Padme Amidala (Luke Skywalker), Paul Atreides (Lady Jessica), Pepa Madrigal (Abuela Alma Madrigal), Quicksilver (Magneto), Reithen Keiros (Terrence the Baby Tarrasque), Scarlet Witch (Magneto), Scott Lang (Cassie Lang), Scout Finch (Atticus Finch), Seteth (Flayn), Terrence the Baby Tarrasque (Reithen Keiros), Thanos (Gamora), The Child (The Mandalorian), The Mandalorian (The Child), Victor Frankenstein (Frankenstein's Monster), Violet Parr (Elastigirl), Vision (Viv Vision), Viv Vision (Vision), Wally West (Irey West), Wonder Woman (Hippolyta), Zuko (Iroh)
 Quirk (62): All for One, All-Might, Anan Kurose, Atsuhiro Sako, Chiyo Shuzenji, Dabi, Denki Kaminari, Ectoplasm, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Higari Maijima, Himiko Toga, Hiryu Rin, Hizashi Yamada, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jin Bubaigawara, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Ken Ishiyama, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kurogiri, Kyoka Jiro, Manga Fukidashi, Mashirao Ojiro, Mei Hatsume, Mezo Shoji, Mina Ashido, Minoru Mineta, Momo Yaoyorozu, Neito Monoma, Nemuri Kayama, Nezu, Nirengeki Shoda, Ochaco Uraraka, Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ryo Inui, Sekijiro Kan, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shota Aizawa, Shoto Todoroki, Snipe, Spinner, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Tomura Shigaraki, Toru Hakagure, Tsuyu Asui, Yosetsu Awase, Yuga Aoyama, Yui Kodai
+Siblings (59): Aisha Laborn (Brian Laborn), Amy Dallon (Victoria Dallon), Anna (Elsa), Antonio Madrigal (Dolores Madrigal), Azula (Zuko), Brian Laborn (Aisha Laborn), Briar Harvestar (Gran'ma Ben  Bruno Madrigal), Bruno Madrigal (Julieta Madrigal), Camilo Madrigal (Dolores Madrigal), Captain Britain (Psylocke), Captain Marvel (Mary Marvel), Carter Kane (Sadie Kane), Dash Parr (Violet Parr), Dolores Madrigal (Camilo Madrigal), Dozer (Tank), Elsa (Elsa), Emily (Haley), Gamora (Nebula), Gran'ma Ben (Briar Harvestar), Haley (Emily), Iroh (Ozai), Isabela Madrigal (Luisa Madrigal), Jem Finch (Scout Finch), Julieta Madrigal (Bruno Madrigal), Katara (Sokka), Leia Organa (Old) (Luke Skywalker), Lex Murphy (Tim Murphy), Luigi (Mario), Luisa Madrigal (Isabela Madrigal), Luke Skywalker (Leia Organa), Mario (Luigi), Maru (Sebastian), Mary Marvel (Captain Marvel), Mirabel Madrigal (Isabela Madrigal), Mycroft Holmes (Sherlock Holmes), Nebula (Gamora), Ozai (Iroh), Papyrus (Sans), Pepa Madrigal (Bruno Madrigal), Percy Jackson (Tyson), Quicksilver (Scarlet Witch), Ruby Rose (Yang Xiao Long), Sadie Kane (Carter Kane), Sans (Papyrus), Scarlet Witch (Quicksilver), Scout Finch (Jem Finch), Sebastian (Maru), Sherlock Holmes (Mycroft Holmes), Sokka (Katara), Tank (Dozer), Thalia Grace (Jason Grace), The Human Torch (The Invisible Woman), The Invisible Woman (The Human Torch), Tim Murphy (Lex Murphy), Tyson (Percy Jackson), Victoria Dallon (Amy Dallon), Violet Parr (Dash Parr), Yang Xiao Long (Ruby Rose), Zuko (Azula)
 Duo (58): Alex (Minecraft) (Steve (Minecraft)), Banjo (Kazooie), Beaker (Dr. Bunsen Honeydew), Bert (Ernie), Blitzen (Hearthstone), Blue Stupid Rat Creature (Brown Stupid Rat Creature), Blue (Red (Pokemon)), Booster Gold (Ted Kord), Brown Stupid Rat Creature (Blue Stupid Rat Creature), Bucky Barnes (Captain America), C3PO (R2-D2), Caleb Widogast (Veth Brenatto), Chewbacca (Han Solo), Dapper Cyclops (Long Jim), Doomslayer (Isabelle), Dr. Bunsen Honeydew (Beaker), Eijiro Kirishima (Tetsutetsu Tetsutetsu), Ernie (Ernie), Extortionist Hobo (LeBron), Frodo Baggins (Samwise Gamgee), Fuzzy (Sam (Sam and Fuzzy)), Gimli (Legolas), Groot (Rocket Raccoon), Han Solo (Old) (Chewbacca), Han Solo (Chewbacca), Harry Lyme (Marv Murchins), Hearthstone (Blitzen), Heavy (Medic), Ignatz (Raphael), Isabelle (Doomslayer), John Watson (Sherlock Holmes), Kazooie (Banjo), Kristoff (Sven), LeBron (Extortionist Hobo), Legolas (Gimli), Long Jim (The Dapper Cyclops), Luigi (Mario), Mario (Luigi), Marv Murchins (Harry Lyme), Maui (Moana), Medic (Heavy), Merry Brandybuck (Pippin Brandybuck), Moana (Maui), Peregrin Took (Merry Brandybuck), R2-D2 (C3PO), Raphael (Ignatz), Red (Pokemon) (Blue), Rocket Raccoon (Groot), Ruby (Sapphire), Sam (Sam and Fuzzy) (Fuzzy), Samwise Gamgee (Frodo Baggins), Sapphire (Ruby), Sherlock Holmes (John Watson), Steve (Minecraft) (Alex (Minecraft)), Sven (Kristoff), Ted Kord (Booster Gold), Tetsutetsu Tetsutetsu (Eijiro Kirishima), Veth Brenatto (Caleb Widogast)
-Siblings (55): Anna (Elsa), Antonio Madrigal (Dolores Madrigal), Azula (Zuko), Briar Harvestar (Gran'ma Ben  Bruno Madrigal), Bruno Madrigal (Julieta Madrigal), Camilo Madrigal (Dolores Madrigal), Captain Britain (Psylocke), Captain Marvel (Mary Marvel), Carter Kane (Sadie Kane), Dash Parr (Violet Parr), Dolores Madrigal (Camilo Madrigal), Dozer (Tank), Elsa (Elsa), Emily (Haley), Gamora (Nebula), Gran'ma Ben (Briar Harvestar), Haley (Emily), Iroh (Ozai), Isabela Madrigal (Luisa Madrigal), Jem Finch (Scout Finch), Julieta Madrigal (Bruno Madrigal), Katara (Sokka), Leia Organa (Old) (Luke Skywalker), Lex Murphy (Tim Murphy), Luigi (Mario), Luisa Madrigal (Isabela Madrigal), Luke Skywalker (Leia Organa), Mario (Luigi), Maru (Sebastian), Mary Marvel (Captain Marvel), Mirabel Madrigal (Isabela Madrigal), Mycroft Holmes (Sherlock Holmes), Nebula (Gamora), Ozai (Iroh), Papyrus (Sans), Pepa Madrigal (Bruno Madrigal), Percy Jackson (Tyson), Quicksilver (Scarlet Witch), Ruby Rose (Yang Xiao Long), Sadie Kane (Carter Kane), Sans (Papyrus), Scarlet Witch (Quicksilver), Scout Finch (Jem Finch), Sebastian (Maru), Sherlock Holmes (Mycroft Holmes), Sokka (Katara), Tank (Dozer), Thalia Grace (Jason Grace), The Human Torch (The Invisible Woman), The Invisible Woman (The Human Torch), Tim Murphy (Lex Murphy), Tyson (Percy Jackson), Violet Parr (Dash Parr), Yang Xiao Long (Ruby Rose), Zuko (Azula)
 Nobility (54): Annette, Aragorn, Arthur Holmwood, Arwen, Arya, Asgore, Azula, Bard the Bowman, Baron Vladimir Harkonnen, Bernadetta, Black Panther, Blaze the Cat, Boromir, Bowser Jr., Bowser, Captain Nemo, Caspar, Dimitri, Dracula, Duke Leto Atreides, Edelgard, Felix, Ferdinand, Glimmer, Glossu Rabban Harkonnen, Gran'ma Ben, Hilda, Hippolyta, Hubert, Ingrid, Iroh, King Clawthorne, Leia Organa (Old), Leia Organa, Linhardt, Lorenz, Lysithea, Mai, Marianne, Namaari, Ozai, Padme Amidala, Paul Atreides, Petra (Fire Emblem), Princess Daisy, Princess Peach, Raya, Steven Universe, Sylvain, Thorn Harvestar, Toriel, Ty Lee, Wonder Woman, Zuko
 Soldier (52): Ahsoka Tano, Alyx, Amilyn Holdo, Anakin Skywalker, Ashley Williams, Billy Pilgrim, Bismuth, Bolin, Cal Kestis, Captain John H. Miller, Captain Phasma, Cara Dune, Carol Danvers, Chani, Count Dooku, Darth Maul, Darth Vader, Doomslayer, Duke Leto Atreides, Duncan Idaho, Finn, Garnet, General Grievous, Geralt of Rivia, Glossu Rabban Harkonnen, Grand Moff Tarkin, Guile, Hal Jordan, Jar Jar Binks, Jenkins, John Stewart, John Watson, Lady Jessica, Lando Calrissian, Leonie, Mace Windu, Melissa Lewis, Moff Gideon, Namaari, Obi-Wan Kenobi, Paul Atreides, Pearl, Peridot, Rick Martinez, Rita Vrataski, Ronan the Accuser, Rose Tico, Suki, Thomas Jefferson Jr., Undyne, War Machine, William Cage
 Magic User (50): Abby Cadabby, Aerith Gainsborough, Albus Dumbledore, Amity Blight, Amos Kane, Annette, Arya, Bill Weasley, Caduceus Clay, Caleb Widogast, Calypso (The Odyssey), Calypso, Carter Kane, Circe, Dorothea, Eda Clawthorne, Elsa, Fjord, Fleur Delacour, Gandalf, Geralt of Rivia, Ginny Weasley, Glinda the Good Witch, Grover Underwood, Gus Porter, Hagrid, Harry Potter, Hearthstone, Hermione Granger, Hubert, Hunter, Jester Lavorre, Kalathos Sunstrider, Lord Voldemort, Luz Noceda, Lysithea, Marianne, Noelle Holiday, Quirinus Quirrell, Ralsei, Ron Weasley, Sadie Kane, Scarlet Witch, Seteth, Solon, Thales, Walt Stone, Wicked Witch of the West, Willow Park, Zia Rashid
 Genius (47): Adrian Monk, Alphys, Amadeus Cho, Amy Cahill, Annabeth Chase, Arrolys Larskano, Asami Sato, Atomic Robo, Audrey Ramirez, Baljeet Tjinder, Barbara Gordon, Batman, Beast, Bentley-23, Black Panther, Blue Marvel, Bow, Brainiac 5, Byllemura Ruby-Eye, Damian Wayne, Dennis Nedry, Dick Grayson, Doctor Eggman, Dr. Bunsen Honeydew, Frankenstein Monster, Franky, Hank Pym, Hulk, Iron Man, Ironheart, James Moriarty, Kevin McCallister, Linhardt, Maru, Mei Hatsume, Mr. Fantastic, Mycroft Holmes, Nadia Van Dyne, Nezu, Peridot, Phastos, Sherlock Holmes, Ted Kord, Tim Drake, Tony Tony Chopper, Victor Frankenstein, Yang Xiao Long
-LGBTQ+ (41): Abigail, Adora, Alan Scott, Albus Dumbledore, Alex Fierro, Alex, Alphys, America Chavez, Amity Blight, Anole, Asami Sato, Beauregard Lionett, Blake Belladonna, Caduceus Clay, Caleb Widogast, Catra, Eda Clawthorne, Elliot, Emily, Haley, Harvey, Korra, Leah, Luz Noceda, Magnus Chase, Maru, Nico di Angelo, Noelle Holiday, Northstar, Penny, Phastos, Ruby, Sam (Stardew Valley), Sapphire, Sebastian, Shane, Susie, Undyne, Viv Vision, Yang Xiao Long, Yasha Nydoorin
+LGBTQ+ (42): Abigail, Adora, Alan Scott, Albus Dumbledore, Alex Fierro, Alex, Alphys, America Chavez, Amity Blight, Amy Dallon, Anole, Asami Sato, Beauregard Lionett, Blake Belladonna, Caduceus Clay, Caleb Widogast, Catra, Eda Clawthorne, Elliot, Emily, Haley, Harvey, Korra, Leah, Luz Noceda, Magnus Chase, Maru, Nico di Angelo, Noelle Holiday, Northstar, Penny, Phastos, Ruby, Sam (Stardew Valley), Sapphire, Sebastian, Shane, Susie, Undyne, Viv Vision, Yang Xiao Long, Yasha Nydoorin
 Superhero in Training (41): Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Manga Fukidashi, Mashirao Ojiro, Mei Hatsume, Mezo Shoji, Mina Ashido, Minoru Mineta, Momo Yaoyorozu, Neito Monoma, Nirengeki Shoda, Ochaco Uraraka, Pony Tsunotori, Reiko Yanagi, Rikido Sato, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Toru Hakagure, Tsuyu Asui, Yosetsu Awase, Yuga Aoyama, Yui Kodai
 Rebel (39): Adora, Alyx, Amethyst (Steven Universe), Amy Ferrier, Amy Rose, Apoc, Barret Wallace, Bismuth, Bow, C3PO, Cara Dune, Chewbacca, Cyclops, Dozer, Gamora, Garnet, Glimmer, Gordon Freeman, Han Solo (Old), Han Solo, Lando Calrissian, Lapis Lazuli, Leia Organa (Old), Leia Organa, Luke Skywalker, Morpheus, Mouse (Matrix), Neo, Pearl, Peridot, R2-D2, Ruby, Sapphire, Sonic the Hedgehog, Star-Lord, Switch, Tank, Trinity, Wendy Corduroy
+Criminal (38): Aisha Laborn, Alec, Boba Fett, Brian Laborn, Chewbacca, Coil, Drax the Destroyer, Eda Clawthorne, Francis Krouse, Fuzzy, Gamora, Greef Karga, Groot, Grunkle Stan, Han Solo (Old), Han Solo, IG-11, Jabba the Hutt, Jack Slash, James Moriarty, Jango Fett, Lando Calrissian, Lisa Wilbourn, Lung, M. Bison, Nebula, Nico Robin, Noi, Pan, Rachel Lindt, Rocket Raccoon, Seth, Stanford Pines, Star-Lord, Taylor Hebert, Tong, Uka, Yondu
 Pixelated (36): Abigail, Alex, Alphys, Asgore, Berdly, Chara, Elliot, Emily, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Haley, Harvey, King, Kris, Lancer, Leah, Maru, Mettaton, Mr. Qi, Noelle Holiday, Papyrus, Penny, Player (Terraria), Queen, Ralsei, Sam (Stardew Valley), Sans, Sebastian, Shane, Spamton, Susie, Toriel, Undyne
 Royalty (36): Amethyst, Anna, Aquaman, Aragorn, Arwen, Arya, Asgore, Azula, Bard the Bowman, Black Panther, Blaze the Cat, Bowser Jr., Bowser, Briar Harvestar, Captain Nemo, Dimitri, Edelgard, Elsa, Glimmer, Gran'ma Ben, Hippolyta, Iroh, Leia Organa (Old), Leia Organa, Namaari, Ozai, Padme Amidala, Petra (Fire Emblem), Princess Daisy, Princess Peach, Raya, Sam (Sam and Fuzzy), Thorn Harvestar, Toriel, Wonder Woman, Zuko
 Iconic (35): Agent Smith, Alex (Minecraft), Barry Allen, Batman, Bilbo Baggins, Boba Fett, Captain America, Cyclops, Dorothy Gale, Dracula, Frodo Baggins, Geralt of Rivia, Glinda the Good Witch, Harry Potter, Ian Malcolm, Iron Man, Jabba the Hutt, James Moriarty, Kevin McCallister, Leia Organa (Old), Leia Organa, Luke Skywalker, Mario, Morpheus, Neo, Sherlock Holmes, Smaug, Steve (Minecraft), Steven Universe, Superman, Thanos, The Thing, Wicked Witch of the West, Wizard of Oz, Wolverine
 Ruler (31): Aquaman, Aragorn, Arwen, Arya, Black Panther, Bowser, Briar Harvestar, Calypso (The Odyssey), Circe, Dimitri, Edelgard, Fuzzy, Glimmer, Glinda the Good Witch, Gran'ma Ben, Khan Makyr, King Clawthorne, Kingdok, Lando Calrissian, Odysseus, Ozai, Padme Amidala, Rhea, Sam (Sam and Fuzzy), Sheev Palpatine, Snoke, Thorn Harvestar, Toriel, Wicked Witch of the West, Wizard of Oz, Zuko
+Immortal (30): Ajak, Amethyst (Steven Universe), Atomic Robo, Bianca di Angelo, Calypso (The Odyssey), Druig, Flayn, Gandalf, Garnet, Gilgamesh, Ikaris, Kingo, Kro, Legolas, Luke Castellan, Makkari, Pearl, Phastos, Rhea, Scion, Sersi, Seteth, Seth, Smaug, Sothis, Sprite, Steven Universe, Thalia Grace, Thena, Zoë Nightshade
+Tech (30): Atomic Robo, Batman, Berdly, Black Panther, Bowser Jr., Brainiac 5, Cassie Lang, Colin Wallis, Cyborg, Damian Wayne, Doctor Eggman, Hank Pym, Hope van Dyne, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Kevin McCallister, Kid Win, Maru, Mei Hatsume, Nadia Van Dyne, Peridot, Phastos, Queen, Rocket Raccoon, Scott Lang, Tim Drake, Vulture, War Machine
 Redemption Arc (29): Abuela Alma Madrigal, Agent Venom, Amity Blight, Bismuth, Catra, Drax the Destroyer, Gamora, Greef Karga, Groot, Hawkeye, Hunter, IG-11, Katsuki Bakugo, Kylo Ren, Lancer, Lapis Lazuli, Luke Castellan, Mai, Namaari, Nebula, Peridot, Quicksilver, Scarlet Witch, Sprite, Te Ka, Ty Lee, Venom, Yondu, Zuko
 Chosen One (29): Adora, Aloy, Bard the Bowman, Blake Belladonna, Byleth, Clarisse La Rue, Frank Zhang, Gordon Freeman, Harry Potter, Hazel Levesque, Izuku Midoriya, Jason Grace, Kris, Luke Castellan, Mirabel Madrigal, Moana, Neo, Paul Atreides, Percy Jackson, Phoney Bone, Piper McLean, Rachel Elizabeth Dare, Ralsei, Ruby Rose, Steven Universe, Susie, Thalia Grace, Thorn Harvestar, Zia Rashid
-Immortal (29): Ajak, Amethyst (Steven Universe), Atomic Robo, Bianca di Angelo, Calypso (The Odyssey), Druig, Flayn, Gandalf, Garnet, Gilgamesh, Ikaris, Kingo, Kro, Legolas, Luke Castellan, Makkari, Pearl, Phastos, Rhea, Sersi, Seteth, Seth, Smaug, Sothis, Sprite, Steven Universe, Thalia Grace, Thena, Zoë Nightshade
 Strong (29): All-Might, Amadeus Cho, Bismuth, Blue Marvel, Brick, Brimstone, Buford Van Stomm, Captain Marvel, Carol Danvers, Caspar, Catherine, Colossus, Dedue, Garnet, Heavy, Hilda, Hulk, Ikaris, Izuku Midoriya, John Proudstar, Kal-L, Luisa Madrigal, Mr. Incredible, Raphael, Supergirl, Superman, The Thing, Undyne, Wonder Woman
 D&D (28): Akkar, Alice Daerdahk, Arrolys Larskano, Arthail Consumer of Food, Arthas Menethil, Beauregard Lionett, Byllemura Ruby-Eye, Caduceus Clay, Eldon Spark Turen, Fedora Turthin, Fjord, Garrik Doriana, Glynnric Manassnass, IKCFAMWSIIF, Jester Lavorre, Jori-En Blurred, Kalathos Sunstrider, Kareem Par-Al, Lorana Ritten, Nahara, Reithen Keiros, Ruby Rider, Squee, Terrence the Baby Tarrasque, Yasha Nydoorin, Yekkon Shmalakis, Yekkon Shmekkon, Zulen Kal-Thim
 Hybrid (28): Alex Fierro, Annabeth Chase, Arwen, Atreus, Bianca di Angelo, Blitzen, Clarisse La Rue, Flayn, Frank Zhang, Glynnric Manassnass, Hazel Levesque, Jason Grace, Kareem Par-Al, Kratos, Leo Valdez, Luke Castellan, Magnus Chase, Mallory Keen, Maui, Nico di Angelo, Percy Jackson, Piper McLean, Rhea, Samirah al-Abbas, Seteth, Steven Universe, Thalia Grace, Thomas Jefferson Jr.
-Tech (28): Atomic Robo, Batman, Berdly, Black Panther, Bowser Jr., Brainiac 5, Cassie Lang, Cyborg, Damian Wayne, Doctor Eggman, Hank Pym, Hope van Dyne, Iron Lad, Iron Man, Ironheart, Janet van Dyne, Kevin McCallister, Maru, Mei Hatsume, Nadia Van Dyne, Peridot, Phastos, Queen, Rocket Raccoon, Scott Lang, Tim Drake, Vulture, War Machine
-Criminal (28): Boba Fett, Chewbacca, Drax the Destroyer, Eda Clawthorne, Fuzzy, Gamora, Greef Karga, Groot, Grunkle Stan, Han Solo (Old), Han Solo, IG-11, Jabba the Hutt, James Moriarty, Jango Fett, Lando Calrissian, M. Bison, Nebula, Nico Robin, Noi, Pan, Rocket Raccoon, Seth, Stanford Pines, Star-Lord, Tong, Uka, Yondu
 Legacy (27): All for One (Tomura Shigaraki), All-Might (Izuku Midoriya), Barry Allen (Jay Garrick), Bart Allen (Wally West), Boba Fett (Jango Fett), Bucky Barnes (Captain America), Cassie Lang (Scott Lang), Damian Wayne (Tim Drake), Dick Grayson (Batman), Falcon (Captain America), Hope van Dyne (Janet van Dyne), Ironheart (Iron Man), Izuku Midoriya (All-Might), Jason Todd (Dick Grayson), Jim Gordon (Batman), Miles Morales (Spider-Man), Moff Gideon, Monica Rambeau (Carol Danvers), Ms. Marvel (Carol Danvers), Nadia Van Dyne (Janet van Dyne), Scott Lang (Hank Pym), Soos Ramirez (Grunkle Stan), Tim Drake (Jason Todd), Tomura Shigaraki (All for One), Wally West II (Wally West), Wally West (Barry Allen), War Machine (Iron Man)
 Nemesis (27): All for One (All-Might), Bill Cipher (Stanford Pines), Bowser (Mario), Chell (GlaDOS), Darth Maul (Obi-Wan Kenobi), Darth Vader (Obi-Wan Kenobi), Dipper Pines (Bill Cipher), Doctor Eggman (Sonic the Hedgehog), Dr. Loomis (Michael Myers), Harry Potter (Lord Voldemort), Izuku Midoriya (Tomura Shigaraki), James Moriarty (Sherlock Holmes), Kro (Thena), Lord Voldemort (Harry Potter), Luke Skywalker (Darth Vader), Mario (Bowser), Michael Myers (Dr. Loomis), Mr. Incredible (Syndrome), Namaari (Raya), Obi-Wan Kenobi (Darth Vader), Raya (Namaari), Sheev Palpatine (Yoda), Sherlock Holmes (James Moriarty), Sonic the Hedgehog (Doctor Eggman), Stanford Pines (Bill Cipher), Thena (Kro), Tomura Shigaraki (Izuku Midoriya)
 Powerhouse (25): Adora, Amadeus Cho, America Chavez, Armor, Blue Marvel, Carol Danvers, Colossus, Dedue, Drax the Destroyer, Eijiro Kirishima, Garnet, Groot, Hulk, Izuku Midoriya, Kal-L, Martian Manhunter, Maui, Miss Martian, Raphael, Shoto Todoroki, Supergirl, Superman, Thanos, The Thing, Wonder Woman
 Avengers (25): Agent Venom, Black Panther, Captain America, Carol Danvers, Falcon, Hank Pym, Hawkeye, Hulk, Iron Man, Miles Morales, Monica Rambeau, Mr. Fantastic, Ms. Marvel, Quicksilver, Sam Alexander, Scarlet Witch, Scott Lang, Spider-Man, The Human Torch, The Invisible Woman, The Thing, Thor, Venom, Vision, War Machine
 Demigod (25): Alex Fierro, Annabeth Chase, Atreus, Bianca di Angelo, Blitzen, Byleth, Clarisse La Rue, Flayn, Frank Zhang, Hazel Levesque, Jason Grace, Kratos, Leo Valdez, Luke Castellan, Magnus Chase, Mallory Keen, Maui, Nico di Angelo, Percy Jackson, Piper McLean, Rhea, Samirah al-Abbas, Seteth, Thalia Grace, Thomas Jefferson Jr.
 Exile (25): Amethyst (Steven Universe), Aragorn, Araithia Shokta, Azula, Bismuth, Boromir, Briar Harvestar, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Garnet, Gran'ma Ben, Iroh, Lapis Lazuli, Padme Amidala, Pariah, Pearl, Peridot, Raya, The Mandalorian, Thorn Harvestar, Tong, Toriel, Zuko
-Green (23): Alan Scott, Amadeus Cho, Anole, Beast Boy, Boba Fett, Brainiac 5, Drax the Destroyer, Fjord, Gamora, Green Arrow, Groot, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, Jabba the Hutt, John Stewart, Mantis, Miss Martian, Peridot, Togaru Kamakiri, Tsuyu Asui, Yekkon Shmekkon
+Green (24): Alan Scott, Amadeus Cho, Anole, Beast Boy, Boba Fett, Brainiac 5, Drax the Destroyer, Fjord, Gamora, Green Arrow, Groot, Hal Jordan, Harrison Truscott (Evil), Harrison Truscott, Hulk, Jabba the Hutt, John Stewart, Mantis, Miss Martian, Peridot, Sophia Hess, Togaru Kamakiri, Tsuyu Asui, Yekkon Shmekkon
+Leader (23): Aegis, Aisha Laborn, Barret Wallace, Batman, Brian Laborn, Captain America, Clockblocker, Coil, Colin Wallis, Cyclops, Garnet, Iron Man, Izuku Midoriya, Jack Slash, Kris, Leia Organa (Old), Leia Organa, Lung, Martian Manhunter, Rikk, Steven Universe, Superman, Taylor Hebert
 Muscles (23): Alice Daerdahk, All-Might, Amadeus Cho, Captain Marvel, Caspar, Catherine, Clarisse La Rue, Colossus, Drax the Destroyer, Eijiro Kirishima, Gilgamesh, Hulk, Izuku Midoriya, John Proudstar, Ken, Korra, Luisa Madrigal, Maui, Mezo Shoji, Mr. Incredible, Raphael, Ryu, Tyson
+Parahuman (21): Aegis, Aisha Laborn, Alec, Amy Dallon, Brian Laborn, Browbeat, Clockblocker, Coil, Colin Wallis, Echidna, Francis Krouse, Gallant, Jack Slash, Kid Win, Lisa Wilbourn, Lung, Rachel Lindt, Sophia Hess, Taylor Hebert, Victoria Dallon, Vista
 Inventor (21): Alphys, Alyx, Anakin Skywalker (Young), Anakin Skywalker, Doctor Eggman, Dr. Bunsen Honeydew, Eldon Spark Turen, Garrik Doriana, Higari Maijima, Iron Man, Ironheart, Kevin McCallister, Leo Valdez, Lorana Ritten, Mei Hatsume, Peridot, Phastos, Ruby Rose, Syndrome, Ted Kord, Yang Xiao Long
 Mentor (20): Abraham Van Helsing, Albus Dumbledore, Amos Kane, Barry Allen, Brom, Duncan Idaho, Gandalf, Gran'ma Ben, Hizashi Yamada, Iroh, Jay Garrick, Kuiil, Leia Organa (Old), Max Mercury, Morpheus, Nemuri Kayama, Pearl, Sekijiro Kan, Shota Aizawa, Ted Kord
 Monster Hunter (20): Abraham Van Helsing, Alucard, Amethyst (Steven Universe), Arthur Holmwood, Bayonetta, Blake Belladonna, Connie Maheswaran, Garnet, Geralt of Rivia, John Seward, Jonathan Harker, Mina Harker, Pearl, Peridot, Quincey Morris, Ruby Rose, Steven Universe, Weiss Schnee, Yang Xiao Long, Yekkon Shmalakis
+Earth-Bet (20): Aegis, Aisha Laborn, Alec, Amy Dallon, Brian Laborn, Browbeat, Clockblocker, Coil, Colin Wallis, Gallant, Jack Slash, Kid Win, Leviathan, Lisa Wilbourn, Lung, Rachel Lindt, Sophia Hess, Taylor Hebert, Victoria Dallon, Vista
 Scientist (20): Alan Grant, Alex Vogel, Allison Blake, Alphys, Arrolys Larskano, Bob Kerman, Bruce Ng, Captain Nemo, Dennis Nedry, Dr. Bunsen Honeydew, Dr. Samuel Hayden, Ellie Sattler, Gordon Freeman, Higari Maijima, Ian Malcolm, Jebediah Kerman, Mr. Fantastic, Sans, Valentina Kerman, Victor Frankenstein
 Edgy (20): All for One, Aphelios, Baron Vladimir Harkonnen, Batman, Dabi, Felix, Fumikage Tokoyami, Glossu Rabban Harkonnen, Himiko Toga, Hubert, Katsuki Bakugo, Nico di Angelo, Shihai Kuroiro, Shota Aizawa, Shoto Todoroki, Spinner, Thalia Grace, Tomura Shigaraki, Zuko, Zulen Kal-Thim
 Married (20): Ally (Rikk), Augustin Madrigal (Julieta Madrigal), Bill Weasley (Fleur Delacour), Black Panther (Storm), Duke Leto Atreides (Lady Jessica), Elastigirl (Mr. Incredible), Felix Madrigal (Pepa Madrigal), Fleur Delacour (Bill Weasley), Hank Pym (Janet van Dyne), Janet van Dyne (Hank Pym), Julieta Madrigal (Agustin Madrigal), Lady Jessica (Duke Leto Atreides), Mr. Fantastic (The Invisible Woman), Mr. Incredible (Elastigirl), Pepa Madrigal (Felix Madrigal), Rikk (Ally), Ruby (Sapphire), Rumy (Ally), Sapphire (Ruby), The Invisible Woman (Mr. Fantastic)
@@ -41,6 +44,7 @@ Justice League (20): Aquaman, Barry Allen, Bart Allen, Batman, Black Canary, Bla
 Class 1-A (20): Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Izuku Midoriya, Katsuki Bakugo, Koji Koda, Kyoka Jiro, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Momo Yaoyorozu, Ochaco Uraraka, Rikido Sato, Shoto Todoroki, Tenya Ida, Toru Hakagure, Tsuyu Asui, Yuga Aoyama
 Class 1-B (20): Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Jurota Shishida, Juzo Honenuki, Kinoko Komori, Kojiro Bondo, Kosei Tsuburaba, Manga Fukidashi, Neito Monoma, Nirengeki Shoda, Pony Tsunotori, Reiko Yanagi, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Yosetsu Awase, Yui Kodai
 Fire Powers (19): Aang, Azula, Blaze the Cat, Caleb Widogast, Captain Falcon, Dabi, Iroh, Korra, Leo Valdez, Ozai, Portgas D. Ace, Pyro, Ruby, Sabo, Shoto Todoroki, Sunfire, The Human Torch, Vinsmoke Sanji, Zuko
+African American (19): Aisha Laborn, Barret Wallace, Black Lightning, Black Panther, Blue Marvel, Brian Laborn, Dana Franklin, Dozer, Falcon, Frozone, Greef Karga, Ironheart, John Stewart, Mace Windu, Moff Gideon, Morpheus, Tank, Thomas Jefferson Jr., War Machine
 Mutant (19): Angel, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, John Proudstar, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
 X-Men (19): Angel, Armor, Aurora, Banshee, Beast, Blink, Cannonball, Colossus, Cyclops, John Proudstar, Nightcrawler, Northstar, Psylocke, Quicksilver, Scarlet Witch, Storm, Sunfire, Wolverine, Young Cyclops
 Greek (19): Annabeth Chase, Athena, Bianca di Angelo, Calypso (The Odyssey), Circe, Clarisse La Rue, Grover Underwood, Kratos, Leo Valdez, Luke Castellan, Nico di Angelo, Odysseus, Percy Jackson, Piper McLean, Polyphemus, Rachel Elizabeth Dare, Thalia Grace, Tyson, Zoë Nightshade
@@ -55,36 +59,39 @@ Musical (17): Amethyst (Steven Universe), Anna, Baljeet Tjinder, Buford Van Stom
 Commander (17): Anakin Skywalker, Brimstone, Count Dooku, Darth Maul, Darth Vader, General Grievous, Grand Moff Tarkin, Guile, Mace Windu, Melissa Lewis, Moff Gideon, Obi-Wan Kenobi, Rick Martinez, Sheev Palpatine, Snoke, Tyson, Undyne
 Teacher (17): Anan Kurose, Chiyo Shuzenji, Ectoplasm, Hagrid, Higari Maijima, Hizashi Yamada, Ken Ishiyama, Nemuri Kayama, Nezu, Penny, Quirinus Quirrell, Ryo Inui, Sekijiro Kan, Sersi, Shota Aizawa, Snipe, Toriel
 Speedsters (17): Aurora, Barry Allen, Bart Allen, Dash Parr, Irey West, Jai West, Jay Garrick, Jesse Quick, Makkari, Max Mercury, Northstar, Quicksilver, Scout, Sonic the Hedgehog, Tenya Ida, Wally West II, Wally West
-African American (17): Barret Wallace, Black Lightning, Black Panther, Blue Marvel, Dana Franklin, Dozer, Falcon, Frozone, Greef Karga, Ironheart, John Stewart, Mace Windu, Moff Gideon, Morpheus, Tank, Thomas Jefferson Jr., War Machine
 Player Character (16): Alex (Minecraft), Alyx, Byleth, Cal Kestis, Doomslayer, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Gordon Freeman, Kris, Mario, Player (Terraria), Red (Pokemon), Sonic the Hedgehog, Steve (Minecraft)
 Super Smash Bros (16): Alex (Minecraft), Banjo, Bayonetta, Bowser Jr., Bowser, Captain Falcon, Isabelle, Kazooie, Ken, Luigi, Mario, Princess Daisy, Princess Peach, Rosalina, Ryu, Steve (Minecraft)
 Cheerful (16): Alois, Alyx, Anna, Ash Ketchum, Felix Madrigal, Gilgamesh, Mabel Pines, Mina Ashido, Miss Martian, Ochaco Uraraka, Ralsei, Raphael, Rose Tico, Steven Universe, Ty Lee, Willow Park
 Pilot (16): Amilyn Holdo, Carmen Cortez, Chewbacca, Dozer, Finn, Hal Jordan, Han Solo (Old), Han Solo, Juni Cortez, Lando Calrissian, Luke Skywalker, Pearl, Poe Dameron, Rey, Star-Lord, Yondu
 Old (15): Abraham Van Helsing, Alan Scott, Albus Dumbledore, Briar Harvestar, Brom, Chiyo Shuzenji, Gandalf, Gran'ma Ben, Iroh, Jay Garrick, Jenkins, Kuiil, Leia Organa (Old), Magneto, Wicked Witch of the West
+Abused (15): Aisha Laborn, Alec, Azula, Dabi, Gamora, Himiko Toga, Hunter, Lancer, Marianne, Nebula, Pearl, Penny, Susie, Tomura Shigaraki, Zuko
 Magic Entity (15): Amethyst (Steven Universe), Amethyst, Bismuth, Captain Marvel Jr., Captain Marvel, Garnet, Lapis Lazuli, Mary Marvel, Olaf, Pearl, Peridot, Ruby, Sapphire, Scarecrow (Oz), Tin Woodman
 Prince(ss) (15): Azula, Bowser Jr., Dimitri, Glimmer, Leia Organa (Old), Leia Organa, Namaari, Petra (Fire Emblem), Princess Daisy, Princess Peach, Raya, Rosalina, Steven Universe, Thorn Harvestar, Wonder Woman
 Idiot (15): Bill Kerman, Blue Stupid Rat Creature, Brown Stupid Rat Creature, Harry Lyme, Jar Jar Binks, Lancer, Marv Murchins, Monkey D. Luffy, Papyrus, Polyphemus, Portgas D. Ace, Roronoa Zoro, Scarecrow (Oz), Smiley Bone, Vinsmoke Sanji
 Master Apprentice (14): Ahsoka Tano (Anakin Skywalker), Anakin Skywalker (Ahsoka Tano), Count Dooku (Sheev Palpatine), Darth Maul (Sheev Palpatine), Darth Vader (Sheev Palpatine), Kylo Ren (Luke Skywalker), Luke Skywalker (Obi-Wan Kenobi), Obi-Wan Kenobi (Anakin Skywalker), Qui-Gon Jinn (Obi-Wan Kenobi), Rey (Luke Skywalker), Sheev Palpatine (Darth Maul), The Child (Luke Skywalker), Wally West (Barry Allen), Yoda (Qui-Gon Jinn)
+Thief (14): Alec, Brian Laborn, Dyan, Harry Lyme, Lisa Wilbourn, Makkari, Marv Murchins, Nami, Noi, Pan, Rachel Lindt, Taylor Hebert, Uka, Veth Brenatto
+Supervillains (14): Alexander Luthor Jr., All for One, Atsuhiro Sako, Baron Zemo, Dabi, Himiko Toga, Jin Bubaigawara, Kurogiri, Mirage, Spinner, Superboy Prime, Syndrome, Tomura Shigaraki, Venom
 Animal-Person (14): Asgore, Berdly, Blake Belladonna, Fumikage Tokoyami, Jurota Shishida, Nezu, Noelle Holiday, Pony Tsunotori, Ralsei, Ryo Inui, Spinner, Tony Tony Chopper, Toriel, Tsuyu Asui
-Leader (14): Barret Wallace, Batman, Captain America, Cyclops, Garnet, Iron Man, Izuku Midoriya, Kris, Leia Organa (Old), Leia Organa, Martian Manhunter, Rikk, Steven Universe, Superman
+Con Artist (14): Dyan, Eda Clawthorne, Extortionist Hobo, Fuzzy, Garrik Doriana, Grunkle Stan, Lisa Wilbourn, Noi, Pan, Phoney Bone, Spamton, Stanford Pines, Uka, Wizard of Oz
+Brockton Bay Native (13): Aegis, Aisha Laborn, Amy Dallon, Brian Laborn, Browbeat, Clockblocker, Colin Wallis, Gallant, Kid Win, Sophia Hess, Taylor Hebert, Victoria Dallon, Vista
 Force Sensitive (13): Ahsoka Tano, Anakin Skywalker (Young), Anakin Skywalker, Cal Kestis, Leia Organa (Old), Leia Organa, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, The Child, Yoda
 Archer (13): Akkar, Apollo, Ashe, Atreus, Bard the Bowman, Bernadetta, Bow, Claude, Frank Zhang, Green Arrow, Hawkeye, Legolas, Shamir
 Legend (13): Alan Scott, Barry Allen, Batman, Captain America, Garnet, Hal Jordan, Jay Garrick, John Stewart, Pearl, Rita Vrataski, Superman, Wally West, Wonder Woman
-Supervillains (13): Alexander Luthor Jr., All for One, Atsuhiro Sako, Baron Zemo, Dabi, Himiko Toga, Jin Bubaigawara, Kurogiri, Mirage, Spinner, Superboy Prime, Syndrome, Tomura Shigaraki
+Psychopath/Sociopath (13): Alec, Alex DeLarge, Anton Chigurh, Azula, Bill Cipher, Chara, Culverton Smith, Flowey, Frisk (Genocide Route), Himiko Toga, Jack Slash, Medic, Rachel Lindt
 Camp Half-Blood (13): Annabeth Chase, Bianca di Angelo, Clarisse La Rue, Grover Underwood, Jason Grace, Leo Valdez, Luke Castellan, Nico di Angelo, Percy Jackson, Piper McLean, Rachel Elizabeth Dare, Thalia Grace, Tyson
 Swordsman (13): Aragorn, Arya, Boromir, Brook, Catherine, Connie Maheswaran, Felix, Gamora, Geralt of Rivia, Kris, Nebula, Petra (Fire Emblem), Roronoa Zoro
-Abused (13): Azula, Dabi, Gamora, Himiko Toga, Hunter, Lancer, Marianne, Nebula, Pearl, Penny, Susie, Tomura Shigaraki, Zuko
 Pirate (13): Brook, Franky, Jinbe, Monkey D. Luffy, Nami, Nico Robin, Portgas D. Ace, Roronoa Zoro, Star-Lord, Tony Tony Chopper, Usopp, Vinsmoke Sanji, Yondu
-Con Artist (13): Dyan, Eda Clawthorne, Extortionist Hobo, Fuzzy, Garrik Doriana, Grunkle Stan, Noi, Pan, Phoney Bone, Spamton, Stanford Pines, Uka, Wizard of Oz
 Artificial (12): Agent Smith, Atomic Robo, Dr. Samuel Hayden, Drax the Destroyer, Frankenstein Monster, Scarecrow (Oz), the Icon of Sin, Tin Woodman, Ultron, VEGA, Vision, Viv Vision
+Most Powerful (12): Agent Smith, Albus Dumbledore, Amos Kane, Byleth, Gandalf, Kal-L, Neo, Scion, Sheev Palpatine, Snoke, Steven Universe, Superman
 Reality Warper (12): Agent Smith, Alan Wake, Apoc, Bill Cipher, Dozer, Morpheus, Mouse (Matrix), Neo, Switch, Tank, the Icon of Sin, Trinity
+Supervillain (12): Aisha Laborn, Alec, Amy Dallon, Brian Laborn, Coil, Echidna, Francis Krouse, Jack Slash, Lisa Wilbourn, Lung, Rachel Lindt, Taylor Hebert
 Hacker (12): Alan Bradley, Alyx, Apoc, Barbara Gordon, Dozer, Morpheus, Mouse (Matrix), Neo, Sombra, Switch, Tank, Trinity
 Shapeshifter (12): Alex Fierro, Amethyst (Steven Universe), Beast Boy, Bismuth, Camilo Madrigal, Frank Zhang, Garnet, Loki, Martian Manhunter, Maui, Mezo Shoji, Miss Martian
 UA Staff (12): Anan Kurose, Chiyo Shuzenji, Ectoplasm, Higari Maijima, Hizashi Yamada, Ken Ishiyama, Nemuri Kayama, Nezu, Ryo Inui, Sekijiro Kan, Shota Aizawa, Snipe
 Mercenary (12): Cara Dune, Deadpool, Demoman, Engineer, Heavy, Leonie, Medic, Pyro, Scout, Sniper, Soldier, Spy
 Traitor (12): Count Dooku, Dennis Nedry, Finn, Hunter, Ikaris, Luke Castellan, Mirage, Namaari, Ruby Rider, Sheev Palpatine, Sprite, Yuga Aoyama
 Time Displaced (11): Aang, Bianca di Angelo, Billy Pilgrim, Bucky Barnes, Captain America, Dana Franklin, Fedora Turthin, Hazel Levesque, Nico di Angelo, Thalia Grace, Young Cyclops
-Most Powerful (11): Agent Smith, Albus Dumbledore, Amos Kane, Byleth, Gandalf, Kal-L, Neo, Sheev Palpatine, Snoke, Steven Universe, Superman
+Superhero (11): Aegis, Amy Dallon, Browbeat, Clockblocker, Colin Wallis, Gallant, Kid Win, Sophia Hess, Taylor Hebert, Victoria Dallon, Vista
 Reformed (11): Agent Venom, Gamora, Hawkeye, Hunter, Lancer, Nebula, Peridot, Quicksilver, Scarlet Witch, Venom, Zuko
 Martial Artist (11): Akuma, Carmen Cortez, Chun-Li, Jinbe, Juni Cortez, Ken, Mashirao Ojiro, Rumy, Ryu, Shota Aizawa, Ty Lee
 Cosmic (11): Alexander Luthor Jr., Anti-Monitor, Carol Danvers, Harbringer, Kal-L, Loki, Monica Rambeau, Rosalina, Supergirl, Superman, Thor
@@ -94,33 +101,40 @@ Assassin (11): Anton Chigurh, Aphelios, Araithia Shokta, Black Widow, Bucky Barn
 Queen (11): Arwen, Arya, Calypso (The Odyssey), Circe, Glimmer, Gran'ma Ben, Hippolyta, Padme Amidala, Queen, Thorn Harvestar, Toriel
 Evil Ruler (11): Asgore, Baron Vladimir Harkonnen, Bowser, Circe, Emperor Belos, Khan Makyr, King, Kingdok, Ozai, Queen, Sheev Palpatine
 Twins (11): Aurora (Northstar), Bianca di Angelo (Nico di Angelo), Dipper Pines (Mabel Pines), Grunkle Stan (Stanford Pines), Irey West (Jai West), Jai West (Irey West), Leia Organa (Luke Skywalker), Mabel Pines (Dipper Pines), Nico di Angelo (Bianca di Angelo), Northstar (Aurora), Stanford Pines (Grunkle Stan)
+Insane (11): Bill Cipher, Culverton Smith, Demoman, Echidna, Extortionist Hobo, Himiko Toga, Jack Slash, Jin Bubaigawara, Michael Myers, Pyro, Soldier
 Straw Hat Pirates (11): Brook, Franky, Jinbe, Monkey D. Luffy, Nami, Nico Robin, Portgas D. Ace, Roronoa Zoro, Tony Tony Chopper, Usopp, Vinsmoke Sanji
 Lesbian (10): Adora, Alphys, Amity Blight, Beauregard Lionett, Catra, Garnet, Ruby, Sapphire, Undyne, Yasha Nydoorin
+Protectorate (10): Aegis, Browbeat, Clockblocker, Colin Wallis, Gallant, Kid Win, Sophia Hess, Taylor Hebert, Victoria Dallon, Vista
 Eternal (10): Ajak, Druig, Gilgamesh, Ikaris, Kingo, Makkari, Phastos, Sersi, Sprite, Thena
-Psychopath/Sociopath (10): Alex DeLarge, Anton Chigurh, Azula, Bill Cipher, Chara, Culverton Smith, Flowey, Frisk (Genocide Route), Himiko Toga, Medic
 Astronaut (10): Alex Vogel, Beth Johanssen, Bill Kerman, Bob Kerman, Dr. Chris Beck, Jebediah Kerman, Mark Watney, Melissa Lewis, Rick Martinez, Valentina Kerman
 Musclehead (10): Alex, Alice Daerdahk, Caspar, Catherine, Clarisse La Rue, Ken, Korra, Raphael, Ruby, Tyson
+Manipulator (10): Amanda Waller, Anna Croft, Baron Zemo, Batman, Circe, Coil, Druig, Jack Slash, Nezu, Odysseus
 Crystal Gem (10): Amethyst (Steven Universe), Bismuth, Connie Maheswaran, Garnet, Lapis Lazuli, Pearl, Peridot, Ruby, Sapphire, Steven Universe
 Guardian (10): Amethyst (Steven Universe), Blaze the Cat, Garnet, Pearl, Raya, Rosalina, Sans, Smaug, Steven Universe, Te Ka
 Resistance (Star Wars) (10): Amilyn Holdo, C3PO, Chewbacca, Finn, Leia Organa (Old), Leia Organa, Poe Dameron, R2-D2, Rey, Rose Tico
 Childhood Friends (10): Annette (Mercedes), Dimitri (Sylvain), Felix (Sylvain), Ingrid (Sylvain), Izuku Midoriya (Katsuki Bakugo), Katsuki Bakugo (Izuku Midoriya), Kris (Noelle Holiday), Mercedes (Annette), Noelle Holiday (Kris), Sylvain (Ingrid)
 Relic Wielder (10): Annette, Byleth, Catherine, Claude, Dimitri, Edelgard, Felix, Ingrid, Mercedes, Sylvain
 King (10): Aquaman, Aragorn, Asgore, Black Panther, Bowser, Dimitri, King Clawthorne, King, Kingdok, Odysseus
+Mastermind (10): Baron Vladimir Harkonnen, Batman, Coil, Damian Wayne, Harry Lyme, Maxwell, Solon, Thales, Tim Drake, Yekkon Shmekkon
 New Yorker (10): Barry Wheeler, Bucky Barnes, Captain America, Miles Morales, Mr. Fantastic, Ms. Marvel, Spider-Man, The Human Torch, The Invisible Woman, The Thing
 Teen Titans (10): Bart Allen, Beast Boy, Cyborg, Damian Wayne, Dick Grayson, Jason Todd, Miss Martian, Tim Drake, Wally West II, Wally West
 Yin & Yang (10): Captain America (Iron Man), Caspar (Linhardt), Catherine (Shamir), Iroh (Zuko), Iron Man (Captain America), Linhardt (Caspar), Sam (Stardew Valley) (Sebastian), Sebastian (Sam), Shamir (Catherine), Zuko (Iroh)
 Valve (10): Chell, Demoman, Engineer, Heavy, Medic, Pyro, Scout, Sniper, Soldier, Spy
 Accidental Adventurer (10): Devahi, Dipper Pines, Fone Bone, Fuzzy, Mabel Pines, Merry Brandybuck, Peregrin Took, Phoney Bone, Sam (Sam and Fuzzy), Smiley Bone
+Water Powers (9): Aang, Aquaman, Katara, Korra, Lapis Lazuli, Leviathan, Moana, Percy Jackson, Sisu
 Detective (9): Adrian Monk, Amy Ferrier, Batman, Dipper Pines, Inspector Lestrade, Martian Manhunter, Mycroft Holmes, Sherlock Holmes, Stanford Pines
+Wards (9): Aegis, Amy Dallon, Browbeat, Clockblocker, Gallant, Kid Win, Sophia Hess, Victoria Dallon, Vista
 Jedi Knight (9): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Luke Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Rey, Yoda
+Warlord (9): Aisha Laborn, Alec, Brian Laborn, Coil, General Grievous, Lisa Wilbourn, Lung, Rachel Lindt, Taylor Hebert
 Norse (9): Alex Fierro, Atreus, Blitzen, Halfborn Gunderson, Kratos, Magnus Chase, Mallory Keen, Samirah al-Abbas, Thomas Jefferson Jr.
+Interdimensional (9): America Chavez, Blaze the Cat, Blink, Echidna, Francis Krouse, Jori-En Blurred, Pariah, Scion, Squee
+Prankster (9): Amethyst (Steven Universe), Beast Boy, Bowser Jr., Camilo Madrigal, Clockblocker, Gus Porter, Lancer, Loki, Sprite
 Fellowship of the Ring (9): Aragorn, Boromir, Frodo Baggins, Gandalf, Gimli, Legolas, Merry Brandybuck, Peregrin Took, Samwise Gamgee
 Unbroken Gang (9): Arrolys Larskano, Fedora Turthin, Garrik Doriana, IKCFAMWSIIF, Lorana Ritten, Reithen Keiros, Terrence the Baby Tarrasque, Yekkon Shmalakis, Zulen Kal-Thim
 Robot (9): Atomic Robo, Bastion, BB-8, C3PO, IG-11, IKCFAMWSIIF, Mettaton, R2-D2, Ultron
 Animorphic (9): Banjo, Cowardly Lion, Dyan, Isabelle, Kazooie, Pan, Rocket Raccoon, Uka, Yekkon Shmekkon
-Mastermind (9): Baron Vladimir Harkonnen, Batman, Damian Wayne, Harry Lyme, Maxwell, Solon, Thales, Tim Drake, Yekkon Shmekkon
+Monster (9): Berdly, Echidna, King, Lancer, Noelle Holiday, Queen, Ralsei, Susie, Terrence the Baby Tarrasque
 Black Eagles (Fire Emblem) (9): Bernadetta, Byleth, Caspar, Dorothea, Edelgard, Ferdinand, Hubert, Linhardt, Petra (Fire Emblem)
-Insane (9): Bill Cipher, Culverton Smith, Demoman, Extortionist Hobo, Himiko Toga, Jin Bubaigawara, Michael Myers, Pyro, Soldier
 Psychic (9): Blaze the Cat, Druig, Lady Jessica, Mantis, Martian Manhunter, Miss Martian, Paul Atreides, Psylocke, Steven Universe
 Chef (9): Boun, Brock, Gilgamesh, Julieta Madrigal, Mercedes, Papyrus, Rikido Sato, Samwise Gamgee, Vinsmoke Sanji
 Golden Deer (Fire Emblem) (9): Byleth, Claude, Hilda, Ignatz, Leonie, Lorenz, Lysithea, Marianne, Raphael
@@ -129,11 +143,12 @@ Rebel Alliance (9): C3PO, Cara Dune, Chewbacca, Han Solo, Lando Calrissian, Leia
 Rebellion (Star Wars) (9): C3PO, Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Leia Organa (Old), Leia Organa, Luke Skywalker, R2-D2
 Religious (9): Caduceus Clay, Fjord, Ibara Shiozaki, Jester Lavorre, Lady Jessica, Mercedes, Nightcrawler, Rhea, Yasha Nydoorin
 Captain (9): Captain Ahab, Captain America, Captain Britain, Captain John H. Miller, Captain Kirk, Captain Nemo, Monkey D. Luffy, Morpheus, Portgas D. Ace
+Insect-Themed (9): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Miles Morales, Nadia Van Dyne, Scott Lang, Spider-Man, Taylor Hebert
 Team Fortress 2 (9): Demoman, Engineer, Heavy, Medic, Pyro, Scout, Sniper, Soldier, Spy
-Thief (9): Dyan, Harry Lyme, Makkari, Marv Murchins, Nami, Noi, Pan, Uka, Veth Brenatto
 Ice Powers (8): Aang, Elsa, Frozone, Katara, Korra, Sapphire, Shoto Todoroki, Weiss Schnee
-Water Powers (8): Aang, Aquaman, Katara, Korra, Lapis Lazuli, Moana, Percy Jackson, Sisu
+Young (8): Aang, Connie Maheswaran, Lysithea, Miles Morales, Ms. Marvel, Sam Alexander, Steven Universe, Vista
 Paragon (8): Adora, All-Might, Captain America, Cyclops, Hal Jordan, Ikaris, Superman, Wonder Woman
+Last of Kind (8): Aerith Gainsborough, King Clawthorne, Martian Manhunter, Nico Robin, Scion, Sisu, Superman, Tong
 Band of Fools (8): Akkar, Arthail Consumer of Food, Byllemura Ruby-Eye, Glynnric Manassnass, Kalathos Sunstrider, Kareem Par-Al, Nahara, Ruby Rider
 NASA (8): Alex Vogel, Annie Montrose, Beth Johanssen, Bruce Ng, Dr. Chris Beck, Mark Watney, Melissa Lewis, Rick Martinez
 Multiversal Origin (8): Alexander Luthor Jr., America Chavez, Blaze the Cat, Blink, Kal-L, Miles Morales, Pariah, Superboy Prime
@@ -143,29 +158,25 @@ League of Villains (8): All for One, Atsuhiro Sako, Dabi, Himiko Toga, Jin Bubai
 Geek/Nerd (8): Alphys, Amazi-Girl, Baljeet Tjinder, Berdly, Izuku Midoriya, Peridot, Rikk, Rumy
 Shy (8): Alphys, Bernadetta, Ignatz, Koji Koda, Lapis Lazuli, Marianne, Noelle Holiday, Ralsei
 Antihero (8): Amanda Waller, Damian Wayne, Jason Todd, Loki, Magneto, Nebula, Venom, Wolverine
-Manipulator (8): Amanda Waller, Anna Croft, Baron Zemo, Batman, Circe, Druig, Nezu, Odysseus
 Gem (8): Amethyst (Steven Universe), Bismuth, Garnet, Lapis Lazuli, Pearl, Peridot, Ruby, Sapphire
-Prankster (8): Amethyst (Steven Universe), Beast Boy, Bowser Jr., Camilo Madrigal, Gus Porter, Lancer, Loki, Sprite
 Short (8): Amethyst (Steven Universe), Annette, Bernadetta, Edelgard, Minoru Mineta, Nirengeki Shoda, Peridot, Sans
+Rich (8): Amity Blight, Arthur Holmwood, Batman, Culverton Smith, Gallant, Iron Man, Momo Yaoyorozu, Mr. Fantastic
 Military Officer (8): Anakin Skywalker, Count Dooku, General Grievous, Grand Moff Tarkin, Melissa Lewis, Moff Gideon, Obi-Wan Kenobi, Rita Vrataski
 Blue Lions (Fire Emblem) (8): Annette, Ashe, Byleth, Dimitri, Felix, Ingrid, Mercedes, Sylvain
 God(dess) (8): Apollo, Athena, Calypso (The Odyssey), Calypso, Kratos, Loki, Sothis, Thor
 Ocean (8): Aquaman, Captain Nemo, Katara, Korra, Lapis Lazuli, Moana, Percy Jackson, Sokka
 Size-Changing (8): Atsuhiro Sako, Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Nadia Van Dyne, Scott Lang, Yui Kodai
 Sidekick (8): Bart Allen, Bucky Barnes, Damian Wayne, Dick Grayson, Jason Todd, John Watson, Tim Drake, Wally West
-Monster (8): Berdly, King, Lancer, Noelle Holiday, Queen, Ralsei, Susie, Terrence the Baby Tarrasque
 Trickster (8): Bill Cipher, Circe, Claude, Jester Lavorre, Lancer, Loki, Odysseus, Sprite
 Possessed (8): Briar Harvestar, Byleth, Frisk (Genocide Route), Izuku Midoriya, Kris, Luke Castellan, Quirinus Quirrell, Reithen Keiros
 Devil Fruit (8): Brook, Franky, Jinbe, Monkey D. Luffy, Nico Robin, Portgas D. Ace, Sabo, Tony Tony Chopper
-Insect-Themed (8): Cassie Lang, Hank Pym, Hope van Dyne, Janet van Dyne, Miles Morales, Nadia Van Dyne, Scott Lang, Spider-Man
 Metal (8): Colossus, Iron Man, Ironheart, Tetsutetsu Tetsutetsu, Tin Woodman, Vision, Viv Vision, War Machine
+Determination (8): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Hal Jordan, Izuku Midoriya, John Stewart, Taylor Hebert
 Silent (8): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Koji Koda, Kris, Makkari, Red (Pokemon)
 Bender (7): Aang, Azula, Iroh, Korra, Ozai, Toph Beifong, Zuko
 Earth Powers (7): Aang, Bolin, Hazel Levesque, Higari Maijima, Ken Ishiyama, Korra, Toph Beifong
-Young (7): Aang, Connie Maheswaran, Lysithea, Miles Morales, Ms. Marvel, Sam Alexander, Steven Universe
 Guardians of the Galaxy (7): Adam Warlock, Agent Venom, Drax the Destroyer, Gamora, Groot, Rocket Raccoon, Star-Lord
 Slightly Insane (7): Adrian Monk, Bruno Madrigal, Captain Ahab, Mei Hatsume, Nezu, Syndrome, Thena
-Last of Kind (7): Aerith Gainsborough, King Clawthorne, Martian Manhunter, Nico Robin, Sisu, Superman, Tong
 Future Sight (7): Agatha, Anna Croft, Bruno Madrigal, Paul Atreides, Psylocke, Rachel Elizabeth Dare, Sapphire
 Street Fighter (7): Akuma, Chun-Li, Guile, Ken, M. Bison, Ryu, Seth
 Bat-Family (7): Alfred Pennyworth, Barbara Gordon, Batman, Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
@@ -175,7 +186,6 @@ Knights of Seiros (Fire Emblem) (7): Alois, Byleth, Catherine, Flayn, Rhea, Sete
 Introvert (7): Alphys, Amazi-Girl, Amy Cahill, Bernadetta, Lapis Lazuli, Linhardt, Marianne
 Mischevious (7): Amethyst (Steven Universe), Dash Parr, Gus Porter, Jester Lavorre, Merry Brandybuck, Mina Ashido, Peregrin Took
 Really Old (7): Amethyst (Steven Universe), Bismuth, Fedora Turthin, Garnet, Lapis Lazuli, Pearl, Peridot
-Rich (7): Amity Blight, Arthur Holmwood, Batman, Culverton Smith, Iron Man, Momo Yaoyorozu, Mr. Fantastic
 Galactic Republic (Star Wars) (7): Anakin Skywalker, C3PO, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, R2-D2, Yoda
 Strong Will (7): Ann Takamaki, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Izuku Midoriya, Undyne
 Emo (7): Aphelios, Felix, Hubert, Nico di Angelo, Sebastian, Zuko, Zulen Kal-Thim
@@ -184,6 +194,7 @@ Berserker (7): Arthail Consumer of Food, Drax the Destroyer, Eijiro Kirishima, G
 Big (7): Asgore, Bismuth, Garnet, Hulk, Kingdok, Polyphemus, Raphael
 Naive (7): Ash Ketchum, Olaf, Papyrus, Scout Finch, Smiley Bone, Soos Ramirez, Steven Universe
 Adopted (7): Ashe, King Clawthorne, Kris, Nadia Van Dyne, Terrence the Baby Tarrasque, The Child, The Mandalorian
+Animal-Themed (7): Batman, Blake Belladonna, Hawkgirl, Rachel Lindt, Ryo Inui, Setsuna Tokage, Tsuyu Asui
 Tragic Backstory (7): Batman, Chun-Li, Guile, Scorpion, Shoto Todoroki, Wolverine, Zuko
 Fantastic Four (7): Bentley-23, Black Panther, Mr. Fantastic, Spider-Man, The Human Torch, The Invisible Woman, The Thing
 Quiet (7): Bernadetta, Garnet, Koji Koda, Linhardt, Mercedes, Michael Myers, Shamir
@@ -195,7 +206,6 @@ Soul Powers (7): Chara, Flowey, Frisk (Genocide Route), Frisk (Neutral Route), F
 IRL (7): Colin Frazer, Ethan Chou, Harrison Truscott, Jono Jenkins, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Aunt Uncle (7): Dipper Pines (Grunkle Stan), Grunkle Stan (Mabel Pines), Iris West (Wally West), Mabel Pines (Grunkle Stan), Stanford Pines (Mabel Pines), Wally West II (Iris West), Wally West (Iris West)
 Emperor(ess) (7): Edelgard, Emperor Belos, Ozai, Sam (Sam and Fuzzy), Sheev Palpatine, Snoke, Zuko
-Determination (7): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Hal Jordan, Izuku Midoriya, John Stewart
 Time Loop (7): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Omega (Edge of Tomorrow), Rita Vrataski, William Cage
 Stoic (7): Garnet, Geralt of Rivia, Guile, Mai, Mezo Shoji, Ryu, Shoto Todoroki
 General (7): General Grievous, Han Solo, Lando Calrissian, Leia Organa, Luke Skywalker, Ronan the Accuser, Tyson
@@ -203,6 +213,7 @@ Next Generation (7): Irey West, Ironheart, Jai West, Miles Morales, Ms. Marvel, 
 Weather Powers (7): Jason Grace, Nami, Pepa Madrigal, Storm, Thalia Grace, Thor, Yasha Nydoorin
 Fire Bender (6): Aang, Azula, Iroh, Korra, Ozai, Zuko
 Stardew Valley Bachelorettes (6): Abigail, Emily, Haley, Leah, Maru, Penny
+Undersiders (6): Aisha Laborn, Alec, Brian Laborn, Lisa Wilbourn, Rachel Lindt, Taylor Hebert
 Maternal (6): Ajak, Garnet, Julieta Madrigal, Mercedes, Pearl, Toriel
 Honorable (6): Akuma, Ferdinand, Ingrid, Jinbe, Lorenz, Tenya Ida
 Golden Age (6): Alan Scott, Bucky Barnes, Captain America, Hippolyta, Jay Garrick, Kal-L
@@ -211,14 +222,14 @@ Stardew Valley Bachelors (6): Alex, Elliot, Harvey, Sam (Stardew Valley), Sebast
 Dream Powers (6): Alice Johnson, Briar Harvestar, Gran'ma Ben, Paul Atreides, Steven Universe, Thorn Harvestar
 Medical Doctor (6): Allison Blake, Dr. Bunsen Honeydew, Harvey, John Seward, John Watson, Medic
 Champions (Team) (6): Amadeus Cho, Miles Morales, Ms. Marvel, Sam Alexander, Viv Vision, Young Cyclops
-Interdimensional (6): America Chavez, Blaze the Cat, Blink, Jori-En Blurred, Pariah, Squee
+Government (6): Amanda Waller, Annie Montrose, Bruce Ng, Coil, Garrik Doriana, Mycroft Holmes
 Traumatized (6): Amity Blight, Dimitri, Elsa, Lapis Lazuli, Steven Universe, Zuko
 Platformer (6): Amy Rose, Banjo, Kazooie, Luigi, Mario, Sonic the Hedgehog
 Musician (6): Animal, Brook, Grover Underwood, Kyoka Jiro, Smiley Bone, Steven Universe
 Band of Fools Redux (6): Arthail Consumer of Food, Byllemura Ruby-Eye, Eldon Spark Turen, Jori-En Blurred, Kalathos Sunstrider, Squee
 Barbarian (6): Arthail Consumer of Food, Drax the Destroyer, Halfborn Gunderson, IKCFAMWSIIF, Tong, Yasha Nydoorin
-Animal-Themed (6): Batman, Blake Belladonna, Hawkgirl, Ryo Inui, Setsuna Tokage, Tsuyu Asui
 Demon (6): Bill Cipher, Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr, Te Ka
+Teleportation (6): Blink, Chell, Francis Krouse, Glimmer, Kurogiri, Nightcrawler
 Bounty Hunter (6): Boba Fett, Greef Karga, IG-11, Jango Fett, Roronoa Zoro, The Mandalorian
 Sailor (6): Boun, Captain Ahab, Fjord, Maui, Moana, Odysseus
 Corrupted (6): Briar Harvestar, Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr, Te Ka
@@ -228,13 +239,16 @@ Sharing Body (6): Byleth, Frisk (Genocide Route), Frisk, Kris, Ultron, Walt Ston
 Legendary Hero (6): Captain America, Kal-L, Maui, Pearl, Rita Vrataski, Superman
 Rival (6): Captain America (Iron Man), Iron Man (Captain America), Izuku Midoriya (Katsuki Bakugo), Katsuki Bakugo (Izuku Midoriya), Roronoa Zoro (Vinsmoke Sanji), Vinsmoke Sanji (Roronoa Zoro)
 Buff (6): Caspar, Garnet, Luisa Madrigal, Mr. Incredible, Raphael, Undyne
+Red Hair (6): Clockblocker, Eijiro Kirishima, Itsuka Kendo, Nami, Samwise Gamgee, Wendy Corduroy
 Contributor (6): Colin Frazer, Ethan Chou, Harrison Truscott, Sebastian Polge, Vikram Kommareddi, Zach Wiebe
 Sith Lord (6): Count Dooku, Darth Maul, Darth Vader, Kylo Ren, Sheev Palpatine, Snoke
 Lances (6): Dimitri, Ferdinand, Ingrid, Lorenz, Pearl, Sylvain
 Doctor (6): Dozer, Dr. Chris Beck, Dr. Loomis, Dr. Samuel Hayden, Harvey, Tony Tony Chopper
 Sole Human (6): Emperor Belos, Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Luz Noceda
+Dragon (6): Flayn, Lung, Rhea, Seteth, Sisu, Smaug
 Holy Powers (6): Flayn, Linhardt, Mercedes, Reithen Keiros, Rhea, Seteth
 Child Soldier (6): Frisk (Genocide Route), Frisk (Neutral Route), Frisk (Pacifist Route), Frisk, Steven Universe, Terrence the Baby Tarrasque
+Knives (6): Himiko Toga, Jack Slash, Mai, Mallory Keen, Spinner, Yekkon Shmekkon
 Pacifist (5): Aang, Drax the Destroyer, Frisk (Pacifist Route), Iroh, Mantis
 Muppet (5): Abby Cadabby, Animal, Bert, Big Bird, Ernie
 Schemer (5): Adam Warlock, Batman, Claude, Damian Wayne, Loki
@@ -243,16 +257,19 @@ Police (5): Adrian Monk, Barry Allen, Chun-Li, Inspector Lestrade, Jim Gordon
 Fridged (5): Ajak, Bianca di Angelo, Duke Leto Atreides, Duncan Idaho, John Proudstar
 Justice Society of America (5): Alan Scott, Hippolyta, Jay Garrick, Jesse Quick, Kal-L
 WWII (5): Alan Scott, Billy Pilgrim, Captain America, Hippolyta, Jay Garrick
+Canadian (5): Alec, Aurora, Frank Zhang, Northstar, Wolverine
+Lazy (5): Alec, Hilda, Linhardt, Sans, Wendy Corduroy
 Artist (5): Alex Fierro, Bernadetta, Ignatz, Leah, Rumy
 Einharjar (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
 Floor 19 (5): Alex Fierro, Halfborn Gunderson, Magnus Chase, Mallory Keen, Thomas Jefferson Jr.
+Creepy (5): All for One, Baron Vladimir Harkonnen, Reiko Yanagi, Taylor Hebert, Tomura Shigaraki
 Provocative (5): Ally, Bayonetta, Circe, Mirage, Nemuri Kayama
 Axe (5): Alois, Caspar, Edelgard, Hilda, Kratos
+Jokester (5): Alois, Camilo Madrigal, Clockblocker, Felix Madrigal, Sans
 Knight (5): Alois, Ashe, Catherine, Ingrid, Pearl
 Loud (5): Alois, Caspar, Catherine, Ferdinand, Hizashi Yamada
 Inventor Inventee (5): Alphys (Mettaton EX), Anakin Skywalker (Young) (C3PO), Anakin Skywalker (C3PO), C3PO (Anakin Skywalker), Mettaton (Alphys)
 Royal Guardsman (5): Alphys, Papyrus, Pearl, Sans, Undyne
-Government (5): Amanda Waller, Annie Montrose, Bruce Ng, Garrik Doriana, Mycroft Holmes
 Ultimates (Team) (5): America Chavez, Black Panther, Blue Marvel, Carol Danvers, Monica Rambeau
 Egyptian Gods (5): Amos Kane, Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Jedi Order (5): Anakin Skywalker, Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Yoda
@@ -264,9 +281,9 @@ Droids (5): BB-8, C3PO, R2-D2, Vision, Viv Vision
 Hobbit/Halfling (5): Bilbo Baggins, Frodo Baggins, Merry Brandybuck, Peregrin Took, Samwise Gamgee
 Time Traveler (5): Billy Pilgrim, Booster Gold, Dana Franklin, Iron Lad, Young Cyclops
 Lightning (5): Black Lightning, Denki Kaminari, Jason Grace, Thalia Grace, Thor
-Teleportation (5): Blink, Chell, Glimmer, Kurogiri, Nightcrawler
 Suave (5): Boun, Han Solo, Lando Calrissian, Star-Lord, Sylvain
 Cyborg (5): Breach, Cyborg, Franky, Nebula, Yondu
+Bully (5): Buford Van Stomm, Katsuki Bakugo, King, Sophia Hess, Susie
 Ruthless (5): Captain Nemo, Frisk (Genocide Route), James Moriarty, Roronoa Zoro, Sans
 Possession (5): Chara, Lord Voldemort, Sothis, Venom, Zulen Kal-Thim
 Smuggler (5): Chewbacca, Han Solo (Old), Han Solo, Lando Calrissian, Yondu
@@ -275,16 +292,13 @@ Scarred (5): Dabi, Sheev Palpatine, Shoto Todoroki, Snoke, Zuko
 Demonic (5): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr, Nightcrawler
 Ninja (5): Devahi, Fuzzy, Psylocke, Sam (Sam and Fuzzy), Scorpion
 Quasi-Divine (5): Doomslayer, Dr. Samuel Hayden, Flayn, Rhea, Seteth
-Red Hair (5): Eijiro Kirishima, Itsuka Kendo, Nami, Samwise Gamgee, Wendy Corduroy
 Polymorph (5): Elastigirl, Itsuka Kendo, Mezo Shoji, Mr. Fantastic, Ms. Marvel
 Guardsman (5): Fedora Turthin, Hunter, Papyrus, Sans, Undyne
-Dragon (5): Flayn, Rhea, Seteth, Sisu, Smaug
 Camp Jupiter (5): Frank Zhang, Hazel Levesque, Jason Grace, Nico di Angelo, Percy Jackson
 Kind (5): Frisk (Pacifist Route), Frisk, Julieta Madrigal, Princess Peach, Steven Universe
 Plant Life Manipulation (5): Groot, Ibara Shiozaki, Isabela Madrigal, Kinoko Komori, Usopp
 Gentle Giant (5): Hagrid, Luisa Madrigal, Mr. Incredible, Raphael, Tong
 Avengers Founders (5): Hank Pym, Hulk, Iron Man, Janet van Dyne, Thor
-Knives (5): Himiko Toga, Mai, Mallory Keen, Spinner, Yekkon Shmekkon
 Blue (5): Jester Lavorre, Lapis Lazuli, Long Jim, Nebula, Sapphire
 Matter Manipulation (5): Juzo Honenuki, Kojiro Bondo, Momo Yaoyorozu, Sersi, Yosetsu Awase
 Darkner (5): King, Lancer, Queen, Ralsei, Spamton
@@ -298,14 +312,14 @@ Phrase of Power (4): Adora, Captain Marvel Jr., Captain Marvel, Mary Marvel
 Rebellion (She-Ra) (4): Adora, Bow, Catra, Glimmer
 The Princess Alliance (4): Adora, Bow, Catra, Glimmer
 Apprentice (4): Ahsoka Tano, Anakin Skywalker, Cal Kestis, Obi-Wan Kenobi
+Japanese (4): Akihide Karatsu, Lung, Rumy, Sunfire
 Elf (4): Akkar, Hearthstone, Kalathos Sunstrider, Legolas
 Programmer (4): Alan Bradley, Barbara Gordon, Neo, Sebastian
 Grumpy (4): Alan Grant, Ian Malcolm, Kuiil, Shane
 Earth-2 (4): Alan Scott, Hippolyta, Jay Garrick, Kal-L
 Wise (4): Albus Dumbledore, Gandalf, Iroh, Kuiil
-Creepy (4): All for One, Baron Vladimir Harkonnen, Reiko Yanagi, Tomura Shigaraki
+Power Stealing (4): All for One, Brian Laborn, Kro, Tomura Shigaraki
 Fisherman (4): Alois, Big the Cat, Byleth, Seteth
-Jokester (4): Alois, Camilo Madrigal, Felix Madrigal, Sans
 Clone (4): Aloy, Bentley-23, Boba Fett, Hunter
 Nature (4): Aloy, Caduceus Clay, Grover Underwood, Yasha Nydoorin
 Tribal (4): Aloy, Chani, Duncan Idaho, Paul Atreides
@@ -338,7 +352,6 @@ Spy (4): Black Widow, Carmen Cortez, Juni Cortez, Spy
 Kanto (4): Blue, Brock, Misty, Red (Pokemon)
 Exiled Royalty (4): Briar Harvestar, Gran'ma Ben, Padme Amidala, Thorn Harvestar
 Unkempt (4): Bruno Madrigal, Caleb Widogast, Dimitri, Shota Aizawa
-Bully (4): Buford Van Stomm, Katsuki Bakugo, King, Susie
 Alcoholic (4): Caleb Widogast, Demoman, Shane, Veth Brenatto
 Hypnotic Beauty (4): Calypso (The Odyssey), Circe, Fleur Delacour, Isabela Madrigal
 Mimicry (4): Camilo Madrigal, Loki, Martian Manhunter, Miss Martian
@@ -346,6 +359,8 @@ Avengers Wave #2 (4): Captain America, Hawkeye, Quicksilver, Scarlet Witch
 Blood of Pharaohs (4): Carter Kane, Sadie Kane, Walt Stone, Zia Rashid
 Genocidal (4): Chara, Flowey, Frisk (Genocide Route), Ultron
 Megalomaniac (4): Chara, King Clawthorne, M. Bison, Seth
+Cauldron Cape (4): Coil, Echidna, Francis Krouse, Gallant
+Laser (4): Cyclops, Ikaris, Scion, Yuga Aoyama
 Robins (4): Damian Wayne, Dick Grayson, Jason Todd, Tim Drake
 Galactic Empire (4): Darth Vader, Grand Moff Tarkin, Moff Gideon, Sheev Palpatine
 Evil Priest (4): Deag Grav, Deag Nilox, Deag Ragnak, Khan Makyr
@@ -362,21 +377,22 @@ Innocent (4): Frisk, Laurie Strode, Papyrus, Steven Universe
 Irregular Quantity of Eyes (4): Garnet, Mezo Shoji, Polyphemus, Undyne
 Dumbledore's Army (4): Ginny Weasley, Harry Potter, Hermione Granger, Ron Weasley
 Metal Manipulation (4): Hazel Levesque, Magneto, Peridot, Toph Beifong
-Lazy (4): Hilda, Linhardt, Sans, Wendy Corduroy
 Armor Suit (4): Iron Lad, Iron Man, Ironheart, War Machine
 Crush (4): Izuku Midoriya (Ochaco Uraraka), Noelle Holiday (Susie), Ochaco Uraraka (Izuku Midoriya), Sprite (Ikaris)
 Diplomat (4): Jar Jar Binks, Leia Organa (Old), Leia Organa, Padme Amidala
 Kryptonian (4): Kal-L, Superboy Prime, Supergirl, Superman
 Right-Hand Man Leader (4): Karun Patel (Kingo), Kingo (Karun Patel), Rhea (Seteth), Seteth (Rhea)
+Anger Issues (4): Katsuki Bakugo, Lung, Sophia Hess, Sunfire
 Flaming (4): Leo Valdez, Ruby, Sunfire, The Human Torch
 Vain (4): Lorenz, Maui, Papyrus, Yuga Aoyama
 Jedi Master (4): Mace Windu, Obi-Wan Kenobi, Qui-Gon Jinn, Yoda
+Spider-Themed (Tangential) (4): Miles Morales, MJ Watson (MCU), Spider-Man, Taylor Hebert
 Frozen in Ice (3): Aang, Bucky Barnes, Captain America
 Reincarnation (3): Aang, Hawkgirl, Steven Universe
 Water Bender (3): Aang, Katara, Korra
 Grandparent (3): Abuela Alma Madrigal (Mirabel Madrigal), Gran'ma Ben (Thorn Harvestar), Iris West (Bart Allen)
 Artificial Intelligence (3): Agent Smith, Dr. Samuel Hayden, VEGA
-Japanese (3): Akihide Karatsu, Rumy, Sunfire
+Healer (3): Ajak, Amy Dallon, Ralsei
 Ranger (3): Akkar, Artyom, Jori-En Blurred
 Green Lantern (3): Alan Scott, Hal Jordan, John Stewart
 Author (3): Alan Wake, Seteth, Stanford Pines
@@ -384,10 +400,10 @@ Creator (3): Alan Wake, Sebastian Polge, Victor Frankenstein
 Horror Protagonist (3): Alan Wake, Alice Johnson, Ashley Brown
 Writer (3): Alan Wake, Dana Franklin, Elliot
 Order of the Pheonix II (3): Albus Dumbledore, Arthur Weasley, Bill Weasley
+Mind Control (3): Alec, Jack Slash, Paul Atreides
 Servant (3): Alfred Pennyworth, Dedue, Hubert
 Veteran (3): Alfred Pennyworth, John Watson, Sniper
 Sturdy (3): Alice Daerdahk, Eijiro Kirishima, Rikido Sato
-Power Stealing (3): All for One, Kro, Tomura Shigaraki
 United States (3): All-Might, Captain America, Guile
 Polyamory (3): Ally, Rikk, Rumy
 Adoptive Father Figure (3): Alois, Obi-Wan Kenobi, Qui-Gon Jinn
@@ -412,7 +428,6 @@ Half-Elf (3): Arwen, Glynnric Manassnass, Kareem Par-Al
 Team Avatar (Korra) (3): Asami Sato, Bolin, Korra
 Champion (3): Ash Ketchum, Blue, Red (Pokemon)
 Engineer (3): Audrey Ramirez, Bill Kerman, Engineer
-Canadian (3): Aurora, Northstar, Wolverine
 Split Personality (3): Aurora, Reithen Keiros, Zulen Kal-Thim
 Dragonslayer (3): Bard the Bowman (Smaug), Byleth (Rhea), Edelgard (Rhea)
 Justice League International (3): Batman, Booster Gold, Ted Kord
@@ -431,6 +446,7 @@ Super-Soldier Serum (3): Black Widow, Bucky Barnes, Captain America
 Gym Leader (3): Blue, Brock, Misty
 Crime Lord (3): Boba Fett, Jabba the Hutt, M. Bison
 Legion of Superheroes (3): Brainiac 5, Supergirl, Superman
+Shadow Manipulation (3): Brian Laborn, Fumikage Tokoyami, Shihai Kuroiro
 Fashionista (3): Brook, Dapper Cyclops, Hilda
 Skeleton (3): Brook, Papyrus, Sans
 Captain America (3): Bucky Barnes, Captain America, Falcon
@@ -448,7 +464,7 @@ Prideful (3): Chun-Li, Dimitri, Ken
 House Leaders (Fire Emblem) (3): Claude, Dimitri, Edelgard
 Supreme Overlords (3): Colin Frazer, Jono Jenkins, Zach Wiebe
 Confederacy of Independent Systems (3): Count Dooku, Darth Maul, General Grievous
-Laser (3): Cyclops, Ikaris, Yuga Aoyama
+Serial Killer (3): Culverton Smith, Jack Slash, Michael Myers
 Fourth-Wall Breaking (3): Deadpool, Flowey, Sans
 Assistant (3): Dedue, Hubert, John Watson
 Cryptid Hunter (3): Dipper Pines, Mabel Pines, Stanford Pines
@@ -479,7 +495,7 @@ Agartharian (3): Kronya, Solon, Thales
 Post-Human (3): Kronya, Solon, Thales
 Secret (3): Kronya, Solon, Thales
 Arrogant (3): Lorenz, Sunfire, Yuga Aoyama
-Spider-Themed (Tangential) (3): Miles Morales, MJ Watson (MCU), Spider-Man
+Bullied (3): Mirabel Madrigal, Taylor Hebert, Willow Park
 Parent of Species (3): Rosalina, Sothis, Steven Universe
 Force Fields (3): Steven Universe, The Invisible Woman, Violet Parr
 Shield Generation (3): Steven Universe, The Invisible Woman, Violet Parr
@@ -489,16 +505,17 @@ Fey (2): Abby Cadabby, Glinda the Good Witch
 Scholar (2): Abraham Van Helsing, Linhardt
 Lab Experiment (2): Adam Warlock, Kurogiri
 OCD (2): Adrian Monk, Pearl
+Super-Adaptibility (2): Aegis, Gallant
 Federal Agent (2): Agent Smith, Allison Blake
 Symbiote (2): Agent Venom, Venom
-Healer (2): Ajak, Ralsei
 Blind (2): Akkar, Toph Beifong
 Dinosaurs (2): Alan Grant, Ellie Sattler
 Imaginative (2): Alan Wake, Austin
+Gamer (2): Alec, Tomura Shigaraki
 Sculptor (2): Alex Fierro, Leah
 German (2): Alex Vogel, Nightcrawler
 Special Forces (2): Alfred Pennyworth, Ronan the Accuser
-All-For-One (2): All-Might, Izuku Midoriya
+One-For-All (2): All-Might, Izuku Midoriya
 Heavily Armored (2): Alois, Fedora Turthin
 Gamma (2): Amadeus Cho, Hulk
 Hulks (2): Amadeus Cho, Hulk
@@ -526,6 +543,7 @@ Super Smash Bros Ultimate DLC (2): Banjo, Kazooie
 Bat-Themed Hero (2): Barbara Gordon, Batman
 Birds of Prey (2): Barbara Gordon, Black Canary
 Town Guard (2): Bard the Bowman, Fedora Turthin
+Insects (2): Barry B. Benson, Taylor Hebert
 Outsiders (2): Batman, Black Lightning
 Astromech (2): BB-8, R2-D2
 Mutation (2): Beast, Togaru Kamakiri
@@ -542,8 +560,10 @@ Dwarf (2): Blitzen, Gimli
 Minion (2): Blue Stupid Rat Creature, Brown Stupid Rat Creature
 Koopa (2): Bowser Jr., Bowser
 Kidnapper (2): Bowser, IKCFAMWSIIF
+Second Trigger (2): Brian Laborn, Taylor Hebert
 Survivalist (2): Brian Robeson, Maxwell
 Mysterious (2): Briar Harvestar, Mr. Qi
+Super-Strength (2): Browbeat, Victoria Dallon
 Calm (2): Caduceus Clay, Yasha Nydoorin
 Death Powers (2): Caduceus Clay, Nico di Angelo
 Top Hats (2): Caesar Anthonio Zeppeli, Sabo
@@ -560,8 +580,9 @@ Secret Agent (2): Carmen Cortez, Juni Cortez
 Spy Kids (2): Carmen Cortez, Juni Cortez
 Kree (2): Carol Danvers, Ronan the Accuser
 Spirit (2): Chara, Zulen Kal-Thim
+Crossbow (2): Chewbacca, Sophia Hess
 Revenge-Driven (2): Chun-Li, Guile
-Serial Killer (2): Culverton Smith, Michael Myers
+Tinker (2): Colin Wallis, Kid Win
 Regeneration (2): Deadpool, Wolverine
 Bodyguard (2): Dedue, Ruby
 Foreign (2): Dedue, Petra (Fire Emblem)
@@ -575,16 +596,19 @@ Eccentric (2): Dr. Bunsen Honeydew, Mei Hatsume
 Pyromaniac (2): Dr. Bunsen Honeydew, Pyro
 Psychiatrist (2): Dr. Loomis, John Seward
 Vampire (2): Dracula, Sekijiro Kan
+Earth-Aleph (2): Echidna, Francis Krouse
 Duplication (2): Ectoplasm, Jin Bubaigawara
 Manly (2): Eijiro Kirishima, Tetsutetsu Tetsutetsu
 Elemental (2): Elsa, Ruby Rider
 Door Monster (2): Extortionist Hobo, LeBron
 YouTube (2): Extortionist Hobo, LeBron
 Paladin (2): Fjord, Nahara
+Bird Caged (2): Francis Krouse, Lung
 Reanimated Corpse (2): Frankenstein Monster, Kurogiri
-Shadow Manipulation (2): Fumikage Tokoyami, Shihai Kuroiro
 Roadie (2): Fuzzy, Sam (Sam and Fuzzy)
 Taxi Driver (2): Fuzzy, Sam (Sam and Fuzzy)
+Emotion-Powers (2): Gallant, Victoria Dallon
+Empath (2): Gallant, Mantis
 Gauntlets (2): Garnet, Raphael
 Adventurer (2): Geralt of Rivia, Odysseus
 Warrior (2): Gimli, Legolas
@@ -608,7 +632,8 @@ Fiance (2): Jonathan Harker (Mina Harker), Mina Harker (Jonathan Harker)
 Bureaucrat (2): Jori-En Blurred, Squee
 Actor (2): Karun Patel, Kingo
 Bollywood (2): Karun Patel, Kingo
-Anger Issues (2): Katsuki Bakugo, Sunfire
+Animals (2): Koji Koda, Rachel Lindt
+Racist (2): Kronya, Lung
 Former Slave (2): Kuiil, Pearl
 Mechanic (2): Kuiil, Rose Tico
 Incomptent (2): Lancer, Queen
@@ -626,7 +651,6 @@ Martian (2): Martian Manhunter, Miss Martian
 Mad Genius (2): Mei Hatsume, Victor Frankenstein
 Spider-Person (2): Miles Morales, Spider-Man
 Skirt-Chaser (2): Minoru Mineta, Sylvain
-Bullied (2): Mirabel Madrigal, Willow Park
 Supernovas (One Piece) (2): Monkey D. Luffy, Roronoa Zoro
 Muslim (2): Ms. Marvel, Samirah al-Abbas
 Fighter-Princess (2): Namaari, Petra (Fire Emblem)
@@ -637,6 +661,7 @@ Fire Lord (2): Ozai, Zuko
 Damsel in Distress (2): Princess Daisy, Princess Peach
 Mech Suit (2): Rita Vrataski, William Cage
 First Mate (2): Roronoa Zoro, Trinity
+Former Criminal (2): Scott Lang, Taylor Hebert
 Fire Being (2): Smaug, Te Ka
 Sniper (2): Snipe, Usopp
 Goblin (2): Squee, Veth Brenatto
@@ -648,9 +673,11 @@ Occult Interested (1): Abigail
 Elderly (1): Abuela Alma Madrigal
 Matriarch (1): Abuela Alma Madrigal
 Infinity Watch (1): Adam Warlock
+Latino (1): Aegis
 VR (Augumented Reality) (1): Akihide Karatsu
 Paleontologist (1): Alan Grant
 Order of the Pheonix I (1): Albus Dumbledore
+Body Control (1): Alec
 Genderfluid (1): Alex Fierro
 Football (1): Alex
 Jock (1): Alex
@@ -666,6 +693,8 @@ Crystal Powers (1): Amethyst
 Vice-Admiral (1): Amilyn Holdo
 Eye of Set (1): Amos Kane
 Uncle (1): Amos Kane
+Biological Manipulation (1): Amy Dallon
+Mental Break (1): Amy Dallon
 Slave (1): Anakin Skywalker (Young)
 Black Holes (1): Anan Kurose
 Space Themed (1): Anan Kurose
@@ -688,7 +717,6 @@ Peasant (1): Bard the Bowman
 Baron (1): Baron Vladimir Harkonnen
 Hydra (1): Baron Zemo
 Gun-Arm (1): Barret Wallace
-Insects (1): Barry B. Benson
 Allergies (1): Barry Wheeler
 Literary Agent (1): Barry Wheeler
 Future Child (1): Bart Allen
@@ -708,6 +736,7 @@ Forgotten Hero (1): Blue Marvel
 Amnesiac (1): Bobby
 Bomb (1): Bobby
 Wilderness (1): Brian Robeson
+Forgettable (1): Browbeat
 Director (1): Bruce Ng
 Bad Rumors (1): Bruno Madrigal
 Estranged (1): Bruno Madrigal
@@ -737,9 +766,12 @@ Heterochromia (1): Catra
 Fremen (1): Chani
 Portals (1): Chell
 Test Subject (1): Chell
-Crossbow (1): Chewbacca
 Wookie (1): Chewbacca
 Interpol (1): Chun-Li
+Time Powers (1): Clockblocker
+PRT (1): Coil
+Precognitive (1): Coil
+Halberds (1): Colin Wallis
 Cowardly (1): Cowardly Lion
 Lion (1): Cowardly Lion
 Part-Machine (1): Cyborg
@@ -776,11 +808,12 @@ Beauxbatons (1): Fleur Delacour
 Flower (1): Flowey
 Innocuous Appearance (1): Flowey
 Soulless (1): Flowey
+Matter Swapping (1): Francis Krouse
 Shipwright (1): Franky
+Heir(ess) (1): Gallant
 Fusion (1): Garnet
 Technically Two Lesbians in a Trenchcoat (1): Garnet
 Lung Problems (1): General Grievous
-Warlord (1): General Grievous
 Witcher (1): Geralt of Rivia
 Photokinesis (1): Glimmer
 Plant (1): Groot
@@ -805,6 +838,7 @@ Inspector (1): Inspector Lestrade
 Beautiful (1): Isabela Madrigal
 Perfect (1): Isabela Madrigal
 Slob (1): Jabba the Hutt
+Slaughterhouse Nine (1): Jack Slash
 Infernal Heritage (1): Jester Lavorre
 Tiefling (1): Jester Lavorre
 GCPD (1): Jim Gordon
@@ -817,16 +851,21 @@ Clerk (1): Jonathan Harker
 Estate Agent (1): Jonathan Harker
 Valet (1): Karun Patel
 Traps (1): Kevin McCallister
+ADD (1): Kid Win
+Dyscalculia (1): Kid Win
 Mushrooms (1): Kinoko Komori
-Animals (1): Koji Koda
 No Manners (1): Kristoff
 Outdoorsman (1): Kristoff
 Deviant (1): Kro
-Racist (1): Kronya
+Disaster (1): Leviathan
+Endbringer (1): Leviathan
 Sleepy (1): Linhardt
+Super-Deduction Powers (1): Lisa Wilbourn
+Talker (1): Lisa Wilbourn
+Azn Bad Boys (1): Lung
+Fire Breath (1): Lung
 Irish (1): Mallory Keen
 Word Powers (1): Manga Fukidashi
-Empath (1): Mantis
 Super Smash Bros Original Cast (1): Mario
 Botany (1): Mark Watney
 Colonizer (1): Mark Watney
@@ -866,7 +905,6 @@ Hive Mind (1): Omega (Edge of Tomorrow)
 Invader (1): Omega (Edge of Tomorrow)
 Abusive Parent (1): Ozai
 Heir (1): Paul Atreides
-Mind Control (1): Paul Atreides
 Renegade Servant (1): Pearl
 Reader (1): Penny
 Powers Controlled by Emotions (1): Pepa Madrigal
@@ -878,6 +916,7 @@ Body-Swapped (1): Psylocke
 Hallucinations (1): Pyro
 American Stereotype (1): Quincey Morris
 Defence Against the Dark Arts (1): Quirinus Quirrell
+Dogs (1): Rachel Lindt
 Wanderer (1): Raya
 Occult-Interested (1): Reiko Yanagi
 Lawful Stupid (1): Reithen Keiros
@@ -896,9 +935,11 @@ Gardener (1): Samwise Gamgee
 Scarecrow (1): Scarecrow (Oz)
 Straw-Stuffed (1): Scarecrow (Oz)
 Chaos Magic (1): Scarlet Witch
+Amoral (1): Scion
+Lonely (1): Scion
+Power-Granter (1): Scion
 Mortal Kombat (1): Scorpion
 Shirai Ryu (1): Scorpion
-Former Criminal (1): Scott Lang
 Spinning (1): Sen Kaibara
 AI (1): Seth
 Antisocial (1): Sherlock Holmes
@@ -910,6 +951,8 @@ Southern Accent (1): Snipe
 Antivillain (1): Sombra
 Overwatch (1): Sombra
 Talon (1): Sombra
+Shadow Form (1): Sophia Hess
+Vigilante (1): Sophia Hess
 Deity (1): Sothis
 Sales Man (1): Spamton
 Lizard (1): Spinner
@@ -934,9 +977,12 @@ Cyclops (1): Tyson
 Liar (1): Usopp
 Storyteller (1): Usopp
 Parasite (1): Venom
-Supervillainst (1): Venom
 Alchemist (1): Veth Brenatto
 Halfling (1): Veth Brenatto
+Alexandria Package (1): Victoria Dallon
+Flight (1): Victoria Dallon
+New Wave (1): Victoria Dallon
+Spacial Manipulation (1): Vista
 Eye of Anibus (1): Walt Stone
 Hag (1): Wicked Witch of the West
 Major (1): William Cage

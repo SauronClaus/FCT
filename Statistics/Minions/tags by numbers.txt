@@ -1,6 +1,6 @@
-Army (8): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Knights of Seiros, Stormtroopers
-Military (7): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
-Evil Army (6): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
+Army (9): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Coven Scouts, Droidekas, Fire Benders, Fire Nation Army, Knights of Seiros, Stormtroopers
+Military (8): Adrestian Army, B1 Series Battle Droids, B2 Series Battle Droids, Coven Scouts, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
+Evil Army (7): B1 Series Battle Droids, B2 Series Battle Droids, Coven Scouts, Droidekas, Fire Benders, Fire Nation Army, Stormtroopers
 Hive Mind (5): Alphas (Edge of Tomorrow), B2 Series Battle Droids, Chitauri, Drones (Edge of Tomorrow), Ultron Sentries
 Horde (5): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow), Flying Monkeys, Rat Creature Horde, Shadow Demons
 Lasers (5): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Stormtroopers, Ultron Sentries
@@ -8,6 +8,7 @@ Robots (4): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Ultron 
 Beasts (3): Creatures of Grimm, Rat Creature Horde, Velociraptors
 Aliens (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
 Invaders (2): Alphas (Edge of Tomorrow), Drones (Edge of Tomorrow)
+Masked (2): Coven Scouts, Death Eaters
 Shadow Monsters (2): Creatures of Grimm, Shadow Demons
 Monsters (2): Creatures of Grimm, Velociraptors
 Animals (2): Creatures of Grimm, Flying Monkeys
@@ -17,9 +18,9 @@ Strong (1): B2 Series Battle Droids
 Alien Horde (1): Chitauri
 Invading Army (1): Chitauri
 Alien (1): Chitauri
+Magic (1): Coven Scouts
 Evil God Spawn (1): Creatures of Grimm
 Magic Users (1): Death Eaters
-Masked (1): Death Eaters
 Anonymous (1): Death Eaters
 Racist (1): Death Eaters
 Force Fields (1): Droidekas

@@ -13,7 +13,9 @@ Solo (3): Han Solo (Old), Han Solo, Kylo Ren
 van Dyne (3): Hope van Dyne, Janet van Dyne, Nadia Van Dyne
 Richards (3): Iron Lad, Mr. Fantastic, The Invisible Woman
 Smith (2): Agent Smith, Culverton Smith
+Laborn (2): Aisha Laborn, Brian Laborn
 Shigaraki (2): All for One, Tomura Shigaraki
+Dallon (2): Amy Dallon, Victoria Dallon
 Rose (2): Amy Rose, Ruby Rose
 Chase (2): Annabeth Chase, Magnus Chase
 Sato (2): Asami Sato, Rikido Sato
@@ -66,6 +68,7 @@ Grant (1): Alan Grant
 Scott (1): Alan Scott
 Wake (1): Alan Wake
 Dumbledore (1): Albus Dumbledore
+Vasil (1): Alec
 DeLarge (1): Alex DeLarge
 Fierro (1): Alex Fierro
 Vogel (1): Alex Vogel
@@ -160,7 +163,9 @@ Shuzenji (1): Chiyo Shuzenji
 Li (1): Chun-Li
 La Rue (1): Clarisse La Rue
 von Riegan (1): Claude
+Calvert (1): Coil
 Frazer (1): Colin Frazer
+Wallis (1): Colin Wallis
 Rasputin (1): Colossus
 Maheswaran (1): Connie Maheswaran
 Dooku (1): Count Dooku
@@ -187,16 +192,19 @@ von Hresvelg (1): Edelgard
 Kirishima (1): Eijiro Kirishima
 Turen (1): Eldon Spark Turen
 Sattler (1): Ellie Sattler
+Wittebane (1): Emperor Belos
 Conagher (1): Engineer
 Chou (1): Ethan Chou
 Turthin (1): Fedora Turthin
 Fraldarius (1): Felix
 von Aeigr (1): Ferdinand
 Delacour (1): Fleur Delacour
+Krouse (1): Francis Krouse
 Zhang (1): Frank Zhang
 Cutty (1): Franky
 Best (1): Frozone
 Tokoyami (1): Fumikage Tokoyami
+Stansfield (1): Gallant
 Titan (1): Gamora
 Doriana (1): Garrik Doriana
 Sheelal (1): General Grievous
@@ -270,6 +278,7 @@ Strode (1): Laurie Strode
 Valdez (1): Leo Valdez
 Pinelli (1): Leonie
 von Hevring (1): Linhardt
+Wilbourn (1): Lisa Wilbourn
 Laufeyson (1): Loki
 Ritten (1): Lorana Ritten
 Riddle (1): Lord Voldemort
@@ -330,6 +339,7 @@ Jinn (1): Qui-Gon Jinn
 Morris (1): Quincey Morris
 Quirrell (1): Quirinus Quirrell
 Dare (1): Rachel Elizabeth Dare
+Lindt (1): Rachel Lindt
 Kirsten (1): Raphael
 Yanagi (1): Reiko Yanagi
 Keiros (1): Reithen Keiros
@@ -357,6 +367,7 @@ Aizawa (1): Shota Aizawa
 Mundy (1): Sniper
 Colomar (1): Sombra
 Ramírez (1): Soos Ramirez
+Hess (1): Sophia Hess
 Spamton (1): Spamton
 Parker (1): Spider-Man
 Iguchi (1): Spinner
@@ -366,6 +377,7 @@ Yoshida (1): Sunfire
 Zor-El (1): Supergirl
 Gautier (1): Sylvain
 Pine (1): Syndrome
+Hebert (1): Taylor Hebert
 Kā (1): Te Ka
 Kord (1): Ted Kord
 Ida (1): Tenya Ida
@@ -386,6 +398,7 @@ Lee (1): Ty Lee
 Brenatto (1): Veth Brenatto
 Kommareddi (1): Vikram Kommareddi
 Vinsmoke (1): Vinsmoke Sanji
+Biron (1): Vista
 Vision (1): Viv Vision
 Toomes (1): Vulture
 Rhodes (1): War Machine

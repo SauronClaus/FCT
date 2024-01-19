@@ -1,7 +1,9 @@
 Madrigal: Abuela Alma Madrigal, Antonio Madrigal, Augustin Madrigal, Bruno Madrigal, Camilo Madrigal, Dolores Madrigal, Felix Madrigal, Isabela Madrigal, Julieta Madrigal, Luisa Madrigal, Mirabel Madrigal, Pepa Madrigal
 Smith: Agent Smith, Culverton Smith
+Laborn: Aisha Laborn, Brian Laborn
 Shigaraki: All for One, Tomura Shigaraki
 Kane: Amos Kane, Carter Kane, Sadie Kane
+Dallon: Amy Dallon, Victoria Dallon
 Rose: Amy Rose, Ruby Rose
 Skywalker: Anakin Skywalker (Young), Anakin Skywalker, Darth Vader, Luke Skywalker
 Chase: Annabeth Chase, Magnus Chase

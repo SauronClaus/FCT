@@ -13,7 +13,7 @@ Symbiote
 Neutral
 Antihero
 Male
-Antihero,Avengers,Parasite,Possession,Redemption Arc,Reformed,Superheroes,Supervillainst,Symbiote
+Antihero,Avengers,Parasite,Possession,Redemption Arc,Reformed,Superheroes,Supervillains,Symbiote
 Modified Human
 Low
 Symbiote Squad

@@ -6,11 +6,13 @@ Abuela Alma Madrigal
 Adam Warlock
 Adora
 Adrian Monk
+Aegis
 Aerith Gainsborough
 Agatha
 Agent Smith
 Agent Venom
 Ahsoka Tano
+Aisha Laborn
 Ajak
 Akihide Karatsu
 Akkar
@@ -20,6 +22,7 @@ Alan Grant
 Alan Scott
 Alan Wake
 Albus Dumbledore
+Alec
 Alex
 Alex (Minecraft)
 Alex DeLarge
@@ -49,6 +52,7 @@ Amilyn Holdo
 Amity Blight
 Amos Kane
 Amy Cahill
+Amy Dallon
 Amy Ferrier
 Amy Rose
 Anakin Skywalker
@@ -157,6 +161,7 @@ Bowser
 Bowser Jr.
 Brainiac 5
 Breach
+Brian Laborn
 Brian Robeson
 Briar Harvestar
 Brick
@@ -164,6 +169,7 @@ Brimstone
 Brock
 Brom
 Brook
+Browbeat
 Brown Stupid Rat Creature
 Bruce Ng
 Bruno Madrigal
@@ -210,7 +216,10 @@ Chun-Li
 Circe
 Clarisse La Rue
 Claude
+Clockblocker
+Coil
 Colin Frazer
+Colin Wallis
 Colossus
 Connie Maheswaran
 Count Dooku
@@ -253,6 +262,7 @@ Druig
 Duke Leto Atreides
 Duncan Idaho
 Dyan
+Echidna
 Ectoplasm
 Eda Clawthorne
 Edelgard
@@ -280,6 +290,7 @@ Flayn
 Fleur Delacour
 Flowey
 Fone Bone
+Francis Krouse
 Frank Zhang
 Frankenstein Monster
 Franky
@@ -291,6 +302,7 @@ Frodo Baggins
 Frozone
 Fumikage Tokoyami
 Fuzzy
+Gallant
 Gamora
 Gandalf
 Garnet
@@ -363,6 +375,7 @@ Isabelle
 Itsuka Kendo
 Izuku Midoriya
 Jabba the Hutt
+Jack Slash
 Jai West
 James Moriarty
 Janet van Dyne
@@ -401,6 +414,7 @@ Ken
 Ken Ishiyama
 Kevin McCallister
 Khan Makyr
+Kid Win
 King
 King Clawthorne
 Kingdok
@@ -431,8 +445,10 @@ Leia Organa
 Leia Organa (Old)
 Leo Valdez
 Leonie
+Leviathan
 Lex Murphy
 Linhardt
+Lisa Wilbourn
 Loki
 Long Jim
 Lorana Ritten
@@ -442,6 +458,7 @@ Luigi
 Luisa Madrigal
 Luke Castellan
 Luke Skywalker
+Lung
 Luz Noceda
 Lysithea
 M. Bison
@@ -548,6 +565,7 @@ Quincey Morris
 Quirinus Quirrell
 R2-D2
 Rachel Elizabeth Dare
+Rachel Lindt
 Ralsei
 Raphael
 Raya
@@ -583,6 +601,7 @@ Sans
 Sapphire
 Scarecrow (Oz)
 Scarlet Witch
+Scion
 Scorpion
 Scott Lang
 Scout
@@ -614,6 +633,7 @@ Solon
 Sombra
 Sonic the Hedgehog
 Soos Ramirez
+Sophia Hess
 Sothis
 Spamton
 Spider-Man
@@ -638,6 +658,7 @@ Sylvain
 Syndrome
 Tamatoa
 Tank
+Taylor Hebert
 Te Ka
 Ted Kord
 Tenya Ida
@@ -678,10 +699,12 @@ Valentina Kerman
 Venom
 Veth Brenatto
 Victor Frankenstein
+Victoria Dallon
 Vikram Kommareddi
 Vinsmoke Sanji
 Violet Parr
 Vision
+Vista
 Viv Vision
 Vulture
 Wally West

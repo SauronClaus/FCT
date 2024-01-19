@@ -13,7 +13,7 @@ Human
 Good
 Protagonist
 Male
-All-For-One,Catchphrase,Legacy|Izuku Midoriya,Muscles,Paragon,Quirk,Strong,Superheroes,United States
+One-For-All,Catchphrase,Legacy|Izuku Midoriya,Muscles,Paragon,Quirk,Strong,Superheroes,United States
 World
 High
 UA Staff

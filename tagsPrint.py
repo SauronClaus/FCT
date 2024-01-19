@@ -39,7 +39,7 @@ for character in completedCharacters:
     characterFile = open("Characters\\" + firstLetter + "\\" + character + ".txt", "r", encoding='utf8')
     characterInfo = characterFile.read().split("\n")
 
-    tagSearch = "Water Bender"
+    tagSearch = "Wards"
     if characterInfo[15] != "":
         characterTagList = characterInfo[15].split(",")
         for characterTagFull in characterTagList:
@@ -70,7 +70,7 @@ for character in completedCharacters:
 tagsPart2 = []
 for tag in tags.keys():
     tagsPart2.append(tag)
-tagFile = open("tags.txt", "w",encoding='utf8')
+tagFile = open("tags.txt", "w",encoding='utf-8')
 tagsPart2.sort()
 for tag in tagsPart2:
     tagString = tag + "; "

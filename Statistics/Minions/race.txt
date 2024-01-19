@@ -8,3 +8,4 @@ Monkeys (1): Flying Monkeys
 Rat Creatures (1): Rat Creature Horde
 Robots (4): B1 Series Battle Droids, B2 Series Battle Droids, Droidekas, Ultron Sentries
 Shadow Demon (1): Shadow Demons
+Witch (1): Coven Scouts

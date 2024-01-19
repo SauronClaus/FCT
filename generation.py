@@ -31,8 +31,8 @@ def generate(guildID, matchNum):
 
 
     print("Franchise generation completed.")
-
     franchiseName = franchisesList[matchNum]
+
     if franchiseName == "RANDOM":
         RNG = random.randint(0,len(franchises)-1)
         print("Chose " + franchises[RNG] + " (" + str(RNG) + "/" + str(len(franchises)) + ")")

@@ -12,7 +12,7 @@ colors = {
     "Orange": 0xff6600,
     "Yellow": 0xffde34,
     "Green": 0x5fb924,
-    "Green (Alex Stardew)": 0x3e9300,
+    "Forest Green": 0x3e9300,
     "Silver-White": 0xf0f4f7,
     "Aloy Blue": 0x286f8c,
     "Alucard Yellow-Orange": 0xfa9906,
@@ -51,5 +51,6 @@ colors = {
     "Blond": 0xfaf0be,
     "Rosalina's Dress": 0x6EADBF,
     "Copper": 0xB87333,
-    "Purple": 0xCC8899
+    "Purple": 0xCC8899,
+    "Violet": 0xb895e0
 }

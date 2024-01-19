@@ -13,7 +13,7 @@ Human
 Evil
 Antagonist
 Male
-Abused,Creepy,Disintegration,Edgy,League of Villains,Legacy|All for One,Nemesis|Izuku Midoriya,Power Stealing,Quirk,Supervillains
+Abused,Creepy,Disintegration,Edgy,Gamer,League of Villains,Legacy|All for One,Nemesis|Izuku Midoriya,Power Stealing,Quirk,Supervillains
 City
 Low
 League of Villains

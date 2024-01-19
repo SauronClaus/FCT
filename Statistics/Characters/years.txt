@@ -7,12 +7,12 @@
 9 (1): Anakin Skywalker (Young)
 10 (5): Ash Ketchum, Boun, Dash Parr, Jem Finch, Misty
 11 (3): Blue, Ginny Weasley, Red (Pokemon)
-12 (6): Amy Rose, Bianca di Angelo, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong
-13 (3): Brian Robeson, Lex Murphy, Steven Universe
+12 (7): Amy Rose, Bianca di Angelo, Connie Maheswaran, Dipper Pines, Mabel Pines, Toph Beifong, Vista
+13 (4): Aisha Laborn, Brian Robeson, Lex Murphy, Steven Universe
 14 (14): Ahsoka Tano, Amity Blight, Amy Cahill, Azula, Blaze the Cat, Candace Flynn, Gus Porter, Katara, Luz Noceda, Padme Amidala, Sadie Kane, Violet Parr, Willow Park, Zia Rashid
-15 (54): Brock, Carter Kane, Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Lysithea, Mai, Manga Fukidashi, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Mirabel Madrigal, Momo Yaoyorozu, Neito Monoma, Nico di Angelo, Nirengeki Shoda, Ochaco Uraraka, Paul Atreides, Petra (Fire Emblem), Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ruby Rose, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Sokka, Sonic the Hedgehog, Sven, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Tony Tony Chopper, Toru Hakagure, Tsuyu Asui, Wendy Corduroy, Yosetsu Awase, Yuga Aoyama, Yui Kodai
-16 (17): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Caspar, Emperor Belos, Himiko Toga, Hunter, Jason Grace, Leo Valdez, Linhardt, Magnus Chase, Mei Hatsume, Piper McLean, Vikram Kommareddi, Zuko
-17 (29): Alex DeLarge, Alice Johnson, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Catra, Claude, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Harry Potter, Hermione Granger, Ignatz, Ingrid, Korra, Laurie Strode, Marianne, Monkey D. Luffy, Rachel Elizabeth Dare, Raphael, Ron Weasley, Sebastian Polge, Usopp, Weiss Schnee, Yang Xiao Long
+15 (57): Alec, Brock, Carter Kane, Denki Kaminari, Eijiro Kirishima, Fumikage Tokoyami, Hanta Sero, Hiryu Rin, Ibara Shiozaki, Itsuka Kendo, Izuku Midoriya, Jurota Shishida, Juzo Honenuki, Katsuki Bakugo, Kinoko Komori, Koji Koda, Kojiro Bondo, Kosei Tsuburaba, Kyoka Jiro, Lysithea, Mai, Manga Fukidashi, Mashirao Ojiro, Mezo Shoji, Mina Ashido, Minoru Mineta, Mirabel Madrigal, Momo Yaoyorozu, Neito Monoma, Nico di Angelo, Nirengeki Shoda, Ochaco Uraraka, Paul Atreides, Petra (Fire Emblem), Pony Tsunotori, Reiko Yanagi, Rikido Sato, Ruby Rose, Sen Kaibara, Setsuna Tokage, Shihai Kuroiro, Shoto Todoroki, Sokka, Sonic the Hedgehog, Sophia Hess, Sven, Taylor Hebert, Tenya Ida, Tetsutetsu Tetsutetsu, Togaru Kamakiri, Tony Tony Chopper, Toru Hakagure, Tsuyu Asui, Wendy Corduroy, Yosetsu Awase, Yuga Aoyama, Yui Kodai
+16 (20): Alex Fierro, Annette, Araithia Shokta, Ashe, Bolin, Browbeat, Caspar, Himiko Toga, Hunter, Jason Grace, Kid Win, Leo Valdez, Linhardt, Lisa Wilbourn, Magnus Chase, Mei Hatsume, Piper McLean, Rachel Lindt, Vikram Kommareddi, Zuko
+17 (35): Aegis, Alex DeLarge, Alice Johnson, Amy Dallon, Ann Takamaki, Bernadetta, Blake Belladonna, Bow, Brian Laborn, Catra, Claude, Clockblocker, Colin Frazer, Edelgard, Ethan Chou, Felix, Ferdinand, Frank Zhang, Gallant, Harry Potter, Hermione Granger, Ignatz, Ingrid, Korra, Laurie Strode, Marianne, Monkey D. Luffy, Rachel Elizabeth Dare, Raphael, Ron Weasley, Sebastian Polge, Usopp, Victoria Dallon, Weiss Schnee, Yang Xiao Long
 18 (18): Aloy, Anna, Annabeth Chase, Asami Sato, Ashley Brown, Big the Cat, Dedue, Dimitri, Dorothea, Fleur Delacour, Harrison Truscott (Evil), Harrison Truscott, Hilda, Lorenz, Nami, Percy Jackson, Raya, Zach Wiebe
 19 (8): Jono Jenkins, Leia Organa, Leonie, Luke Skywalker, Rey, Roronoa Zoro, Sylvain, Vinsmoke Sanji
 20 (7): Blitzen, Byleth, Caesar Anthonio Zeppeli, Hubert, Portgas D. Ace, Spinner, Tomura Shigaraki
@@ -24,13 +24,13 @@
 27 (4): Captain Kirk, Catherine, Gordon Freeman, Sherlock Holmes
 28 (7): Anan Kurose, Barry Allen, Chun-Li, Ken Ishiyama, Neo, Nico Robin, Peregrin Took
 29 (4): Beth Johanssen, Captain George Pollard Jr., John Watson, Kylo Ren
-30 (10): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Hizashi Yamada, Ken, Ryu, Sekijiro Kan, Shota Aizawa, Sombra
+30 (11): Annie Montrose, Anton Chigurh, Barry Wheeler, Bastion, Hizashi Yamada, Ken, Lung, Ryu, Sekijiro Kan, Shota Aizawa, Sombra
 31 (4): Atsuhiro Sako, Jin Bubaigawara, Kurogiri, Nemuri Kayama
 32 (3): C3PO, Han Solo, Poe Dameron
 33 (2): Grover Underwood, Ryo Inui
 34 (3): Franky, Guile, Mycroft Holmes
 35 (2): Barret Wallace, Obi-Wan Kenobi
-36 (3): Boba Fett, Dr. Chris Beck, Merry Brandybuck
+36 (4): Boba Fett, Dr. Chris Beck, Jack Slash, Merry Brandybuck
 37 (1): Allison Blake
 38 (1): Samwise Gamgee
 40 (4): Boromir, Higari Maijima, Odysseus, Rick Martinez
@@ -65,6 +65,7 @@
 129 (1): Brom
 150 (1): Akkar
 200 (1): Chewbacca
+400 (1): Emperor Belos
 600 (1): Jabba the Hutt
 896 (1): Yoda
 1230 (1): Halfborn Gunderson

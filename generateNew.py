@@ -25,4 +25,4 @@ def generateFranchise(restrictions = "None", franchise = "None"):
 #Generates a franchise to use.
 
 def generateMatch(restrictions = "None", franchise = "None", featuredCharacters = []):
-    
+    print("Oh no.")

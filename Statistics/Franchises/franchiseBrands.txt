@@ -1,34 +1,34 @@
 
-20th Century Fox (1/69):
+20th Century Fox (1/70):
 	-Home Alone (1/1): Home Alone
-	-All (1/69): Home Alone
+	-All (1/70): Home Alone
 
-Andy Weir Novels (1/69):
+Andy Weir Novels (1/70):
 	-The Martian (1/1): Martian
-	-All (1/69): Martian
+	-All (1/70): Martian
 
-Avatar (TV Show) (1/69):
+Avatar (TV Show) (1/70):
 	-Avatar: The Last Airbender (1/1): Avatar The Last Airbender
-	-All (1/69): Avatar The Last Airbender
+	-All (1/70): Avatar The Last Airbender
 
-Band of Fools (1/69):
+Band of Fools (1/70):
 	-Band of Fools Original (1/1): Band of Fools (original)
-	-All (1/69): Band of Fools (original)
+	-All (1/70): Band of Fools (original)
 
-Bone (1/69):
+Bone (1/70):
 	-Bone (1/1): Bone
-	-All (1/69): Bone
+	-All (1/70): Bone
 
-Classic Literature (2/69):
+Classic Literature (2/70):
 	-Greek Classics (1/2): The Odyssey
 	-Oz Books (1/2): Wizard of Oz
-	-All (2/69): The Odyssey, Wizard of Oz
+	-All (2/70): The Odyssey, Wizard of Oz
 
-DC (1/69):
+DC (1/70):
 	-DC Comics (1/1): Crisis on Infinite Earths
-	-All (1/69): Crisis on Infinite Earths
+	-All (1/70): Crisis on Infinite Earths
 
-Disney (19/69):
+Disney (19/70):
 	-Encanto (1/19): Encanto
 	-MCU (1/19): Eternals
 	-Gravity Falls (1/19): Gravity Falls
@@ -38,92 +38,96 @@ Disney (19/69):
 	-Raya and the Last Dragon (1/19): Raya and the Last Dragon
 	-The Incredibles (1/19): The Incredibles
 	-The Owl House (1/19): The Owl House
-	-All (19/69): Encanto, Eternals, Gravity Falls, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII, The Incredibles, The Owl House
+	-All (19/70): Encanto, Eternals, Gravity Falls, Guardians of the Galaxy, Guardians of the Galaxy Vol 2, Mandalorian 1, Moana, Raya and the Last Dragon, Star Wars I, Star Wars II, Star Wars III, Star Wars IV, Star Wars IX, Star Wars V, Star Wars VI, Star Wars VII, Star Wars VIII, The Incredibles, The Owl House
 
-Dracula (1/69):
+Dracula (1/70):
 	-Dracula (1/1): Dracula
-	-All (1/69): Dracula
+	-All (1/70): Dracula
 
-Edge of Tomorrow (1/69):
+Edge of Tomorrow (1/70):
 	-Edge of Tomorrow (1/1): Edge of Tomorrow (film)
-	-All (1/69): Edge of Tomorrow (film)
+	-All (1/70): Edge of Tomorrow (film)
 
-Fire Emblem (5/69):
+Fire Emblem (5/70):
 	-Fire Emblem: Three Houses (5/5): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
-	-All (5/69): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
+	-All (5/70): Fire Emblem Three Houses (Azure Moon), Fire Emblem Three Houses (Crimson Flower), Fire Emblem Three Houses (Golden Route), Fire Emblem Three Houses (Silver Snow), Fire Emblem Three Houses (Verdant Wind)
 
-Frankenstein (1/69):
+Frankenstein (1/70):
 	-Frankenstein (1/1): Frankenstein
-	-All (1/69): Frankenstein
+	-All (1/70): Frankenstein
 
-Frozen (1/69):
+Frozen (1/70):
 	-Frozen (1/1): Frozen
-	-All (1/69): Frozen
+	-All (1/70): Frozen
 
-Halloween (1/69):
+Halloween (1/70):
 	-Halloween (1/1): Halloween
-	-All (1/69): Halloween
+	-All (1/70): Halloween
 
-Harry Potter (1/69):
+Harry Potter (1/70):
 	-Harry Potter (1/1): Harry Potter
-	-All (1/69): Harry Potter
+	-All (1/70): Harry Potter
 
-Indie Video Games (6/69):
+Indie Video Games (6/70):
 	-Deltarune (3/6): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route)
 	-Undertale (3/6): Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
-	-All (6/69): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route), Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
+	-All (6/70): Deltarune Chapter 1, Deltarune Chapter 2 (Normal), Deltarune Chapter 2 (Weird Route), Undertale (Genocide Route), Undertale (Neutral Route), Undertale (Pacifist Route)
 
-Jurassic Park (1/69):
+Jurassic Park (1/70):
 	-Jurassic Park (1/1): Jurassic Park
-	-All (1/69): Jurassic Park
+	-All (1/70): Jurassic Park
 
-Kindred (1/69):
+Kindred (1/70):
 	-Kindred (1/1): Kindred (novel)
-	-All (1/69): Kindred (novel)
+	-All (1/70): Kindred (novel)
 
-Mario (2/69):
+Mario (2/70):
 	-Mario (2/2): Mario 64, Mario Galaxy
-	-All (2/69): Mario 64, Mario Galaxy
+	-All (2/70): Mario 64, Mario Galaxy
 
-Marvel (4/69):
+Marvel (4/70):
 	-MCU (4/4): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
-	-All (4/69): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
+	-All (4/70): Age of Ultron, Avengers I, Captain America Civil War, Spider-Man Homecoming
 
-Microsoft (1/69):
+Microsoft (1/70):
 	-Mojang (1/1): Minecraft
-	-All (1/69): Minecraft
+	-All (1/70): Minecraft
 
-Percy Jackson and the Olympians (7/69):
+Percy Jackson and the Olympians (7/70):
 	-Kane Chronicles (1/7): Kane Chronicles
 	-Percy Jackson (5/7): Sea of Monsters, The Battle of the Labyrinth, The Last Olympian, The Lightning Thief, The Titan's Curse
 	-Magnus Chase (1/7): The Sword of Summer
-	-All (7/69): Kane Chronicles, Sea of Monsters, The Battle of the Labyrinth, The Last Olympian, The Lightning Thief, The Sword of Summer, The Titan's Curse
+	-All (7/70): Kane Chronicles, Sea of Monsters, The Battle of the Labyrinth, The Last Olympian, The Lightning Thief, The Sword of Summer, The Titan's Curse
 
-RWBY (1/69):
+RWBY (1/70):
 	-RWBY (1/1): RWBY
-	-All (1/69): RWBY
+	-All (1/70): RWBY
 
-Re-Logic (1/69):
+Re-Logic (1/70):
 	-Re-Logic (1/1): Terraria
-	-All (1/69): Terraria
+	-All (1/70): Terraria
 
-Sherlock Holmes Shows (1/69):
+Sherlock Holmes Shows (1/70):
 	-BBC Shows (1/1): Sherlock
-	-All (1/69): Sherlock
+	-All (1/70): Sherlock
 
-Valve (1/69):
+Valve (1/70):
 	-Half-Life (1/1): Half Life 2
-	-All (1/69): Half Life 2
+	-All (1/70): Half Life 2
 
-Warner Bros. (2/69):
+Warner Bros. (2/70):
 	-Dune (1/2): Dune Part One
 	-The Matrix (1/2): Matrix
-	-All (2/69): Dune Part One, Matrix
+	-All (2/70): Dune Part One, Matrix
 
-Weekly Shonen Jump (1/69):
+Weekly Shonen Jump (1/70):
 	-One Piece (1/1): One Piece
-	-All (1/69): One Piece
+	-All (1/70): One Piece
 
-id Software (2/69):
+Wildbow's Works (1/70):
+	-Parahumans (1/1): Worm
+	-All (1/70): Worm
+
+id Software (2/70):
 	-Doom (2/2): Doom, Doom Eternal
-	-All (2/69): Doom, Doom Eternal
+	-All (2/70): Doom, Doom Eternal

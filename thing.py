@@ -49,7 +49,7 @@ async def on_ready():
     #await client.get_user(self.user.).edit(nick="FCT Test Bot")
 
     
-
+    
 @client.event
 async def on_message(message):
     if message.author == client.user:
@@ -110,8 +110,8 @@ async def on_message(message):
                         print(entry)
                         franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
                         franchiseInfo = franchiseFile.read().split("\n")
-                        if len(franchiseInfo) == 16:
-                            embed = infoFranchise(entry[0:len(entry)-4:])
+                        if len(franchiseInfo) >= 19:
+                            embed = infoFranchise(entry[0:len(entry)-4:], client.get_channel(875801360656891965))
                             await message.channel.send(embed=embed)
         if "~info" in message.content:
             print("Finding Info!")
@@ -230,7 +230,7 @@ async def on_message(message):
                 origMinions = {}
                 subMinions = {}
 
-
+                
                 messagePeopleChannel = message.channel
                 for channel in message.guild.text_channels:
                     if channel.name == "fictional-people-info":
@@ -260,6 +260,15 @@ async def on_message(message):
                     if channel.name == "fictional-minions-info":
                         print("found #" + channel.name)
                         messageMinionsChannel = channel
+
+                for channel in message.guild.text_channels:
+                    if channel.name == "kiri-information":
+                        messageMinionsChannel = channel
+                        messageAdjectivesChannel = channel
+                        messageFranchiseChannel = channel
+                        messagePeopleChannel = channel
+                        
+
                 print("\n")
 
                 for character in charactersReplacement.keys():
@@ -508,15 +517,16 @@ async def on_message(message):
                 embed.color = colors[franchiseInfo[15]]
 
                 finalMessage = await fctPolls.send(embed=embed)
-                await finalMessage.add_reaction(emoji="✅")
-                await finalMessage.add_reaction(emoji="🌐")
-                await finalMessage.add_reaction(emoji="❎")
+                await finalMessage.add_reaction("✅")
+                await finalMessage.add_reaction("🌐")
+                await finalMessage.add_reaction("❎")
 
                 print("\nCompleted Match #" + str(matchNum) + "!\n")
                 print("Had " + str(len(protagonistAdjectives)) + " adjectives.")
             if fctPolls.id == 523962430179770369 and fctPolls.id == 876602515372781679 and matchNum == 5:
                 await fctPolls.send("<@&613144506757283974>")
             print("\nCompleted all!")
+        
         if "~newMatch" in message.content: 
             matchSplit = message.content.split("match ")
             numberOfMatches = 1
@@ -544,4 +554,40 @@ async def on_message(message):
                 await message.channel.send(embed=embed)
             print("Completed!\n")
         #print all the members of a group. 
+        if message.content == "~rarityPoll":
+            
+            alphabet = ['#', "A", "B", 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+            kiriInfoChannel = client.get_channel(1197981979967234158)
+            tuningChannel = client.get_channel(1197986662945407037)
+            # List all files in a directory using os.listdir
+            for letter in alphabet:
+                basepath = 'Franchises/' + letter
+                for entry in os.listdir(basepath):
+                    if os.path.isfile(os.path.join(basepath, entry)):
+                        print(entry)
+                        franchiseFile = open(basepath + "/" + entry, "r", encoding='utf8')
+                        franchiseInfo = franchiseFile.read().split("\n")
+                        if len(franchiseInfo) >= 19:
+                            franchiseName = entry[0:len(entry)-4:]
+                            embed = infoFranchise(franchiseName, kiriInfoChannel)
+
+                            firstChar = franchiseName[0:1:]
+                            if firstChar in numbers:
+                                firstChar = "#"
+                            print("Opening path to " + franchiseName + ": Franchises\\" + firstChar + "\\" + franchiseName + ".txt")
+                            franchiseFile = open("Franchises\\" + firstChar + "\\" + franchiseName + ".txt", "r", encoding='utf8')
+                            franchiseInfo = franchiseFile.read().split("\n")
+
+                            franchiseName = franchiseInfo[0]
+                            embedLink = await kiriInfoChannel.send(embed=embed)
+                            currentMessage = await tuningChannel.send("[" + franchiseName + "]" + "(https://discord.com/channels/" + str(embedLink.guild.id) + "/" + str(embedLink.channel.id) + "/" + str(embedLink.id) + ")")
+                            #⬆️ ⬇️ ⏸️
+                            await currentMessage.add_reaction("⬆️")
+                            await currentMessage.add_reaction("⏸️")
+                            await currentMessage.add_reaction("⬇️")
+
+
+
+
 client.run(trueToken)

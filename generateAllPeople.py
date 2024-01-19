@@ -46,11 +46,12 @@ def genAllPeople(guildID, peopleReplacementOrigs, franchiseInfo, otherAddedChara
 
     for person in peopleReplacementOrigs:
         if person != "":
-            groupsPerson = people[person][18].split(",")
-            for group in groupsPerson:
-                if not(group in groupsCanReplace) and group != "":
-                    groupsCanReplace.append(group)
-                    endValidGroups.append(group)
+            if people[person][18] != "":
+                groupsPerson = people[person][18].split(",")
+                for group in groupsPerson:
+                    if not(group in groupsCanReplace) and group != "":
+                        groupsCanReplace.append(group)
+                        endValidGroups.append(group)
     # This makes groupsCanReplace (and, by extension, endValidGroups) a full list of all the groups in all the people in the franchise
     # file. 
 
